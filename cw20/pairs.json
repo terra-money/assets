@@ -25,6 +25,7 @@
   "testnet": {
     "terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu": ["ukrw", "uluna"],
     "terra156v8s539wtz0sjpn8y8a8lfg8fhmwa7fy22aff": ["uusd", "uluna"],
+    "terra1wfvczps2865j0awnurk9m04u7wdmd6qv3fdnvz": ["uusd", "terra1747mad58h0w4y589y3sk84r5efqdev9q4r02pc"],
     "terra1cz6qp8lfwht83fh9xm9n94kj04qc35ulga5dl0": ["uusd", "terra10llyp6v3j3her8u3ce66ragytu45kcmd9asj3u"],
     "terra1yj892rl8edvk0y2ayf3h36t6uf89lzxg8jea4a": ["uusd", "terra16vfxm98rxlc8erj4g0sj5932dvylgmdufnugk0"],
     "terra1z2734asgwhma8ma2fq4yu7ce2l3mrvj4qnz6ws": ["uusd", "terra1qg9ugndl25567u03jrr79xur2yk9d632fke3h2"],
