@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "assertLimitOrder": "terra1vs9jr7pxuqwct3j29lez3pfetuu8xmq7tk3lzk"
+  },
+  "testnet": {
+    "assertLimitOrder": "terra1z3sf42ywpuhxdh78rr5vyqxpaxa0dx657x5trs"
+  }
+}
