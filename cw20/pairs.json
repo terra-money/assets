@@ -18,6 +18,7 @@
     "terra17eakdtane6d2y7y6v0s79drq7gnhzqan48kxw7": ["uusd", "terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p"],
     "terra1u56eamzkwzpm696hae4kl92jm6xxztar9uhkea": ["uusd", "terra1h8arz2k547uvmpxctuwush3jzc8fun4s96qgwt"],
     "terra108ukjf6ekezuc52t9keernlqxtmzpj4wf7rx0h": ["uusd", "terra137drsu8gce5thf6jr5mxlfghw36rpljt3zj73v"],
+    "terra15kkctr4eug9txq7v6ks6026yd4zjkrm3mc0nkp": ["uusd", "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq"],
     "terra10ypv4vq67ns54t5ur3krkx37th7j58paev0qhd": ["uusd", "terra1227ppwxxj3jxz8cfgq00jgnxqcny7ryenvkwj6"],
     "terra1yppvuda72pvmxd727knemvzsuergtslj486rdq": ["uusd", "terra1jsxngqasf2zynj5kyh0tgq9mj3zksa5gk35j4k"],
     "terra1dkc8075nv34k2fu6xn6wcgrqlewup2qtkr4ymu": ["uusd", "terra1csk6tc7pdmpr782w527hwhez6gfv632tyf72cp"],
@@ -25,8 +26,7 @@
     "terra14hklnm2ssaexjwkcfhyyyzvpmhpwx6x6lpy39s": ["uusd", "terra1aa00lpfexyycedfg5k2p60l9djcmw0ue5l8fhc"],
     "terra1pdxyk2gkykaraynmrgjfq2uu7r9pf5v8x7k4xk": ["uusd", "terra14y5affaarufk3uscy2vr6pe6w6zqf2wpjzn5sh"],
     "terra1ea9js3y4l7vy0h46k4e5r5ykkk08zc3fx7v4t8": ["uusd", "terra1cc3enj9qgchlrj34cnzhwuclc4vl2z3jl7tkqg"],
-    "terra1zey9knmvs2frfrjnf4cfv4prc4ts3mrsefstrj": ["uusd", "terra1lvmx8fsagy70tv0fhmfzdw9h6s3sy4prz38ugf"],
-    "terra1yngadscckdtd68nzw5r5va36jccjmmasm7klpp": ["uusd", "terra1zp3a6q6q4953cz376906g5qfmxnlg77hx3te45"]
+    "terra1zey9knmvs2frfrjnf4cfv4prc4ts3mrsefstrj": ["uusd", "terra1lvmx8fsagy70tv0fhmfzdw9h6s3sy4prz38ugf"]
   },
   "testnet": {
     "terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu": ["ukrw", "uluna"],
@@ -46,6 +46,7 @@
     "terra1q9qtdudqasdcgqmklw2hsnju09zcjhrhr8ntsa": ["uusd", "terra104tgj4gc3pp5s240a0mzqkhd3jzkn8v0u07hlf"],
     "terra1z2734asgwhma8ma2fq4yu7ce2l3mrvj4qnz6ws": ["uusd", "terra1qg9ugndl25567u03jrr79xur2yk9d632fke3h2"],
     "terra1h73gdv74gw03gc5rfyc0y6s8advl9y2453zgcw": ["uusd", "terra13myzfjdmvqkama2tt3v5f7quh75rv78w8kq6u6"],
+    "terra1rtz5mn38pnj924nr97yzax4g849qj4d4m8r7wk": ["uusd", "terra1p50j2k5vyw3q2tgywqvxyz59z8csh9p7x8dk5m"],
     "terra1q6qyyxmsmyjvw5cf5yc4tjx2qchtr0qpzgsmcc": ["uusd", "terra1qhkjjlqq2lyf2evzserdaqx55nugksjqdpxvru"],
     "terra122mhak6jrjrknwk74wjycjxxrwl2esrmt0mm2w": ["uusd", "terra1anw5z9u5l35vxhhqljuygmkupwmafcv0m86kum"],
     "terra1dt7ne6gwv23wg6chl89q95yj6999alagc6rqd9": ["uusd", "terra12s2h8vlztjwu440khpc0063p34vm7nhu25w4p9"],
@@ -57,7 +58,7 @@
     "terra1tsln42kfeq8edwscmw8njgter5dp8evn40znn9": ["uusd", "terra1nslem9lgwx53rvgqwd8hgq7pepsry6yr3wsen4"],
     "terra1jv937296dy5c5dxglrzf05h0jlaaxp55tqlyh6": ["uusd", "terra1ax7mhqahj6vcqnnl675nqq2g9wghzuecy923vy"],
     "terra1llk7ycwwlj2zs2l2dvnvmsxrsrnucqwaltstcf": ["uusd", "terra1fucmfp8x4mpzsydjaxyv26hrkdg4vpdzdvf647"],
-    "terra1xg2393l4s7n4z2r0cnu4rr55mkpp942f4d3qzr": ["uusd", "terra1z0k7nx0vl85hwpv3e3hu2cyfkwq07fl7nqchvd"],
+    "terra1tfkksph7p9qkean66kc87u2kalu0pw9um9ep2y": ["uusd", "terra18gphn8r437p2xmjpw7a79hgsglf5y4t0x7s5ee"],
     "terra136twwxx09ywacekqy88uxepus8djhd7pkjr44q": ["uusd", "terra1090l5p5v794dpyzr07da72cyexhuc4zag5cuer"]
   }
 }
