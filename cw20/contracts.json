@@ -107,10 +107,20 @@
     },
     "terra1q2cg4sauyedt8syvarc8hcajw6u94ah40yp342": {
       "protocol": "Terraswap",
-      "name": "mIAU-UST Pair",
+      "name": "mIAU (Delisted)-UST Pair",
       "icon": "https://whitelist.mirror.finance/icon/IAU.png"
     },
     "terra1jl4vkz3fllvj6fchnj2trrm9argtqxq6335ews": {
+      "protocol": "Terraswap",
+      "name": "mIAU (Delisted)-UST LP",
+      "icon": "https://whitelist.mirror.finance/icon/IAU.png"
+    },
+    "terra15kkctr4eug9txq7v6ks6026yd4zjkrm3mc0nkp": {
+      "protocol": "Terraswap",
+      "name": "mIAU-UST Pair",
+      "icon": "https://whitelist.mirror.finance/icon/IAU.png"
+    },
+    "terra1ndlx5ndkknvmgj6s5ggmdlhjjsz0w6wrnwn5cf": {
       "protocol": "Terraswap",
       "name": "mIAU-UST LP",
       "icon": "https://whitelist.mirror.finance/icon/IAU.png"
@@ -137,10 +147,20 @@
     },
     "terra1yngadscckdtd68nzw5r5va36jccjmmasm7klpp": {
       "protocol": "Terraswap",
-      "name": "mVIXY-UST Pair",
+      "name": "mVIXY (Delisted)-UST Pair",
       "icon": "https://whitelist.mirror.finance/icon/VIXY.png"
     },
     "terra1cmrl4txa7cwd7cygpp4yzu7xu8g7c772els2y8": {
+      "protocol": "Terraswap",
+      "name": "mVIXY (Delisted)-UST LP",
+      "icon": "https://whitelist.mirror.finance/icon/VIXY.png"
+    },
+    "terra1krny2jc0tpkzeqfmswm7ss8smtddxqm3mxxsjm": {
+      "protocol": "Terraswap",
+      "name": "mVIXY-UST Pair",
+      "icon": "https://whitelist.mirror.finance/icon/VIXY.png"
+    },
+    "terra1ekd58y58vq4gmxlzpc27dwuhw7wmms928ftuep": {
       "protocol": "Terraswap",
       "name": "mVIXY-UST LP",
       "icon": "https://whitelist.mirror.finance/icon/VIXY.png"
@@ -529,10 +549,20 @@
     },
     "terra1tq6w7rl4ryrk458k57dstelx54eylph5zwnpf9": {
       "protocol": "Terraswap",
-      "name": "mIAU-UST Pair",
+      "name": "mIAU (Delisted)-UST Pair",
       "icon": "https://whitelist.mirror.finance/icon/IAU.png"
     },
     "terra193c2xvuzswct8qtsg4e6qhe3hyt3l6fac9cy79": {
+      "protocol": "Terraswap",
+      "name": "mIAU (Delisted)-UST LP",
+      "icon": "https://whitelist.mirror.finance/icon/IAU.png"
+    },
+    "terra1rtz5mn38pnj924nr97yzax4g849qj4d4m8r7wk": {
+      "protocol": "Terraswap",
+      "name": "mIAU-UST Pair",
+      "icon": "https://whitelist.mirror.finance/icon/IAU.png"
+    },
+    "terra1wj8cm3h7fe369nl8j4ddukesfuy9l3hr4hjw22": {
       "protocol": "Terraswap",
       "name": "mIAU-UST LP",
       "icon": "https://whitelist.mirror.finance/icon/IAU.png"
@@ -559,10 +589,20 @@
     },
     "terra1xg2393l4s7n4z2r0cnu4rr55mkpp942f4d3qzr": {
       "protocol": "Terraswap",
-      "name": "mVIXY-UST Pair",
+      "name": "mVIXY (Delisted)-UST Pair",
       "icon": "https://whitelist.mirror.finance/icon/VIXY.png"
     },
     "terra1ud750vcv39hd467sj2kk6s6nn8zf5xhgggf7uq": {
+      "protocol": "Terraswap",
+      "name": "mVIXY (Delisted)-UST LP",
+      "icon": "https://whitelist.mirror.finance/icon/VIXY.png"
+    },
+    "terra1tfkksph7p9qkean66kc87u2kalu0pw9um9ep2y": {
+      "protocol": "Terraswap",
+      "name": "mVIXY-UST Pair",
+      "icon": "https://whitelist.mirror.finance/icon/VIXY.png"
+    },
+    "terra1h9zrywpukj2wvu5dfsm7tcxk8mwzzyrxenshsn": {
       "protocol": "Terraswap",
       "name": "mVIXY-UST LP",
       "icon": "https://whitelist.mirror.finance/icon/VIXY.png"
