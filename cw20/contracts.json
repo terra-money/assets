@@ -439,6 +439,11 @@
       "protocol": "Anchor",
       "name": "Reward Distributor",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    },
+    "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr": {
+      "protocol": "LoTerra",
+      "name": "LOTA Token",
+      "icon": "https://loterra.io/LOTA.png"
     }
   },
   "testnet": {
@@ -871,6 +876,11 @@
       "protocol": "Anchor",
       "name": "Reward Distributor",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    },
+    "terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4": {
+      "protocol": "LoTerra",
+      "name": "LOTA Token",
+      "icon": "https://loterra.io/LOTA.png"
     }
   }
 }
