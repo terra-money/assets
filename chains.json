@@ -11,7 +11,7 @@
   },
   "bombay": {
     "name": "bombay",
-    "chainID": "bombay-0007",
+    "chainID": "bombay-0008",
     "lcd": "https://bombay-lcd.terra.dev"
   },
   "localterra": {
