@@ -265,6 +265,36 @@
       "name": "mGLXY-UST LP",
       "icon": "https://whitelist.mirror.finance/icon/GLXY.png"
     },
+    "terra18cxcwv0theanknfztzww8ft9pzfgkmf2xrqy23": {
+      "protocol": "Terraswap",
+      "name": "mAMD-UST Pair",
+      "icon": "https://whitelist.mirror.finance/icon/AMD.png"
+    },
+    "terra1m8mr9u3su46ezxwf7z7xnvm0jsapl2jd8vgefh": {
+      "protocol": "Terraswap",
+      "name": "mAMD-UST LP",
+      "icon": "https://whitelist.mirror.finance/icon/AMD.png"
+    },
+    "terra17rvtq0mjagh37kcmm4lmpz95ukxwhcrrltgnvc": {
+      "protocol": "Terraswap",
+      "name": "mDOT-UST Pair",
+      "icon": "https://whitelist.mirror.finance/icon/DOT.png"
+    },
+    "terra1p60datmmf25wgssguv65ltds3z6ea3me74nm2e": {
+      "protocol": "Terraswap",
+      "name": "mDOT-UST LP",
+      "icon": "https://whitelist.mirror.finance/icon/DOT.png"
+    },
+    "terra1u3pknaazmmudfwxsclcfg3zy74s3zd3anc5m52": {
+      "protocol": "Terraswap",
+      "name": "mSQ-UST Pair",
+      "icon": "https://whitelist.mirror.finance/icon/SQ.png"
+    },
+    "terra1mv3pgkzs4krcennqj442jscg6jv84cejrs50n2": {
+      "protocol": "Terraswap",
+      "name": "mSQ-UST LP",
+      "icon": "https://whitelist.mirror.finance/icon/SQ.png"
+    },
     "terra1zw0kfxrxgrs5l087mjm79hcmj3y8z6tljuhpmc": {
       "protocol": "Terraswap",
       "name": "LUNA-KRT Pair",
@@ -701,6 +731,36 @@
       "protocol": "Terraswap",
       "name": "mCOIN-UST LP",
       "icon": "https://whitelist.mirror.finance/icon/COIN.png"
+    },
+    "terra12q2ehzn8jah7mfez9d0f7ztsu3vdf0g3mxzztq": {
+      "protocol": "Terraswap",
+      "name": "mAMD-UST Pair",
+      "icon": "https://whitelist.mirror.finance/icon/AMD.png"
+    },
+    "terra1lu2eg3hghmkd0s5jdsnr24mg5cremf0e8dpz4l": {
+      "protocol": "Terraswap",
+      "name": "mAMD-UST LP",
+      "icon": "https://whitelist.mirror.finance/icon/AMD.png"
+    },
+    "terra1722gzus7s6prj24wnzsqfkn0t8k7hc4p847tlw": {
+      "protocol": "Terraswap",
+      "name": "mDOT-UST Pair",
+      "icon": "https://whitelist.mirror.finance/icon/DOT.png"
+    },
+    "terra1xrjygqshp9shcgfm4vj89mezxev36fk4na3ft2": {
+      "protocol": "Terraswap",
+      "name": "mDOT-UST LP",
+      "icon": "https://whitelist.mirror.finance/icon/DOT.png"
+    },
+    "terra1znqeqnumtmpwgdltfw72v2298m3lrg7m447f2q": {
+      "protocol": "Terraswap",
+      "name": "mSQ-UST Pair",
+      "icon": "https://whitelist.mirror.finance/icon/SQ.png"
+    },
+    "terra1d6l7vk5ktugx9qm6nmtd2hv7kleg9xqce0ncps": {
+      "protocol": "Terraswap",
+      "name": "mSQ-UST LP",
+      "icon": "https://whitelist.mirror.finance/icon/SQ.png"
     },
     "terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu": {
       "protocol": "Terraswap",
