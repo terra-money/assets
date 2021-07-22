@@ -295,6 +295,16 @@
       "name": "mSQ-UST LP",
       "icon": "https://whitelist.mirror.finance/icon/SQ.png"
     },
+    "terra1a5cc08jt5knh0yx64pg6dtym4c4l8t63rhlag3": {
+      "protocol": "Terraswap",
+      "name": "mARKK-UST Pair",
+      "icon": "https://whitelist.mirror.finance/icon/ARKK.png"
+    },
+    "terra1veqh8yc55mhw0ttjr5h6g9a6r9nylmrc0nzhr7": {
+      "protocol": "Terraswap",
+      "name": "mARKK-UST LP",
+      "icon": "https://whitelist.mirror.finance/icon/ARKK.png"
+    },
     "terra1zw0kfxrxgrs5l087mjm79hcmj3y8z6tljuhpmc": {
       "protocol": "Terraswap",
       "name": "LUNA-KRT Pair",
@@ -761,6 +771,16 @@
       "protocol": "Terraswap",
       "name": "mSQ-UST LP",
       "icon": "https://whitelist.mirror.finance/icon/SQ.png"
+    },
+    "terra1t3xljlc82tmc0xjpfcrnu44phg2s4mt5rt3llm": {
+      "protocol": "Terraswap",
+      "name": "mARKK-UST Pair",
+      "icon": "https://whitelist.mirror.finance/icon/ARKK.png"
+    },
+    "terra1plwkt2fj8n9xkfdp9z6f5sp6r63vx2s22mznls": {
+      "protocol": "Terraswap",
+      "name": "mARKK-UST LP",
+      "icon": "https://whitelist.mirror.finance/icon/ARKK.png"
     },
     "terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu": {
       "protocol": "Terraswap",
