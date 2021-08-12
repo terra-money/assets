@@ -480,6 +480,11 @@
       "name": "Reward Distributor",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
     },
+    "terra146ahqn6d3qgdvmj8cj96hh03dzmeedhsf0kxqm": {
+      "protocol": "Anchor",
+      "name": "Airdrop",
+      "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    },
     "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr": {
       "protocol": "LoTerra",
       "name": "LOTA Token",
@@ -955,6 +960,11 @@
     "terra1z7nxemcnm8kp7fs33cs7ge4wfuld307v80gypj": {
       "protocol": "Anchor",
       "name": "Reward Distributor",
+      "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    },
+    "terra1u5ywhlve3wugzqslqvm8ks2j0nsvrqjx0mgxpk": {
+      "protocol": "Anchor",
+      "name": "Airdrop",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
     },
     "terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4": {
