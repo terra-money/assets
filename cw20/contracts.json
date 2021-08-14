@@ -489,6 +489,66 @@
       "protocol": "LoTerra",
       "name": "LOTA Token",
       "icon": "https://loterra.io/LOTA.png"
+    },
+    "terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr": {
+      "protocol": "Spectrum",
+      "name": "SPEC Token",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1tn8ejzw8kpuc87nu42f6qeyen4c7qy35tl8t20": {
+      "protocol": "Spectrum",
+      "name": "SPEC-UST Pair",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1y9kxxm97vu4ex3uy0rgdr5h2vt7aze5sqx7jyl": {
+      "protocol": "Spectrum",
+      "name": "SPEC-UST LP",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1dpe4fmcz2jqk6t50plw0gqa2q3he2tj6wex5cl": {
+      "protocol": "Spectrum",
+      "name": "SPEC Governance",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1kehar0l76kzuvrrcwj5um72u3pjq2uvp62aruf": {
+      "protocol": "Spectrum",
+      "name": "SPEC Mirror Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra17hjvrkcwn3jk2qf69s5ldxx5rjccchu35assga": {
+      "protocol": "Spectrum",
+      "name": "SPEC Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1fxwelge6mf5l6z0rjpylzcfq9w9tw2q7tewaf5": {
+      "protocol": "Spectrum",
+      "name": "SPEC Staking",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1vvu80qnl0yn94stkc9sy2f5xcqcscu2fercgzq": {
+      "protocol": "Spectrum",
+      "name": "SPEC Platform",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra14v8aeq4289fk7z08jvaw3qu3hers6whrdkqffp": {
+      "protocol": "Spectrum",
+      "name": "SPEC Warchest",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1dretwqx84u229rjfgkp0j6avc3fusp000ejrz9": {
+      "protocol": "Spectrum",
+      "name": "SPEC Development Fund Wallet",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1fqzczuddqsdml37a20pysjx5wk9dh4tdzu2mrw": {
+      "protocol": "Spectrum",
+      "name": "SPEC Anchor Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1r3675psl7s2fe0sfh0vut5z4hrywgyyfdrzg95": {
+      "protocol": "Spectrum",
+      "name": "SPEC Pylon Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
     }
   },
   "testnet": {
@@ -971,6 +1031,61 @@
       "protocol": "LoTerra",
       "name": "LOTA Token",
       "icon": "https://loterra.io/LOTA.png"
+    },
+    "terra1kvsxd94ue6f4rtchv2l6me5k07uh26s7637cza": {
+      "protocol": "Spectrum",
+      "name": "SPEC Token",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra15cjce08zcmempedxwtce2y44y2ayup8gww3txr": {
+      "protocol": "Spectrum",
+      "name": "SPEC-UST Pair",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1ntt4mdhr9lukayenntgltqppw4yy6hts7wr67d": {
+      "protocol": "Spectrum",
+      "name": "SPEC-UST LP",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1x3l2tkkwzzr0qsnrpy3lf2cm005zxv7pun26x4": {
+      "protocol": "Spectrum",
+      "name": "SPEC Governance",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1hasdl7l6xtegnch8mjyw2g7mfh9nt3gtdtmpfu": {
+      "protocol": "Spectrum",
+      "name": "SPEC Mirror Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1cedx8gpvu7c4vzfadwmf3pewg2030fqgw4q3dl": {
+      "protocol": "Spectrum",
+      "name": "SPEC Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra15nwqmmmza9y643apneg0ddwt0ekk38qdevnnjt": {
+      "protocol": "Spectrum",
+      "name": "SPEC Staking",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra10h22vx3kp8wxdkuhypmwnjr4wrurcup5pk9uq9": {
+      "protocol": "Spectrum",
+      "name": "SPEC Platform",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1ulpamdq7lsg5hu0hzvl4skxt0ahtxs0enyu96e": {
+      "protocol": "Spectrum",
+      "name": "SPEC Warchest",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1yvpd3j7mry7qrmmn2x9vapmr9qpzkvjgs4f7z7": {
+      "protocol": "Spectrum",
+      "name": "SPEC Anchor Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1hgjp2yjqe7ngzsx283tm7ch8xcsvk5c8mdj2tw": {
+      "protocol": "Spectrum",
+      "name": "SPEC Pylon Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
     }
   }
 }
