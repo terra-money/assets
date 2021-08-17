@@ -444,6 +444,11 @@
       "protocol": "LoTerra",
       "name": "LOTA Token",
       "icon": "https://loterra.io/LOTA.png"
+    },
+    "terra15tztd7v9cmv0rhyh37g843j8vfuzp8kw0k5lqv": {
+      "protocol": "Altered",
+      "name": "ALTE Token",
+      "icon": "https://app.alteredprotocol.com/alte.png"
     }
   },
   "testnet": {
@@ -881,6 +886,11 @@
       "protocol": "LoTerra",
       "name": "LOTA Token",
       "icon": "https://loterra.io/LOTA.png"
+    },
+    "terra1jtl2jk4jz8ve37tt3nmv0wacf6ugte46yz8hj3": {
+      "protocol": "Altered",
+      "name": "ALTE Token",
+      "icon": "https://app.alteredprotocol.com/alte.png"
     }
   }
 }
