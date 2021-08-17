@@ -37,7 +37,7 @@
     "terra18adm0emn6j3pnc90ldechhun62y898xrdmfgfz": ["uusd", "terra15tztd7v9cmv0rhyh37g843j8vfuzp8kw0k5lqv"],
   },
   "testnet": {
-     "terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu": ["ukrw", "uluna"],
+    "terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu": ["ukrw", "uluna"],
     "terra156v8s539wtz0sjpn8y8a8lfg8fhmwa7fy22aff": ["uusd", "uluna"],
     "terra1wfvczps2865j0awnurk9m04u7wdmd6qv3fdnvz": ["uusd", "terra1747mad58h0w4y589y3sk84r5efqdev9q4r02pc"],
     "terra13e4jmcjnwrauvl2fnjdwex0exuzd8zrh5xk29v": ["terra1u0t35drzyy0mujj8rkdyzhe264uls4ug3wdp3x", "uluna"],
