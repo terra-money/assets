@@ -485,6 +485,16 @@
       "name": "Airdrop",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
     },
+    "terra1939tzfn4hn960ychpcsjshu8jds3zdwlp8jed9": {
+      "protocol": "Anchor",
+      "name": "bETH Reward",
+      "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
+    },
+    "terra10cxuzggyvvv44magvrh3thpdnk9cmlgk93gmx2": {
+      "protocol": "Anchor",
+      "name": "bETH Custody",
+      "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
+    },
     "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr": {
       "protocol": "LoTerra",
       "name": "LOTA Token",
@@ -1036,6 +1046,16 @@
       "protocol": "Anchor",
       "name": "Airdrop",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    },
+    "terra1ja3snkedk4t0zp7z3ljd064hcln8dsv5x004na": {
+      "protocol": "Anchor",
+      "name": "bETH Reward",
+      "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
+    },
+    "terra1j6fey5tl70k9fvrv7mea7ahfr8u2yv7l23w5e6": {
+      "protocol": "Anchor",
+      "name": "bETH Custody",
+      "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
     },
     "terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4": {
       "protocol": "LoTerra",
