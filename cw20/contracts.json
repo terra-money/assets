@@ -515,6 +515,21 @@
       "name": "MINE-UST LP",
       "icon": "https://assets.pylon.rocks/logo/MINE.png"
     },
+    "terra19nek85kaqrvzlxygw20jhy08h3ryjf5kg4ep3l": {
+      "protocol": "Pylon",
+      "name": "Staking",
+      "icon": "https://assets.pylon.rocks/logo/MINE.png"
+    },
+    "terra1xu8utj38xuw6mjwck4n97enmavlv852zkcvhgp": {
+      "protocol": "Pylon",
+      "name": "Governance",
+      "icon": "https://assets.pylon.rocks/logo/MINE.png"
+    },
+    "terra1ud39n6c42hmtp2z0qmy8svsk7z3zmdkxzfwcf2": {
+      "protocol": "Pylon",
+      "name": "Airdrop",
+      "icon": "https://assets.pylon.rocks/logo/MINE.png"
+    },
     "terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr": {
       "protocol": "Spectrum",
       "name": "SPEC Token",
@@ -1061,6 +1076,21 @@
       "protocol": "Anchor",
       "name": "bETH Custody",
       "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
+    },
+    "terra17av0lfhqymusm6j9jpepzerg6u54q57jp7xnrz": {
+      "protocol": "Pylon",
+      "name": "Staking",
+      "icon": "https://assets.pylon.rocks/logo/MINE.png"
+    },
+    "terra1hffjqjscxgz5lnmmtwhksrcg4gd3x4nyp9mzwx": {
+      "protocol": "Pylon",
+      "name": "Governance",
+      "icon": "https://assets.pylon.rocks/logo/MINE.png"
+    },
+    "terra1ujnu34ruqvskn65dlmkaamy7l69nstf7q9z3z5": {
+      "protocol": "Pylon",
+      "name": "Airdrop",
+      "icon": "https://assets.pylon.rocks/logo/MINE.png"
     },
     "terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4": {
       "protocol": "LoTerra",
