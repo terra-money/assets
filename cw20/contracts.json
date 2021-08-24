@@ -1097,11 +1097,6 @@
       "name": "LOTA Token",
       "icon": "https://loterra.io/LOTA.png"
     },
-    "terra1jtl2jk4jz8ve37tt3nmv0wacf6ugte46yz8hj3": {
-      "protocol": "Altered",
-      "name": "ALTE Token",
-      "icon": "https://app.alteredprotocol.com/alte.png"
-    },
     "terra1kvsxd94ue6f4rtchv2l6me5k07uh26s7637cza": {
       "protocol": "Spectrum",
       "name": "SPEC Token",
