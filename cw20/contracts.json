@@ -589,6 +589,46 @@
       "protocol": "Spectrum",
       "name": "SPEC Pylon Farm",
       "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5": {
+      "protocol": "StarTerra",
+      "name": "STT Staking Faction Lunatics",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1pafra8qj9efnxhv5jq7n4qy0mq5pge8w4k8s2k": {
+      "protocol": "StarTerra",
+      "name": "STT Staking Faction Degens",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1snra29afr9efzt6l34wfnhj3jn90hq6rx8jhje": {
+      "protocol": "StarTerra",
+      "name": "STT Staking Faction Interstellars",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1q7tktp2e7e8qyxpsa3c5l8c7ruht6mw9wm07z0": {
+      "protocol": "StarTerra",
+      "name": "STT Staking Gateway",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1cycvyedrhltumytjtp0qx9kfdx20s0fqa8ttmm": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Gateway",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1268e62h8r0fcr2nt0kplxp8jx5qalwq73a5fuk": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Private/Seed",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1ld47cz4t7gpt7ux4llee3le75y4rhqksw6xfpa": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Marketing",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1s2yuugawj98gkpy6h9ua7ppss94sqgw2r7tyma": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Public",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
     }
   },
   "testnet": {
@@ -1151,6 +1191,46 @@
       "protocol": "Spectrum",
       "name": "SPEC Pylon Farm",
       "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1cxz4m6rvq9vkw8x9f3gqtuex6t5ulm6sr3j4qz": {
+      "protocol": "StarTerra",
+      "name": "STT Staking Faction Lunatics",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1qmfd0fxl2635dulcumax4zmgssmhe7jac9zhhf": {
+      "protocol": "StarTerra",
+      "name": "STT Staking Faction Degens",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1sh4fw9nt6uatxjzaef2p4fcq7fvys0kjx8kcsp": {
+      "protocol": "StarTerra",
+      "name": "STT Staking Faction Interstellars",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra138nj05uga45sqqtp8x97p7xssfwxd34p7l9m5h": {
+      "protocol": "StarTerra",
+      "name": "STT Staking Gateway",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1h0htzudzjm6fwzdd40asg4vtus2a2dt84q4vwu": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Gateway",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1djcvzw28y48xt6sh3yu97wyhqdwxuymuyrmku3": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Private/Seed",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1c6vuf0dgxkcycxu94w874xg5qy3u63gfm6r4hu": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Marketing",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1szdlzc867nt6v84mtwexd9nkt9f55q4au7z5j7": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Public",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
     }
   }
 }
