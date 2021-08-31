@@ -629,6 +629,11 @@
       "protocol": "StarTerra",
       "name": "STT Vesting Public",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+     "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6": {
+      "protocol": "TerraWorld",
+      "name": "TWD Token",
+      "icon": "https://terraoffice.world/twd_logo.png"
     }
   },
   "testnet": {
@@ -1231,6 +1236,11 @@
       "protocol": "StarTerra",
       "name": "STT Vesting Public",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra18xfqhtfaz2su55zmurmh02ng9lnhw0xnyplvln": {
+      "protocol": "TerraWorld",
+      "name": "TWD Token",
+      "icon": "https://terraoffice.world/twd_logo.png"
     }
   }
 }
