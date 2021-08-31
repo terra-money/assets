@@ -634,6 +634,11 @@
       "protocol": "TerraWorld",
       "name": "TWD Token",
       "icon": "https://terraoffice.world/twd_logo.png"
+    },
+     "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
+      "protocol": "TerraWorld",
+      "name": "TWD-UST Pair",
+      "icon": "https://terraoffice.world/twd_logo.png"
     }
   },
   "testnet": {
@@ -1240,6 +1245,11 @@
     "terra18xfqhtfaz2su55zmurmh02ng9lnhw0xnyplvln": {
       "protocol": "TerraWorld",
       "name": "TWD Token",
+      "icon": "https://terraoffice.world/twd_logo.png"
+    },
+    "terra1nw52fgdnwaz6z3u3sq6ppwfch6xemv4adj4lae": {
+      "protocol": "TerraWorld",
+      "name": "TWD-UST Pair",
       "icon": "https://terraoffice.world/twd_logo.png"
     }
   }
