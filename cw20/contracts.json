@@ -634,6 +634,21 @@
       "protocol": "TerraWorld",
       "name": "TWD-UST LP Token",
       "icon": "https://terraoffice.world/twd_logo.png"
+    },
+    "terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63": {
+     "protocol": "Miaw Trader",
+     "name": "MIAW Token",
+     "icon": "https://www.miaw-trader.com/logo.png"
+   },
+    "terra12mzh5cp6tgc65t2cqku5zvkjj8xjtuv5v9whyd": {
+     "protocol": "Miaw Trader",
+     "name": "MIAW-UST Pair",
+     "icon": "https://www.miaw-trader.com/logo.png"
+   },
+   "terra1hvz34zmk4h6k896t94vd8d5qjdchhnkdndunzx":{
+     "protocol": "Miaw Trader",
+     "name": "MIAW-UST LP Token",
+     "icon": "https://www.miaw-trader.com/logo.png"
     }
   },
   "testnet": {
