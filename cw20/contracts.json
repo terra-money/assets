@@ -630,6 +630,16 @@
       "name": "STT Vesting Public",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
+    "terra19pg6d7rrndg4z4t0jhcd7z9nhl3p5ygqttxjll": {
+      "protocol": "StarTerra",
+      "name": "STT-UST Pair",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1uwhf02zuaw7grj6gjs7pxt5vuwm79y87ct5p70": {
+      "protocol": "StarTerra",
+      "name": "STT-UST LP",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
      "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6": {
       "protocol": "TerraWorld",
       "name": "TWD Token",
