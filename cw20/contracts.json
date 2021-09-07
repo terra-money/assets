@@ -495,16 +495,6 @@
       "name": "bETH Custody",
       "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
     },
-    "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr": {
-      "protocol": "LoTerra",
-      "name": "LOTA Token",
-      "icon": "https://loterra.io/LOTA.png"
-    },
-    "terra15tztd7v9cmv0rhyh37g843j8vfuzp8kw0k5lqv": {
-      "protocol": "Altered",
-      "name": "ALTE Token",
-      "icon": "https://app.alteredprotocol.com/alte.png"
-    },
     "terra178jydtjvj4gw8earkgnqc80c3hrmqj4kw2welz": {
       "protocol": "Pylon",
       "name": "MINE-UST Pair",
@@ -529,11 +519,6 @@
       "protocol": "Pylon",
       "name": "Airdrop",
       "icon": "https://assets.pylon.rocks/logo/MINE.png"
-    },
-    "terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr": {
-      "protocol": "Spectrum",
-      "name": "SPEC Token",
-      "icon": "https://terra.spec.finance/assets/SPEC.png"
     },
     "terra1tn8ejzw8kpuc87nu42f6qeyen4c7qy35tl8t20": {
       "protocol": "Spectrum",
@@ -640,17 +625,12 @@
       "name": "STT-UST LP",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
-     "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6": {
-      "protocol": "TerraWorld",
-      "name": "TWD Token",
-      "icon": "https://terraoffice.world/twd_logo.png"
-    },
-     "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
+    "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
       "protocol": "TerraWorld",
       "name": "TWD-UST Pair",
       "icon": "https://terraoffice.world/twd_logo.png"
     },
-    "terra1c9wr85y8p8989tr58flz5gjkqp8q2r6murwpm9":{
+    "terra1c9wr85y8p8989tr58flz5gjkqp8q2r6murwpm9": {
       "protocol": "TerraWorld",
       "name": "TWD-UST LP Token",
       "icon": "https://terraoffice.world/twd_logo.png"
@@ -1157,16 +1137,6 @@
       "name": "Airdrop",
       "icon": "https://assets.pylon.rocks/logo/MINE.png"
     },
-    "terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4": {
-      "protocol": "LoTerra",
-      "name": "LOTA Token",
-      "icon": "https://loterra.io/LOTA.png"
-    },
-    "terra1kvsxd94ue6f4rtchv2l6me5k07uh26s7637cza": {
-      "protocol": "Spectrum",
-      "name": "SPEC Token",
-      "icon": "https://terra.spec.finance/assets/SPEC.png"
-    },
     "terra15cjce08zcmempedxwtce2y44y2ayup8gww3txr": {
       "protocol": "Spectrum",
       "name": "SPEC-UST Pair",
@@ -1257,17 +1227,12 @@
       "name": "STT Vesting Public",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
-    "terra18xfqhtfaz2su55zmurmh02ng9lnhw0xnyplvln": {
-      "protocol": "TerraWorld",
-      "name": "TWD Token",
-      "icon": "https://terraoffice.world/twd_logo.png"
-    },
     "terra1nw52fgdnwaz6z3u3sq6ppwfch6xemv4adj4lae": {
       "protocol": "TerraWorld",
       "name": "TWD-UST Pair",
       "icon": "https://terraoffice.world/twd_logo.png"
     },
-    "terra13nk8c294r8ssqpvfdhhastpgu9a3ly2stypn9a":{
+    "terra13nk8c294r8ssqpvfdhhastpgu9a3ly2stypn9a": {
       "protocol": "TerraWorld",
       "name": "TWD-UST LP Token",
       "icon": "https://terraoffice.world/twd_logo.png"
