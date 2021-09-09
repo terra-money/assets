@@ -1,0 +1,9 @@
+{
+    "version": "1.1.0",
+    "macUrl": "https://github.com/terra-money/station/releases/download/v3.5.0/Terra.Station-1.1.0.dmg",
+    "windowsUrl": "https://github.com/terra-money/station/releases/download/v3.5.0/Terra.Station.Setup.1.1.0.exe",
+    "linuxUrl": "https://terra.money",
+    "title": "Update available for ",
+    "message": "<b>If you lost your seed phrase, please stay in current version. New version will require you to import your account again</b><br/><br/>## Updates<br/>* Station now supports hardware Ledger Nano S/X<br/>",
+    "forceUpdate": false
+}
