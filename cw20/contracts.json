@@ -577,20 +577,40 @@
     },
     "terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5": {
       "protocol": "StarTerra",
-      "name": "STT Staking Faction Lunatics",
+      "name": "STT/LP Staking Faction Lunatics",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
     "terra1pafra8qj9efnxhv5jq7n4qy0mq5pge8w4k8s2k": {
       "protocol": "StarTerra",
-      "name": "STT Staking Faction Degens",
+      "name": "STT/LP Staking Faction Degens",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
     "terra1snra29afr9efzt6l34wfnhj3jn90hq6rx8jhje": {
       "protocol": "StarTerra",
-      "name": "STT Staking Faction Interstellars",
+      "name": "STT/LP Staking Faction Interstellars",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
     "terra1q7tktp2e7e8qyxpsa3c5l8c7ruht6mw9wm07z0": {
+      "protocol": "StarTerra",
+      "name": "STT/LP Staking Gateway",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1ruh00lyqux5g5zjf4gcg66clrkvk7u7e37ntut": {
+      "protocol": "StarTerra",
+      "name": "STT Staking Faction Lunatics",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1z9et2n9ltdqle2s7qq0du2zwr32s3s8ulczh0h": {
+      "protocol": "StarTerra",
+      "name": "STT Staking Faction Degens",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1v6cagryg27qyk7alp7lq35fttkjyn8cmd73fgv": {
+      "protocol": "StarTerra",
+      "name": "STT Staking Faction Interstellars",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1t3sfxw28fl3ptnpnxtm30zruxma2utqvxlh794": {
       "protocol": "StarTerra",
       "name": "STT Staking Gateway",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
@@ -623,6 +643,11 @@
     "terra1uwhf02zuaw7grj6gjs7pxt5vuwm79y87ct5p70": {
       "protocol": "StarTerra",
       "name": "STT-UST LP",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra146xf036xzsw0hhmq596q9upadqqq95fu65e8gt": {
+      "protocol": "StarTerra",
+      "name": "STT Account",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
     "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
