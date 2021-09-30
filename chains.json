@@ -1,15 +1,15 @@
 {
   "mainnet": {
     "name": "mainnet",
-    "chainID": "columbus-4",
+    "chainID": "columbus-5",
     "lcd": "https://lcd.terra.dev",
     "walletconnectID": 1
   },
-  "bombay": {
+  "testnet": {
     "name": "bombay",
     "chainID": "bombay-12",
     "lcd": "https://bombay-lcd.terra.dev",
-    "walletconnectID": 2
+    "walletconnectID": 0
   },
   "localterra": {
     "name": "localterra",
