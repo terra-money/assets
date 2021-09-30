@@ -1,5 +1,4 @@
 {
   "mainnet": true,
-  "testnet": false,
-  "bombay": false
+  "testnet": false
 }
