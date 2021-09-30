@@ -6,7 +6,7 @@
     "walletconnectID": 1
   },
   "testnet": {
-    "name": "bombay",
+    "name": "testnet",
     "chainID": "bombay-12",
     "lcd": "https://bombay-lcd.terra.dev",
     "walletconnectID": 0
