@@ -5,12 +5,6 @@
     "lcd": "https://lcd.terra.dev",
     "walletconnectID": 1
   },
-  "testnet": {
-    "name": "testnet",
-    "chainID": "tequila-0004",
-    "lcd": "https://tequila-lcd.terra.dev",
-    "walletconnectID": 0
-  },
   "bombay": {
     "name": "bombay",
     "chainID": "bombay-12",
