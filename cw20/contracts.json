@@ -650,6 +650,21 @@
       "name": "STT Account",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
+    "terra1q2qprmuva3m93vhjmc7vakhs0h2lelxzlt675p": {
+      "protocol": "StarTerra",
+      "name": "STT Airdrop Genesis",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1mz8qcfplg3s46zkkj9jywmguehpenhahcqc22q": {
+      "protocol": "StarTerra",
+      "name": "STT Signing",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1ru8qeh0mvf8m80vul84wsljqvltm6t64n8gjr0": {
+      "protocol": "StarTerra",
+      "name": "STT KYC Vault",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
     "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
       "protocol": "TerraWorld",
       "name": "TWD-UST Pair",
