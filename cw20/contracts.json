@@ -665,6 +665,16 @@
       "name": "STT KYC Vault",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
+    "terra1a6737fj7tulyw2j9l9l8lht7e8zzqj5qg0elxe": {
+      "protocol": "StarTerra",
+      "name": "STT Squadron Users",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1yzewp648fwq7ymlfdg5h90dfzk5y2hf6kk9pdm": {
+      "protocol": "StarTerra",
+      "name": "STT IDO Prefund",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
     "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
       "protocol": "TerraWorld",
       "name": "TWD-UST Pair",
