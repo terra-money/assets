@@ -575,6 +575,21 @@
       "name": "SPEC Pylon Farm",
       "icon": "https://terra.spec.finance/assets/SPEC.png"
     },
+    "terra1cdyw7fydevn372re7xjgfh8kqrrf2lxm5k6ve3": {
+      "protocol": "Spectrum",
+      "name": "SPEC Terraworld Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1xt4ugaxds6wjehjckqchzg4e99n3cjd2rtfw4f": {
+      "protocol": "Spectrum",
+      "name": "SPEC Valkyrie Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1j2hdp4jelqe9tkfwnsx5mlheqagaryxhqwr4h2": {
+      "protocol": "Spectrum",
+      "name": "SPEC Nexus Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
     "terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5": {
       "protocol": "StarTerra",
       "name": "STT/LP Staking Faction Lunatics",
@@ -1250,6 +1265,21 @@
     "terra1hgjp2yjqe7ngzsx283tm7ch8xcsvk5c8mdj2tw": {
       "protocol": "Spectrum",
       "name": "SPEC Pylon Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra19w0a2xv7vyj8yze3fxzk55nfl5nlvc0l67uduu": {
+      "protocol": "Spectrum",
+      "name": "SPEC Terraworld Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra15u4nuq7jchdzklpeqzazxs09cylgndqc37tvhg": {
+      "protocol": "Spectrum",
+      "name": "SPEC Valkyrie Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra158j75d7kml99u3r4xy4e7xnfzmhm2j780e5npl": {
+      "protocol": "Spectrum",
+      "name": "SPEC Nexus Farm",
       "icon": "https://terra.spec.finance/assets/SPEC.png"
     },
     "terra1cxz4m6rvq9vkw8x9f3gqtuex6t5ulm6sr3j4qz": {
