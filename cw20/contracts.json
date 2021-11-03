@@ -1381,6 +1381,11 @@
       "protocol": "TerraWorld",
       "name": "TWD-UST LP Token",
       "icon": "https://terraoffice.world/twd_logo.png"
+    },
+    "terra183cvzy6knvva6mpvzcq86uyfxw0nd4925m0d0m": {
+      "protocol": "White Whale",
+      "name": "WHALE",
+      "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png"
     }
   }
 }
