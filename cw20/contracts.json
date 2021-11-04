@@ -495,6 +495,11 @@
       "name": "bETH Custody",
       "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
     },
+    "terra1e25zllgag7j9xsun3me4stnye2pcg66234je3u": {
+      "protocol": "Anchor",
+      "name": "Liquidation Queue",
+      "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    },
     "terra178jydtjvj4gw8earkgnqc80c3hrmqj4kw2welz": {
       "protocol": "Pylon",
       "name": "MINE-UST Pair",
@@ -701,19 +706,19 @@
       "icon": "https://terraoffice.world/twd_logo.png"
     },
     "terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63": {
-     "protocol": "Miaw Trader",
-     "name": "MIAW Token",
-     "icon": "https://www.miaw-trader.com/logo.png"
-   },
+      "protocol": "Miaw Trader",
+      "name": "MIAW Token",
+      "icon": "https://www.miaw-trader.com/logo.png"
+    },
     "terra12mzh5cp6tgc65t2cqku5zvkjj8xjtuv5v9whyd": {
-     "protocol": "Miaw Trader",
-     "name": "MIAW-UST Pair",
-     "icon": "https://www.miaw-trader.com/logo.png"
-   },
-   "terra1hvz34zmk4h6k896t94vd8d5qjdchhnkdndunzx":{
-     "protocol": "Miaw Trader",
-     "name": "MIAW-UST LP Token",
-     "icon": "https://www.miaw-trader.com/logo.png"
+      "protocol": "Miaw Trader",
+      "name": "MIAW-UST Pair",
+      "icon": "https://www.miaw-trader.com/logo.png"
+    },
+    "terra1hvz34zmk4h6k896t94vd8d5qjdchhnkdndunzx": {
+      "protocol": "Miaw Trader",
+      "name": "MIAW-UST LP Token",
+      "icon": "https://www.miaw-trader.com/logo.png"
     }
   },
   "testnet": {
@@ -1201,6 +1206,11 @@
       "protocol": "Anchor",
       "name": "bETH Custody",
       "icon": "https://whitelist.anchorprotocol.com/logo/bETH.png"
+    },
+    "terra18j0wd0f62afcugw2rx5y8e6j5qjxd7d6qsc87r": {
+      "protocol": "Anchor",
+      "name": "Liquidation Queue",
+      "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
     },
     "terra17av0lfhqymusm6j9jpepzerg6u54q57jp7xnrz": {
       "protocol": "Pylon",
