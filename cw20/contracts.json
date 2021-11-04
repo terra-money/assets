@@ -1386,6 +1386,11 @@
       "protocol": "White Whale",
       "name": "WHALE",
       "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png"
+    },
+    "terra1zuspxvj76ngktnjuawmckpsmynwuvusdnq0pxd": {
+      "protocol": "White Whale",
+      "name": "WHALE-UST LP Token",
+      "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png"
     }
   }
 }
