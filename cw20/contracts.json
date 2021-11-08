@@ -719,6 +719,46 @@
       "protocol": "Miaw Trader",
       "name": "MIAW-UST LP Token",
       "icon": "https://www.miaw-trader.com/logo.png"
+    },
+    "terra175ueft8w9vpkj9jvehyjhkpk6szy8unq4lns8n": {
+      "protocol": "TerraLand",
+      "name": "TLAND LP Staking",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    },
+    "terra1q7pe32j3mwajxd259v94e8vfu6fh4gn0dea06s": {
+      "protocol": "TerraLand",
+      "name": "TLAND Airdrop",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    },
+    "terra1y35lez2p78yxftv8lmx9m2w8tcl5e3cvy2gq3c": {
+      "protocol": "TerraLand",
+      "name": "TLAND Development Fund Vesting",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    },
+    "terra17csa0tla7x333a7llc7tzvnayxj08rfweawaal": {
+      "protocol": "TerraLand",
+      "name": "TLAND Private Sale & Marketing Vesting",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    },
+    "terra1lk0cddmxg6k2hu78mnlpme9jn7dvcdmp9nwczc": {
+      "protocol": "TerraLand",
+      "name": "TLAND Team Vesting",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    },
+    "terra16g9dyhh3dm9pcpeutkwmqdn4rlv0d3mn4w7ftm": {
+      "protocol": "TerraLand",
+      "name": "TLAND Advisors Vesting",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    },
+    "terra1lep7qhcguhsrnd62x90ktv0mu5qvysvfq3ux05": {
+      "protocol": "TerraLand",
+      "name": "TLAND Subme Public Sale Vesting",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    },
+    "terra12s5lushadreckk2px7lwga2a55ws2pg7ffvk3x": {
+      "protocol": "TerraLand",
+      "name": "TLAND Starterra Public Sale Vesting",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
     }
   },
   "testnet": {
