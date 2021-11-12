@@ -759,6 +759,11 @@
       "protocol": "TerraLand",
       "name": "TLAND Starterra Public Sale Vesting",
       "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png"
+    },
+    "terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz": {
+      "protocol": "White Whale",
+      "name": "WHALE",
+      "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png"
     }
   },
   "testnet": {
