@@ -390,6 +390,16 @@
       "name": "Limit Order",
       "icon": "https://whitelist.mirror.finance/icon/MIR.png"
     },
+    "terra1f9aln0c98j9w749szx958la7x25chdnz9hqx0v": {
+      "protocol": "Terraswap",
+      "name": "TKUB-UST Pair",
+      "icon": "https://terrakub.io/wp-content/uploads/2021/11/favicon_BLUE-BG_CIRCLE.png"
+    },
+    "terra18fafa8k888gyu3zza7dhcc77xvfzwplnqe909y": {
+      "protocol": "Terraswap",
+      "name": "TKUB-UST LP",
+      "icon": "https://terrakub.io/wp-content/uploads/2021/11/favicon_BLUE-BG_CIRCLE.png"
+    },
     "terra1gm5p3ner9x9xpwugn9sp6gvhd0lwrtkyrecdn3": {
       "protocol": "Terraswap",
       "name": "ANC-UST Pair",
