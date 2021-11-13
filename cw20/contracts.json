@@ -764,6 +764,136 @@
       "protocol": "White Whale",
       "name": "WHALE",
       "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png"
+    },
+    "terra1xrk6v2tfjrhjz2dsfecj40ps7ayanjx970gy0j": {
+      "protocol": "Nexus",
+      "name": "Governance",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra15jggavtx37dsmfjy6sed7nnyccw2v5298xlt5g": {
+      "protocol": "Nexus",
+      "name": "Vesting",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra163pkeeuwxzr0yhndf8xd2jprm9hrtk59xf7nqf": {
+      "protocol": "Nexus",
+      "name": "Psi-UST Pair",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1q6r8hfdl203htfvpsmyh8x689lp2g0m7856fwd": {
+      "protocol": "Nexus",
+      "name": "Psi-UST LP",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra12kzewegufqprmzl20nhsuwjjq6xu8t8ppzt30a": {
+      "protocol": "Nexus",
+      "name": "Psi-UST Staking",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra16mtntdg7rkvt3q5hcz8nqr6hj8mme5jmrtk8y2": {
+      "protocol": "Nexus",
+      "name": "Community Pool",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1cuydpfxaen3m0l00nkn29s8kks0gk9pjvq7ep7": {
+      "protocol": "Nexus",
+      "name": "Community Reserve (for airdrop, vault, futuren nAsset-Psi incentives)",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1992lljnteewpz0g398geufylawcmmvgh8l8v96": {
+      "protocol": "Nexus",
+      "name": "Airdrop",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1cda4adzngjzcn8quvfu2229s8tedl5t306352x": {
+      "protocol": "Nexus",
+      "name": "bLuna Vault",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1fxc9epfhest8sndrayfkxc9y6arva4sqtp7drg": {
+      "protocol": "Nexus",
+      "name": "bLuna Vault strategy",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra10f2mt82kjnkxqj2gepgwl637u2w4ue2z5nhz5j": {
+      "protocol": "Nexus",
+      "name": "nLuna",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1rsupnpjmnjj93a8s7twgmutvknuvzvktcd32n0": {
+      "protocol": "Nexus",
+      "name": "nLuna config holder",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1hjv3quqsrw3jy7pulgutj0tgxrcrnw2zs2j0k7": {
+      "protocol": "Nexus",
+      "name": "nLuna rewards",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1z6qyzj0t8ryrefhys43plpu8le7wlj8h59esxx": {
+      "protocol": "Nexus",
+      "name": "nLuna Psi distributor",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1zvn8z6y8u2ndwvsjhtpsjsghk6pa6ugwzxp6vx": {
+      "protocol": "Nexus",
+      "name": "nLuna-Psi Pair",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1tuw46dwfvahpcwf3ulempzsn9a0vhazut87zec": {
+      "protocol": "Nexus",
+      "name": "nLuna-Psi LP",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1hs4ev0ghwn4wr888jwm56eztfpau6rjcd8mczc": {
+      "protocol": "Nexus",
+      "name": "nLuna-Psi Staking",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1tfrecwlvzcv9h697q3g0d08vd53ssu5w4war4n": {
+      "protocol": "Nexus",
+      "name": "bETH Vault",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1h3y2mk0dwfy72fkwcm8h62y6uyy4k27m2m68kt": {
+      "protocol": "Nexus",
+      "name": "bETH Vault strategy",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn": {
+      "protocol": "Nexus",
+      "name": "nETH",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1v58xln8ry8lx4pdt2lzpw57grksewtgqehuvah": {
+      "protocol": "Nexus",
+      "name": "nETH config holder",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1fhqsu40s0lk3p308mcakzjecj6ts6j2guepfr4": {
+      "protocol": "Nexus",
+      "name": "nETH rewards",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1f3nfuq7wj7mx3dlxqgtyh0w395g0cgxx9q44cx": {
+      "protocol": "Nexus",
+      "name": "nETH Psi distributor",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra14zhkur7l7ut7tx6kvj28fp5q982lrqns59mnp3": {
+      "protocol": "Nexus",
+      "name": "nETH-Psi Pair",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1y8kxhfg22px5er32ctsgjvayaj8q36tr590qtp": {
+      "protocol": "Nexus",
+      "name": "nETH-Psi LP",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1lws09x0slx892ux526d6atwwgdxnjg58uan8ph": {
+      "protocol": "Nexus",
+      "name": "nETH-Psi Staking",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
     }
   },
   "testnet": {
@@ -1396,6 +1526,126 @@
       "protocol": "White Whale",
       "name": "WHALE-UST LP Token",
       "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png"
+    },
+    "terra1u7tnl4326ge86mzqeqnzxxjg7xkgj8nfg65a2h": {
+      "protocol": "Nexus",
+      "name": "Governance",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1ee9h9c9fv2smm8wkq0aw78tut3w3x62ckj6nz8": {
+      "protocol": "Nexus",
+      "name": "Psi-UST Pair",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra12qfjg2m50syyg3eljpj0rx0x8jez5j56mg77zc": {
+      "protocol": "Nexus",
+      "name": "Psi-UST LP",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1qsc7y8448payj9fyjxn6ffxxmdcj5g5dtptfq2": {
+      "protocol": "Nexus",
+      "name": "Psi-UST Staking",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1tr4uxvmsfx7sl06m7xnp848ta20gesj0hpufjd": {
+      "protocol": "Nexus",
+      "name": "Community Pool",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1s3qv2na283q7835d6qxcp5llp6ax7ydl7py4kd": {
+      "protocol": "Nexus",
+      "name": "Airdrop",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1g5apu9hq965tdavzhw7l6s43u5hru4xqsm6tat": {
+      "protocol": "Nexus",
+      "name": "bLuna Vault",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1ul62eusc4x9a6xdmu9074svx0mjzvg36sf3fqr": {
+      "protocol": "Nexus",
+      "name": "bLuna Vault strategy",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1gzq2zd4skvnvgm2z48fdp0mxy2djmtk7sz4uhe": {
+      "protocol": "Nexus",
+      "name": "nLuna",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1ajfy6ts0tr6d8nkl40msnspyltacml6w9zqktk": {
+      "protocol": "Nexus",
+      "name": "nLuna config holder",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra17mr0kt7rzey0ycp2eypxnmtv9fjn7e3rc0yfuz": {
+      "protocol": "Nexus",
+      "name": "nLuna rewards",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1g237z9c7hswe6myplq05ag4hn7jqet3ddr7q0d": {
+      "protocol": "Nexus",
+      "name": "nLuna Psi distributor",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1p3e50cfx47u2utkj0qcls6305plky9pprv0ack": {
+      "protocol": "Nexus",
+      "name": "nLuna-Psi Pair",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1a7awn36j2yy7jvy8te72rwrhl6zma3yugtrhm5": {
+      "protocol": "Nexus",
+      "name": "nLuna-Psi LP",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra14r89lj2e87qz2vwmdjxs70khh89n3w2xy2zkgn": {
+      "protocol": "Nexus",
+      "name": "nLuna-Psi Staking",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1uwl6n4ql5n2mueasu32f537m85y5mtgq66xj0y": {
+      "protocol": "Nexus",
+      "name": "bETH Vault",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra144pp0wpj5hrg0pqc8m0yddre2nvdctwgedg6eg": {
+      "protocol": "Nexus",
+      "name": "bETH Vault strategy",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1em8dvzln8quptj9tuptf8tu73jyuv5jn6kqdwv": {
+      "protocol": "Nexus",
+      "name": "nETH",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1e80yw6htwx77z0d692nmw6z5pm8mzddmvqpky9": {
+      "protocol": "Nexus",
+      "name": "nETH config holder",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1wf3tx75j2jg4ut7fa90rgze5etweqxgqlgq5su": {
+      "protocol": "Nexus",
+      "name": "nETH rewards",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1xvhmndjav5y6cgqn7szwmzr4u7n2dpx0p69305": {
+      "protocol": "Nexus",
+      "name": "nETH Psi distributor",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra15wlxslvcjtj5y083chl4kqespzugd28dwxdksn": {
+      "protocol": "Nexus",
+      "name": "nETH-Psi Pair",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1y2r544tw2q4cgpgjvts8uu6gekk9kwz047a9sl": {
+      "protocol": "Nexus",
+      "name": "nETH-Psi LP",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1u8gvskrt5n6vdeeuc4428pxhjh75h0jcntm7ca": {
+      "protocol": "Nexus",
+      "name": "nETH-Psi Staking",
+      "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
     }
   }
 }
