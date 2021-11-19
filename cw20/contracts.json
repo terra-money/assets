@@ -894,6 +894,21 @@
       "protocol": "Nexus",
       "name": "nETH-Psi Staking",
       "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1zkyrfyq7x9v5vqnnrznn3kvj35az4f6jxftrl2": {
+      "protocol": "Kujira",
+      "name": "UST-KUJI Pair",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1cmqv3sjew8kcm3j907x2026e4n0ejl2jackxlx": {
+      "protocol": "Kujira",
+      "name": "UST-KUJI LP",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1cf9q9lq7tdfju95sdw78y9e34a6qrq3rrc6dre": {
+      "protocol": "Kujira",
+      "name": "UST-KUJI Staking",
+      "icon": "https://assets.kujira.app/kuji.png"
     }
   },
   "testnet": {
@@ -1646,6 +1661,21 @@
       "protocol": "Nexus",
       "name": "nETH-Psi Staking",
       "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1mxy8lmf2jeyr7js7xvm046fssyfa5a9pm78fpn": {
+      "protocol": "Kujira",
+      "name": "UST-KUJI Pair",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra18wn5m5rd4yd82kp9s07gwx9x0vn00wdj8dezv8": {
+      "protocol": "Kujira",
+      "name": "UST-KUJI LP",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra16gd9lq7urpy8txfqd224lqfxwxs4fwr742yptu": {
+      "protocol": "Kujira",
+      "name": "UST-KUJI Staking",
+      "icon": "https://assets.kujira.app/kuji.png"
     }
   }
 }
