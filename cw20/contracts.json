@@ -402,12 +402,12 @@
     },
     "terra1k30c303e059kqhz705a77kgdhr2ndldfdxjvsr": {
       "protocol": "Terraswap",
-      "name": "stSOL-UST Pair",
+      "name": "wsstSOL-UST Pair",
       "icon": "https://static.lido.fi/stSOL/stSOL.png"
     },
     "terra17m0ujjyw0na6jmjspl7ykzzuu675c67rl7m9gl": {
       "protocol": "Terraswap",
-      "name": "stSOL-UST LP",
+      "name": "wsstSOL-UST LP",
       "icon": "https://static.lido.fi/stSOL/stSOL.png"
     },
     "terra1nuy34nwnsh53ygpc4xprlj263cztw7vc99leh2": {
