@@ -26,26 +26,6 @@
   },
   "testnet": {
     "uluna": "0xbf51453468771D14cEbdF8856cC5D5145364Cd6F",
-    "uusd": "0x6cA13a4ab78dd7D657226b155873A04DB929A3A4",
-    "ukrw": "0xF0b0fB87017b644eC76644Ea0FA704BFA5f20F0E",
-    "usdr": "0x1d805d8660Ae73E3624AECAa34ca5FcF8E26E0a5",
-    "umnt": "0x51e7f3ED326719a1469EbD7E68B8AB963d64eBA6",
-    "terra10llyp6v3j3her8u3ce66ragytu45kcmd9asj3u": "0xDAdC10D2dAC9E111835d4423670573Ae45714e7C",
-    "terra1747mad58h0w4y589y3sk84r5efqdev9q4r02pc": "0x93e9012b0a9DA6d5EeA352c56e22B4Ad7225fC33",
-    "terra16vfxm98rxlc8erj4g0sj5932dvylgmdufnugk0": "0xDAE57D13b42325562963C1E47E615eE25924635C",
-    "terra1qg9ugndl25567u03jrr79xur2yk9d632fke3h2": "0x58E3ba48E036341EF8Bbe0bF49caA9731Cc5C42B",
-    "terra1nslem9lgwx53rvgqwd8hgq7pepsry6yr3wsen4": "0x2a445f4dA6Ea8845c594446b250ad535373bb7e4",
-    "terra1djnlav60utj06kk9dl7defsv8xql5qpryzvm3h": "0x1EA12ca0Ac017EfFE87ddF4c648a1a5359E850FA",
-    "terra18yx7ff8knc98p07pdkhm3u36wufaeacv47fuha": "0xE1d4509C539D9C3f1E01CeE22e7a79BF77348Ef3",
-    "terra1ax7mhqahj6vcqnnl675nqq2g9wghzuecy923vy": "0x0c9149d38AD1eBE71c50Bd04E0Ba4F999884C961",
-    "terra12s2h8vlztjwu440khpc0063p34vm7nhu25w4p9": "0x0736644C0257048861bAa72b6b234514c6b52655",
-    "terra12saaecsqwxj04fn0jsv4jmdyp6gylptf5tksge": "0x3210BC26eB5427D0FC19dE7AB272b3BB3e4bC4b0",
-    "terra15dr4ah3kha68kam7a907pje9w6z2lpjpnrkd06": "0xF44c4C095E586B5a7Ba8AA0B2A8Dfad693d396b6",
-    "terra19dl29dpykvzej8rg86mjqg8h63s9cqvkknpclr": "0x51eD1489e3D311496592056608dD6cf025C03525",
-    "terra1fdkfhgk433tar72t4edh6p6y9rmjulzc83ljuw": "0xECBe84E79bb26a7FF2474AA1b58d2696A9b5F58F",
-    "terra1fucmfp8x4mpzsydjaxyv26hrkdg4vpdzdvf647": "0xDF00833C87bEfA3aF5634d81BE18E9DEf2F9C7c0",
-    "terra1z0k7nx0vl85hwpv3e3hu2cyfkwq07fl7nqchvd": "0xC1629641Cdb2D636Ae220fb759264306902c4AC0",
-    "terra14gq9wj0tt6vu0m4ec2tkkv4ln3qrtl58lgdl2c": "0x0Add4875eBcbD2306921e12133feB562E1cc82b4",
-    "terra1qre9crlfnulcg0m68qqywqqstplgvrzywsg3am": "0x807eD0f8149E66Cb74E340bbB298a28E9233181c"
+    "uusd": "0x6cA13a4ab78dd7D657226b155873A04DB929A3A4"
   }
 }
