@@ -405,6 +405,16 @@
       "name": "bLUNA-LUNA LP",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
     },
+    "terra1mv3tksqwfextmnejw8s7ada9qu3pwav098qfxu": {
+      "protocol": "Terraswap",
+      "name": "wewstETH-UST Pair",
+      "icon": "https://static.lido.fi/wstETH/wstETH.png"
+    },
+    "terra1xgkkmc6luamzndndxtpg0520ajsnzzplcavq76": {
+      "protocol": "Terraswap",
+      "name": "wewstETH-UST LP",
+      "icon": "https://static.lido.fi/wstETH/wstETH.png"
+    },
     "terra1mtwph2juhj0rvjz7dy92gvl6xvukaxu8rfv8ts": {
       "protocol": "Anchor",
       "name": "bLuna Hub",
