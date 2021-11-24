@@ -612,7 +612,27 @@
     },
     "terra1j2hdp4jelqe9tkfwnsx5mlheqagaryxhqwr4h2": {
       "protocol": "Spectrum",
-      "name": "SPEC Nexus Farm",
+      "name": "SPEC Nexus Psi-UST Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra106en784zr4kpe6phlaj8c8t3aeqgn3xsugaelx": {
+      "protocol": "Spectrum",
+      "name": "SPEC Orion Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra19kzel57gvx42e628k6frh624x5vm2kpck9cr9c": {
+      "protocol": "Spectrum",
+      "name": "SPEC Nexus nLuna-Psi Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1lmm7xjareer3fd040kz2epw93hg20p9f64uh98": {
+      "protocol": "Spectrum",
+      "name": "SPEC Nexus nEth-Psi Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra15x4hysms59x5eek6esg3f2jycalpypdcl6sy7j": {
+      "protocol": "Spectrum",
+      "name": "SPEC Kujira Farm",
       "icon": "https://terra.spec.finance/assets/SPEC.png"
     },
     "terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5": {
@@ -1529,7 +1549,27 @@
     },
     "terra158j75d7kml99u3r4xy4e7xnfzmhm2j780e5npl": {
       "protocol": "Spectrum",
-      "name": "SPEC Nexus Farm",
+      "name": "SPEC Nexus Psi-UST Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1mset93yy46n8lwy59gadcmekxspnf3zldzsc0x": {
+      "protocol": "Spectrum",
+      "name": "SPEC Orion Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1jssrzhcr2qdm53qucw6ty35wddyhea8nvwwq4a": {
+      "protocol": "Spectrum",
+      "name": "SPEC Nexus nLuna-Psi Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1nvgz56np9kytg4xx8xmd85yqfjh50p39wua2yg": {
+      "protocol": "Spectrum",
+      "name": "SPEC Nexus nEth-Psi Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra16ppenx9paca846mj39axlqhtxgz8n9az5pantj": {
+      "protocol": "Spectrum",
+      "name": "SPEC Kujira Farm",
       "icon": "https://terra.spec.finance/assets/SPEC.png"
     },
     "terra1cxz4m6rvq9vkw8x9f3gqtuex6t5ulm6sr3j4qz": {
