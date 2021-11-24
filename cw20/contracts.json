@@ -925,7 +925,7 @@
       "name": "Kujira Team Multisignature Warchest",
       "icon": "https://assets.kujira.app/kuji.png"
     }
-   },
+  },
   "testnet": {
     "terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf": {
       "protocol": "Terraswap",
