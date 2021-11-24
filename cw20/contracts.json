@@ -909,8 +909,23 @@
       "protocol": "Kujira",
       "name": "UST-KUJI Staking",
       "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1ywfhcus65x80shdrh0ulr4m7na4njw59wrgu30": {
+      "protocol": "Kujira",
+      "name": "Operational, Treasury & Pre-Sale Vesting",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1rhckhztwftc7a9u8gyasug0qwwwhzsxsnglm2e": {
+      "protocol": "StarTerra",
+      "name": "StarTerra KUJI IDO Vesting",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra15e4w665qtzdr7uvpu9catk6edsdr3yx73uprfr": {
+      "protocol": "Kujira",
+      "name": "Kujira Team Multisignature Warchest",
+      "icon": "https://assets.kujira.app/kuji.png"
     }
-  },
+   },
   "testnet": {
     "terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf": {
       "protocol": "Terraswap",
