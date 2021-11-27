@@ -675,6 +675,16 @@
       "name": "STT Vesting Public",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
+    "terra1ff6ynrnpszc5u6vulwn9gmntphywanpkak2qxc": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Advisors",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1574seu2puu7xwgmv7q85f3umk6lvg3u2nv4zrj": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Team",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
     "terra19pg6d7rrndg4z4t0jhcd7z9nhl3p5ygqttxjll": {
       "protocol": "StarTerra",
       "name": "STT-UST Pair",
@@ -713,6 +723,11 @@
     "terra1yzewp648fwq7ymlfdg5h90dfzk5y2hf6kk9pdm": {
       "protocol": "StarTerra",
       "name": "STT IDO Prefund",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1megftnaw3v9jh9fg2wzejx6d2swncg7ug97tvt": {
+      "protocol": "StarTerra",
+      "name": "STT Governance",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
     "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
