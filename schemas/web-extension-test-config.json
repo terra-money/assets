@@ -89,6 +89,12 @@
         },
         "password": {
           "type": "string"
+        },
+        "coinType": {
+          "type": "number"
+        },
+        "addressIndex": {
+          "type": "number"
         }
       },
       "required": ["name", "mnemonic"]
