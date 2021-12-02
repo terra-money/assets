@@ -43,6 +43,17 @@
         "https://randomearth.io/collections/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7",
         "https://knowhere.art/collection/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7"
       ]
+    },
+    "terra19auzecsexkyzekcg5r6gvrlm4df3cardccc70w": {
+      "contract": "terra19auzecsexkyzekcg5r6gvrlm4df3cardccc70w",
+      "name": "TalesOfTerra",
+      "symbol": "TOT",
+      "icon": "https://d75aawrtvbfp1.cloudfront.net/partners%2Ftalesofterra%2Flogo.gif",
+      "homepage": "https://www.talesofterra.art/",
+      "marketplace": [
+        "https://randomearth.io/collections/terra19auzecsexkyzekcg5r6gvrlm4df3cardccc70w",
+        "https://knowhere.art/collection/terra19auzecsexkyzekcg5r6gvrlm4df3cardccc70w"
+      ]
     }
   },
   "testnet": {}
