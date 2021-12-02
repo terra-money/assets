@@ -10,6 +10,39 @@
         "https://randomearth.io/collections/terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k",
         "https://knowhere.art/collection/terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k"
       ]
+    },
+    "terra1chrdxaef0y2feynkpq63mve0sqeg09acjnp55v": {
+      "contract": "terra1chrdxaef0y2feynkpq63mve0sqeg09acjnp55v",
+      "name": "Levana Dragons: Meteors",
+      "symbol": "LVNMTR",
+      "icon": "https://static.meteors.levana.finance/icons/lvnmtr.png",
+      "homepage": "https://levana.finance/",
+      "marketplace": [
+        "https://randomearth.io/collections/terra1chrdxaef0y2feynkpq63mve0sqeg09acjnp55v",
+        "https://knowhere.art/collection/terra1chrdxaef0y2feynkpq63mve0sqeg09acjnp55v"
+      ]
+    },
+    "terra1k0y373yxqne22pc9g7jvnr4qclpsxtafevtrpg": {
+      "contract": "terra1k0y373yxqne22pc9g7jvnr4qclpsxtafevtrpg",
+      "name": "Levana Dragons: Eggs",
+      "symbol": "LVNEGG",
+      "icon": "https://static.meteors.levana.finance/icons/lvnegg.png",
+      "homepage": "https://levana.finance/",
+      "marketplace": [
+        "https://randomearth.io/collections/terra1k0y373yxqne22pc9g7jvnr4qclpsxtafevtrpg",
+        "https://knowhere.art/collection/terra1k0y373yxqne22pc9g7jvnr4qclpsxtafevtrpg"
+      ]
+    },
+    "terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7": {
+      "contract": "terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7",
+      "name": "Levana Dragons: Meteor Dust",
+      "symbol": "LVNDUST",
+      "icon": "https://static.meteors.levana.finance/icons/lvndust.png",
+      "homepage": "https://levana.finance/",
+      "marketplace": [
+        "https://randomearth.io/collections/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7",
+        "https://knowhere.art/collection/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7"
+      ]
     }
   },
   "testnet": {}
