@@ -1,9 +1,10 @@
 {
   "mainnet": {
     "terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k": {
-      "name": "Galactic Punks",
       "contract": "terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k",
-      "icon": "https://galacticpunks.io/favicon.ico"
+      "name": "Galactic Punks",
+      "symbol": "GP",
+      "icon": "https://randomearth-mirror.s3.us-east-2.amazonaws.com/punk3.jpg"
     }
   },
   "testnet": {}
