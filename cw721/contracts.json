@@ -4,7 +4,18 @@
       "name": "Galactic Punks",
       "contract": "terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k",
       "icon": "https://galacticpunks.io/favicon.ico"
+    },
+    "terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh": {
+      "name": "R.E.S.Toads",
+      "contract": "terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh",
+      "icon": "https://www.redeyedspacetoads.io/favicon.ico"
     }
   },
-  "testnet": {}
+  "testnet": {
+    "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm": {
+      "name": "R.E.S.Toads",
+      "contract": "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm",
+      "icon": "https://www.redeyedspacetoads.io/favicon.ico"
+    }
+  }
 }
