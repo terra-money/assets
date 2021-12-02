@@ -43,6 +43,26 @@
         "https://randomearth.io/collections/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7",
         "https://knowhere.art/collection/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7"
       ]
+    },
+    "terra1whyze49j9d0672pleaflk0wfufxrh8l0at2h8q": {
+      "contract": "terra1whyze49j9d0672pleaflk0wfufxrh8l0at2h8q",
+      "name": "Terranauts",
+      "symbol": "TRNT",
+      "icon": "https://i.imgur.com/GEyfHid.png",
+      "homepage": "https://terranauts.io",
+      "marketplace": [
+        "https://randomearth.io/collections/terra1whyze49j9d0672pleaflk0wfufxrh8l0at2h8q",
+        "https://knowhere.art/collection/terra1whyze49j9d0672pleaflk0wfufxrh8l0at2h8q"
+      ]
+    },
+    "terra14jj5lskedl326j9wsz98c9qpwmk7uuyfxvlx7h": {
+      "contract": "terra14jj5lskedl326j9wsz98c9qpwmk7uuyfxvlx7h",
+      "name": "Terranauts Genesis",
+      "symbol": "TRNTG",
+      "icon": "https://cloudflare-ipfs.com/ipfs/Qmc92yxY3Ucyn3kt7TbB6MzXuMcgQRpENebZaQ2tseqqRe/1.png",
+      "homepage": "https://terranauts.io",
+      "marketplace": [
+      ]
     }
   },
   "testnet": {}
