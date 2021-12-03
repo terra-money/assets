@@ -47,6 +47,28 @@
         "https://knowhere.art/collection/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7"
       ]
     },
+    "terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq": {
+      "contract": "terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq",
+      "name": "Astroverse #01",
+      "symbol": "AST1",
+      "icon": "https://www.astroverse.art/wp-content/uploads/2021/09/logo10.jpg",
+      "homepage": "https://www.astroverse.art/",
+      "marketplace": [
+        "https://randomearth.io/collections/terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq",
+        "https://knowhere.art/collection/terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq"
+      ]
+    },
+    "terra1xv0as2esvwqcuaqtdhvrdhykrfe75qw42tgh6f": {
+      "contract": "terra1xv0as2esvwqcuaqtdhvrdhykrfe75qw42tgh6f",
+      "name": "Astroverse #02",
+      "symbol": "AV2",
+      "icon": "https://www.astroverse.art/wp-content/uploads/2021/09/logo10.jpg",
+      "homepage": "https://www.astroverse.art/",
+      "marketplace": [
+        "https://randomearth.io/collections/terra1xv0as2esvwqcuaqtdhvrdhykrfe75qw42tgh6f",
+        "https://knowhere.art/collection/terra1xv0as2esvwqcuaqtdhvrdhykrfe75qw42tgh6f"
+      ]
+    },
     "terra1whyze49j9d0672pleaflk0wfufxrh8l0at2h8q": {
       "contract": "terra1whyze49j9d0672pleaflk0wfufxrh8l0at2h8q",
       "protocol": "Terranauts",
