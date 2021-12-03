@@ -1,10 +1,12 @@
 [
   {
     "name": "Random Earth",
-    "link": "https://randomearth.io"
+    "link": "https://randomearth.io",
+    "icon": "https://randomearth.io/static/compiled/865883277bf6d24d865f09ec1e8b8b6f.png"
   },
   {
     "name": "KNOWHERE",
-    "link": "https://knowhere.art"
+    "link": "https://knowhere.art",
+    "icon": "https://knowhere.art/static/icons/knowhere.png"
   }
 ]
