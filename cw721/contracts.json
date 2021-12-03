@@ -13,6 +13,7 @@
     },
     "terra1chrdxaef0y2feynkpq63mve0sqeg09acjnp55v": {
       "contract": "terra1chrdxaef0y2feynkpq63mve0sqeg09acjnp55v",
+      "protocol": "Levana Dragons",
       "name": "Levana Dragons: Meteors",
       "symbol": "LVNMTR",
       "icon": "https://static.meteors.levana.finance/icons/lvnmtr.png",
@@ -24,6 +25,7 @@
     },
     "terra1k0y373yxqne22pc9g7jvnr4qclpsxtafevtrpg": {
       "contract": "terra1k0y373yxqne22pc9g7jvnr4qclpsxtafevtrpg",
+      "protocol": "Levana Dragons",
       "name": "Levana Dragons: Eggs",
       "symbol": "LVNEGG",
       "icon": "https://static.meteors.levana.finance/icons/lvnegg.png",
@@ -35,6 +37,7 @@
     },
     "terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7": {
       "contract": "terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7",
+      "protocol": "Levana Dragons",
       "name": "Levana Dragons: Meteor Dust",
       "symbol": "LVNDUST",
       "icon": "https://static.meteors.levana.finance/icons/lvndust.png",
@@ -46,6 +49,7 @@
     },
     "terra1whyze49j9d0672pleaflk0wfufxrh8l0at2h8q": {
       "contract": "terra1whyze49j9d0672pleaflk0wfufxrh8l0at2h8q",
+      "protocol": "Terranauts",
       "name": "Terranauts",
       "symbol": "TRNT",
       "icon": "https://i.imgur.com/GEyfHid.png",
@@ -57,12 +61,11 @@
     },
     "terra14jj5lskedl326j9wsz98c9qpwmk7uuyfxvlx7h": {
       "contract": "terra14jj5lskedl326j9wsz98c9qpwmk7uuyfxvlx7h",
+      "protocol": "Terranauts",
       "name": "Terranauts Genesis",
       "symbol": "TRNTG",
       "icon": "https://cloudflare-ipfs.com/ipfs/Qmc92yxY3Ucyn3kt7TbB6MzXuMcgQRpENebZaQ2tseqqRe/1.png",
-      "homepage": "https://terranauts.io",
-      "marketplace": [
-      ]
+      "homepage": "https://terranauts.io"
     }
   },
   "testnet": {}
