@@ -11,6 +11,16 @@
         "https://knowhere.art/collection/terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k"
       ]
     },
+    "terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh": {
+      "name": "R.E.S.Toads",
+      "contract": "terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh",
+      "icon": "https://www.redeyedspacetoads.io/rest_icon.svg",
+      "homepage": "https://redeyedspacetoads.io/",
+      "marketplace": [
+        "https://randomearth.io/collections/terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh",
+        "https://knowhere.art/collection/terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh"
+      ]
+    },
     "terra1chrdxaef0y2feynkpq63mve0sqeg09acjnp55v": {
       "contract": "terra1chrdxaef0y2feynkpq63mve0sqeg09acjnp55v",
       "protocol": "Levana Dragons",
@@ -122,5 +132,11 @@
       "homepage": "https://terranauts.io"
     }
   },
-  "testnet": {}
+  "testnet": {
+    "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm": {
+      "name": "R.E.S.Toads",
+      "contract": "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm",
+      "icon": "https://www.redeyedspacetoads.io/rest_icon.svg"
+    }
+  }
 }
