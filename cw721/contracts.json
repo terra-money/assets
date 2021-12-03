@@ -53,9 +53,7 @@
       "symbol": "BESTGIRLS",
       "icon": "https://storage.googleapis.com/public-knowhere/collections/terra-best-girls.jpeg",
       "homepage": "https://twitter.com/BestGirlsNFT",
-      "marketplace": [
-        "https://knowhere.art/collection/terra1cdd4k8shstdsrfl83c2f2hts8kfh636k58uqmm"
-      ]
+      "marketplace": ["https://knowhere.art/collection/terra1cdd4k8shstdsrfl83c2f2hts8kfh636k58uqmm"]
     },
     "terra192vcn2julwy7r2cd5prnkmnm3nxsts5sm32ygq": {
       "contract": "terra192vcn2julwy7r2cd5prnkmnm3nxsts5sm32ygq",
@@ -81,6 +79,7 @@
     },
     "terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq": {
       "contract": "terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq",
+      "protocol": "Astroverse",
       "name": "Astroverse #01",
       "symbol": "AST1",
       "icon": "https://www.astroverse.art/wp-content/uploads/2021/09/logo10.jpg",
@@ -92,6 +91,7 @@
     },
     "terra1xv0as2esvwqcuaqtdhvrdhykrfe75qw42tgh6f": {
       "contract": "terra1xv0as2esvwqcuaqtdhvrdhykrfe75qw42tgh6f",
+      "protocol": "Astroverse",
       "name": "Astroverse #02",
       "symbol": "AV2",
       "icon": "https://www.astroverse.art/wp-content/uploads/2021/09/logo10.jpg",
