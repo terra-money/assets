@@ -139,7 +139,10 @@
       "name": "Terra Peeps",
       "symbol": "Peeps",
       "icon": "https://storage.googleapis.com/public-knowhere/collections/terrapeeps.png",
-      "homepage": "https://terrapeeps.com/"
+      "homepage": "https://terrapeeps.com/",
+      "marketplace": [      
+        "https://knowhere.art/collection/terra1t0l0sz0efnr7cm3hxked7nn2x7xx5syw02k8tc"
+      ]
     }
   },
   "testnet": {
