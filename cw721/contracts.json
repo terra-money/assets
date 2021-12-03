@@ -132,6 +132,16 @@
       "homepage": "https://terranauts.io"
     }
   },
+  ,
+    "terra1t0l0sz0efnr7cm3hxked7nn2x7xx5syw02k8tc": {
+      "contract": "terra1t0l0sz0efnr7cm3hxked7nn2x7xx5syw02k8tc",
+      "protocol": "TerraPeeps",
+      "name": "Terra Peeps",
+      "symbol": "Peeps",
+      "icon": "https://storage.googleapis.com/public-knowhere/collections/terrapeeps.png",
+      "homepage": "https://terrapeeps.com/"
+    }
+  },
   "testnet": {
     "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm": {
       "name": "R.E.S.Toads",
