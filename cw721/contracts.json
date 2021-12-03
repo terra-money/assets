@@ -43,6 +43,17 @@
         "https://randomearth.io/collections/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7",
         "https://knowhere.art/collection/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7"
       ]
+    },
+    "terra192vcn2julwy7r2cd5prnkmnm3nxsts5sm32ygq": {
+      "contract": "terra192vcn2julwy7r2cd5prnkmnm3nxsts5sm32ygq",
+      "name": "xyz",
+      "symbol": "XYZ",
+      "icon": "https://cdn.collectxyz.com/logo.png",
+      "homepage": "https://planets.collectxyz.com",
+      "marketplace": [
+        "https://randomearth.io/collections/terra192vcn2julwy7r2cd5prnkmnm3nxsts5sm32ygq",
+        "https://knowhere.art/collection/terra192vcn2julwy7r2cd5prnkmnm3nxsts5sm32ygq"
+      ]
     }
   },
   "testnet": {}
