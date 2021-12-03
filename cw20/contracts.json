@@ -979,6 +979,11 @@
       "protocol": "Kujira",
       "name": "Kujira Team Multisignature Warchest",
       "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z": {
+      "protocol": "Orne",
+      "name": "UST-ORNE Pair",
+      "icon": "https://orne.io/img/token_icon.png"
     }
   },
   "testnet": {
