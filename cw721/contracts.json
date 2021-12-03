@@ -43,6 +43,16 @@
         "https://randomearth.io/collections/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7",
         "https://knowhere.art/collection/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7"
       ]
+    },
+    "terra1cdd4k8shstdsrfl83c2f2hts8kfh636k58uqmm": {
+      "contract": "terra1cdd4k8shstdsrfl83c2f2hts8kfh636k58uqmm",
+      "name": "Terra Best Girls",
+      "symbol": "BESTGIRLS",
+      "icon": "https://storage.googleapis.com/public-knowhere/collections/terra-best-girls.jpeg",
+      "homepage": "https://twitter.com/BestGirlsNFT",
+      "marketplace": [
+        "https://knowhere.art/collection/terra1cdd4k8shstdsrfl83c2f2hts8kfh636k58uqmm"
+      ]
     }
   },
   "testnet": {}
