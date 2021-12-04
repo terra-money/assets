@@ -525,6 +525,16 @@
       "name": "MINE-UST Pair",
       "icon": "https://assets.pylon.rocks/logo/MINE.png"
     },
+    "terra167gwjhv4mrs0fqj0q5tejyl6cz6qc2cl95z530": {
+      "protocol": "Pylon",
+      "name": "Psi-bPsiDP-24m Pair",
+      "icon": "https://assets.pylon.rocks/logo/bPsiDP.png"
+    },
+    "terra1t4uuc09t4ld560vg2k9w2f5m9e5trftnym50zj": {
+      "protocol": "Pylon",
+      "name": "Psi-bPsiDP-24m LP",
+      "icon": "https://assets.pylon.rocks/logo/bPsiDP.png"
+    },
     "terra1rqkyau9hanxtn63mjrdfhpnkpddztv3qav0tq2": {
       "protocol": "Pylon",
       "name": "MINE-UST LP",
