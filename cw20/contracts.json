@@ -760,6 +760,11 @@
       "name": "STT Governance",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
+    "terra1s8afpa8pmsye2j9rmx8mhwmtfhtuvvematnyva": {
+      "protocol": "StarTerra",
+      "name": "STT Play 2 Earn",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
     "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
       "protocol": "TerraWorld",
       "name": "TWD-UST Pair",
