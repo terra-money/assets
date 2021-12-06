@@ -47,7 +47,9 @@
     "terra1k30c303e059kqhz705a77kgdhr2ndldfdxjvsr": ["uusd", "terra1t9ul45l7m6jw6sxgvnp8e5hj8xzkjsg82g84ap"],
     "terra1zrzy688j8g6446jzd88vzjzqtywh6xavww92hy": ["terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup", "uluna"],
     "terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z": ["uusd", "terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf"],
-    "terra1jzqlw8mfau9ewr7lufqkrpgfzk4legz9zx306p": ["uusd", "terra1r5506ckw5tfr3z52jwlek8vg9sn3yflrqrzfsc"]
+    "terra1jzqlw8mfau9ewr7lufqkrpgfzk4legz9zx306p": ["uusd", "terra1r5506ckw5tfr3z52jwlek8vg9sn3yflrqrzfsc"],
+    "terra1vayuttjw6z4hk5r734z9qatgs8vp6r5a2t043p": ["uusd", "terra1m3tdguf59xq3pa2twk5fjte5g6szj5y9x5npy7"]
+
   },
   "testnet": {
     "terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu": ["ukrw", "uluna"],
