@@ -1,0 +1,109 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "https://assets.terra.money/schemas/web-extension-test-config.json#",
+  "type": "object",
+  "properties": {
+    "cw20Tokens": {
+      "$ref": "#/definitions/cw20Tokens"
+    },
+    "approvedHostnames": {
+      "$ref": "#/definitions/approvedHostnames"
+    },
+    "networks": {
+      "$ref": "#/definitions/networks"
+    },
+    "selectedNetwork": {
+      "type": "string",
+      "anyOf": [
+        {
+          "enum": ["mainnet", "testnet"]
+        },
+        {
+          "type": "string"
+        }
+      ]
+    },
+    "wallets": {
+      "$ref": "#/definitions/wallets"
+    },
+    "selectedWallet": {
+      "type": "string"
+    }
+  },
+  "required": ["wallets"],
+  "definitions": {
+    "cw20Tokens_chain": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^terra[a-z0-9]{39}$",
+        "minItems": 1
+      }
+    },
+    "cw20Tokens": {
+      "type": "object",
+      "patternProperties": {
+        "^.*$": {
+          "$ref": "#/definitions/cw20Tokens_chain"
+        }
+      }
+    },
+    "approvedHostnames": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^http(.*)$",
+        "minItems": 1
+      }
+    },
+    "networks_item": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "chainID": {
+          "type": "string"
+        },
+        "lcd": {
+          "type": "string",
+          "pattern": "^http(.*)$"
+        }
+      },
+      "required": ["name", "chainID", "lcd"]
+    },
+    "networks": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/networks_item"
+      }
+    },
+    "wallets_item": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "mnemonic": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        },
+        "coinType": {
+          "type": "number"
+        },
+        "addressIndex": {
+          "type": "number"
+        }
+      },
+      "required": ["name", "mnemonic"]
+    },
+    "wallets": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/wallets_item"
+      }
+    }
+  }
+}

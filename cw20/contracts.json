@@ -400,6 +400,16 @@
       "name": "ANC-UST LP",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
     },
+    "terra1k30c303e059kqhz705a77kgdhr2ndldfdxjvsr": {
+      "protocol": "Terraswap",
+      "name": "wsstSOL-UST Pair",
+      "icon": "https://static.lido.fi/stSOL/stSOL.png"
+    },
+    "terra17m0ujjyw0na6jmjspl7ykzzuu675c67rl7m9gl": {
+      "protocol": "Terraswap",
+      "name": "wsstSOL-UST LP",
+      "icon": "https://static.lido.fi/stSOL/stSOL.png"
+    },
     "terra1nuy34nwnsh53ygpc4xprlj263cztw7vc99leh2": {
       "protocol": "Terraswap",
       "name": "bLUNA-LUNA LP",
@@ -515,6 +525,16 @@
       "name": "MINE-UST Pair",
       "icon": "https://assets.pylon.rocks/logo/MINE.png"
     },
+    "terra167gwjhv4mrs0fqj0q5tejyl6cz6qc2cl95z530": {
+      "protocol": "Pylon",
+      "name": "Psi-bPsiDP-24m Pair",
+      "icon": "https://assets.pylon.rocks/logo/bPsiDP.png"
+    },
+    "terra1t4uuc09t4ld560vg2k9w2f5m9e5trftnym50zj": {
+      "protocol": "Pylon",
+      "name": "Psi-bPsiDP-24m LP",
+      "icon": "https://assets.pylon.rocks/logo/bPsiDP.png"
+    },
     "terra1rqkyau9hanxtn63mjrdfhpnkpddztv3qav0tq2": {
       "protocol": "Pylon",
       "name": "MINE-UST LP",
@@ -602,7 +622,27 @@
     },
     "terra1j2hdp4jelqe9tkfwnsx5mlheqagaryxhqwr4h2": {
       "protocol": "Spectrum",
-      "name": "SPEC Nexus Farm",
+      "name": "SPEC Nexus Psi-UST Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra106en784zr4kpe6phlaj8c8t3aeqgn3xsugaelx": {
+      "protocol": "Spectrum",
+      "name": "SPEC Orion Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra19kzel57gvx42e628k6frh624x5vm2kpck9cr9c": {
+      "protocol": "Spectrum",
+      "name": "SPEC Nexus nLuna-Psi Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1lmm7xjareer3fd040kz2epw93hg20p9f64uh98": {
+      "protocol": "Spectrum",
+      "name": "SPEC Nexus nEth-Psi Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra15x4hysms59x5eek6esg3f2jycalpypdcl6sy7j": {
+      "protocol": "Spectrum",
+      "name": "SPEC Kujira Farm",
       "icon": "https://terra.spec.finance/assets/SPEC.png"
     },
     "terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5": {
@@ -665,6 +705,16 @@
       "name": "STT Vesting Public",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
+    "terra1ff6ynrnpszc5u6vulwn9gmntphywanpkak2qxc": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Advisors",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1574seu2puu7xwgmv7q85f3umk6lvg3u2nv4zrj": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Team",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
     "terra19pg6d7rrndg4z4t0jhcd7z9nhl3p5ygqttxjll": {
       "protocol": "StarTerra",
       "name": "STT-UST Pair",
@@ -703,6 +753,16 @@
     "terra1yzewp648fwq7ymlfdg5h90dfzk5y2hf6kk9pdm": {
       "protocol": "StarTerra",
       "name": "STT IDO Prefund",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1megftnaw3v9jh9fg2wzejx6d2swncg7ug97tvt": {
+      "protocol": "StarTerra",
+      "name": "STT Governance",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1s8afpa8pmsye2j9rmx8mhwmtfhtuvvematnyva": {
+      "protocol": "StarTerra",
+      "name": "STT Play 2 Earn",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
     "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
@@ -773,7 +833,7 @@
     "terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz": {
       "protocol": "White Whale",
       "name": "WHALE",
-      "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png"
+      "icon": "https://www.whitewhale.money/tokenlogo.png"
     },
     "terra1xrk6v2tfjrhjz2dsfecj40ps7ayanjx970gy0j": {
       "protocol": "Nexus",
@@ -919,6 +979,26 @@
       "protocol": "Kujira",
       "name": "UST-KUJI Staking",
       "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1ywfhcus65x80shdrh0ulr4m7na4njw59wrgu30": {
+      "protocol": "Kujira",
+      "name": "Operational, Treasury & Pre-Sale Vesting",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1rhckhztwftc7a9u8gyasug0qwwwhzsxsnglm2e": {
+      "protocol": "StarTerra",
+      "name": "StarTerra KUJI IDO Vesting",
+      "icon": "https://assets.kujira.app/kuji-stt.png"
+    },
+    "terra15e4w665qtzdr7uvpu9catk6edsdr3yx73uprfr": {
+      "protocol": "Kujira",
+      "name": "Kujira Team Multisignature Warchest",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z": {
+      "protocol": "Orne",
+      "name": "UST-ORNE Pair",
+      "icon": "https://orne.io/img/token_icon.png"
     }
   },
   "testnet": {
@@ -1489,7 +1569,27 @@
     },
     "terra158j75d7kml99u3r4xy4e7xnfzmhm2j780e5npl": {
       "protocol": "Spectrum",
-      "name": "SPEC Nexus Farm",
+      "name": "SPEC Nexus Psi-UST Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1mset93yy46n8lwy59gadcmekxspnf3zldzsc0x": {
+      "protocol": "Spectrum",
+      "name": "SPEC Orion Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1jssrzhcr2qdm53qucw6ty35wddyhea8nvwwq4a": {
+      "protocol": "Spectrum",
+      "name": "SPEC Nexus nLuna-Psi Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra1nvgz56np9kytg4xx8xmd85yqfjh50p39wua2yg": {
+      "protocol": "Spectrum",
+      "name": "SPEC Nexus nEth-Psi Farm",
+      "icon": "https://terra.spec.finance/assets/SPEC.png"
+    },
+    "terra16ppenx9paca846mj39axlqhtxgz8n9az5pantj": {
+      "protocol": "Spectrum",
+      "name": "SPEC Kujira Farm",
       "icon": "https://terra.spec.finance/assets/SPEC.png"
     },
     "terra1cxz4m6rvq9vkw8x9f3gqtuex6t5ulm6sr3j4qz": {
@@ -1545,12 +1645,12 @@
     "terra183cvzy6knvva6mpvzcq86uyfxw0nd4925m0d0m": {
       "protocol": "White Whale",
       "name": "WHALE",
-      "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png"
+      "icon": "https://www.whitewhale.money/tokenlogo.png"
     },
     "terra1zuspxvj76ngktnjuawmckpsmynwuvusdnq0pxd": {
       "protocol": "White Whale",
       "name": "WHALE-UST LP Token",
-      "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png"
+      "icon": "https://www.whitewhale.money/tokenlogo.png"
     },
     "terra1u7tnl4326ge86mzqeqnzxxjg7xkgj8nfg65a2h": {
       "protocol": "Nexus",
