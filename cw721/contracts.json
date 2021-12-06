@@ -138,9 +138,7 @@
       "symbol": "Peeps",
       "icon": "https://storage.googleapis.com/public-knowhere/collections/terrapeeps.png",
       "homepage": "https://terrapeeps.com/",
-      "marketplace": [      
-        "https://knowhere.art/collection/terra1t0l0sz0efnr7cm3hxked7nn2x7xx5syw02k8tc"
-      ]
+      "marketplace": ["https://knowhere.art/collection/terra1t0l0sz0efnr7cm3hxked7nn2x7xx5syw02k8tc"]
     },
     "terra1h6msx3t0qj7fuhssyqc44g20qwwyz35zqel96l": {
       "contract": "terra1h6msx3t0qj7fuhssyqc44g20qwwyz35zqel96l",
@@ -148,9 +146,7 @@
       "symbol": "PUFF",
       "icon": "https://d75aawrtvbfp1.cloudfront.net/partners%2Fpoppinpuffins%2Ficon.gif",
       "homepage": "https://poppinpuffins.art/",
-      "marketplace": [
-        "https://randomearth.io/collections/terra1h6msx3t0qj7fuhssyqc44g20qwwyz35zqel96l",
-      ]
+      "marketplace": ["https://randomearth.io/collections/terra1h6msx3t0qj7fuhssyqc44g20qwwyz35zqel96l"]
     }
   },
   "testnet": {
