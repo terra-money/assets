@@ -525,6 +525,16 @@
       "name": "MINE-UST Pair",
       "icon": "https://assets.pylon.rocks/logo/MINE.png"
     },
+    "terra167gwjhv4mrs0fqj0q5tejyl6cz6qc2cl95z530": {
+      "protocol": "Pylon",
+      "name": "Psi-bPsiDP-24m Pair",
+      "icon": "https://assets.pylon.rocks/logo/bPsiDP.png"
+    },
+    "terra1t4uuc09t4ld560vg2k9w2f5m9e5trftnym50zj": {
+      "protocol": "Pylon",
+      "name": "Psi-bPsiDP-24m LP",
+      "icon": "https://assets.pylon.rocks/logo/bPsiDP.png"
+    },
     "terra1rqkyau9hanxtn63mjrdfhpnkpddztv3qav0tq2": {
       "protocol": "Pylon",
       "name": "MINE-UST LP",
@@ -748,6 +758,11 @@
     "terra1megftnaw3v9jh9fg2wzejx6d2swncg7ug97tvt": {
       "protocol": "StarTerra",
       "name": "STT Governance",
+      "icon": "https://starterra.io/assets/100x100_starterra.png"
+    },
+    "terra1s8afpa8pmsye2j9rmx8mhwmtfhtuvvematnyva": {
+      "protocol": "StarTerra",
+      "name": "STT Play 2 Earn",
       "icon": "https://starterra.io/assets/100x100_starterra.png"
     },
     "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
@@ -979,6 +994,11 @@
       "protocol": "Kujira",
       "name": "Kujira Team Multisignature Warchest",
       "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z": {
+      "protocol": "Orne",
+      "name": "UST-ORNE Pair",
+      "icon": "https://orne.io/img/token_icon.png"
     }
   },
   "testnet": {
