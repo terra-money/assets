@@ -165,6 +165,14 @@
       "symbol": "PUFF",
       "homepage": "https://poppinpuffins.art/",
       "marketplace": ["https://randomearth.io/collections/terra1h6msx3t0qj7fuhssyqc44g20qwwyz35zqel96l"]
+    },
+    "terra16zx5gu9t9q3pwmz77ll7tv6y5p3k6thpufcxqy": {
+      "contract": "terra16zx5gu9t9q3pwmz77ll7tv6y5p3k6thpufcxqy",
+      "name": "Terra Unicorns",
+      "symbol": "UNIC",
+      "icon": "https://static.wixstatic.com/media/5a6d96_2e307fcdd24d44d089bda4365a48b40b~mv2.jpeg"
+      "homepage": "https://terraunicorns.com/",
+      "marketplace": ["https://randomearth.io/collections/terra16zx5gu9t9q3pwmz77ll7tv6y5p3k6thpufcxqy"]
     }
   },
   "testnet": {
