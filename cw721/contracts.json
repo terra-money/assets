@@ -165,6 +165,22 @@
       "symbol": "PUFF",
       "homepage": "https://poppinpuffins.art/",
       "marketplace": ["https://randomearth.io/collections/terra1h6msx3t0qj7fuhssyqc44g20qwwyz35zqel96l"]
+    },
+    "terra1f89xq3qhu98v4jch4y5xcrkhl9gytrne99x74t": {
+      "contract": "terra1f89xq3qhu98v4jch4y5xcrkhl9gytrne99x74t",
+      "name": "Terrapins on Terra",
+      "symbol": "PINS",
+      "icon": "https://www.terrapinsonterra.com/favicon.ico",
+      "homepage": "https://www.terrapinsonterra.com",
+      "marketplace": ["https://randomearth.io/collections/terra1f89xq3qhu98v4jch4y5xcrkhl9gytrne99x74t"]
+    },
+    "terra1y4shq4q8t4d98njay3dwc7ww5v2kg08sytyl3n": {
+      "contract": "terra1y4shq4q8t4d98njay3dwc7ww5v2kg08sytyl3n",
+      "name": "Terrapin Eggs",
+      "symbol": "PINEGGS",
+      "icon": "https://www.terrapinsonterra.com/egg.ico",
+      "homepage": "https://www.terrapinsonterra.com",
+      "marketplace": ["https://randomearth.io/collections/terra1y4shq4q8t4d98njay3dwc7ww5v2kg08sytyl3n"]
     }
   },
   "testnet": {
