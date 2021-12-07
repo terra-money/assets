@@ -43,6 +43,15 @@
         "https://randomearth.io/collections/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7",
         "https://knowhere.art/collection/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7"
       ]
+     }, 
+     "terra1ce6jq4da4u49x5mwfdun9jxz5az5uflsgqc067": {
+      "contract": "terra1ce6jq4da4u49x5mwfdun9jxz5az5uflsgqc067",
+      "name": "Luna Meow",
+      "symbol": "Meow",
+      "icon": "https://pbs.twimg.com/profile_images/1463192605634617348/t1pHNZC1_400x400.jpg",
+      "homepage": "https://twitter.com/LUNAmeowNFT",
+      "marketplace": ["https://knowhere.art/collection/terra1ce6jq4da4u49x5mwfdun9jxz5az5uflsgqc067"]
+      ]
     }
   },
   "testnet": {}
