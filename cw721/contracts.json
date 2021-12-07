@@ -141,6 +141,16 @@
         "https://randomearth.io/collections/terra1whyze49j9d0672pleaflk0wfufxrh8l0at2h8q",
         "https://knowhere.art/collection/terra1whyze49j9d0672pleaflk0wfufxrh8l0at2h8q"
       ]
+    }, 
+    "terra1aannccmzq4596gqa0frzg803zfjx5hvp6fctsj": {
+      "contract": "terra1aannccmzq4596gqa0frzg803zfjx5hvp6fctsj",
+      "protocol": "TerraGolem",
+      "name": "TerraGolem",
+      "symbol": "TG",
+      "icon": "https://www.koraxart.com/images/terraGolem_NFT/TGLogo.png?fbclid=IwAR0MyJaMuDYwKNy4eoa4R6BUY6DYR4EPXPs7HlwyS6YrO5UwWbcifLbYa9s",
+      "homepage": "https://www.koraxart.com/terragolemNFT.html",
+      "marketplace": ["https://www.talis.art/collection/terra1g772ejpypu6xwa2akjqxz66slj70t7t8d4fg8v"
+     ]  
     },
     "terra14jj5lskedl326j9wsz98c9qpwmk7uuyfxvlx7h": {
       "contract": "terra14jj5lskedl326j9wsz98c9qpwmk7uuyfxvlx7h",
