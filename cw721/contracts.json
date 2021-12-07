@@ -11,6 +11,15 @@
         "https://knowhere.art/collection/terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k"
       ]
     },
+    "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv": {
+      "contract": "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv",
+      "name": "LunaPunks",
+      "symbol": "LunaPunks",
+      "icon": "https://lunapunks.io/hero.jpg",
+      "marketplace": [ 
+        "https://lunapunks.io/market" 
+      ]
+    },
     "terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh": {
       "name": "R.E.S.Toads",
       "contract": "terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh",
