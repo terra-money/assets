@@ -11,6 +11,17 @@
         "https://knowhere.art/collection/terra1tv5hu9d2hw4q9tn4x30870ae0e4mrttqj0fcv6"
       ]
     },
+    "terra1sc89k9200ycvpd0cs0ul0qmj98p9n8wjp5sft7": {
+      "contract": "terra1sc89k9200ycvpd0cs0ul0qmj98p9n8wjp5sft7",
+      "name": "Terra Turtles",
+      "symbol": "TT",
+      "icon": "https://asset.terraturtles.io/static/img/icon.png",
+      "homepage": "https://terraturtles.io",
+      "marketplace": [
+        "https://randomearth.io/collections/terra1sc89k9200ycvpd0cs0ul0qmj98p9n8wjp5sft7",
+        "https://knowhere.art/collection/terra1sc89k9200ycvpd0cs0ul0qmj98p9n8wjp5sft7"
+      ]
+    },
     "terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k": {
       "contract": "terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k",
       "name": "Galactic Punks",
