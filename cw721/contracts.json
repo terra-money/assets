@@ -181,6 +181,15 @@
       "icon": "https://www.terrapinsonterra.com/egg.ico",
       "homepage": "https://www.terrapinsonterra.com",
       "marketplace": ["https://randomearth.io/collections/terra1y4shq4q8t4d98njay3dwc7ww5v2kg08sytyl3n"]
+    },   
+    "terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu": {
+      "contract": "terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu",
+      "protocol": "Unstables",
+      "name": "Unstables",
+      "symbol": "UNSTABLES",
+      "icon": "https://i.postimg.cc/76r5ChB8/icon-unstables.png",
+      "homepage": "https://www.unstablesonterra.com/",
+      "marketplace": ["https://randomearth.io/collections/terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu"]
     }
   },
   "testnet": {
