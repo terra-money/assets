@@ -246,5 +246,13 @@
       "contract": "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm",
       "icon": "https://www.redeyedspacetoads.io/rest_icon.svg"
     }
+  },
+  "terra1axq5cef8dnuv6hghseu5kl6909at63p28wvuhv": {	
+	"contract": "terra1axq5cef8dnuv6hghseu5kl6909at63p28wvuhv",
+	"name": "TerraGems",
+	"symbol": "TG",
+	"homepage": "https://terragems.io/nft",
+	"icon": "https://images.squarespace-cdn.com/content/v1/618b56371e490f6eef48d944/30fc77fa-6f87-41f1-911a-e796623d4fd2/o.png?format=1500w",
+	"marketplace": ["https://knowhere.art/collection/terra1axq5cef8dnuv6hghseu5kl6909at63p28wvuhv"]
   }
 }
