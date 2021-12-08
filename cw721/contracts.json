@@ -22,6 +22,17 @@
         "https://knowhere.art/collection/terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k"
       ]
     },
+    "terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2": {
+      "contract": "terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
+      "name": "LunaBulls",
+      "symbol": "LB",
+      "icon": "http://lunabulls.com/wp-content/uploads/2021/12/DP.png",
+      "homepage": "https://lunabulls.com",
+      "marketplace": [
+        "https://randomearth.io/collections/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
+        "https://knowhere.art/collection/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2"
+      ]
+    },
     "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv": {
       "contract": "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv",
       "name": "LunaPunks",
@@ -164,14 +175,40 @@
       "name": "Poppin Puffins",
       "symbol": "PUFF",
       "homepage": "https://poppinpuffins.art/",
+      "icon": "https://poppinpuffins.art/images/puffincard--p-800.png",
       "marketplace": ["https://randomearth.io/collections/terra1h6msx3t0qj7fuhssyqc44g20qwwyz35zqel96l"]
     },
-     "terra1q7jnhm5ju8zqua47yu3007879jncevt9ev4kk6": {
+    "terra1q7jnhm5ju8zqua47yu3007879jncevt9ev4kk6": {
       "contract": "terra1q7jnhm5ju8zqua47yu3007879jncevt9ev4kk6",
       "name": "Lootopia: Character Loot",
       "symbol": "LOOTOPIACL",
       "homepage": "https://spacedollars.money/",
       "marketplace": ["https://knowhere.art/collection/terra1q7jnhm5ju8zqua47yu3007879jncevt9ev4kk6"]
+    },
+    "terra1f89xq3qhu98v4jch4y5xcrkhl9gytrne99x74t": {
+      "contract": "terra1f89xq3qhu98v4jch4y5xcrkhl9gytrne99x74t",
+      "name": "Terrapins on Terra",
+      "symbol": "PINS",
+      "icon": "https://www.terrapinsonterra.com/favicon.ico",
+      "homepage": "https://www.terrapinsonterra.com",
+      "marketplace": ["https://randomearth.io/collections/terra1f89xq3qhu98v4jch4y5xcrkhl9gytrne99x74t"]
+    },
+    "terra1y4shq4q8t4d98njay3dwc7ww5v2kg08sytyl3n": {
+      "contract": "terra1y4shq4q8t4d98njay3dwc7ww5v2kg08sytyl3n",
+      "name": "Terrapin Eggs",
+      "symbol": "PINEGGS",
+      "icon": "https://www.terrapinsonterra.com/egg.ico",
+      "homepage": "https://www.terrapinsonterra.com",
+      "marketplace": ["https://randomearth.io/collections/terra1y4shq4q8t4d98njay3dwc7ww5v2kg08sytyl3n"]
+    },   
+    "terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu": {
+      "contract": "terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu",
+      "protocol": "Unstables",
+      "name": "Unstables",
+      "symbol": "UNSTABLES",
+      "icon": "https://i.postimg.cc/76r5ChB8/icon-unstables.png",
+      "homepage": "https://www.unstablesonterra.com/",
+      "marketplace": ["https://randomearth.io/collections/terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu"]
     }
   },
   "testnet": {
