@@ -22,6 +22,17 @@
         "https://knowhere.art/collection/terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k"
       ]
     },
+    "terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2": {
+      "contract": "terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
+      "name": "LunaBulls",
+      "symbol": "LB",
+      "icon": "http://lunabulls.com/wp-content/uploads/2021/12/DP.png",
+      "homepage": "https://lunabulls.com",
+      "marketplace": [
+        "https://randomearth.io/collections/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
+        "https://knowhere.art/collection/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2"
+      ]
+    },
     "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv": {
       "contract": "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv",
       "name": "LunaPunks",
