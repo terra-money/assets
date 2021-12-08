@@ -165,6 +165,15 @@
       "symbol": "PUFF",
       "homepage": "https://poppinpuffins.art/",
       "marketplace": ["https://randomearth.io/collections/terra1h6msx3t0qj7fuhssyqc44g20qwwyz35zqel96l"]
+    },   
+    "terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu": {
+      "contract": "terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu",
+      "protocol": "Unstables",
+      "name": "Unstables",
+      "symbol": "UNSTABLES",
+      "icon": "https://i.postimg.cc/76r5ChB8/icon-unstables.png",
+      "homepage": "https://www.unstablesonterra.com/",
+      "marketplace": ["https://randomearth.io/collections/terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu"]
     }
   },
   "testnet": {
