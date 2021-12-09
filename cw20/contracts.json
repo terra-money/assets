@@ -1002,7 +1002,7 @@
     },
     "terra10g3mqzl9verxetlt7apfxunzwtyhdadqkmh5zx": {
       "protocol": "Kujira",
-      "name": "Platform Fee Collector",
+      "name": "Platform Fee Lockbox",
       "icon": "https://assets.kujira.app/kuji.png"
     },
     "terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z": {
