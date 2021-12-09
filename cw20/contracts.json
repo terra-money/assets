@@ -987,12 +987,22 @@
     },
     "terra1rhckhztwftc7a9u8gyasug0qwwwhzsxsnglm2e": {
       "protocol": "StarTerra",
-      "name": "StarTerra KUJI IDO Vesting",
+      "name": "StarTerra IDO Vesting",
       "icon": "https://assets.kujira.app/kuji-stt.png"
     },
     "terra15e4w665qtzdr7uvpu9catk6edsdr3yx73uprfr": {
       "protocol": "Kujira",
-      "name": "Kujira Team Multisignature Warchest",
+      "name": "Team Multisignature Warchest",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1w7gtx76rs7x0e27l7x2e88vcr52tp9d8g4umjz": {
+      "protocol": "Kujira",
+      "name": "Governance Staking",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra10g3mqzl9verxetlt7apfxunzwtyhdadqkmh5zx": {
+      "protocol": "Kujira",
+      "name": "Platform Fee Lockbox",
       "icon": "https://assets.kujira.app/kuji.png"
     },
     "terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z": {
