@@ -1,0 +1,23 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terra-money/assets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terra-money/assets/issues"
+  },
+  "homepage": "https://github.com/terra-money/assets#readme",
+  "dependencies": {
+    "glob": "^7.2.0"
+  }
+}
