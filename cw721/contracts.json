@@ -255,4 +255,14 @@
 	"icon": "https://images.squarespace-cdn.com/content/v1/618b56371e490f6eef48d944/30fc77fa-6f87-41f1-911a-e796623d4fd2/o.png?format=1500w",
 	"marketplace": ["https://knowhere.art/collection/terra1axq5cef8dnuv6hghseu5kl6909at63p28wvuhv"]
   }
+},
+ "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq": {	
+	"contract": "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq",
+	"name": "Hero NFT",
+	"symbol": "HERO",
+	"homepage": "https://www.heronft.io/",
+	"icon": "https://www.heronft.io/static/media/astro_girl.b24e126c.png",
+	"marketplace": ["https://randomearth.io/collections/terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq"]
+  }
 }
+
