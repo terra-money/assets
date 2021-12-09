@@ -995,6 +995,16 @@
       "name": "Team Multisignature Warchest",
       "icon": "https://assets.kujira.app/kuji.png"
     },
+    "terra1w7gtx76rs7x0e27l7x2e88vcr52tp9d8g4umjz": {
+      "protocol": "Kujira",
+      "name": "Governance Staking",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra10g3mqzl9verxetlt7apfxunzwtyhdadqkmh5zx": {
+      "protocol": "Kujira",
+      "name": "Platform Fee Collector",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
     "terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z": {
       "protocol": "Orne",
       "name": "UST-ORNE Pair",
