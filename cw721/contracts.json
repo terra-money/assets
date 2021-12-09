@@ -237,6 +237,22 @@
       "icon": "https://i.postimg.cc/76r5ChB8/icon-unstables.png",
       "homepage": "https://www.unstablesonterra.com/",
       "marketplace": ["https://randomearth.io/collections/terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu"]
+    },
+    "terra1axq5cef8dnuv6hghseu5kl6909at63p28wvuhv": {	
+      "contract": "terra1axq5cef8dnuv6hghseu5kl6909at63p28wvuhv",
+      "name": "TerraGems",
+      "symbol": "TG",
+      "homepage": "https://terragems.io/nft",
+      "icon": "https://images.squarespace-cdn.com/content/v1/618b56371e490f6eef48d944/30fc77fa-6f87-41f1-911a-e796623d4fd2/o.png?format=1500w",
+      "marketplace": ["https://knowhere.art/collection/terra1axq5cef8dnuv6hghseu5kl6909at63p28wvuhv"]
+    },
+    "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq": {	
+      "contract": "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq",
+      "name": "Hero NFT",
+      "symbol": "HERO",
+      "homepage": "https://www.heronft.io/",
+      "icon": "https://www.heronft.io/static/media/astro_girl.b24e126c.png",
+      "marketplace": ["https://randomearth.io/collections/terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq"]
     }
   },
   "testnet": {
@@ -246,23 +262,5 @@
       "contract": "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm",
       "icon": "https://www.redeyedspacetoads.io/rest_icon.svg"
     }
-  },
-  "terra1axq5cef8dnuv6hghseu5kl6909at63p28wvuhv": {	
-	"contract": "terra1axq5cef8dnuv6hghseu5kl6909at63p28wvuhv",
-	"name": "TerraGems",
-	"symbol": "TG",
-	"homepage": "https://terragems.io/nft",
-	"icon": "https://images.squarespace-cdn.com/content/v1/618b56371e490f6eef48d944/30fc77fa-6f87-41f1-911a-e796623d4fd2/o.png?format=1500w",
-	"marketplace": ["https://knowhere.art/collection/terra1axq5cef8dnuv6hghseu5kl6909at63p28wvuhv"]
-  }
-},
- "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq": {	
-	"contract": "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq",
-	"name": "Hero NFT",
-	"symbol": "HERO",
-	"homepage": "https://www.heronft.io/",
-	"icon": "https://www.heronft.io/static/media/astro_girl.b24e126c.png",
-	"marketplace": ["https://randomearth.io/collections/terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq"]
   }
 }
-
