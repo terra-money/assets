@@ -245,6 +245,15 @@ module.exports = {
       icon: "https://images.squarespace-cdn.com/content/v1/618b56371e490f6eef48d944/30fc77fa-6f87-41f1-911a-e796623d4fd2/o.png?format=1500w",
       marketplace: ["https://knowhere.art/collection/terra1axq5cef8dnuv6hghseu5kl6909at63p28wvuhv"],
     },
+    terra1g772ejpypu6xwa2akjqxz66slj70t7t8d4fg8v: {
+      contract: "terra1g772ejpypu6xwa2akjqxz66slj70t7t8d4fg8v",
+      protocol: "TerraGolem",
+      name: "TerraGolem",
+      symbol: "TG",
+      icon: "https://www.koraxart.com/images/terraGolem_NFT/TGLogo.png",
+      homepage: "https://www.koraxart.com/terragolemNFT.html",
+      marketplace: ["https://www.talis.art/collection/terra1g772ejpypu6xwa2akjqxz66slj70t7t8d4fg8v"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
