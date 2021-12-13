@@ -484,6 +484,14 @@ module.exports = {
       icon: "https://d2s3n99uw51hng.cloudfront.net/static/100_100_LUNI_logo.png",
       decimals: 6
     },
+    terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu: {
+      protocol: "PlayNity",
+      symbol: "PLY",
+      name: "PlayNity Token",
+      token: "terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+      decimals: 6
+    },    
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
