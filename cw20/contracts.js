@@ -1015,6 +1015,31 @@ module.exports = {
       name: "Platform Fee Lockbox",
       icon: "https://assets.kujira.app/kuji.png",
     },
+    terra19fjaurx28dq4wgnf9fv3qg0lwldcln3jqafzm6: {
+      protocol: "Terraswap",
+      name: "PLY-UST Pair",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra1h69kvcmg8jnq7ph2r45k6md4afkl96ugg73amc: {
+      protocol: "Terraswap",
+      name: "PLY-UST LP",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra1ur4ycdastenmq6v0ljn9d5zcp0ctcc59t6tjl4: {
+      protocol: "PlayNity",
+      name: "PLY Vesting Presale",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra1fvq04l6pzslhxf7yyxhfmz5hv64xsye8vcmgzt: {
+      protocol: "PlayNity",
+      name: "PLY-UST Staking Liquid",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra1hxyyjpu8548ccwth9pnc5ztgpupnn2a3c9s0f8: {
+      protocol: "PlayNity",
+      name: "PLY-UST Staking Locked 3M",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
