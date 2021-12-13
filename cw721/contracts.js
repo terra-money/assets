@@ -254,6 +254,15 @@ module.exports = {
       homepage: "https://www.koraxart.com/terragolemNFT.html",
       marketplace: ["https://www.talis.art/collection/terra1g772ejpypu6xwa2akjqxz66slj70t7t8d4fg8v"],
     },
+     terra15yel7hrvkhn8ze5pv4nqvynh08g24fhj8yu0w7: {
+      contract: "terra15yel7hrvkhn8ze5pv4nqvynh08g24fhj8yu0w7",
+      protocol: "Heroes",
+      name: "Heroes",
+      symbol: "SupNFT",
+      icon: "https://www.zupimages.net/up/21/50/d6pk.png",
+      homepage: "https://talis.art/collection/terra15yel7hrvkhn8ze5pv4nqvynh08g24fhj8yu0w7",
+      marketplace: ["https://talis.art/collection/terra15yel7hrvkhn8ze5pv4nqvynh08g24fhj8yu0w7"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
