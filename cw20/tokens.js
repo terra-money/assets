@@ -841,5 +841,12 @@ module.exports = {
       icon: "https://orne.io/img/token_icon.png",
       decimals: 6
     },
+    terra1hmxxq0y8h79f3228vs0czc4uz5jdgjt0appp26: {
+      protocol: "Moon",
+      symbol: "MOON",
+      name: "Moon Token",
+      token: "terra1hmxxq0y8h79f3228vs0czc4uz5jdgjt0appp26",
+      icon: "https://www.terra-moon.com/logo.png",
+    },
   }
 }
