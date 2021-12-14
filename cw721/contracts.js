@@ -254,6 +254,30 @@ module.exports = {
       homepage: "https://www.koraxart.com/terragolemNFT.html",
       marketplace: ["https://www.talis.art/collection/terra1g772ejpypu6xwa2akjqxz66slj70t7t8d4fg8v"],
     },
+    terra1yuna9m4v0xcv5je8q5ymk8chrr7xf8ytvzqf4x: {
+      contract: "terra1yuna9m4v0xcv5je8q5ymk8chrr7xf8ytvzqf4x",
+      name: "TerraFloki Genesis NFT Collection",
+      symbol: "TFLOKI",
+      homepage: "https://terrafloki.io/",
+      icon: "https://terrafloki.io/terrafloki_logo.png",
+      marketplace: ["https://terrafloki.io/app/nft/marketplace"],
+    },
+    terra1s39ez9wzz00a2qky5xzj3tg4uvqpdq2auatt5x: {
+      contract: "terra1s39ez9wzz00a2qky5xzj3tg4uvqpdq2auatt5x",
+      name: "TerraFloki New World NFT Collection",
+      symbol: "TFLOKI",
+      homepage: "https://terrafloki.io/",
+      icon: "https://terrafloki.io/terrafloki_logo.png",
+      marketplace: ["https://terrafloki.io/app/nft/marketplace"],
+    },
+    terra1lv8j3rwlfs06yvtw98nm9fdesuue0ffch64xg6: {
+      contract: "terra1lv8j3rwlfs06yvtw98nm9fdesuue0ffch64xg6",
+      name: "TerraFloki Planets NFT Collection",
+      symbol: "TFLOKI",
+      homepage: "https://terrafloki.io/",
+      icon: "https://terrafloki.io/terrafloki_logo.png",
+      marketplace: ["https://terrafloki.io/app/nft/marketplace"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
