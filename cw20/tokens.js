@@ -484,6 +484,46 @@ module.exports = {
       icon: "https://d2s3n99uw51hng.cloudfront.net/static/100_100_LUNI_logo.png",
       decimals: 6
     },
+    terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu: {
+      protocol: "PlayNity",
+      symbol: "PLY",
+      name: "PlayNity Token",
+      token: "terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+      decimals: 6
+    },    
+    terra1u2k0nkenw0p25ljsr4ksh7rxm65y466vkdewwj: {
+      protocol: "TerraFloki",
+      symbol: "TFLOKI",
+      name: "TFLOKI",
+      token: "terra1u2k0nkenw0p25ljsr4ksh7rxm65y466vkdewwj",
+      icon: "https://terrafloki.io/terrafloki_logo.png",
+      decimals: 6
+    },
+    terra1a8k3jyv3wf6k3zngza5h6srrxcckdf7zv90p6u: {
+      protocol: "TerraFloki",
+      symbol: "TFTIC",
+      name: "TFLOKI Genesis Ticket",
+      token: "terra1a8k3jyv3wf6k3zngza5h6srrxcckdf7zv90p6u",
+      icon: "https://terrafloki.io/ticket_logo.png",
+      decimals: 6
+    },
+    terra1xt9fgu7965kgvunnjts9zkprd8986kcc444q86: {
+      protocol: "TerraFloki",
+      symbol: "TFTICII",
+      name: "TFLOKI New World Ticket",
+      token: "terra1xt9fgu7965kgvunnjts9zkprd8986kcc444q86",
+      icon: "https://terrafloki.io/ticket2_logo.png",
+      decimals: 6
+    },
+    terra1vte2xv7dr8sfnrnwdf9arcyprqgr0hty5ads28: {
+      protocol: "TerraFloki",
+      symbol: "TFTICIII",
+      name: "TFLOKI Aviator Ticket",
+      token: "terra1vte2xv7dr8sfnrnwdf9arcyprqgr0hty5ads28",
+      icon: "https://terrafloki.io/ticket3_logo.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
@@ -839,6 +879,30 @@ module.exports = {
       name: "Orne Token",
       token: "terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf",
       icon: "https://orne.io/img/token_icon.png",
+      decimals: 6
+    },
+    terra1zzthh0mxnm7yhkp79sqfmh9vd3p93d5tzkk7zj: {
+      protocol: "TerraFloki",
+      symbol: "TFLOKI",
+      name: "TFLOKI",
+      token: "terra1zzthh0mxnm7yhkp79sqfmh9vd3p93d5tzkk7zj",
+      icon: "https://terrafloki.io/terrafloki_logo.png",
+      decimals: 6
+    },
+    terra1xzrwvtrf5cycjunnkksfgdreyewxvng42n7cy7: {
+      protocol: "TerraFloki",
+      symbol: "TFTIC",
+      name: "TFLOKI Genesis Ticket",
+      token: "terra1xzrwvtrf5cycjunnkksfgdreyewxvng42n7cy7",
+      icon: "https://terrafloki.io/ticket_logo.png",
+      decimals: 6
+    },
+    terra1ymmyhewmty4zepeuylmfpfqtmnqa88gparwu3u: {
+      protocol: "TerraFloki",
+      symbol: "TFTICII",
+      name: "TFLOKI New World Ticket",
+      token: "terra1ymmyhewmty4zepeuylmfpfqtmnqa88gparwu3u",
+      icon: "https://terrafloki.io/ticket2_logo.png",
       decimals: 6
     },
   }

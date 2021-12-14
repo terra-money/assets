@@ -1040,6 +1040,46 @@ module.exports = {
       name: "PLY-UST Staking Locked 3M",
       icon: "https://playnity.io/uploads/logo/logo100.png",
     },
+    terra1auxjy8f8al78g9ecmv85agaynj8wkjp5kjce2p: {
+      protocol: "TerraFloki",
+      name: "TerraFloki UST-TFLOKI LP",
+      icon: "https://terrafloki.io/terrafloki_logo.png"
+    },
+    terra1jhvyfuewmhy6zafw6x7au0gcthyfcruf4lfm5z: {
+      protocol: "TerraFloki",
+      name: "TerraFloki UST-TFLOKI LP Staking",
+      icon: "https://terrafloki.io/terrafloki_logo.png"
+    },
+    terra18q3zetn2rc8y9z6k5h6vvng28l2c0ekqgegzsn: {
+      protocol: "TerraFloki",
+      name: "TerraFloki Governance",
+      icon: "https://terrafloki.io/terrafloki_logo.png"
+    },
+    terra1awhv74w79sxtr3c65l53m0y46yttr6xaecmed2: {
+      protocol: "TerraFloki",
+      name: "TerraFloki TFLOKI Genesis Staking",
+      icon: "https://terrafloki.io/ticket_logo.png"
+    },
+    terra1ucaza5zmmh9efhrrcv92uuh20vdj6ggg57se94: {
+      protocol: "TerraFloki",
+      name: "TerraFloki TFLOKI New World Staking",
+      icon: "https://terrafloki.io/ticket2_logo.png"
+    },
+    terra17mw6s5l03ecdslpfdgx6hn0hh9g5aj8sjg04n8: {
+      protocol: "TerraFloki",
+      name: "TerraFloki UST-TFLOKI LP New World Staking",
+      icon: "https://terrafloki.io/ticket2_logo.png"
+    },
+    terra1nr0tmlms7dw7mg2crwpey4nunwq3pfajr4gxa9: {
+      protocol: "TerraFloki",
+      name: "TerraFloki TFLOKI Aviator Staking",
+      icon: "https://terrafloki.io/ticket3_logo.png"
+    },
+    terra136dggkaa0pdws2pz6r0ffk5l5zg50j5f2cl3vj: {
+      protocol: "TerraFloki",
+      name: "TerraFloki UST-TFLOKI LP Aviator Staking",
+      icon: "https://terrafloki.io/ticket3_logo.png"
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
@@ -1826,6 +1866,36 @@ module.exports = {
       protocol: "Kujira",
       name: "UST-KUJI Staking",
       icon: "https://assets.kujira.app/kuji.png",
+    },
+    terra1k03qhj74pmfdt6nq9p6wvw24t25plyalavfcc2: {
+      protocol: "TerraFloki",
+      name: "TerraFloki UST-TFLOKI LP",
+      icon: "https://terrafloki.io/terrafloki_logo.png"
+    },
+    terra1xxhfqy9fgnkucl4m94628qw52y078fwtegv830: {
+      protocol: "TerraFloki",
+      name: "TerraFloki UST-TFLOKI LP Staking",
+      icon: "https://terrafloki.io/terrafloki_logo.png"
+    },
+    terra147kfuxaep6940f56qxujzas5rxvzra3dsz6ysx: {
+      protocol: "TerraFloki",
+      name: "TerraFloki Governance",
+      icon: "https://terrafloki.io/terrafloki_logo.png"
+    },
+    terra1ss6290u0xsg3sppyuzjmal0pquntlh5ccnmvs7: {
+      protocol: "TerraFloki",
+      name: "TerraFloki TFLOKI Genesis Staking",
+      icon: "https://terrafloki.io/ticket_logo.png"
+    },
+    terra1p386cwda42q6hdzfhgdr0mvpva5jwstgp8lcpe: {
+      protocol: "TerraFloki",
+      name: "TerraFloki TFLOKI New World Staking",
+      icon: "https://terrafloki.io/ticket2_logo.png"
+    },
+    terra162mj8vpl64m3pjpah3pr828dvuhu55v95av9ac: {
+      protocol: "TerraFloki",
+      name: "TerraFloki UST-TFLOKI LP New World Staking",
+      icon: "https://terrafloki.io/ticket2_logo.png"
     },
   },
 };
