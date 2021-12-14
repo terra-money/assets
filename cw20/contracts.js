@@ -1015,6 +1015,11 @@ module.exports = {
       name: "Platform Fee Lockbox",
       icon: "https://assets.kujira.app/kuji.png",
     },
+    terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3: {
+      protocol: "Astroport",
+      name: "Astroport Token",
+      icon: "https://astroport.fi/astro_logo.png",
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
