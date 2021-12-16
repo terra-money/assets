@@ -286,6 +286,14 @@ module.exports = {
       homepage: "https://terrafloki.io/",
       icon: "https://terrafloki.io/terrafloki_logo.png",
       marketplace: ["https://terrafloki.io/app/nft/marketplace"],
+    }, 
+    terra1hdxltsnmlwqhexphkt065ajnfjt943dq67ll5w: {
+      contract: "terra1hdxltsnmlwqhexphkt065ajnfjt943dq67ll5w",
+      name: "BreadClip Gen 0",
+      symbol: "BCZ",
+      icon: "https://ipfs.talis.art/ipfs/QmXjaQYaZR1UYXvxumjvT1yrs7RxjiAnFCXhSDrJQ3c23R/%23145.png",
+      homepage: "https://twitter.com/breadclip_nft",
+      marketplace: ["https://talis.art/collection/terra1hdxltsnmlwqhexphkt065ajnfjt943dq67ll5w"],
     },
   },
   testnet: {
