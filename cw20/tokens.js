@@ -524,6 +524,13 @@ module.exports = {
       icon: "https://terrafloki.io/ticket3_logo.png",
       decimals: 6
     },
+    terra1hmxxq0y8h79f3228vs0czc4uz5jdgjt0appp26: {
+      protocol: "Moon",
+      symbol: "MOON",
+      name: "Moon Token",
+      token: "terra1hmxxq0y8h79f3228vs0czc4uz5jdgjt0appp26",
+      icon: "https://www.terra-moon.com/logo.png",
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
