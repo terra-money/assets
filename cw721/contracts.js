@@ -288,6 +288,17 @@ module.exports = {
       marketplace: ["https://terrafloki.io/app/nft/marketplace"],
     },
   },
+  terra1ycp3azjymqckrdlzpp88zfyk6x09m658c2c63d: {
+     contract: "terra1ycp3azjymqckrdlzpp88zfyk6x09m658c2c63d",
+     name: "Space Toadz",
+     symbol: "SpaceToadz",
+     icon: "https://ipfs.io/ipfs/bafybeibmwtn2rhofsiaod3zjjt3o6b7x55mfkdsrjyqtklc5ecjbnutyme/toad_240.png",
+     homepage: "https://spacetoadzterra.com/",
+     marketplace: [
+        "https://randomearth.io/collections/terra1ycp3azjymqckrdlzpp88zfyk6x09m658c2c63d",
+        "https://knowhere.art/collection/terra1ycp3azjymqckrdlzpp88zfyk6x09m658c2c63d",
+      ],
+    },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
       name: "R.E.S.Toads",
