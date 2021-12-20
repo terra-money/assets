@@ -1020,6 +1020,11 @@ module.exports = {
       name: "Airdrops",
       icon: "https://assets.kujira.app/kuji.png",
     },
+    terra1l0c5kmclu5zkd5jwud3pzmv2j86puchnssnxwf: {
+      protocol: "Kujira",
+      name: "Marketing",
+      icon: "https://assets.kujira.app/kuji.png",
+    },
     terra19fjaurx28dq4wgnf9fv3qg0lwldcln3jqafzm6: {
       protocol: "Terraswap",
       name: "PLY-UST Pair",
