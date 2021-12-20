@@ -1080,11 +1080,6 @@ module.exports = {
       name: "TerraFloki UST-TFLOKI LP Aviator Staking",
       icon: "https://terrafloki.io/ticket3_logo.png"
     },
-    terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3: {
-      protocol: "Astroport",
-      name: "Astroport Token",
-      icon: "https://astroport.fi/astro_logo.png",
-    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
