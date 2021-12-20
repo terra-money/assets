@@ -491,7 +491,7 @@ module.exports = {
       token: "terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu",
       icon: "https://playnity.io/uploads/logo/logo100.png",
       decimals: 6
-    },    
+    },
     terra1u2k0nkenw0p25ljsr4ksh7rxm65y466vkdewwj: {
       protocol: "TerraFloki",
       symbol: "TFLOKI",
@@ -530,6 +530,13 @@ module.exports = {
       name: "Moon Token",
       token: "terra1hmxxq0y8h79f3228vs0czc4uz5jdgjt0appp26",
       icon: "https://www.terra-moon.com/logo.png",
+    },
+    terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3: {
+      protocol: "Astroport",
+      symbol: "ASTRO",
+      name: "Astroport Token",
+      token: "terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3",
+      icon: "https://astroport.fi/astro_logo.png",
     },
   },
   testnet: {
