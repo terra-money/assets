@@ -454,7 +454,7 @@ module.exports = {
     },
     terra169edevav3pdrtjcx35j6pvzuv54aevewar4nlh: {
       protocol: "Wormhole",
-      symbol: "whXDEFI",
+      symbol: "XDEFI",
       name: "XDEFI (Wormhole)",
       token: "terra169edevav3pdrtjcx35j6pvzuv54aevewar4nlh",
       icon: "https://github.com/sushiswap/assets/blob/master/blockchains/ethereum/assets/0x72B886d09C117654aB7dA13A14d603001dE0B777/logo.png?raw=true",
