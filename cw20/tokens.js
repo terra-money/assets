@@ -554,6 +554,14 @@ module.exports = {
       token: "terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3",
       icon: "https://astroport.fi/astro_logo.png",
     },
+    terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq: {
+      protocol: "Angel Protocol",
+      symbol: "HALO",
+      name: "Angel Protocol Token",
+      token: "https://angelprotocol.io/favicon.png",
+      icon: "terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
