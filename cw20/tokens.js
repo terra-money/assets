@@ -452,6 +452,14 @@ module.exports = {
       icon: "https://static.lido.fi/stSOL/stSOL.png",
       decimals: 8
     },
+    terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z: {
+      protocol: "Wormhole",
+      symbol: "whLDO",
+      name: "Lido DAO Token (Wormhole)",
+      token: "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z",
+      icon: "https://static.lido.fi/LDO/LDO.png",
+      decimals: 8
+    },
     terra169edevav3pdrtjcx35j6pvzuv54aevewar4nlh: {
       protocol: "Wormhole",
       symbol: "whXDEFI",
