@@ -460,6 +460,14 @@ module.exports = {
       icon: "https://static.lido.fi/LDO/LDO.png",
       decimals: 8
     },
+    terra1yg3j2s986nyp5z7r2lvt0hx3r0lnd7kwvwwtsc: {
+      protocol: "Lido",
+      symbol: "stLuna",
+      name: "Lido staked Luna",
+      token: "terra1yg3j2s986nyp5z7r2lvt0hx3r0lnd7kwvwwtsc",
+      icon: "https://static.lido.fi/stLUNA/stLUNA.png",
+      decimals: 6
+    },
     terra169edevav3pdrtjcx35j6pvzuv54aevewar4nlh: {
       protocol: "Wormhole",
       symbol: "XDEFI",
