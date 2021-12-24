@@ -287,6 +287,14 @@ module.exports = {
       icon: "https://terrafloki.io/terrafloki_logo.png",
       marketplace: ["https://terrafloki.io/app/nft/marketplace"],
     },
+    terra1snja2twmwx656qp6juq8jpah4h80pxvwsgsvev: {
+      contract: "terra1snja2twmwx656qp6juq8jpah4h80pxvwsgsvev",
+      name: "CONGRATS",
+      symbol: "CONGRATS",
+      icon: "https://gateway.pinata.cloud/ipfs/QmUuuqLSYmTgzMYhM5DVqweais1fmMLmUzenuYWMMxpkuY?preview=1",
+      homepage: "https://terra.money",
+      marketplace: ["https://randomearth.io/collections/terra1snja2twmwx656qp6juq8jpah4h80pxvwsgsvev"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
