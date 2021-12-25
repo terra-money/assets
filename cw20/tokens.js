@@ -943,5 +943,13 @@ module.exports = {
       icon: "https://terrafloki.io/ticket2_logo.png",
       decimals: 6
     },
+    terra1skhz70xtsjvmx29zp5tdrqu84amc7nzrlvw9st: {
+      protocol: "Noks",
+      symbol: "DASNOKU",
+      name: "Nokscoin",
+      token: "terra1skhz70xtsjvmx29zp5tdrqu84amc7nzrlvw9st",
+      icon: "https://raw.githubusercontent.com/orbitalwolf/noks/main/logo.png",
+      decimals: 6
+    },
   }
 }
