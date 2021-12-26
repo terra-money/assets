@@ -38,6 +38,7 @@ module.exports = {
       name: "LunaBulls",
       symbol: "LB",
       homepage: "https://lunabulls.com",
+      icon: "https://lunabulls.com/wp-content/uploads/2021/12/DP.png",
       marketplace: [
         "https://randomearth.io/collections/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
         "https://knowhere.art/collection/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
