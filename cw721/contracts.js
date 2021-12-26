@@ -37,7 +37,6 @@ module.exports = {
       contract: "terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
       name: "LunaBulls",
       symbol: "LB",
-      icon: "http://lunabulls.com/wp-content/uploads/2021/12/DP.png",
       homepage: "https://lunabulls.com",
       marketplace: [
         "https://randomearth.io/collections/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
