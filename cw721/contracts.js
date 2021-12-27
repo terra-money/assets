@@ -295,6 +295,13 @@ module.exports = {
       homepage: "https://terra.money",
       marketplace: ["https://randomearth.io/collections/terra1snja2twmwx656qp6juq8jpah4h80pxvwsgsvev"],
     },
+    terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt: {
+      contract: "terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt",
+      name: "HellCats",
+      symbol: "HELLCATS",
+      icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
+      homepage: "https://www.hellcatsnft.com",
+    }
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
@@ -303,5 +310,12 @@ module.exports = {
       contract: "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm",
       icon: "https://www.redeyedspacetoads.io/rest_icon.svg",
     },
+    terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f: {
+      contract: "terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f",
+      name: "HellCats",
+      symbol: "HELLCATS",
+      icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
+      homepage: "https://www.hellcatsnft.com",
+    }
   },
 };
