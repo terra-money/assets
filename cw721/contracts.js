@@ -301,7 +301,10 @@ module.exports = {
       symbol: "WAGMI",
       icon: "https://wagmimonkeez.com/wp-content/uploads/2021/10/Monkey-70x70-Astronaut.png",
       homepage: "https://www.wagmimonkeez.com",
-      marketplace: ["https://randomearth.io/collections/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk"],
+      marketplace: [
+        "https://randomearth.io/collections/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk",
+        "https://knowhere.art/collection/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk"
+      ],
     },
   },
   testnet: {
