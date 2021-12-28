@@ -295,6 +295,17 @@ module.exports = {
       homepage: "https://terra.money",
       marketplace: ["https://randomearth.io/collections/terra1snja2twmwx656qp6juq8jpah4h80pxvwsgsvev"],
     },
+    terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk: {
+      contract: "terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk",
+      name: "wagmimonkeez",
+      symbol: "WAGMI",
+      icon: "https://wagmimonkeez.com/wp-content/uploads/2021/10/Monkey-70x70-Astronaut.png",
+      homepage: "https://www.wagmimonkeez.com",
+      marketplace: [
+        "https://randomearth.io/collections/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk",
+        "https://knowhere.art/collection/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk"
+      ],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
