@@ -302,7 +302,7 @@ module.exports = {
       icon: "https://wagmimonkeez.com/wp-content/uploads/2021/10/Monkey-70x70-Astronaut.png",
       homepage: "http://www.wagmimonkeez.com",
       marketplace: ["https://randomearth.io/collections/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk"],
-    }
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
