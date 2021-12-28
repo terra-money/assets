@@ -40,6 +40,10 @@ module.exports = {
       "uluna",
       "terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp"
     ],
+    terra1l7xu2rl3c7qmtx3r5sd2tz25glf6jh8ul7aag7: [
+      "uusd",
+      "terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3"
+    ],
   },
   testnet: {}
 }
