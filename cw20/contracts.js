@@ -1035,9 +1035,14 @@ module.exports = {
       name: "PLY-UST LP",
       icon: "https://playnity.io/uploads/logo/logo100.png",
     },
+    terra1gndu6x3j57znc3yec9t5kayahdr0a6dx4xtj29: {
+      protocol: "PlayNity",
+      name: "PLY StarTerra Public Sale Vesting",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
     terra1ur4ycdastenmq6v0ljn9d5zcp0ctcc59t6tjl4: {
       protocol: "PlayNity",
-      name: "PLY Vesting Presale",
+      name: "PLY Vesting",
       icon: "https://playnity.io/uploads/logo/logo100.png",
     },
     terra1fvq04l6pzslhxf7yyxhfmz5hv64xsye8vcmgzt: {
