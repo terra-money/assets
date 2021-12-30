@@ -304,7 +304,12 @@ module.exports = {
       marketplace: [
         "https://randomearth.io/collections/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk",
         "https://knowhere.art/collection/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk"
-      ],
+    },
+    terra1vx8aunlj6z5yewqr4cg4g0yl28836ddc4xfyqk: {
+      contract: "terra1vx8aunlj6z5yewqr4cg4g0yl28836ddc4xfyqk",
+      name: "Sushi Armageddon",
+      symbol: "ANCHANTEDSUSHI",
+      marketplace: ["https://talis.art/collection/terra1vx8aunlj6z5yewqr4cg4g0yl28836ddc4xfyqk"],
     },
   },
   testnet: {
