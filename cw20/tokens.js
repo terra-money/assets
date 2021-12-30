@@ -570,6 +570,14 @@ module.exports = {
       icon: "https://angelprotocol.io/favicon.png",
       decimals: 6,
     },
+    terra1kdfsdm3c4reun9j3m4mk3nmyw4a4ns7mj24q3j: {
+      protocol: "AstroPug",
+      symbol: "PUG",
+      name: "AstroPug Token",
+      token: "terra1kdfsdm3c4reun9j3m4mk3nmyw4a4ns7mj24q3j",
+      icon: "https://raw.githubusercontent.com/astropug/astropug-world/master/logo.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
