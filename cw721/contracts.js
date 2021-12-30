@@ -306,6 +306,16 @@ module.exports = {
         "https://knowhere.art/collection/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk"
       ],
     },
+    terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt: {
+      contract: "terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt",
+      name: "HellCats",
+      symbol: "HELLCATS",
+      icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
+      homepage: "https://www.hellcatsnft.com",
+      marketplace: [
+        "https://marketplace.luart.io/collections/terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt"
+      ],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
@@ -313,6 +323,16 @@ module.exports = {
       symbol: "RESToads",
       contract: "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm",
       icon: "https://www.redeyedspacetoads.io/rest_icon.svg",
+    },
+    terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f: {
+      contract: "terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f",
+      name: "HellCats",
+      symbol: "HELLCATS",
+      icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
+      homepage: "https://www.hellcatsnft.com",
+      marketplace: [
+        "https://marketplace.luart.io/collections/terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f"
+      ],
     },
   },
 };
