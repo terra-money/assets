@@ -578,6 +578,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/astropug/astropug-world/master/logo.png",
       decimals: 6,
     },
+    terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf: {
+      protocol: "Orne",
+      symbol: "ORNE",
+      name: "Orne Token",
+      token: "terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf",
+      icon: "https://orne.io/img/token_icon.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
@@ -925,14 +933,6 @@ module.exports = {
       name: "Whale Token",
       token: "terra183cvzy6knvva6mpvzcq86uyfxw0nd4925m0d0m",
       icon: "https://www.whitewhale.money/tokenlogo.png",
-      decimals: 6
-    },
-    terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf: {
-      protocol: "Orne",
-      symbol: "ORNE",
-      name: "Orne Token",
-      token: "terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf",
-      icon: "https://orne.io/img/token_icon.png",
       decimals: 6
     },
     terra1zzthh0mxnm7yhkp79sqfmh9vd3p93d5tzkk7zj: {
