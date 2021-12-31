@@ -314,7 +314,7 @@ module.exports = {
       dex: "astroport",
       type: "xyk",
       assets: ["terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3", "uusd"]
-    }
+    },
   },
   testnet: {
     terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu: {
