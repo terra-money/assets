@@ -316,6 +316,16 @@ module.exports = {
         "https://marketplace.luart.io/collections/terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt"
       ],
     },
+    terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd : {
+      contract: "terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd",
+      name: "Luna Monkey Business",
+      symbol: "LMB",
+      icon: "https://i.postimg.cc/7Zrd21cj/LMB-removebg-preview.png",
+      homepage: "https://lunamonkey.business/",
+      marketplace: [
+        "https://randomearth.io/collections/terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd"
+                   ],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
