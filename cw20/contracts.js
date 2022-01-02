@@ -645,6 +645,16 @@ module.exports = {
       name: "SPEC Kujira Farm",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
+    terra1kr82wxlvg773vjay95epyckna9g4vppjyfxgd0: {
+      protocol: "Spectrum",
+      name: "SPEC bPsiDP-24m Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1gyqyhjppy3k77wltnmqt29ms340mmayk7ank4e: {
+      protocol: "Spectrum",
+      name: "SPEC Burn Vault",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
     terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5: {
       protocol: "StarTerra",
       name: "STT/LP Staking Faction Lunatics",
@@ -1685,6 +1695,16 @@ module.exports = {
     terra16ppenx9paca846mj39axlqhtxgz8n9az5pantj: {
       protocol: "Spectrum",
       name: "SPEC Kujira Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1h909lafatcmxeqzgw030xudx965j7ulud5fwmm: {
+      protocol: "Spectrum",
+      name: "SPEC bPsiDP-24m Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1l3g2yv5cqwdtrxeun4a76jkq45gwwm682usvs4: {
+      protocol: "Spectrum",
+      name: "SPEC Burn Vault",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
     terra1cxz4m6rvq9vkw8x9f3gqtuex6t5ulm6sr3j4qz: {
