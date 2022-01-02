@@ -316,6 +316,24 @@ module.exports = {
         "https://marketplace.luart.io/collections/terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt"
       ],
     },
+    terra139pqfy6armpauyqqhev7tdncs64gs26frj92y3: {
+      contract: "terra139pqfy6armpauyqqhev7tdncs64gs26frj92y3",
+      name: "Women Vs Apes",
+      symbol: "WVA",
+      icon: "https://womenvsapes.io/icon.png",
+      homepage: "https://womenvsapes.io/",
+      marketplace: [
+        "https://randomearth.io/collections/terra139pqfy6armpauyqqhev7tdncs64gs26frj92y3",
+      ],
+    },
+    terra15fzcwv4sjy6twzas3kgf77a5h8l0nhjddl8ark: {
+      contract: "terra15fzcwv4sjy6twzas3kgf77a5h8l0nhjddl8ark",
+      name: "Women Vs Apes Weapons",
+      symbol: "WVAW",
+      icon: "https://womenvsapes.io/icon.png",
+      homepage: "https://womenvsapes.io/",
+      marketplace: [""],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
