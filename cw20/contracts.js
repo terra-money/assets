@@ -1035,6 +1035,11 @@ module.exports = {
       name: "Marketing",
       icon: "https://assets.kujira.app/kuji.png",
     },
+    terra1r3kkmkhysk2gjeq3rutjgfu4e79m3jhw6w72w5: {
+      protocol: "Kujira",
+      name: "Operational",
+      icon: "https://assets.kujira.app/kuji.png",
+    },
     terra19fjaurx28dq4wgnf9fv3qg0lwldcln3jqafzm6: {
       protocol: "Terraswap",
       name: "PLY-UST Pair",
