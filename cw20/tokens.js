@@ -452,6 +452,30 @@ module.exports = {
       icon: "https://static.lido.fi/stSOL/stSOL.png",
       decimals: 8
     },
+    terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z: {
+      protocol: "Wormhole",
+      symbol: "whLDO",
+      name: "Lido DAO Token (Wormhole)",
+      token: "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z",
+      icon: "https://static.lido.fi/LDO/LDO.png",
+      decimals: 8
+    },
+    terra1yg3j2s986nyp5z7r2lvt0hx3r0lnd7kwvwwtsc: {
+      protocol: "Lido",
+      symbol: "stLuna",
+      name: "Lido staked Luna",
+      token: "terra1yg3j2s986nyp5z7r2lvt0hx3r0lnd7kwvwwtsc",
+      icon: "https://static.lido.fi/stLUNA/stLUNA.png",
+      decimals: 6
+    },
+    terra169edevav3pdrtjcx35j6pvzuv54aevewar4nlh: {
+      protocol: "Wormhole",
+      symbol: "XDEFI",
+      name: "XDEFI (Wormhole)",
+      token: "terra169edevav3pdrtjcx35j6pvzuv54aevewar4nlh",
+      icon: "https://github.com/sushiswap/assets/blob/master/blockchains/ethereum/assets/0x72B886d09C117654aB7dA13A14d603001dE0B777/logo.png?raw=true",
+      decimals: 8
+    },
     terra1a7zxk56c72elupp7p44hn4k94fsvavnhylhr6h: {
       protocol: "Mars",
       symbol: "MARS",
@@ -537,6 +561,30 @@ module.exports = {
       name: "Astroport Token",
       token: "terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3",
       icon: "https://astroport.fi/astro_logo.png",
+    },
+    terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq: {
+      protocol: "Angel Protocol",
+      symbol: "HALO",
+      name: "Angel Protocol Token",
+      token: "terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq",
+      icon: "https://angelprotocol.io/favicon.png",
+      decimals: 6,
+    },
+    terra1kdfsdm3c4reun9j3m4mk3nmyw4a4ns7mj24q3j: {
+      protocol: "AstroPug",
+      symbol: "PUG",
+      name: "AstroPug Token",
+      token: "terra1kdfsdm3c4reun9j3m4mk3nmyw4a4ns7mj24q3j",
+      icon: "https://raw.githubusercontent.com/astropug/astropug-world/master/logo.png",
+      decimals: 6,
+    },
+    terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf: {
+      protocol: "Orne",
+      symbol: "ORNE",
+      name: "Orne Token",
+      token: "terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf",
+      icon: "https://orne.io/img/token_icon.png",
+      decimals: 6
     },
   },
   testnet: {
@@ -887,14 +935,6 @@ module.exports = {
       icon: "https://www.whitewhale.money/tokenlogo.png",
       decimals: 6
     },
-    terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf: {
-      protocol: "Orne",
-      symbol: "ORNE",
-      name: "Orne Token",
-      token: "terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf",
-      icon: "https://orne.io/img/token_icon.png",
-      decimals: 6
-    },
     terra1zzthh0mxnm7yhkp79sqfmh9vd3p93d5tzkk7zj: {
       protocol: "TerraFloki",
       symbol: "TFLOKI",
@@ -917,6 +957,14 @@ module.exports = {
       name: "TFLOKI New World Ticket",
       token: "terra1ymmyhewmty4zepeuylmfpfqtmnqa88gparwu3u",
       icon: "https://terrafloki.io/ticket2_logo.png",
+      decimals: 6
+    },
+    terra1skhz70xtsjvmx29zp5tdrqu84amc7nzrlvw9st: {
+      protocol: "Noks",
+      symbol: "DASNOKU",
+      name: "Nokscoin",
+      token: "terra1skhz70xtsjvmx29zp5tdrqu84amc7nzrlvw9st",
+      icon: "https://raw.githubusercontent.com/orbitalwolf/noks/main/logo.png",
       decimals: 6
     },
   }

@@ -645,6 +645,16 @@ module.exports = {
       name: "SPEC Kujira Farm",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
+    terra1kr82wxlvg773vjay95epyckna9g4vppjyfxgd0: {
+      protocol: "Spectrum",
+      name: "SPEC bPsiDP-24m Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1gyqyhjppy3k77wltnmqt29ms340mmayk7ank4e: {
+      protocol: "Spectrum",
+      name: "SPEC Burn Vault",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
     terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5: {
       protocol: "StarTerra",
       name: "STT/LP Staking Faction Lunatics",
@@ -1015,6 +1025,16 @@ module.exports = {
       name: "Platform Fee Lockbox",
       icon: "https://assets.kujira.app/kuji.png",
     },
+    terra1nzyzc80sk9y6k58frdt8ye4y2qjq8myz44kg2w: {
+      protocol: "Kujira",
+      name: "Airdrops",
+      icon: "https://assets.kujira.app/kuji.png",
+    },
+    terra1l0c5kmclu5zkd5jwud3pzmv2j86puchnssnxwf: {
+      protocol: "Kujira",
+      name: "Marketing",
+      icon: "https://assets.kujira.app/kuji.png",
+    },
     terra19fjaurx28dq4wgnf9fv3qg0lwldcln3jqafzm6: {
       protocol: "Terraswap",
       name: "PLY-UST Pair",
@@ -1025,9 +1045,14 @@ module.exports = {
       name: "PLY-UST LP",
       icon: "https://playnity.io/uploads/logo/logo100.png",
     },
+    terra1gndu6x3j57znc3yec9t5kayahdr0a6dx4xtj29: {
+      protocol: "PlayNity",
+      name: "PLY StarTerra Public Sale Vesting",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
     terra1ur4ycdastenmq6v0ljn9d5zcp0ctcc59t6tjl4: {
       protocol: "PlayNity",
-      name: "PLY Vesting Presale",
+      name: "PLY Vesting",
       icon: "https://playnity.io/uploads/logo/logo100.png",
     },
     terra1fvq04l6pzslhxf7yyxhfmz5hv64xsye8vcmgzt: {
@@ -1670,6 +1695,16 @@ module.exports = {
     terra16ppenx9paca846mj39axlqhtxgz8n9az5pantj: {
       protocol: "Spectrum",
       name: "SPEC Kujira Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1h909lafatcmxeqzgw030xudx965j7ulud5fwmm: {
+      protocol: "Spectrum",
+      name: "SPEC bPsiDP-24m Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1l3g2yv5cqwdtrxeun4a76jkq45gwwm682usvs4: {
+      protocol: "Spectrum",
+      name: "SPEC Burn Vault",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
     terra1cxz4m6rvq9vkw8x9f3gqtuex6t5ulm6sr3j4qz: {
