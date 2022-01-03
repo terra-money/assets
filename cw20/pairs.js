@@ -208,6 +208,10 @@ module.exports = {
       "uusd", 
       "terra140k6k2pmh2lmy4q4wyz5znqmtgwvs3gkgfeevq",
     ],
+    terra1hqnk9expq3k4la2ruzdnyapgndntec4fztdyln: [
+      "uusd", 
+      "terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y",
+    ]
   },
   testnet: {
     terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu: [

@@ -344,6 +344,17 @@ module.exports = {
       homepage: "https://womenvsapes.io/",
       marketplace: [""],
     },
+    terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda: {
+      contract: "terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda",
+      name: "Terra Name Service",
+      symbol: "TNS",
+      icon: "https://tns.money/static/images/tns.png",
+      homepage: "https://tns.money/",
+      marketplace: [
+        "https://knowhere.art/collection/terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda",
+        "https://randomearth.io/collections/terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda"
+      ],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
