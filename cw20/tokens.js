@@ -906,6 +906,13 @@ module.exports = {
       token: "terra1juwtwk5qymhz7s3hn0vx6tkqst54ud6wfjknvp",
       icon: "https://starterra.io/assets/100x100_starterra.png"
     },
+    terra1a8hskrwnccq0v7gq3n24nraaqt7yevzy005uf5: {
+      protocol: "ValkyrieProtocol",
+      symbol: "VKR",
+      name: "VKR Token",
+      token: "terra1a8hskrwnccq0v7gq3n24nraaqt7yevzy005uf5",
+      icon: "https://app.valkyrieprotocol.com/icon_vkr.png"
+    },
     terra18xfqhtfaz2su55zmurmh02ng9lnhw0xnyplvln: {
       protocol: "TerraWorld",
       symbol: "TWD",
