@@ -586,6 +586,14 @@ module.exports = {
       icon: "https://orne.io/img/token_icon.png",
       decimals: 6
     },
+    terra1td743l5k5cmfy7tqq202g7vkmdvq35q48u2jfm: {
+      protocol: "Thorstarter",
+      symbol: "XRUNE",
+      name: "Thorstarter",
+      token: "terra1td743l5k5cmfy7tqq202g7vkmdvq35q48u2jfm",
+      icon: "https://thorstarter.org/static/img/src/favicon.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
