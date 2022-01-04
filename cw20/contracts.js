@@ -1110,6 +1110,56 @@ module.exports = {
       name: "TerraFloki UST-TFLOKI LP Aviator Staking",
       icon: "https://terrafloki.io/ticket3_logo.png"
     },
+    terra1hqnk9expq3k4la2ruzdnyapgndntec4fztdyln: {
+      protocol: "Terra Name Service",
+      name: "UST-TNS Pair",
+      icon: "https://tns.money/static/images/tns.png",
+    },
+    terra1kg9vmu4e43d3pz0dfsdg9vzwgnnuf6uf3z9jwj: {
+      protocol: "Terra Name Service",
+      name: "UST-TNS LP",
+      icon: "https://tns.money/static/images/tns.png",
+    },
+    terra1u94zwrreyz3t0jx25nl7800pxsrk6e6dwjqpsx: {
+      protocol: "Terra Name Service",
+      name: "UST-TNS Staking",
+      icon: "https://tns.money/static/images/tns.png",
+    },   
+    terra1jfk9saed6c4n40qwe54mcxmgs8kz4husly3jx4: {      
+      protocol: "Terra Name Service",
+      name: "Controller",
+      icon: "https://tns.money/static/images/tns.png",      
+    },    
+    terra19gqw63xnt9237d2s8cdrzstn98g98y7hkl80gs: {      
+      protocol: "Terra Name Service",
+      name: "Registry",      
+      icon: "https://tns.money/static/images/tns.png",      
+    },
+    terra1uhr0lncf04nhwn5p2uaellepery0lgphl09ut8: {      
+      protocol: "Terra Name Service",
+      name: "Default Resolver",      
+      icon: "https://tns.money/static/images/tns.png",      
+    },
+    terra1a5thpf2gdrrneewjkutyz5q6zr2kn8ymg0cxn9: {
+      protocol: "Terra Name Service",
+      name: "Governance",      
+      icon: "https://tns.money/static/images/tns.png",      
+    },
+    terra1ua7mgqjjx04k3syhl0ast3hujy5tfu9440srp9: {
+      protocol: "Terra Name Service",
+      name: "Airdrop",      
+      icon: "https://tns.money/static/images/tns.png",      
+    },
+    terra1sqyyzqf3qjgq2ypkkjmcf9tg3pt3dlt9w8syen: {
+      protocol: "Terra Name Service",
+      name: "Community Pool",      
+      icon: "https://tns.money/static/images/tns.png",      
+    },
+    terra1rtxau4as3e05gkffjxysdzr3l4mwd39r35sjnc: {
+      protocol: "Terra Name Service",
+      name: "Team Multisignature Warchest",
+      icon: "https://tns.money/static/images/tns.png",
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
