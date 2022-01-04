@@ -974,6 +974,6 @@ module.exports = {
       token: "terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y",
       icon: "https://tns.money/static/images/tns.png",
       decimals: 6
-    }
+    },
   }
 }
