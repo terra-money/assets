@@ -586,6 +586,14 @@ module.exports = {
       icon: "https://orne.io/img/token_icon.png",
       decimals: 6
     },
+    terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y: {
+      protocol: "Terra Name Service",
+      symbol: "TNS",
+      name: "Terra Name Service",
+      token: "terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y",
+      icon: "https://tns.money/static/images/tns.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
@@ -973,14 +981,6 @@ module.exports = {
       token: "terra1skhz70xtsjvmx29zp5tdrqu84amc7nzrlvw9st",
       icon: "https://raw.githubusercontent.com/orbitalwolf/noks/main/logo.png",
       decimals: 6
-    },
-    terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y: {
-      protocol: "Terra Name Service",
-      symbol: "TNS",
-      name: "Terra Name Service",
-      token: "terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y",
-      icon: "https://tns.money/static/images/tns.png",
-      decimals: 6
-    },
+    },    
   }
 }
