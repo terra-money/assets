@@ -586,6 +586,14 @@ module.exports = {
       icon: "https://orne.io/img/token_icon.png",
       decimals: 6
     },
+    terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y: {
+      protocol: "Terra Name Service",
+      symbol: "TNS",
+      name: "Terra Name Service",
+      token: "terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y",
+      icon: "https://tns.money/static/images/tns.png",
+      decimals: 6
+    },
     terra1td743l5k5cmfy7tqq202g7vkmdvq35q48u2jfm: {
       protocol: "Thorstarter",
       symbol: "XRUNE",
@@ -914,6 +922,13 @@ module.exports = {
       token: "terra1juwtwk5qymhz7s3hn0vx6tkqst54ud6wfjknvp",
       icon: "https://starterra.io/assets/100x100_starterra.png"
     },
+    terra1a8hskrwnccq0v7gq3n24nraaqt7yevzy005uf5: {
+      protocol: "ValkyrieProtocol",
+      symbol: "VKR",
+      name: "VKR Token",
+      token: "terra1a8hskrwnccq0v7gq3n24nraaqt7yevzy005uf5",
+      icon: "https://app.valkyrieprotocol.com/icon_vkr.png"
+    },
     terra18xfqhtfaz2su55zmurmh02ng9lnhw0xnyplvln: {
       protocol: "TerraWorld",
       symbol: "TWD",
@@ -974,14 +989,6 @@ module.exports = {
       token: "terra1skhz70xtsjvmx29zp5tdrqu84amc7nzrlvw9st",
       icon: "https://raw.githubusercontent.com/orbitalwolf/noks/main/logo.png",
       decimals: 6
-    },
-    terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y: {
-      protocol: "Terra Name Service",
-      symbol: "TNS",
-      name: "Terra Name Service",
-      token: "terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y",
-      icon: "https://tns.money/static/images/tns.png",
-      decimals: 6
-    },
+    },    
   }
 }
