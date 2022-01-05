@@ -340,7 +340,7 @@ module.exports = {
       contract: "terra15fzcwv4sjy6twzas3kgf77a5h8l0nhjddl8ark",
       name: "Women Vs Apes Weapons",
       symbol: "WVAW",
-      icon: "https://womenvsapes.io/icon.png",
+      icon: "https://ipfs.io/ipfs/bafkreiavhmsnvynome3lyqazettc53nnoppy3xk3bahbm2mfoubuhfeb2e",
       homepage: "https://womenvsapes.io/",
       marketplace: [""],
     },
