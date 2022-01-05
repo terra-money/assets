@@ -1160,6 +1160,11 @@ module.exports = {
       name: "Team Multisignature Warchest",
       icon: "https://tns.money/static/images/tns.png",
     },
+    terra18lhpvps8hay8mtt3vd0cptukzhmlvpssq79h5r: {
+      protocol: "Terra Name Service",
+      name: "Collector",
+      icon: "https://tns.money/static/images/tns.png",
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
