@@ -602,6 +602,14 @@ module.exports = {
       icon: "https://thorstarter.org/static/img/src/favicon.png",
       decimals: 6
     },
+    terra1366wmr8t8rrkh6mag8fagqxntmf2qe4kyte784: {
+      protocol: "LoT",
+      symbol: "aLOT",
+      name: "Alpha Pack Token",
+      token: "terra1366wmr8t8rrkh6mag8fagqxntmf2qe4kyte784",
+      icon: "https://ipfs.playlot.io/icon/profile-logo.png",
+      decimals: 0
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
@@ -989,6 +997,6 @@ module.exports = {
       token: "terra1skhz70xtsjvmx29zp5tdrqu84amc7nzrlvw9st",
       icon: "https://raw.githubusercontent.com/orbitalwolf/noks/main/logo.png",
       decimals: 6
-    },    
+    },
   }
 }
