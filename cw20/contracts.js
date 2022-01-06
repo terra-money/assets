@@ -1165,6 +1165,11 @@ module.exports = {
       name: "Collector",
       icon: "https://tns.money/static/images/tns.png",
     },
+    terra18s7n93ja9nh37mttu66rhtsw05dxrcpsmw0c45: {
+      protocol: "Thorstarter",
+      name: "Thorstarter Tiers",
+      icon: "https://thorstarter.org/static/img/src/favicon.png",
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
