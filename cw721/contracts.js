@@ -355,6 +355,14 @@ module.exports = {
         "https://randomearth.io/collections/terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda"
       ],
     },
+    terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v: {
+      contract: "terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v",
+      name: "Dirty Bear Country Club",
+      symbol: "BEAR",
+      homepage: "https://www.dirtybearcountryclub.com/",
+      icon: "https://gateway.pinata.cloud/ipfs/Qmb3xqEaHfiXybYQnnHektUXGUU3t1oXoqHy4U19tQ2KTk?preview=1",
+      marketplace: ["https://randomearth.io/collections/terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v"]
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
