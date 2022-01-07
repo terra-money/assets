@@ -370,5 +370,9 @@ module.exports = {
       "uusd",
       "terra1a8hskrwnccq0v7gq3n24nraaqt7yevzy005uf5"
     ],
+    terra1tua2wayppm7j76rm2zjk2wg4yy40zfa67cvrmf: [
+      "uluna",
+      "terra1xpz9mlf04c0q3xy9fzgjvmdgwk5e8kageja3mu"
+    ],
   }
 }
