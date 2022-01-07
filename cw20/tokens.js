@@ -998,9 +998,9 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/orbitalwolf/noks/main/logo.png",
       decimals: 6
     },
-    terra1w32efvza7j8t444vzcy3lvtzytallnvex725a8: {
+    terra1xpz9mlf04c0q3xy9fzgjvmdgwk5e8kageja3mu: {
       protocol: "Aurora",
-      symbol: "AURORA",
+      symbol: "NORM",
       name: "Aurora Token",
       token: "terra1xpz9mlf04c0q3xy9fzgjvmdgwk5e8kageja3mu",
       icon: "https://images.pexels.com/photos/1337380/pexels-photo-1337380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
