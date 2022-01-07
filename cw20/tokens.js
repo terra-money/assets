@@ -1000,9 +1000,9 @@ module.exports = {
     },
     terra1w32efvza7j8t444vzcy3lvtzytallnvex725a8: {
       protocol: "Aurora",
-      symbol: "NORM",
+      symbol: "AURORA",
       name: "Aurora Token",
-      token: "terra1w32efvza7j8t444vzcy3lvtzytallnvex725a8",
+      token: "terra1xpz9mlf04c0q3xy9fzgjvmdgwk5e8kageja3mu",
       icon: "https://images.pexels.com/photos/1337380/pexels-photo-1337380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       decimals: 6
     },
