@@ -998,5 +998,13 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/orbitalwolf/noks/main/logo.png",
       decimals: 6
     },
+    terra1w32efvza7j8t444vzcy3lvtzytallnvex725a8: {
+      protocol: "Aurora",
+      symbol: "NORM",
+      name: "Aurora Token",
+      token: "terra1w32efvza7j8t444vzcy3lvtzytallnvex725a8",
+      icon: "https://images.pexels.com/photos/1337380/pexels-photo-1337380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      decimals: 6
+    },
   }
 }
