@@ -1,5 +1,5 @@
 {
-  "$schema": "schemas/web-extension-list.json",
+  "$schema": "https://assets.terra.money/schemas/web-extension-list.json",
   "whitelist": [
     {
       "name": "Terra Station",
