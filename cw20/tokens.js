@@ -553,7 +553,7 @@ module.exports = {
       symbol: "MOON",
       name: "Moon Token",
       token: "terra1hmxxq0y8h79f3228vs0czc4uz5jdgjt0appp26",
-      icon: "https://www.terra-moon.com/logo.png",
+      icon: "https://moon.gl/logo.png",
     },
     terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3: {
       protocol: "Astroport",
