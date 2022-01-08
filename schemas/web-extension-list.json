@@ -23,14 +23,35 @@
           },
           "icon": {
             "type": "string"
+          },
+          "urls": {
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/url_item"
+            }
           }
         },
         "required": [
           "name",
           "identifier",
-          "icon"
+          "icon",
+          "urls"
         ]
       }
+    },
+    "url_item": {
+      "type": "object",
+      "properties": {
+        "browser": {
+          "type": "string",
+          "enum": ["chrome", "edge", "firefox", "safari"]
+        },
+        "url": {
+          "type": "string",
+          "pattern": "^http(.*)$"
+        }
+      },
+      "required": ["browser", "url"]
     }
   }
 }
