@@ -1,0 +1,15 @@
+{
+  "$schema": "https://assets.terra.money/schemas/web-extension-list.json",
+  "whitelist": [
+    {
+      "name": "Terra Station",
+      "identifier": "station",
+      "icon": "https://assets.terra.money/icon/station-extension/icon.png"
+    },
+    {
+      "name": "XDEFI Wallet",
+      "identifier": "xdefi-wallet",
+      "icon": "https://xdefi-prod-common-ui.s3.eu-west-1.amazonaws.com/logo.svg"
+    }
+  ]
+}

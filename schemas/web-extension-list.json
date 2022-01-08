@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "https://assets.terra.money/schemas/web-extension-list.json#",
+  "description": "The extension list for use in wallet-provider",
+  "type": "object",
+  "properties": {
+    "whitelist": {
+      "$ref": "#/definitions/whitelist"
+    }
+  },
+  "required": ["whitelist"],
+  "definitions": {
+    "whitelist": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "identifier": {
+            "type": "string"
+          },
+          "icon": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "identifier",
+          "icon"
+        ]
+      }
+    }
+  }
+}
