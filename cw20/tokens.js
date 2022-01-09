@@ -1006,5 +1006,13 @@ module.exports = {
       icon: "https://images.pexels.com/photos/1337380/pexels-photo-1337380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       decimals: 6
     },
+    terra182zp52a95r3qg6lt0njxr7l0ujkfwan5h7t3l6: {
+      protocol: "Orne",
+      symbol: "ORNE",
+      name: "Orne Token",
+      token: "terra182zp52a95r3qg6lt0njxr7l0ujkfwan5h7t3l6",
+      icon: "https://orne.io/img/token_icon.png",
+      decimals: 6
+    },
   }
 }

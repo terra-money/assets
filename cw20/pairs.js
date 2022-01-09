@@ -374,5 +374,9 @@ module.exports = {
       "uluna",
       "terra1xpz9mlf04c0q3xy9fzgjvmdgwk5e8kageja3mu"
     ],
+    terra1cc5p6u7fm3eh9m2h0jjjay4hlluw5e32mtstjd: [
+      "uusd",
+      "terra182zp52a95r3qg6lt0njxr7l0ujkfwan5h7t3l6"
+    ],
   }
 }
