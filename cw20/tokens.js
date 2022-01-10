@@ -613,7 +613,7 @@ module.exports = {
     terra1z09gnzufuflz6ckd9k0u456l9dnpgsynu0yyhe: {
       protocol: "Curio",
       symbol: "SITY",
-      name: "Curio play to earn token",
+      name: "CurioSITY play to earn token",
       token: "terra1z09gnzufuflz6ckd9k0u456l9dnpgsynu0yyhe",
       icon: "https://www.curio.art/img/logo.svg",
       decimals: 6
