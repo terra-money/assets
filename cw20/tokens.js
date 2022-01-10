@@ -616,7 +616,14 @@ module.exports = {
       name: "CurioSITY play to earn token",
       token: "terra1z09gnzufuflz6ckd9k0u456l9dnpgsynu0yyhe",
       icon: "https://www.curio.art/img/logo.svg",
-      decimals: 6
+      decimals: 6,
+    },
+    terra13zx49nk8wjavedjzu8xkk95r3t0ta43c9ptul7: {
+      protocol: "Glow",
+      symbol: "GLOW",
+      name: "Glow Token",
+      token: "terra13zx49nk8wjavedjzu8xkk95r3t0ta43c9ptul7",
+      icon: "https://glowyield.com/assets/img/icons/glow.png",
     },
   },
   testnet: {
