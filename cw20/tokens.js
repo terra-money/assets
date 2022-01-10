@@ -610,6 +610,14 @@ module.exports = {
       icon: "https://ipfs.playlot.io/icon/profile-logo.png",
       decimals: 0
     },
+    terra13zx49nk8wjavedjzu8xkk95r3t0ta43c9ptul7: {
+      protocol: "Glow",
+      symbol: "GLOW",
+      name: "Glow Token",
+      token: "terra13zx49nk8wjavedjzu8xkk95r3t0ta43c9ptul7",
+      icon: "https://glowyield.com/assets/img/icons/glow.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
