@@ -1997,5 +1997,10 @@ module.exports = {
       name: "TerraFloki UST-TFLOKI LP New World Staking",
       icon: "https://terrafloki.io/ticket2_logo.png"
     },
+    terra1cc5p6u7fm3eh9m2h0jjjay4hlluw5e32mtstjd: {
+      protocol: "Orne",
+      name: "UST-ORNE Pair",
+      icon: "https://orne.io/img/token_icon.png",
+    },
   },
 };
