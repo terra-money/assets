@@ -98,6 +98,30 @@ module.exports = {
         "https://knowhere.art/collection/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7",
       ],
     },
+    terra1vhuyuwwr4rkdpez5f5lmuqavut28h5dt29rpn6: {
+      contract: "terra1vhuyuwwr4rkdpez5f5lmuqavut28h5dt29rpn6",
+      protocol: "Levana Dragons",
+      name: "Levana Dragons",
+      symbol: "LVNDRG",
+      icon: "https://static.meteors.levana.finance/icons/lvndrg.png",
+      homepage: "https://levana.finance/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1vhuyuwwr4rkdpez5f5lmuqavut28h5dt29rpn6",
+        "https://knowhere.art/collection/terra1vhuyuwwr4rkdpez5f5lmuqavut28h5dt29rpn6",
+      ],
+    },
+    terra14gfnxnwl0yz6njzet4n33erq5n70wt79nm24el: {
+      contract: "terra14gfnxnwl0yz6njzet4n33erq5n70wt79nm24el",
+      protocol: "Levana Dragons",
+      name: "Levana Dragons: Loot",
+      symbol: "LVNLOOT",
+      icon: "https://static.meteors.levana.finance/icons/lvnloot.png",
+      homepage: "https://levana.finance/",
+      marketplace: [
+        "https://randomearth.io/collections/terra14gfnxnwl0yz6njzet4n33erq5n70wt79nm24el",
+        "https://knowhere.art/collection/terra14gfnxnwl0yz6njzet4n33erq5n70wt79nm24el",
+      ],
+    },
     terra1ce6jq4da4u49x5mwfdun9jxz5az5uflsgqc067: {
       contract: "terra1ce6jq4da4u49x5mwfdun9jxz5az5uflsgqc067",
       name: "Luna Meow",
