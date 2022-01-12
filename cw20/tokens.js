@@ -610,6 +610,14 @@ module.exports = {
       icon: "https://ipfs.playlot.io/icon/profile-logo.png",
       decimals: 0
     },
+    terra1z09gnzufuflz6ckd9k0u456l9dnpgsynu0yyhe: {
+      protocol: "Curio",
+      symbol: "SITY",
+      name: "CurioSITY play to earn token",
+      token: "terra1z09gnzufuflz6ckd9k0u456l9dnpgsynu0yyhe",
+      icon: "https://www.curio.art/img/logo.svg",
+      decimals: 6
+    },
     terra13zx49nk8wjavedjzu8xkk95r3t0ta43c9ptul7: {
       protocol: "Glow",
       symbol: "GLOW",
