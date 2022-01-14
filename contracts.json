@@ -1,10 +1,12 @@
 {
   "mainnet": {
     "assertLimitOrder": "terra1vs9jr7pxuqwct3j29lez3pfetuu8xmq7tk3lzk",
-    "routeswap": "terra19qx5xe6q9ll4w0890ux7lv2p4mf3csd4qvt3ex"
+    "routeswap": "terra19qx5xe6q9ll4w0890ux7lv2p4mf3csd4qvt3ex",
+    "tnsRegistry": "terra19gqw63xnt9237d2s8cdrzstn98g98y7hkl80gs"
   },
   "testnet": {
     "assertLimitOrder": "terra1z3sf42ywpuhxdh78rr5vyqxpaxa0dx657x5trs",
-    "routeswap": "terra1dtzpdj3lc7prd46tuxj2aqy40uv4v4xsphwcpx"
+    "routeswap": "terra1dtzpdj3lc7prd46tuxj2aqy40uv4v4xsphwcpx",
+    "tnsRegistry": "terra1fmmced3dms3ha2st4y2qj8w5v2zyel7xpg8wpq"
   }
 }

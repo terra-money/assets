@@ -553,7 +553,7 @@ module.exports = {
       symbol: "MOON",
       name: "Moon Token",
       token: "terra1hmxxq0y8h79f3228vs0czc4uz5jdgjt0appp26",
-      icon: "https://www.terra-moon.com/logo.png",
+      icon: "https://moon.gl/logo.png",
     },
     terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3: {
       protocol: "Astroport",
@@ -569,6 +569,62 @@ module.exports = {
       token: "terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq",
       icon: "https://angelprotocol.io/favicon.png",
       decimals: 6,
+    },
+    terra1kdfsdm3c4reun9j3m4mk3nmyw4a4ns7mj24q3j: {
+      protocol: "AstroPug",
+      symbol: "PUG",
+      name: "AstroPug Token",
+      token: "terra1kdfsdm3c4reun9j3m4mk3nmyw4a4ns7mj24q3j",
+      icon: "https://raw.githubusercontent.com/astropug/astropug-world/master/logo.png",
+      decimals: 6,
+    },
+    terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf: {
+      protocol: "Orne",
+      symbol: "ORNE",
+      name: "Orne Token",
+      token: "terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf",
+      icon: "https://orne.io/img/token_icon.png",
+      decimals: 6
+    },
+    terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y: {
+      protocol: "Terra Name Service",
+      symbol: "TNS",
+      name: "Terra Name Service",
+      token: "terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y",
+      icon: "https://tns.money/static/images/tns.png",
+      decimals: 6
+    },
+    terra1td743l5k5cmfy7tqq202g7vkmdvq35q48u2jfm: {
+      protocol: "Thorstarter",
+      symbol: "XRUNE",
+      name: "Thorstarter",
+      token: "terra1td743l5k5cmfy7tqq202g7vkmdvq35q48u2jfm",
+      icon: "https://thorstarter.org/static/img/src/favicon.png",
+      decimals: 6
+    },
+    terra1366wmr8t8rrkh6mag8fagqxntmf2qe4kyte784: {
+      protocol: "LoT",
+      symbol: "aLOT",
+      name: "Alpha Pack Token",
+      token: "terra1366wmr8t8rrkh6mag8fagqxntmf2qe4kyte784",
+      icon: "https://ipfs.playlot.io/icon/profile-logo.png",
+      decimals: 0
+    },
+    terra1z09gnzufuflz6ckd9k0u456l9dnpgsynu0yyhe: {
+      protocol: "Curio",
+      symbol: "SITY",
+      name: "CurioSITY play to earn token",
+      token: "terra1z09gnzufuflz6ckd9k0u456l9dnpgsynu0yyhe",
+      icon: "https://www.curio.art/img/logo.svg",
+      decimals: 6
+    },
+    terra13zx49nk8wjavedjzu8xkk95r3t0ta43c9ptul7: {
+      protocol: "Glow",
+      symbol: "GLOW",
+      name: "Glow Token",
+      token: "terra13zx49nk8wjavedjzu8xkk95r3t0ta43c9ptul7",
+      icon: "https://glowyield.com/assets/img/icons/glow.png",
+      decimals: 6
     },
   },
   testnet: {
@@ -890,6 +946,13 @@ module.exports = {
       token: "terra1juwtwk5qymhz7s3hn0vx6tkqst54ud6wfjknvp",
       icon: "https://starterra.io/assets/100x100_starterra.png"
     },
+    terra1a8hskrwnccq0v7gq3n24nraaqt7yevzy005uf5: {
+      protocol: "ValkyrieProtocol",
+      symbol: "VKR",
+      name: "VKR Token",
+      token: "terra1a8hskrwnccq0v7gq3n24nraaqt7yevzy005uf5",
+      icon: "https://app.valkyrieprotocol.com/icon_vkr.png"
+    },
     terra18xfqhtfaz2su55zmurmh02ng9lnhw0xnyplvln: {
       protocol: "TerraWorld",
       symbol: "TWD",
@@ -917,14 +980,6 @@ module.exports = {
       name: "Whale Token",
       token: "terra183cvzy6knvva6mpvzcq86uyfxw0nd4925m0d0m",
       icon: "https://www.whitewhale.money/tokenlogo.png",
-      decimals: 6
-    },
-    terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf: {
-      protocol: "Orne",
-      symbol: "ORNE",
-      name: "Orne Token",
-      token: "terra1hnezwjqlhzawcrfysczcxs6xqxu2jawn729kkf",
-      icon: "https://orne.io/img/token_icon.png",
       decimals: 6
     },
     terra1zzthh0mxnm7yhkp79sqfmh9vd3p93d5tzkk7zj: {
@@ -957,6 +1012,22 @@ module.exports = {
       name: "Nokscoin",
       token: "terra1skhz70xtsjvmx29zp5tdrqu84amc7nzrlvw9st",
       icon: "https://raw.githubusercontent.com/orbitalwolf/noks/main/logo.png",
+      decimals: 6
+    },
+    terra1xpz9mlf04c0q3xy9fzgjvmdgwk5e8kageja3mu: {
+      protocol: "Aurora",
+      symbol: "NORM",
+      name: "Aurora Token",
+      token: "terra1xpz9mlf04c0q3xy9fzgjvmdgwk5e8kageja3mu",
+      icon: "https://images.pexels.com/photos/1337380/pexels-photo-1337380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      decimals: 6
+    },
+    terra182zp52a95r3qg6lt0njxr7l0ujkfwan5h7t3l6: {
+      protocol: "Orne",
+      symbol: "ORNE",
+      name: "Orne Token",
+      token: "terra182zp52a95r3qg6lt0njxr7l0ujkfwan5h7t3l6",
+      icon: "https://orne.io/img/token_icon.png",
       decimals: 6
     },
   }
