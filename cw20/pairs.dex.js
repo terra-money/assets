@@ -517,5 +517,301 @@ module.exports = {
       type: "xyk",
       assets: ["uusd", "terra182zp52a95r3qg6lt0njxr7l0ujkfwan5h7t3l6"],
     },
+  "terra1dw5j23l6nwge69z0enemutfmyc93c36aqnzjj5": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1jx4lmmke2srcvpjeereetc9hgegp4g5j0p9r2q",
+  "uusd"
+  ]
+  },    
+  "terra13eggta6zqfg03mxgqg9p5paqka7tgaaxnkhuuu": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1kcthelkax4j9x8d3ny6sdag0qmxxynl3qtcrpy",
+  "uusd"
+  ]
+  },  
+  "terra178yhudw6cwtnrn4fq593z87y385m0xe9n6x423": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra17jnhankdfl8vyzj6vejt7ag8uz0cjc9crkl2h7",
+  "uusd"
+  ]
+  },  
+  "terra106a00unep7pvwvcck4wylt4fffjhgkf9a0u6eu": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+  "uusd"
+  ]
+  },  
+  "terra1whns5nyc8sw328uw3qqnyafxd5yfqsytkdkgqz": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra15tztd7v9cmv0rhyh37g843j8vfuzp8kw0k5lqv",
+  "uusd"
+  ]
+  },  
+  "terra1lgazu0ltsxm3ayellqa2mhnhlvgx3hevkqeqy2": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra13xujxcrc9dqft4p9a8ls0w3j0xnzm6y2uvve8n",
+  "uusd"
+  ]
   },
+  "terra18r6rdnkgrg74zew3d8l9nhk0m4xanpeukw3e20": {
+    "dex": "loopswap",
+    "type": "xyk",
+    "assets": [
+    "terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp",
+    "uusd"
+    ]
+    },  
+  "terra1cpzkckgzz90pq8fkumdjc58ee5llrxt2yka9fp": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra15gwkyepfc6xgca5t5zefzwy42uts8l2m4g40k6",
+  "uusd"
+  ]
+  },  
+  "terra15568nqrqcawm263yqcuuuvj5mh763tp8jyscq3": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr",
+  "uusd"
+  ]
+  },  
+  "terra1jfp5ew4tsru98wthajsqegtzaxt49ty4z2qws0": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6",
+  "uusd"
+  ]
+  },
+  "terra1f6d3pggq7h2y7jrgwxp3xh08yhvj8znalql87h": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76",
+  "uusd"
+  ]
+  },
+  "terra1jkr0ef9fpghdru38ht70ds6jfldprgttw6xlek": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr",
+  "uusd"
+  ]
+  },  
+  "terra1kw95x0l3qw5y7jw3j0h3fy83y56rj68wd8w7rc": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr",
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4"
+  ]
+  },  
+  "terra154jt8ppucvvakvqa5fyfjdflsu6v83j4ckjfq3": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+  "terra1jx4lmmke2srcvpjeereetc9hgegp4g5j0p9r2q"
+  ]
+  },  
+  "terra1sgu6yca6yjk0a34l86u6ju4apjcd6refwuhgzv": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "uluna",
+  "uusd"
+  ]
+  },  
+  "terra17e0aslpj3rrt62gwh7utj3fayas4h8dl3y8ju3": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55",
+  "uusd"
+  ]
+  },  
+  "terra17kmgn775v2y9m35gunn3pnw8s2ggv6h95wvkxr": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r",
+  "uusd"
+  ]
+  },  
+  "terra1tksv8cn7j95mecxjhj3dgcz3xtylcw5xkarre7": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+  "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55"
+  ]
+  },  
+  "terra1fgc8tmys2kxzyl39k3gtgw9dlxxuhlqux7k38e": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "uluna",
+  "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55"
+  ]
+  },  
+  "terra1x4msd26x8ncqcng3dapx8306rmgwuwtlg30a2j": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+  "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r"
+  ]
+  },  
+  "terra1tus5ec9qsdht8dapq9ldfnsf8eehnfmwvsut83": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+  "uluna"
+  ]
+  },
+  "terra1pmmfz205es7axymwpl4jj2ruxnevufu3462f02": {
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "uluna",
+  "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r"
+  ]
+  },
+  "terra10s94a5gesvayqlekgn570r3nsnmr8q7lf5zkjp":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+  "terra15a9dr3a2a2lj5fclrw35xxg9yuxg0d908wpf2y"
+  ]
+  },  
+  "terra1v93ll6kqp33unukuwls3pslquehnazudu653au":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp",
+  "uLuna"
+  ]
+  },  
+  "terra12aazc56hv7aj2fcvmhuxve0l4pmayhpn794m0p":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+  "terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq"
+  ]
+  },  
+  "terra1yjg0tuhc6kzwz9jl8yqgxnf2ctwlfumnvscupp":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq",
+  "uusd"
+  ]
+  },  
+  "terra123neekasfmvcs4wa70cgw3j3uvwzqacdz2we03":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu",
+  "uusd"
+  ]
+  },  
+  "terra1a26j00ywq0llvms707hqycwlkl9erwhacr6jve":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+  "terra1kcthelkax4j9x8d3ny6sdag0qmxxynl3qtcrpy"
+  ]
+  },  
+  "terra1efvhm927dehrka0cgpcptt5gvjfdgqm07smawu":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+  "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu"
+  ]
+  },
+  "terra15xxfkxldxse9atz8ce7ne2a047pp09dy428njm":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu",
+  "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76"
+  ]
+  },
+  "terra13ay3hftcft25uazl76q8gmdk993y9nyv9avu2h":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+  "terra15gwkyepfc6xgca5t5zefzwy42uts8l2m4g40k6"
+  ]
+  },
+  "terra16j5f4lp4z8dddm3rhyw8stwrktyhcsc8ll6xtt":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu",
+  "uluna"
+  ]
+  },
+  "terra1w7hny2catfwsv6dq8gfm4zgazx3hmpl3xwzxya":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+  "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76"
+  ]
+  },
+  "terra1me6a35xuzf9ycjaaqyj7798g5tewunp6dzg27e":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra15a9dr3a2a2lj5fclrw35xxg9yuxg0d908wpf2y",
+  "uusd"
+  ]
+  },
+  "terra1wh2jqjkagzyd3yl4sddlapy45ry808xe80fchh":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1xfsdgcemqwxp4hhnyk4rle6wr22sseq7j07dnn",
+  "uusd"
+  ]
+  },	
+"terra13f87x4c87ct5545t3j4mqw4k6jmgds5609z92c":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
+  "terra1xfsdgcemqwxp4hhnyk4rle6wr22sseq7j07dnn"
+  ]
+  },
+"terra1l60336rkawujnwk7lgfq5u0s684r99p3y8hx65":{
+  "dex": "loopswap",
+  "type": "xyk",
+  "assets": [
+  "terra1xfsdgcemqwxp4hhnyk4rle6wr22sseq7j07dnn",
+  "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu"
+  ]
+  },
+ },
 };
