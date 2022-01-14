@@ -303,7 +303,7 @@ module.exports = {
       homepage: "https://www.wagmimonkeez.com",
       marketplace: [
         "https://randomearth.io/collections/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk",
-        "https://knowhere.art/collection/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk"
+        "https://knowhere.art/collection/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk",
       ],
     },
     terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt: {
@@ -312,9 +312,15 @@ module.exports = {
       symbol: "HELLCATS",
       icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
       homepage: "https://www.hellcatsnft.com",
-      marketplace: [
-        "https://marketplace.luart.io/collections/terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt"
-      ],
+      marketplace: ["https://marketplace.luart.io/collections/terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt"],
+    },
+    terra1ay39vslxelklkj7ze6amph5ark6z2nn8x0lyvs: {
+      contract: "terra1ay39vslxelklkj7ze6amph5ark6z2nn8x0lyvs",
+      name: "LUNI",
+      symbol: "LUNI",
+      icon: "https://cdn.luart.io/logos/luni-logo.jpg",
+      homepage: "https://www.luniofficial.com",
+      marketplace: ["https://marketplace.luart.io/collections/terra1ay39vslxelklkj7ze6amph5ark6z2nn8x0lyvst"],
     },
   },
   testnet: {
@@ -330,9 +336,15 @@ module.exports = {
       symbol: "HELLCATS",
       icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
       homepage: "https://www.hellcatsnft.com",
-      marketplace: [
-        "https://marketplace.luart.io/collections/terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f"
-      ],
+      marketplace: ["https://marketplace.luart.io/collections/terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f"],
+    },
+    terra15q700tfhmgx9f807r90fmzaktkz536sd770zfz: {
+      contract: "terra15q700tfhmgx9f807r90fmzaktkz536sd770zfz",
+      name: "LUNI",
+      symbol: "LUNI",
+      icon: "https://cdn.luart.io/logos/luni-logo.jpg",
+      homepage: "https://www.luniofficial.com",
+      marketplace: ["https://marketplace.luart.io/collections/terra15q700tfhmgx9f807r90fmzaktkz536sd770zfz"],
     },
   },
 };
