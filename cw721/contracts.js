@@ -320,7 +320,7 @@ module.exports = {
       symbol: "LUNI",
       icon: "https://cdn.luart.io/logos/luni-logo.jpg",
       homepage: "https://www.luniofficial.com",
-      marketplace: ["https://marketplace.luart.io/collections/terra1ay39vslxelklkj7ze6amph5ark6z2nn8x0lyvst"],
+      marketplace: ["https://marketplace.luart.io/collections/terra1ay39vslxelklkj7ze6amph5ark6z2nn8x0lyvs"],
     },
   },
   testnet: {
