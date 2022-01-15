@@ -442,7 +442,8 @@ module.exports = {
       symbol: "wewstETH",
       name: "Wrapped liquid staked Ether 2.0 (Wormhole)",
       token: "terra133chr09wu8sakfte5v7vd8qzq9vghtkv4tn0ur",
-      icon: "https://static.lido.fi/wstETH/wstETH.png"
+      icon: "https://static.lido.fi/wstETH/wstETH.png",
+      decimals: 8
     },
     terra1t9ul45l7m6jw6sxgvnp8e5hj8xzkjsg82g84ap: {
       protocol: "Wormhole",
