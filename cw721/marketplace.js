@@ -12,10 +12,5 @@ module.exports = [
     "name": "Curio",
     "link": "https://curio.art",
     "icon": "https://www.curio.art/img/logo.svg"
-  },
-  {
-    "name": "Luart",
-    "link": "https://marketplace.luart.io/",
-    "icon": "https://marketplace.luart.io/images/logo.svg"
-  },
+  }
 ];
