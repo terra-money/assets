@@ -355,6 +355,26 @@ module.exports = {
         "https://randomearth.io/collections/terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda"
       ],
     },
+    terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep: {
+      contract: "terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
+      name: "Styllar Avatars",
+      symbol: "STYLL",
+      icon: "https://randomearth-mirror.s3.us-east-2.amazonaws.com/styllar-icon.png",
+      homepage: "https://styllar.com/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
+      ],
+    },
+    terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu: {
+      contract: "terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
+      name: "Styllar Items",
+      symbol: "STYLLX",
+      icon: "https://randomearth-mirror.s3.us-east-2.amazonaws.com/styllar-icon.png",
+      homepage: "https://styllar.com/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
+      ],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
