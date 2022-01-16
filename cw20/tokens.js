@@ -626,6 +626,14 @@ module.exports = {
       icon: "https://glowyield.com/assets/img/icons/glow.png",
       decimals: 6
     },
+    terra100yeqvww74h4yaejj6h733thgcafdaukjtw397: {
+      protocol: "Apollo",
+      symbol: "APOLLO",
+      name: "Apollo DAO Token",
+      token: "terra100yeqvww74h4yaejj6h733thgcafdaukjtw397",
+      icon: "https://finder.extraterrestrial.money/images/APOLLO60.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
