@@ -12,5 +12,5 @@ module.exports = [
     "name": "Curio",
     "link": "https://curio.art",
     "icon": "https://www.curio.art/img/logo.svg"
-  }
+  },
 ];
