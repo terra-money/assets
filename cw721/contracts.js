@@ -387,7 +387,7 @@ module.exports = {
       icon: "https://gateway.pinata.cloud/ipfs/Qmb3xqEaHfiXybYQnnHektUXGUU3t1oXoqHy4U19tQ2KTk?preview=1",
       marketplace: ["https://randomearth.io/collections/terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v"]
     },
-    terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep: {
+        terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep: {
       contract: "terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
       name: "Styllar Avatars",
       symbol: "STYLL",
@@ -406,23 +406,23 @@ module.exports = {
       marketplace: [
         "https://randomearth.io/collections/terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
       ],
+  },
+  testnet: {
+    terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
+      name: "R.E.S.Toads",
+      symbol: "RESToads",
+      contract: "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm",
+      icon: "https://www.redeyedspacetoads.io/rest_icon.svg",
     },
-    testnet: {
-      terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
-        name: "R.E.S.Toads",
-        symbol: "RESToads",
-        contract: "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm",
-        icon: "https://www.redeyedspacetoads.io/rest_icon.svg",
-      },
-      terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f: {
-        contract: "terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f",
-        name: "HellCats",
-        symbol: "HELLCATS",
-        icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
-        homepage: "https://www.hellcatsnft.com",
-        marketplace: [
-          "https://marketplace.luart.io/collections/terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f"
-        ],
-      },
+    terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f: {
+      contract: "terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f",
+      name: "HellCats",
+      symbol: "HELLCATS",
+      icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
+      homepage: "https://www.hellcatsnft.com",
+      marketplace: [
+        "https://marketplace.luart.io/collections/terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f"
+      ],
     },
-  };
+  },
+};
