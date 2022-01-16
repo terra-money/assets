@@ -387,6 +387,14 @@ module.exports = {
       icon: "https://gateway.pinata.cloud/ipfs/Qmb3xqEaHfiXybYQnnHektUXGUU3t1oXoqHy4U19tQ2KTk?preview=1",
       marketplace: ["https://randomearth.io/collections/terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v"]
     },
+    terra1jgn46tu7r9lnwef4ae973phz5v2947wprytxna: {
+      contract: "terra1jgn46tu7r9lnwef4ae973phz5v2947wprytxna",
+      name: "ProtoHeads: Holiday Edition",
+      symbol: "/PH:HE",
+      homepage: "https://www.robotheads.io/",
+      icon: "https://www.robotheads.io/?pgid=kxzscbv8-e07133cf-d9c6-42f7-996a-6b1963d68522",
+      marketplace: ["https://talis.art/collection/61cebf4ced955e48db178f7e"]
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
