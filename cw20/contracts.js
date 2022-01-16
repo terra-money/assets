@@ -1165,6 +1165,11 @@ module.exports = {
       name: "Collector",
       icon: "https://tns.money/static/images/tns.png",
     },
+    terra18s7n93ja9nh37mttu66rhtsw05dxrcpsmw0c45: {
+      protocol: "Thorstarter",
+      name: "Thorstarter Tiers",
+      icon: "https://thorstarter.org/static/img/src/favicon.png",
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
@@ -1991,6 +1996,11 @@ module.exports = {
       protocol: "TerraFloki",
       name: "TerraFloki UST-TFLOKI LP New World Staking",
       icon: "https://terrafloki.io/ticket2_logo.png"
+    },
+    terra1cc5p6u7fm3eh9m2h0jjjay4hlluw5e32mtstjd: {
+      protocol: "Orne",
+      name: "UST-ORNE Pair",
+      icon: "https://orne.io/img/token_icon.png",
     },
   },
 };

@@ -98,6 +98,30 @@ module.exports = {
         "https://knowhere.art/collection/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7",
       ],
     },
+    terra1vhuyuwwr4rkdpez5f5lmuqavut28h5dt29rpn6: {
+      contract: "terra1vhuyuwwr4rkdpez5f5lmuqavut28h5dt29rpn6",
+      protocol: "Levana Dragons",
+      name: "Levana Dragons",
+      symbol: "LVNDRG",
+      icon: "https://static.meteors.levana.finance/icons/lvndrg.png",
+      homepage: "https://levana.finance/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1vhuyuwwr4rkdpez5f5lmuqavut28h5dt29rpn6",
+        "https://knowhere.art/collection/terra1vhuyuwwr4rkdpez5f5lmuqavut28h5dt29rpn6",
+      ],
+    },
+    terra14gfnxnwl0yz6njzet4n33erq5n70wt79nm24el: {
+      contract: "terra14gfnxnwl0yz6njzet4n33erq5n70wt79nm24el",
+      protocol: "Levana Dragons",
+      name: "Levana Dragons: Loot",
+      symbol: "LVNLOOT",
+      icon: "https://static.meteors.levana.finance/icons/lvnloot.png",
+      homepage: "https://levana.finance/",
+      marketplace: [
+        "https://randomearth.io/collections/terra14gfnxnwl0yz6njzet4n33erq5n70wt79nm24el",
+        "https://knowhere.art/collection/terra14gfnxnwl0yz6njzet4n33erq5n70wt79nm24el",
+      ],
+    },
     terra1ce6jq4da4u49x5mwfdun9jxz5az5uflsgqc067: {
       contract: "terra1ce6jq4da4u49x5mwfdun9jxz5az5uflsgqc067",
       name: "Luna Meow",
@@ -355,6 +379,14 @@ module.exports = {
         "https://randomearth.io/collections/terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda"
       ],
     },
+    terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v: {
+      contract: "terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v",
+      name: "Dirty Bear Country Club",
+      symbol: "BEAR",
+      homepage: "https://www.dirtybearcountryclub.com/",
+      icon: "https://gateway.pinata.cloud/ipfs/Qmb3xqEaHfiXybYQnnHektUXGUU3t1oXoqHy4U19tQ2KTk?preview=1",
+      marketplace: ["https://randomearth.io/collections/terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v"]
+    },
     terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep: {
       contract: "terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
       name: "Styllar Avatars",
@@ -375,23 +407,22 @@ module.exports = {
         "https://randomearth.io/collections/terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
       ],
     },
-  },
-  testnet: {
-    terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
-      name: "R.E.S.Toads",
-      symbol: "RESToads",
-      contract: "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm",
-      icon: "https://www.redeyedspacetoads.io/rest_icon.svg",
+    testnet: {
+      terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
+        name: "R.E.S.Toads",
+        symbol: "RESToads",
+        contract: "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm",
+        icon: "https://www.redeyedspacetoads.io/rest_icon.svg",
+      },
+      terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f: {
+        contract: "terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f",
+        name: "HellCats",
+        symbol: "HELLCATS",
+        icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
+        homepage: "https://www.hellcatsnft.com",
+        marketplace: [
+          "https://marketplace.luart.io/collections/terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f"
+        ],
+      },
     },
-    terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f: {
-      contract: "terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f",
-      name: "HellCats",
-      symbol: "HELLCATS",
-      icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
-      homepage: "https://www.hellcatsnft.com",
-      marketplace: [
-        "https://marketplace.luart.io/collections/terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f"
-      ],
-    },
-  },
-};
+  };
