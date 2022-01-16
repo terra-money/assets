@@ -384,8 +384,8 @@ module.exports = {
       icon: "https://gateway.pinata.cloud/ipfs/Qmb3xqEaHfiXybYQnnHektUXGUU3t1oXoqHy4U19tQ2KTk?preview=1",
       marketplace: ["https://randomearth.io/collections/terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v"]
     },
-    terra1ay39vslxelklkj7ze6amph5ark6z2nn8x0lyvs: {
-      contract: "terra1jl75l7dv6eu685rdy8zlhxs9gmc7auw37h90u4",
+    terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e: {
+      contract: "terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e",
       name: "LUNI",
       symbol: "LUNI",
       icon: "https://cdn.luart.io/logos/luni-logo.jpg",
@@ -406,8 +406,8 @@ module.exports = {
       icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
       homepage: "https://www.hellcatsnft.com",
     },
-    terra15q700tfhmgx9f807r90fmzaktkz536sd770zfz: {
-      contract: "terra1s6kp590lh66kat73zlxg3y3va9990p4mnnxuek",
+    terra16sez62vaf4xgdj5f9dxvksdnsuat3k3sd3txrh: {
+      contract: "terra16sez62vaf4xgdj5f9dxvksdnsuat3k3sd3txrh",
       name: "LUNI",
       symbol: "LUNI",
       icon: "https://cdn.luart.io/logos/luni-logo.jpg",
