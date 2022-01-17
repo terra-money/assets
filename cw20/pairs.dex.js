@@ -517,5 +517,15 @@ module.exports = {
       type: "xyk",
       assets: ["uusd", "terra182zp52a95r3qg6lt0njxr7l0ujkfwan5h7t3l6"],
     },
+    terra10k7y9qw63tfwj7e3x4uuzru2u9kvtd4ureajhd: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uusd", "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4"],
+    },
+    terra18raj59xx32kuz66sfg82kqta6q0aslfs3m8s4r: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uusd", "terra1jx4lmmke2srcvpjeereetc9hgegp4g5j0p9r2q"],
+    },
   },
 };
