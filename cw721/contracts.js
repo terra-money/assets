@@ -384,6 +384,26 @@ module.exports = {
       icon: "https://gateway.pinata.cloud/ipfs/Qmb3xqEaHfiXybYQnnHektUXGUU3t1oXoqHy4U19tQ2KTk?preview=1",
       marketplace: ["https://randomearth.io/collections/terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v"]
     },
+    terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep: {
+      contract: "terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
+      name: "Styllar Avatars",
+      symbol: "STYLL",
+      icon: "https://randomearth-mirror.s3.us-east-2.amazonaws.com/styllar-icon.png",
+      homepage: "https://styllar.com/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
+      ],
+    },
+    terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu: {
+      contract: "terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
+      name: "Styllar Items",
+      symbol: "STYLLX",
+      icon: "https://randomearth-mirror.s3.us-east-2.amazonaws.com/styllar-icon.png",
+      homepage: "https://styllar.com/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
+      ],
+    },
     terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e: {
       contract: "terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e",
       name: "LUNI",
