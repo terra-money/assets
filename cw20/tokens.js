@@ -442,7 +442,8 @@ module.exports = {
       symbol: "wewstETH",
       name: "Wrapped liquid staked Ether 2.0 (Wormhole)",
       token: "terra133chr09wu8sakfte5v7vd8qzq9vghtkv4tn0ur",
-      icon: "https://static.lido.fi/wstETH/wstETH.png"
+      icon: "https://static.lido.fi/wstETH/wstETH.png",
+      decimals: 8
     },
     terra1t9ul45l7m6jw6sxgvnp8e5hj8xzkjsg82g84ap: {
       protocol: "Wormhole",
@@ -624,6 +625,14 @@ module.exports = {
       name: "Glow Token",
       token: "terra13zx49nk8wjavedjzu8xkk95r3t0ta43c9ptul7",
       icon: "https://glowyield.com/assets/img/icons/glow.png",
+      decimals: 6
+    },
+    terra100yeqvww74h4yaejj6h733thgcafdaukjtw397: {
+      protocol: "Apollo",
+      symbol: "APOLLO",
+      name: "Apollo DAO Token",
+      token: "terra100yeqvww74h4yaejj6h733thgcafdaukjtw397",
+      icon: "https://finder.extraterrestrial.money/images/APOLLO60.png",
       decimals: 6
     },
   },
