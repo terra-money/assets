@@ -327,7 +327,7 @@ module.exports = {
       homepage: "https://www.wagmimonkeez.com",
       marketplace: [
         "https://randomearth.io/collections/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk",
-        "https://knowhere.art/collection/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk"
+        "https://knowhere.art/collection/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk",
       ],
     },
     terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt: {
@@ -336,9 +336,6 @@ module.exports = {
       symbol: "HELLCATS",
       icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
       homepage: "https://www.hellcatsnft.com",
-      marketplace: [
-        "https://marketplace.luart.io/collections/terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt"
-      ],
     },
     terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd : {
       contract: "terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd",
@@ -387,6 +384,13 @@ module.exports = {
       icon: "https://gateway.pinata.cloud/ipfs/Qmb3xqEaHfiXybYQnnHektUXGUU3t1oXoqHy4U19tQ2KTk?preview=1",
       marketplace: ["https://randomearth.io/collections/terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v"]
     },
+    terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e: {
+      contract: "terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e",
+      name: "LUNI",
+      symbol: "LUNI",
+      icon: "https://cdn.luart.io/logos/luni-logo.jpg",
+      homepage: "https://www.luniofficial.com",
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
@@ -401,9 +405,13 @@ module.exports = {
       symbol: "HELLCATS",
       icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
       homepage: "https://www.hellcatsnft.com",
-      marketplace: [
-        "https://marketplace.luart.io/collections/terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f"
-      ],
+    },
+    terra16sez62vaf4xgdj5f9dxvksdnsuat3k3sd3txrh: {
+      contract: "terra16sez62vaf4xgdj5f9dxvksdnsuat3k3sd3txrh",
+      name: "LUNI",
+      symbol: "LUNI",
+      icon: "https://cdn.luart.io/logos/luni-logo.jpg",
+      homepage: "https://www.luniofficial.com",
     },
   },
 };
