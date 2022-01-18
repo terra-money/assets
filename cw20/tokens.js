@@ -1039,5 +1039,13 @@ module.exports = {
       icon: "https://orne.io/img/token_icon.png",
       decimals: 6
     },
+    terra1d74gfj8gs6rskcuu80x3deus7gut77udhdajv7: {
+      protocol: "Wormhole",
+      symbol: "webETH",
+      name: "Lido Bonded ETH (Wormhole)",
+      token: "terra1d74gfj8gs6rskcuu80x3deus7gut77udhdajv7",
+      icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
+      decimals: 8
+    },
   }
 }
