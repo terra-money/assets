@@ -517,5 +517,10 @@ module.exports = {
       type: "xyk",
       assets: ["uusd", "terra182zp52a95r3qg6lt0njxr7l0ujkfwan5h7t3l6"],
     },
+	terra1hm4gfvl5d65v03wzgvy5lh780dnwk6xtnaeurj: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uusd", "terra16xtp5rmhx4agcas4cyg3srp6m6gauqagh02v9z"],
+    },
   },
 };

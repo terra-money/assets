@@ -1047,5 +1047,13 @@ module.exports = {
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
       decimals: 8
     },
+	terra16xtp5rmhx4agcas4cyg3srp6m6gauqagh02v9z: {
+      protocol: "DogeKwon",
+      symbol: "DKWON",
+      name: "DogeKwon",
+      token: "terra16xtp5rmhx4agcas4cyg3srp6m6gauqagh02v9z",
+      icon: "https://dogekwon.com/static/media/logo.fcdbb30c.png",
+      decimals: 6
+    },
   }
 }

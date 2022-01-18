@@ -2002,5 +2002,10 @@ module.exports = {
       name: "UST-ORNE Pair",
       icon: "https://orne.io/img/token_icon.png",
     },
+	terra1hm4gfvl5d65v03wzgvy5lh780dnwk6xtnaeurj: {
+      protocol: "DogeKwon",
+      name: "UST-DKWON Pair",
+      icon: "https://dogekwon.com/static/media/logo.fcdbb30c.png",
+    },
   },
 };
