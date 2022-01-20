@@ -655,6 +655,14 @@ module.exports = {
       token: "terra19mkj9nec6e3y5754tlnuz4vem7lzh4n0lc2s3l",
       icon: "https://whitelist.anchorprotocol.com/logo/bETH.png"
     },
+    terra1unzu4yghhkr0nvsut8zr5eqw4fuvrr4rakvrwr: {
+      protocol: "Wormhole",
+      symbol: "wewstETH",
+      name: "Wrapped liquid staked Ether 2.0 (Wormhole)",
+      token: "terra1unzu4yghhkr0nvsut8zr5eqw4fuvrr4rakvrwr",
+      icon: "https://static.lido.fi/wstETH/wstETH.png",
+      decimals: 8
+    },
     terra1ajt556dpzvjwl0kl5tzku3fc3p3knkg9mkv8jl: {
       protocol: "Anchor",
       symbol: "aUST",
