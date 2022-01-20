@@ -411,6 +411,13 @@ module.exports = {
       icon: "https://cdn.luart.io/logos/luni-logo.jpg",
       homepage: "https://www.luniofficial.com",
     },
+    terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq: {
+      contract: "terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq",
+      name: "UNDRGRND",
+      symbol: "UNDRGRND",
+      icon: "https://images.squarespace-cdn.com/content/v1/613978bc7e5cf900cb25f3a9/57479c30-7c54-47a5-b08a-74f648741f15/undrgrnd+logo+black.png?format=150w",
+      homepage: "https://undrgrnd.io",
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
