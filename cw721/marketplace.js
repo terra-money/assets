@@ -9,6 +9,11 @@ module.exports = [
     icon: "https://knowhere.art/static/logos/knowhere-logo.svg",
   },
   {
+    name: "Talis",
+    link: "https://talis.art",
+    icon: "https://talis.art/icons/talis/logo.svg",
+  },
+  {
     name: "Curio",
     link: "https://curio.art",
     icon: "https://www.curio.art/img/logo.svg",

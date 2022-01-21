@@ -394,6 +394,55 @@ module.exports = {
       icon: "https://cdn.luart.io/logos/dystopai-logo.jpg",
       homepage: "https://www.dystopai.art",
     },
+    terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep: {
+      contract: "terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
+      name: "Styllar Avatars",
+      symbol: "STYLL",
+      icon: "https://randomearth-mirror.s3.us-east-2.amazonaws.com/styllar-icon.png",
+      homepage: "https://styllar.com/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
+      ],
+    },
+    terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu: {
+      contract: "terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
+      name: "Styllar Items",
+      symbol: "STYLLX",
+      icon: "https://randomearth-mirror.s3.us-east-2.amazonaws.com/styllar-icon.png",
+      homepage: "https://styllar.com/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
+      ],
+    },
+    terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e: {
+      contract: "terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e",
+      name: "LUNI",
+      symbol: "LUNI",
+      icon: "https://cdn.luart.io/logos/luni-logo.jpg",
+      homepage: "https://www.luniofficial.com",
+    },
+    terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq: {
+        contract: "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq",
+        name: "HERO",
+        symbol: "HERO",
+        icon: "https://d75aawrtvbfp1.cloudfront.net/misc/hero/logo.png",
+        homepage: "https://heronft.io/",
+    },
+    terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq: {
+      contract: "terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq",
+      name: "UNDRGRND",
+      symbol: "UNDRGRND",
+      icon: "https://images.squarespace-cdn.com/content/v1/613978bc7e5cf900cb25f3a9/57479c30-7c54-47a5-b08a-74f648741f15/undrgrnd+logo+black.png?format=150w",
+      homepage: "https://undrgrnd.io",
+    },
+    terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40: {
+      contract: "terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40",
+      name: "The Crunks",
+      symbol: "CRUNK",
+      icon: "https://images.squarespace-cdn.com/content/v1/615e547833744f26a4596606/229c2cf0-d7ea-414f-8e62-9edd48b51e41/favicon.ico?format=100w",
+      homepage: "https://thecrunks.io",
+      marketplace: ["https://randomearth.io/collections/terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
