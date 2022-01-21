@@ -411,6 +411,14 @@ module.exports = {
       icon: "https://cdn.luart.io/logos/luni-logo.jpg",
       homepage: "https://www.luniofficial.com",
     },
+    terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40: {
+      contract: "terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40",
+      name: "The Crunks",
+      symbol: "CRUNK",
+      icon: "https://images.squarespace-cdn.com/content/v1/615e547833744f26a4596606/229c2cf0-d7ea-414f-8e62-9edd48b51e41/favicon.ico?format=100w",
+      homepage: "https://thecrunks.io",
+      marketplace: ["https://randomearth.io/collections/terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
