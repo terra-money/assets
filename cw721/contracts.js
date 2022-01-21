@@ -336,6 +336,7 @@ module.exports = {
       symbol: "HELLCATS",
       icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
       homepage: "https://www.hellcatsnft.com",
+      marketplace: ["https://marketplace.luart.io/collections/terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt"],
     },
     terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd: {
       contract: "terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd",
@@ -386,13 +387,7 @@ module.exports = {
       symbol: "LUNI",
       icon: "https://cdn.luart.io/logos/luni-logo.jpg",
       homepage: "https://www.luniofficial.com",
-    },
-    terra1ggv86dkuzmky7ww20s2uvm6pl2jvl9mv0z6zyt: {
-      contract: "terra1ggv86dkuzmky7ww20s2uvm6pl2jvl9mv0z6zyt",
-      name: "dystopAI",
-      symbol: "DYSTOPAI",
-      icon: "https://cdn.luart.io/logos/dystopai-logo.jpg",
-      homepage: "https://www.dystopai.art",
+      marketplace: ["https://marketplace.luart.io/collections/terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e"],
     },
     terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep: {
       contract: "terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
@@ -413,13 +408,6 @@ module.exports = {
       marketplace: [
         "https://randomearth.io/collections/terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
       ],
-    },
-    terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e: {
-      contract: "terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e",
-      name: "LUNI",
-      symbol: "LUNI",
-      icon: "https://cdn.luart.io/logos/luni-logo.jpg",
-      homepage: "https://www.luniofficial.com",
     },
     terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq: {
         contract: "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq",
@@ -442,6 +430,14 @@ module.exports = {
       icon: "https://images.squarespace-cdn.com/content/v1/615e547833744f26a4596606/229c2cf0-d7ea-414f-8e62-9edd48b51e41/favicon.ico?format=100w",
       homepage: "https://thecrunks.io",
       marketplace: ["https://randomearth.io/collections/terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40"],
+    },
+    terra1ggv86dkuzmky7ww20s2uvm6pl2jvl9mv0z6zyt: {
+      contract: "terra1ggv86dkuzmky7ww20s2uvm6pl2jvl9mv0z6zyt",
+      name: "dystopAI",
+      symbol: "DYSTOPAI",
+      icon: "https://cdn.luart.io/logos/dystopai-logo.jpg",
+      homepage: "https://www.dystopai.art",
+      marketplace: ["https://marketplace.luart.io/collections/terra1ggv86dkuzmky7ww20s2uvm6pl2jvl9mv0z6zyt"],
     },
   },
   testnet: {
