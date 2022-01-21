@@ -411,6 +411,13 @@ module.exports = {
       icon: "https://cdn.luart.io/logos/luni-logo.jpg",
       homepage: "https://www.luniofficial.com",
     },
+    terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq: {
+        contract: "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq",
+        name: "HERO",
+        symbol: "HERO",
+        icon: "https://d75aawrtvbfp1.cloudfront.net/misc/hero/logo.png",
+        homepage: "https://heronft.io/",
+    },
     terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq: {
       contract: "terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq",
       name: "UNDRGRND",
