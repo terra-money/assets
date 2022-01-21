@@ -418,6 +418,21 @@ module.exports = {
         icon: "https://d75aawrtvbfp1.cloudfront.net/misc/hero/logo.png",
         homepage: "https://heronft.io/",
     },
+    terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq: {
+      contract: "terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq",
+      name: "UNDRGRND",
+      symbol: "UNDRGRND",
+      icon: "https://images.squarespace-cdn.com/content/v1/613978bc7e5cf900cb25f3a9/57479c30-7c54-47a5-b08a-74f648741f15/undrgrnd+logo+black.png?format=150w",
+      homepage: "https://undrgrnd.io",
+    },
+    terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40: {
+      contract: "terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40",
+      name: "The Crunks",
+      symbol: "CRUNK",
+      icon: "https://images.squarespace-cdn.com/content/v1/615e547833744f26a4596606/229c2cf0-d7ea-414f-8e62-9edd48b51e41/favicon.ico?format=100w",
+      homepage: "https://thecrunks.io",
+      marketplace: ["https://randomearth.io/collections/terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
