@@ -433,6 +433,13 @@ module.exports = {
       homepage: "https://thecrunks.io",
       marketplace: ["https://randomearth.io/collections/terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40"],
     },
+    terra1v2j7s3q4gvzxph0fu2d3cr6w6xw3s6hn73n5p0: {
+      contract: "terra1v2j7s3q4gvzxph0fu2d3cr6w6xw3s6hn73n5p0",
+      name: "MinervaDAO Governance Phase 0",
+      symbol: "MVAP0",
+      icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
+      homepage: "https://www.minerva.market",
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
