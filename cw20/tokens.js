@@ -1063,5 +1063,13 @@ module.exports = {
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
       decimals: 8
     },
+    terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc: {
+      protocol: "Wormhole",
+      symbol: "whGTPS",
+      name: "Global Transaction Payment Solu",
+      token: "terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc",
+      icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/32x32coinlogo.png?ver=1640952410118",
+      decimals: 8
+    },
   }
 }
