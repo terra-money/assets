@@ -98,6 +98,30 @@ module.exports = {
         "https://knowhere.art/collection/terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7",
       ],
     },
+    terra1vhuyuwwr4rkdpez5f5lmuqavut28h5dt29rpn6: {
+      contract: "terra1vhuyuwwr4rkdpez5f5lmuqavut28h5dt29rpn6",
+      protocol: "Levana Dragons",
+      name: "Levana Dragons",
+      symbol: "LVNDRG",
+      icon: "https://static.meteors.levana.finance/icons/lvndrg.png",
+      homepage: "https://levana.finance/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1vhuyuwwr4rkdpez5f5lmuqavut28h5dt29rpn6",
+        "https://knowhere.art/collection/terra1vhuyuwwr4rkdpez5f5lmuqavut28h5dt29rpn6",
+      ],
+    },
+    terra14gfnxnwl0yz6njzet4n33erq5n70wt79nm24el: {
+      contract: "terra14gfnxnwl0yz6njzet4n33erq5n70wt79nm24el",
+      protocol: "Levana Dragons",
+      name: "Levana Dragons: Loot",
+      symbol: "LVNLOOT",
+      icon: "https://static.meteors.levana.finance/icons/lvnloot.png",
+      homepage: "https://levana.finance/",
+      marketplace: [
+        "https://randomearth.io/collections/terra14gfnxnwl0yz6njzet4n33erq5n70wt79nm24el",
+        "https://knowhere.art/collection/terra14gfnxnwl0yz6njzet4n33erq5n70wt79nm24el",
+      ],
+    },
     terra1ce6jq4da4u49x5mwfdun9jxz5az5uflsgqc067: {
       contract: "terra1ce6jq4da4u49x5mwfdun9jxz5az5uflsgqc067",
       name: "Luna Meow",
@@ -303,7 +327,7 @@ module.exports = {
       homepage: "https://www.wagmimonkeez.com",
       marketplace: [
         "https://randomearth.io/collections/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk",
-        "https://knowhere.art/collection/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk"
+        "https://knowhere.art/collection/terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk",
       ],
     },
     terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt: {
@@ -312,9 +336,6 @@ module.exports = {
       symbol: "HELLCATS",
       icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
       homepage: "https://www.hellcatsnft.com",
-      marketplace: [
-        "https://marketplace.luart.io/collections/terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt"
-      ],
     },
     terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd : {
       contract: "terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd",
@@ -340,9 +361,77 @@ module.exports = {
       contract: "terra15fzcwv4sjy6twzas3kgf77a5h8l0nhjddl8ark",
       name: "Women Vs Apes Weapons",
       symbol: "WVAW",
-      icon: "https://womenvsapes.io/icon.png",
+      icon: "https://ipfs.io/ipfs/bafkreiavhmsnvynome3lyqazettc53nnoppy3xk3bahbm2mfoubuhfeb2e",
       homepage: "https://womenvsapes.io/",
       marketplace: [""],
+    },
+    terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda: {
+      contract: "terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda",
+      name: "Terra Name Service",
+      symbol: "TNS",
+      icon: "https://tns.money/static/images/tns.png",
+      homepage: "https://tns.money/",
+      marketplace: [
+        "https://knowhere.art/collection/terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda",
+        "https://randomearth.io/collections/terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda"
+      ],
+    },
+    terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v: {
+      contract: "terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v",
+      name: "Dirty Bear Country Club",
+      symbol: "BEAR",
+      homepage: "https://www.dirtybearcountryclub.com/",
+      icon: "https://gateway.pinata.cloud/ipfs/Qmb3xqEaHfiXybYQnnHektUXGUU3t1oXoqHy4U19tQ2KTk?preview=1",
+      marketplace: ["https://randomearth.io/collections/terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v"]
+    },
+    terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep: {
+      contract: "terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
+      name: "Styllar Avatars",
+      symbol: "STYLL",
+      icon: "https://randomearth-mirror.s3.us-east-2.amazonaws.com/styllar-icon.png",
+      homepage: "https://styllar.com/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
+      ],
+    },
+    terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu: {
+      contract: "terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
+      name: "Styllar Items",
+      symbol: "STYLLX",
+      icon: "https://randomearth-mirror.s3.us-east-2.amazonaws.com/styllar-icon.png",
+      homepage: "https://styllar.com/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
+      ],
+    },
+    terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e: {
+      contract: "terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e",
+      name: "LUNI",
+      symbol: "LUNI",
+      icon: "https://cdn.luart.io/logos/luni-logo.jpg",
+      homepage: "https://www.luniofficial.com",
+    },
+    terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq: {
+        contract: "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq",
+        name: "HERO",
+        symbol: "HERO",
+        icon: "https://d75aawrtvbfp1.cloudfront.net/misc/hero/logo.png",
+        homepage: "https://heronft.io/",
+    },
+    terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq: {
+      contract: "terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq",
+      name: "UNDRGRND",
+      symbol: "UNDRGRND",
+      icon: "https://images.squarespace-cdn.com/content/v1/613978bc7e5cf900cb25f3a9/57479c30-7c54-47a5-b08a-74f648741f15/undrgrnd+logo+black.png?format=150w",
+      homepage: "https://undrgrnd.io",
+    },
+    terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40: {
+      contract: "terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40",
+      name: "The Crunks",
+      symbol: "CRUNK",
+      icon: "https://images.squarespace-cdn.com/content/v1/615e547833744f26a4596606/229c2cf0-d7ea-414f-8e62-9edd48b51e41/favicon.ico?format=100w",
+      homepage: "https://thecrunks.io",
+      marketplace: ["https://randomearth.io/collections/terra1sux7jjk9vfd0q6z0l99wpg07yd0wme0ac9le40"],
     },
   },
   testnet: {
@@ -358,9 +447,13 @@ module.exports = {
       symbol: "HELLCATS",
       icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
       homepage: "https://www.hellcatsnft.com",
-      marketplace: [
-        "https://marketplace.luart.io/collections/terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f"
-      ],
+    },
+    terra16sez62vaf4xgdj5f9dxvksdnsuat3k3sd3txrh: {
+      contract: "terra16sez62vaf4xgdj5f9dxvksdnsuat3k3sd3txrh",
+      name: "LUNI",
+      symbol: "LUNI",
+      icon: "https://cdn.luart.io/logos/luni-logo.jpg",
+      homepage: "https://www.luniofficial.com",
     },
   },
 };

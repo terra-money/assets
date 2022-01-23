@@ -442,7 +442,8 @@ module.exports = {
       symbol: "wewstETH",
       name: "Wrapped liquid staked Ether 2.0 (Wormhole)",
       token: "terra133chr09wu8sakfte5v7vd8qzq9vghtkv4tn0ur",
-      icon: "https://static.lido.fi/wstETH/wstETH.png"
+      icon: "https://static.lido.fi/wstETH/wstETH.png",
+      decimals: 8
     },
     terra1t9ul45l7m6jw6sxgvnp8e5hj8xzkjsg82g84ap: {
       protocol: "Wormhole",
@@ -458,6 +459,14 @@ module.exports = {
       name: "Lido DAO Token (Wormhole)",
       token: "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z",
       icon: "https://static.lido.fi/LDO/LDO.png",
+      decimals: 8
+    },
+    terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz: {
+      protocol: "Wormhole",
+      symbol: "whbETH",
+      name: "Lido Bonded ETH (Wormhole)",
+      token: "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz",
+      icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
       decimals: 8
     },
     terra1yg3j2s986nyp5z7r2lvt0hx3r0lnd7kwvwwtsc: {
@@ -553,7 +562,7 @@ module.exports = {
       symbol: "MOON",
       name: "Moon Token",
       token: "terra1hmxxq0y8h79f3228vs0czc4uz5jdgjt0appp26",
-      icon: "https://www.terra-moon.com/logo.png",
+      icon: "https://moon.gl/logo.png",
     },
     terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3: {
       protocol: "Astroport",
@@ -586,6 +595,54 @@ module.exports = {
       icon: "https://orne.io/img/token_icon.png",
       decimals: 6
     },
+    terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y: {
+      protocol: "Terra Name Service",
+      symbol: "TNS",
+      name: "Terra Name Service",
+      token: "terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y",
+      icon: "https://tns.money/static/images/tns.png",
+      decimals: 6
+    },
+    terra1td743l5k5cmfy7tqq202g7vkmdvq35q48u2jfm: {
+      protocol: "Thorstarter",
+      symbol: "XRUNE",
+      name: "Thorstarter",
+      token: "terra1td743l5k5cmfy7tqq202g7vkmdvq35q48u2jfm",
+      icon: "https://thorstarter.org/static/img/src/favicon.png",
+      decimals: 6
+    },
+    terra1366wmr8t8rrkh6mag8fagqxntmf2qe4kyte784: {
+      protocol: "LoT",
+      symbol: "aLOT",
+      name: "Alpha Pack Token",
+      token: "terra1366wmr8t8rrkh6mag8fagqxntmf2qe4kyte784",
+      icon: "https://ipfs.playlot.io/icon/profile-logo.png",
+      decimals: 0
+    },
+    terra1z09gnzufuflz6ckd9k0u456l9dnpgsynu0yyhe: {
+      protocol: "Curio",
+      symbol: "SITY",
+      name: "CurioSITY play to earn token",
+      token: "terra1z09gnzufuflz6ckd9k0u456l9dnpgsynu0yyhe",
+      icon: "https://www.curio.art/img/logo.svg",
+      decimals: 6
+    },
+    terra13zx49nk8wjavedjzu8xkk95r3t0ta43c9ptul7: {
+      protocol: "Glow",
+      symbol: "GLOW",
+      name: "Glow Token",
+      token: "terra13zx49nk8wjavedjzu8xkk95r3t0ta43c9ptul7",
+      icon: "https://glowyield.com/assets/img/icons/glow.png",
+      decimals: 6
+    },
+    terra100yeqvww74h4yaejj6h733thgcafdaukjtw397: {
+      protocol: "Apollo",
+      symbol: "APOLLO",
+      name: "Apollo DAO Token",
+      token: "terra100yeqvww74h4yaejj6h733thgcafdaukjtw397",
+      icon: "https://finder.extraterrestrial.money/images/APOLLO60.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
@@ -605,6 +662,14 @@ module.exports = {
       symbol: "bETH",
       token: "terra19mkj9nec6e3y5754tlnuz4vem7lzh4n0lc2s3l",
       icon: "https://whitelist.anchorprotocol.com/logo/bETH.png"
+    },
+    terra1unzu4yghhkr0nvsut8zr5eqw4fuvrr4rakvrwr: {
+      protocol: "Wormhole",
+      symbol: "wewstETH",
+      name: "Wrapped liquid staked Ether 2.0 (Wormhole)",
+      token: "terra1unzu4yghhkr0nvsut8zr5eqw4fuvrr4rakvrwr",
+      icon: "https://static.lido.fi/wstETH/wstETH.png",
+      decimals: 8
     },
     terra1ajt556dpzvjwl0kl5tzku3fc3p3knkg9mkv8jl: {
       protocol: "Anchor",
@@ -906,6 +971,13 @@ module.exports = {
       token: "terra1juwtwk5qymhz7s3hn0vx6tkqst54ud6wfjknvp",
       icon: "https://starterra.io/assets/100x100_starterra.png"
     },
+    terra1a8hskrwnccq0v7gq3n24nraaqt7yevzy005uf5: {
+      protocol: "ValkyrieProtocol",
+      symbol: "VKR",
+      name: "VKR Token",
+      token: "terra1a8hskrwnccq0v7gq3n24nraaqt7yevzy005uf5",
+      icon: "https://app.valkyrieprotocol.com/icon_vkr.png"
+    },
     terra18xfqhtfaz2su55zmurmh02ng9lnhw0xnyplvln: {
       protocol: "TerraWorld",
       symbol: "TWD",
@@ -966,6 +1038,30 @@ module.exports = {
       token: "terra1skhz70xtsjvmx29zp5tdrqu84amc7nzrlvw9st",
       icon: "https://raw.githubusercontent.com/orbitalwolf/noks/main/logo.png",
       decimals: 6
+    },
+    terra1xpz9mlf04c0q3xy9fzgjvmdgwk5e8kageja3mu: {
+      protocol: "Aurora",
+      symbol: "NORM",
+      name: "Aurora Token",
+      token: "terra1xpz9mlf04c0q3xy9fzgjvmdgwk5e8kageja3mu",
+      icon: "https://images.pexels.com/photos/1337380/pexels-photo-1337380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      decimals: 6
+    },
+    terra182zp52a95r3qg6lt0njxr7l0ujkfwan5h7t3l6: {
+      protocol: "Orne",
+      symbol: "ORNE",
+      name: "Orne Token",
+      token: "terra182zp52a95r3qg6lt0njxr7l0ujkfwan5h7t3l6",
+      icon: "https://orne.io/img/token_icon.png",
+      decimals: 6
+    },
+    terra1d74gfj8gs6rskcuu80x3deus7gut77udhdajv7: {
+      protocol: "Wormhole",
+      symbol: "whbETH",
+      name: "Lido Bonded ETH (Wormhole)",
+      token: "terra1d74gfj8gs6rskcuu80x3deus7gut77udhdajv7",
+      icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
+      decimals: 8
     },
   }
 }
