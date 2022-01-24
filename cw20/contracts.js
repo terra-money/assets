@@ -1124,36 +1124,36 @@ module.exports = {
       protocol: "Terra Name Service",
       name: "UST-TNS Staking",
       icon: "https://tns.money/static/images/tns.png",
-    },   
-    terra1jfk9saed6c4n40qwe54mcxmgs8kz4husly3jx4: {      
+    },
+    terra1jfk9saed6c4n40qwe54mcxmgs8kz4husly3jx4: {
       protocol: "Terra Name Service",
       name: "Controller",
-      icon: "https://tns.money/static/images/tns.png",      
-    },    
-    terra19gqw63xnt9237d2s8cdrzstn98g98y7hkl80gs: {      
-      protocol: "Terra Name Service",
-      name: "Registry",      
-      icon: "https://tns.money/static/images/tns.png",      
+      icon: "https://tns.money/static/images/tns.png",
     },
-    terra1uhr0lncf04nhwn5p2uaellepery0lgphl09ut8: {      
+    terra19gqw63xnt9237d2s8cdrzstn98g98y7hkl80gs: {
       protocol: "Terra Name Service",
-      name: "Default Resolver",      
-      icon: "https://tns.money/static/images/tns.png",      
+      name: "Registry",
+      icon: "https://tns.money/static/images/tns.png",
+    },
+    terra1uhr0lncf04nhwn5p2uaellepery0lgphl09ut8: {
+      protocol: "Terra Name Service",
+      name: "Default Resolver",
+      icon: "https://tns.money/static/images/tns.png",
     },
     terra1a5thpf2gdrrneewjkutyz5q6zr2kn8ymg0cxn9: {
       protocol: "Terra Name Service",
-      name: "Governance",      
-      icon: "https://tns.money/static/images/tns.png",      
+      name: "Governance",
+      icon: "https://tns.money/static/images/tns.png",
     },
     terra1ua7mgqjjx04k3syhl0ast3hujy5tfu9440srp9: {
       protocol: "Terra Name Service",
-      name: "Airdrop",      
-      icon: "https://tns.money/static/images/tns.png",      
+      name: "Airdrop",
+      icon: "https://tns.money/static/images/tns.png",
     },
     terra1sqyyzqf3qjgq2ypkkjmcf9tg3pt3dlt9w8syen: {
       protocol: "Terra Name Service",
-      name: "Community Pool",      
-      icon: "https://tns.money/static/images/tns.png",      
+      name: "Community Pool",
+      icon: "https://tns.money/static/images/tns.png",
     },
     terra1rtxau4as3e05gkffjxysdzr3l4mwd39r35sjnc: {
       protocol: "Terra Name Service",
@@ -1169,6 +1169,10 @@ module.exports = {
       protocol: "Thorstarter",
       name: "Thorstarter Tiers",
       icon: "https://thorstarter.org/static/img/src/favicon.png",
+    },
+    terra1zgrx9jjqrfye8swykfgmd6hpde60j0nszzupp9: {
+      protocol: "Astroport",
+      name: "Generator",
     },
   },
   testnet: {

@@ -439,6 +439,13 @@ module.exports = {
       homepage: "https://www.dystopai.art",
       marketplace: ["https://marketplace.luart.io/collections/terra1ggv86dkuzmky7ww20s2uvm6pl2jvl9mv0z6zyt"],
     },
+    terra1pyd34m3vf090yla5wenuegng2r4d4tyrzclsmf: {
+      contract: "terra1pyd34m3vf090yla5wenuegng2r4d4tyrzclsmf",
+      name: "MinervaDAO Governance Phase 0",
+      symbol: "MVAP0",
+      icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
+      homepage: "https://www.minerva.market",
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
@@ -460,6 +467,13 @@ module.exports = {
       symbol: "LUNI",
       icon: "https://cdn.luart.io/logos/luni-logo.jpg",
       homepage: "https://www.luniofficial.com",
+    },
+    terra1et248fl35klhwegr7fggay8333mdgfum0wjfnc: {
+      contract: "terra1et248fl35klhwegr7fggay8333mdgfum0wjfnc",
+      name: "MinervaDAO Governance Phase 0",
+      symbol: "MVAP0",
+      icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
+      homepage: "https://www.minerva.market"
     },
   },
 };

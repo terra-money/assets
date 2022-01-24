@@ -463,7 +463,7 @@ module.exports = {
     },
     terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz: {
       protocol: "Wormhole",
-      symbol: "whbETH",
+      symbol: "webETH",
       name: "Lido Bonded ETH (Wormhole)",
       token: "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz",
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
@@ -641,6 +641,14 @@ module.exports = {
       name: "Apollo DAO Token",
       token: "terra100yeqvww74h4yaejj6h733thgcafdaukjtw397",
       icon: "https://finder.extraterrestrial.money/images/APOLLO60.png",
+      decimals: 6
+    },
+    terra1a7ye2splpfzyenu0yrdu8t83uzgusx2malkc7u: {
+      protocol: "Allbridge",
+      symbol: "ABR",
+      name: "Allbridge",
+      token: "terra1a7ye2splpfzyenu0yrdu8t83uzgusx2malkc7u",
+      icon: "https://raw.githubusercontent.com/allbridge-io/media/main/token.svg",
       decimals: 6
     },
   },
@@ -1057,11 +1065,19 @@ module.exports = {
     },
     terra1d74gfj8gs6rskcuu80x3deus7gut77udhdajv7: {
       protocol: "Wormhole",
-      symbol: "whbETH",
+      symbol: "webETH",
       name: "Lido Bonded ETH (Wormhole)",
       token: "terra1d74gfj8gs6rskcuu80x3deus7gut77udhdajv7",
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
       decimals: 8
+    },
+    terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng: {
+      protocol: "GlassFinance",
+      symbol: "SHARD",
+      name: "SHARD Token",
+      token: "terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng",
+      icon: "https://static.wixstatic.com/media/4079cf_14c37331c6a4485591bc6130a37c31a0~mv2.png",
+      decimals: 6
     },
   }
 }
