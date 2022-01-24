@@ -463,7 +463,7 @@ module.exports = {
     },
     terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz: {
       protocol: "Wormhole",
-      symbol: "whbETH",
+      symbol: "webETH",
       name: "Lido Bonded ETH (Wormhole)",
       token: "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz",
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
@@ -1065,7 +1065,7 @@ module.exports = {
     },
     terra1d74gfj8gs6rskcuu80x3deus7gut77udhdajv7: {
       protocol: "Wormhole",
-      symbol: "whbETH",
+      symbol: "webETH",
       name: "Lido Bonded ETH (Wormhole)",
       token: "terra1d74gfj8gs6rskcuu80x3deus7gut77udhdajv7",
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
