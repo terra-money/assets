@@ -643,6 +643,14 @@ module.exports = {
       icon: "https://finder.extraterrestrial.money/images/APOLLO60.png",
       decimals: 6
     },
+    terra1a7ye2splpfzyenu0yrdu8t83uzgusx2malkc7u: {
+      protocol: "Allbridge",
+      symbol: "ABR",
+      name: "Allbridge",
+      token: "terra1a7ye2splpfzyenu0yrdu8t83uzgusx2malkc7u",
+      icon: "https://raw.githubusercontent.com/allbridge-io/media/main/token.svg",
+      decimals: 6
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
