@@ -336,16 +336,15 @@ module.exports = {
       symbol: "HELLCATS",
       icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
       homepage: "https://www.hellcatsnft.com",
+      marketplace: ["https://marketplace.luart.io/collections/terra1uv9w7aaq6lu2kn0asnvknlcgg2xd5ts57ss7qt"],
     },
-    terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd : {
+    terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd: {
       contract: "terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd",
       name: "Luna Monkey Business",
       symbol: "LMB",
       icon: "https://i.postimg.cc/7Zrd21cj/LMB-removebg-preview.png",
       homepage: "https://lunamonkey.business/",
-      marketplace: [
-        "https://randomearth.io/collections/terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd"
-      ],
+      marketplace: ["https://randomearth.io/collections/terra180tvldnt7h3lts6sp0n3kq7x496sf8cuvqf4xd"],
     },
     terra139pqfy6armpauyqqhev7tdncs64gs26frj92y3: {
       contract: "terra139pqfy6armpauyqqhev7tdncs64gs26frj92y3",
@@ -353,9 +352,7 @@ module.exports = {
       symbol: "WVA",
       icon: "https://womenvsapes.io/icon.png",
       homepage: "https://womenvsapes.io/",
-      marketplace: [
-        "https://randomearth.io/collections/terra139pqfy6armpauyqqhev7tdncs64gs26frj92y3",
-      ],
+      marketplace: ["https://randomearth.io/collections/terra139pqfy6armpauyqqhev7tdncs64gs26frj92y3"],
     },
     terra15fzcwv4sjy6twzas3kgf77a5h8l0nhjddl8ark: {
       contract: "terra15fzcwv4sjy6twzas3kgf77a5h8l0nhjddl8ark",
@@ -373,7 +370,7 @@ module.exports = {
       homepage: "https://tns.money/",
       marketplace: [
         "https://knowhere.art/collection/terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda",
-        "https://randomearth.io/collections/terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda"
+        "https://randomearth.io/collections/terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda",
       ],
     },
     terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v: {
@@ -382,7 +379,15 @@ module.exports = {
       symbol: "BEAR",
       homepage: "https://www.dirtybearcountryclub.com/",
       icon: "https://gateway.pinata.cloud/ipfs/Qmb3xqEaHfiXybYQnnHektUXGUU3t1oXoqHy4U19tQ2KTk?preview=1",
-      marketplace: ["https://randomearth.io/collections/terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v"]
+      marketplace: ["https://randomearth.io/collections/terra1p6p58amsfxe534dc9enfxdz5wf58z8ysu2nr8v"],
+    },
+    terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e: {
+      contract: "terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e",
+      name: "LUNI",
+      symbol: "LUNI",
+      icon: "https://cdn.luart.io/logos/luni-logo.jpg",
+      homepage: "https://www.luniofficial.com",
+      marketplace: ["https://marketplace.luart.io/collections/terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e"],
     },
     terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep: {
       contract: "terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
@@ -403,13 +408,6 @@ module.exports = {
       marketplace: [
         "https://randomearth.io/collections/terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
       ],
-    },
-    terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e: {
-      contract: "terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e",
-      name: "LUNI",
-      symbol: "LUNI",
-      icon: "https://cdn.luart.io/logos/luni-logo.jpg",
-      homepage: "https://www.luniofficial.com",
     },
     terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq: {
         contract: "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq",
@@ -439,6 +437,14 @@ module.exports = {
       symbol: "MVAP0",
       icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
       homepage: "https://www.minerva.market",
+    },
+    terra1ggv86dkuzmky7ww20s2uvm6pl2jvl9mv0z6zyt: {
+      contract: "terra1ggv86dkuzmky7ww20s2uvm6pl2jvl9mv0z6zyt",
+      name: "dystopAI",
+      symbol: "DYSTOPAI",
+      icon: "https://cdn.luart.io/logos/dystopai-logo.jpg",
+      homepage: "https://www.dystopai.art",
+      marketplace: ["https://marketplace.luart.io/collections/terra1ggv86dkuzmky7ww20s2uvm6pl2jvl9mv0z6zyt"],
     },
   },
   testnet: {
