@@ -1086,5 +1086,13 @@ module.exports = {
       icon: "https://marsprotocol.io/mars_logo_colored.svg",
       decimals: 6
     },
+    terra16nujj838uy80lg6w422dmjazxeg2s547mf0se0: {
+      protocol: "Proteus Finance",
+      symbol: "TPROTEUS",
+      name: "Proteus Token",
+      token: "terra16nujj838uy80lg6w422dmjazxeg2s547mf0se0",
+      icon: "https://app-ritz.arhamsoft.info/proteus.png",
+      decimals: 9
+    },
   }
 }
