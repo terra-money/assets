@@ -483,5 +483,14 @@ module.exports = {
       icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
       homepage: "https://www.minerva.market"
     },
+    terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k: {
+      contract: "terra1598rvtgufwr7pnpqhrlajjrmvte4l8a6xkty6y",
+      name: "Galactic Baby Ape Club",
+      symbol: "GBAC",
+      homepage: "https://www.galacticbabyape.com",
+      marketplace: [
+        "https://randomearth.io/collections/terra1598rvtgufwr7pnpqhrlajjrmvte4l8a6xkty6y"
+      ],
+    },
   },
 };
