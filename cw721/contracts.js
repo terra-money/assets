@@ -458,6 +458,7 @@ module.exports = {
       contract: "terra1598rvtgufwr7pnpqhrlajjrmvte4l8a6xkty6y",
       name: "Galactic Baby Ape Club",
       symbol: "GBAC",
+      icon: "https://i.ibb.co/qjbZDy1/gbac.jpg",
       homepage: "https://www.galacticbabyape.com",
       marketplace: [
         "https://randomearth.io/collections/terra1598rvtgufwr7pnpqhrlajjrmvte4l8a6xkty6y"
