@@ -483,7 +483,7 @@ module.exports = {
       icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
       homepage: "https://www.minerva.market"
     },
-    terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k: {
+    terra1598rvtgufwr7pnpqhrlajjrmvte4l8a6xkty6y: {
       contract: "terra1598rvtgufwr7pnpqhrlajjrmvte4l8a6xkty6y",
       name: "Galactic Baby Ape Club",
       symbol: "GBAC",
