@@ -658,7 +658,7 @@ module.exports = {
       token: "terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc",
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/32x32coinlogo.png?ver=1640952410118",
       decimals: 8
-  },
+    },
      terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng: {
       protocol: "GlassFinance",
       symbol: "SHARD",
@@ -673,7 +673,8 @@ module.exports = {
       token: "terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6",
       icon: "https://marsprotocol.io/mars_logo_colored.svg",
       decimals: 6
-      },
+    },
+  },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
       protocol: "LoTerra",
@@ -1092,7 +1093,6 @@ module.exports = {
       token: "terra1d74gfj8gs6rskcuu80x3deus7gut77udhdajv7",
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
       decimals: 8
-    },
     },
   }
 }
