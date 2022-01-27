@@ -319,6 +319,14 @@ module.exports = {
       homepage: "https://terra.money",
       marketplace: ["https://randomearth.io/collections/terra1snja2twmwx656qp6juq8jpah4h80pxvwsgsvev"],
     },
+    terra16v56mu72lhtrac7fpxn3wzuqkrmg434qlfsd8z: {
+      contract: "terra16v56mu72lhtrac7fpxn3wzuqkrmg434qlfsd8z",
+      name: "Terra Playing Cards",
+      symbol: "CARDS",
+      icon: "https://gateway.pinata.cloud/ipfs/QmUuuqLSYmTgzMYhM5DVqweais1fmMLmUzenuYWMMxpkuY?preview=1",
+      homepage: "https://terra.money",
+      marketplace: ["https://randomearth.io/collections/terra16v56mu72lhtrac7fpxn3wzuqkrmg434qlfsd8z"],
+    },
     terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk: {
       contract: "terra1jp5fjj7rlc0erw4z3qr5zuvmg2w49pfzyhvsnk",
       name: "wagmimonkeez",
