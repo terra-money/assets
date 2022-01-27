@@ -1117,5 +1117,21 @@ module.exports = {
       icon: "https://app-ritz.arhamsoft.info/proteus.png",
       decimals: 9
     },
+    terra1ku5e0dhutxhuxudsmsn5647wwcz6ndr3rsh90k: {
+      protocol: "Wormhole",
+      symbol: "whSAIL",
+      name: "SAIL",
+      token: "terra1ku5e0dhutxhuxudsmsn5647wwcz6ndr3rsh90k",
+      icon: "https://cloudflare-ipfs.com/ipfs/QmPcQfofQNfiv36EAsGQrgAhiPbqGf17i1Cz648JhXFW9m/logo_solana_sail_v2.png",
+      decimals: 6
+    },
+    terra1rl0cpwgtwl4utnaynugevdje37fnmsea7rv4uu: {
+      protocol: "Wormhole",
+      symbol: "whgSAIL",
+      name: "SolanaSail Governance Token V2",
+      token: "terra1rl0cpwgtwl4utnaynugevdje37fnmsea7rv4uu",
+      icon: "https://ipfs.io/ipfs/QmNNt1xoyB7gwjLLzUYMELYGY277ZzZXJw1vhnZW18Wozq?filename=logo_GSAIL.png",
+      decimals: 9
+    },
   }
 }
