@@ -857,17 +857,17 @@ module.exports = {
     },
     terra163pkeeuwxzr0yhndf8xd2jprm9hrtk59xf7nqf: {
       protocol: "Nexus",
-      name: "Psi-UST Pair",
+      name: "Psi-UST Terraswap Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1q6r8hfdl203htfvpsmyh8x689lp2g0m7856fwd: {
       protocol: "Nexus",
-      name: "Psi-UST LP",
+      name: "Psi-UST Terraswap LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra12kzewegufqprmzl20nhsuwjjq6xu8t8ppzt30a: {
       protocol: "Nexus",
-      name: "Psi-UST Staking",
+      name: "Psi-UST Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra16mtntdg7rkvt3q5hcz8nqr6hj8mme5jmrtk8y2: {
@@ -917,17 +917,17 @@ module.exports = {
     },
     terra1zvn8z6y8u2ndwvsjhtpsjsghk6pa6ugwzxp6vx: {
       protocol: "Nexus",
-      name: "nLuna-Psi Pair",
+      name: "nLuna-Psi Terraswap Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1tuw46dwfvahpcwf3ulempzsn9a0vhazut87zec: {
       protocol: "Nexus",
-      name: "nLuna-Psi LP",
+      name: "nLuna-Psi Terraswap LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1hs4ev0ghwn4wr888jwm56eztfpau6rjcd8mczc: {
       protocol: "Nexus",
-      name: "nLuna-Psi Staking",
+      name: "nLuna-Psi Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1tfrecwlvzcv9h697q3g0d08vd53ssu5w4war4n: {
@@ -962,17 +962,17 @@ module.exports = {
     },
     terra14zhkur7l7ut7tx6kvj28fp5q982lrqns59mnp3: {
       protocol: "Nexus",
-      name: "nETH-Psi Pair",
+      name: "nETH-Psi Terraswap Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1y8kxhfg22px5er32ctsgjvayaj8q36tr590qtp: {
       protocol: "Nexus",
-      name: "nETH-Psi LP",
+      name: "nETH-Psi Terraswap LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1lws09x0slx892ux526d6atwwgdxnjg58uan8ph: {
       protocol: "Nexus",
-      name: "nETH-Psi Staking",
+      name: "nETH-Psi Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1zkyrfyq7x9v5vqnnrznn3kvj35az4f6jxftrl2: {
@@ -1173,6 +1173,51 @@ module.exports = {
     terra1zgrx9jjqrfye8swykfgmd6hpde60j0nszzupp9: {
       protocol: "Astroport",
       name: "Generator",
+    },
+   terra1v5ct2tuhfqd0tf8z0wwengh4fg77kaczgf6gtx: {
+      protocol: "Nexus",
+      name: "Psi-UST Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1cspx9menzglmn7xt3tcn8v8lg6gu9r50d7lnve: {
+      protocol: "Nexus",
+      name: "Psi-UST Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1fmu29xhg5nk8jr0p603y5qugpk2r0ywcyxyv7k: {
+      protocol: "Nexus",
+      name: "Psi-UST Astroport Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra18hjdxnnkv8ewqlaqj3zpn0vsfpzdt3d0y2ufdz: {
+      protocol: "Nexus",
+      name: "nETH-Psi Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1pjfqacx7k6dg63v2h5q96zjg7w5q25093wnkjc: {
+      protocol: "Nexus",
+      name: "nETH-Psi Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra13n2sqaj25ugkt79k3evhvua30ut9qt8q0268zc: {
+      protocol: "Nexus",
+      name: "nETH-Psi Astroport Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra10lv5wz84kpwxys7jeqkfxx299drs3vnw0lj8mz: {
+      protocol: "Nexus",
+      name: "nLuna-Psi Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1t53c8p0zwvj5xx7sxh3qtse0fq5765dltjrg33: {
+      protocol: "Nexus",
+      name: "nLuna-Psi Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1sxzggeujnxrd7hsx7uf2l6axh2uuv4zz5jadyg: {
+      protocol: "Nexus",
+      name: "nLuna-Psi Astroport Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
   },
   testnet: {
@@ -1843,17 +1888,17 @@ module.exports = {
     },
     terra1ee9h9c9fv2smm8wkq0aw78tut3w3x62ckj6nz8: {
       protocol: "Nexus",
-      name: "Psi-UST Pair",
+      name: "Psi-UST Terraswap Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra12qfjg2m50syyg3eljpj0rx0x8jez5j56mg77zc: {
       protocol: "Nexus",
-      name: "Psi-UST LP",
+      name: "Psi-UST Terraswap LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1qsc7y8448payj9fyjxn6ffxxmdcj5g5dtptfq2: {
       protocol: "Nexus",
-      name: "Psi-UST Staking",
+      name: "Psi-UST Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1tr4uxvmsfx7sl06m7xnp848ta20gesj0hpufjd: {
@@ -1898,17 +1943,17 @@ module.exports = {
     },
     terra1p3e50cfx47u2utkj0qcls6305plky9pprv0ack: {
       protocol: "Nexus",
-      name: "nLuna-Psi Pair",
+      name: "nLuna-Psi Terraswap Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1a7awn36j2yy7jvy8te72rwrhl6zma3yugtrhm5: {
       protocol: "Nexus",
-      name: "nLuna-Psi LP",
+      name: "nLuna-Psi Terraswap LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra14r89lj2e87qz2vwmdjxs70khh89n3w2xy2zkgn: {
       protocol: "Nexus",
-      name: "nLuna-Psi Staking",
+      name: "nLuna-Psi Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1uwl6n4ql5n2mueasu32f537m85y5mtgq66xj0y: {
@@ -1943,17 +1988,17 @@ module.exports = {
     },
     terra15wlxslvcjtj5y083chl4kqespzugd28dwxdksn: {
       protocol: "Nexus",
-      name: "nETH-Psi Pair",
+      name: "nETH-Psi Terraswap Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1y2r544tw2q4cgpgjvts8uu6gekk9kwz047a9sl: {
       protocol: "Nexus",
-      name: "nETH-Psi LP",
+      name: "nETH-Psi Terraswap LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1u8gvskrt5n6vdeeuc4428pxhjh75h0jcntm7ca: {
       protocol: "Nexus",
-      name: "nETH-Psi Staking",
+      name: "nETH-Psi Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1mxy8lmf2jeyr7js7xvm046fssyfa5a9pm78fpn: {
@@ -2005,6 +2050,51 @@ module.exports = {
       protocol: "Orne",
       name: "UST-ORNE Pair",
       icon: "https://orne.io/img/token_icon.png",
+    },
+   terra1a7vcghx2vjyg74nqk5krd9ppa8ks8ytz5vdsgp: {
+      protocol: "Nexus",
+      name: "Psi-UST Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1zv9uhshhuw6yr4m95nx54cpl0g4ahska5uwfv8: {
+      protocol: "Nexus",
+      name: "Psi-UST Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1xeq2ej8s0t9z2ch08x5tc7009za43w8983elv0: {
+      protocol: "Nexus",
+      name: "Psi-UST Astroport Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1mt63aef37fx9z7jfadtgk8a5swxlxce9pjdgvy: {
+      protocol: "Nexus",
+      name: "nETH-Psi Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1dpzuan9dyp20ze7ttfv4n6vwjl9k0j9nppzq2s: {
+      protocol: "Nexus",
+      name: "nETH-Psi Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1sxhfaud8svmazlvg2qffsgke96e7qguf057pc9: {
+      protocol: "Nexus",
+      name: "nETH-Psi Astroport Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1uwf0yn9rnt7anpceqm7s00zfgevnwaaqde2eee: {
+      protocol: "Nexus",
+      name: "nLuna-Psi Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1kyjspjr054v00nw7g2fttk6fq9furq9wjsy0x2: {
+      protocol: "Nexus",
+      name: "nLuna-Psi Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra18vqwp39c4jcgaax2d6275ghdtywz3xazzhl4xx: {
+      protocol: "Nexus",
+      name: "nLuna-Psi Astroport Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
   },
 };
