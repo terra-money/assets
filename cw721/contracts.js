@@ -403,9 +403,7 @@ module.exports = {
       symbol: "STYLL",
       icon: "https://randomearth-mirror.s3.us-east-2.amazonaws.com/styllar-icon.png",
       homepage: "https://styllar.com/",
-      marketplace: [
-        "https://randomearth.io/collections/terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep",
-      ],
+      marketplace: ["https://randomearth.io/collections/terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep"],
     },
     terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu: {
       contract: "terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
@@ -413,16 +411,14 @@ module.exports = {
       symbol: "STYLLX",
       icon: "https://randomearth-mirror.s3.us-east-2.amazonaws.com/styllar-icon.png",
       homepage: "https://styllar.com/",
-      marketplace: [
-        "https://randomearth.io/collections/terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu",
-      ],
+      marketplace: ["https://randomearth.io/collections/terra1gek0c83grmj6twdr8c9al00hagd4kw5lxlt0cu"],
     },
     terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq: {
-        contract: "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq",
-        name: "HERO",
-        symbol: "HERO",
-        icon: "https://d75aawrtvbfp1.cloudfront.net/misc/hero/logo.png",
-        homepage: "https://heronft.io/",
+      contract: "terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq",
+      name: "HERO",
+      symbol: "HERO",
+      icon: "https://d75aawrtvbfp1.cloudfront.net/misc/hero/logo.png",
+      homepage: "https://heronft.io/",
     },
     terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq: {
       contract: "terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq",
@@ -454,6 +450,14 @@ module.exports = {
       homepage: "https://www.dystopai.art",
       marketplace: ["https://marketplace.luart.io/collections/terra1ggv86dkuzmky7ww20s2uvm6pl2jvl9mv0z6zyt"],
     },
+    terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t: {
+      contract: "terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t",
+      name: "Luna Shield",
+      symbol: "LUNASHIELD",
+      icon: "https://cdn.luart.io/logos/luna-shield-logo.jpg",
+      homepage: "https://lunashield.io",
+      marketplace: ["https://marketplace.luart.io/collections/terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
@@ -481,7 +485,7 @@ module.exports = {
       name: "MinervaDAO Governance Phase 0",
       symbol: "MVAP0",
       icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
-      homepage: "https://www.minerva.market"
+      homepage: "https://www.minerva.market",
     },
   },
 };
