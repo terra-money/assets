@@ -1115,7 +1115,7 @@ module.exports = {
       name: "Proteus Token",
       token: "terra16nujj838uy80lg6w422dmjazxeg2s547mf0se0",
       icon: "https://app-ritz.arhamsoft.info/proteus.png",
-      decimals: 9
+      decimals: 8
     },
   }
 }
