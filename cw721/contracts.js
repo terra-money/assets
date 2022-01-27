@@ -450,6 +450,16 @@ module.exports = {
       homepage: "https://www.dystopai.art",
       marketplace: ["https://marketplace.luart.io/collections/terra1ggv86dkuzmky7ww20s2uvm6pl2jvl9mv0z6zyt"],
     },
+    terra1598rvtgufwr7pnpqhrlajjrmvte4l8a6xkty6y: {
+      contract: "terra1598rvtgufwr7pnpqhrlajjrmvte4l8a6xkty6y",
+      name: "Galactic Baby Ape Club",
+      symbol: "GBAC",
+      icon: "https://i.ibb.co/qjbZDy1/gbac.jpg",
+      homepage: "https://www.galacticbabyape.com",
+      marketplace: [
+        "https://randomearth.io/collections/terra1598rvtgufwr7pnpqhrlajjrmvte4l8a6xkty6y"
+      ],
+    },
     terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t: {
       contract: "terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t",
       name: "Luna Shield",
