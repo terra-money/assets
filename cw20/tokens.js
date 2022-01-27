@@ -1094,5 +1094,28 @@ module.exports = {
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
       decimals: 8
     },
+    terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng: {
+      protocol: "GlassFinance",
+      symbol: "SHARD",
+      name: "SHARD Token",
+      token: "terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng",
+      icon: "https://static.wixstatic.com/media/4079cf_14c37331c6a4485591bc6130a37c31a0~mv2.png",
+    },
+    terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6: {
+      protocol: "Mars",
+      symbol: "MARS",
+      name: "Mars Token",
+      token: "terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6",
+      icon: "https://marsprotocol.io/mars_logo_colored.svg",
+      decimals: 6
+    },
+    terra16nujj838uy80lg6w422dmjazxeg2s547mf0se0: {
+      protocol: "Proteus Finance",
+      symbol: "TPROTEUS",
+      name: "Proteus Token",
+      token: "terra16nujj838uy80lg6w422dmjazxeg2s547mf0se0",
+      icon: "https://app-ritz.arhamsoft.info/proteus.png",
+      decimals: 9
+    },
   }
 }
