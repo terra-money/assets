@@ -1094,12 +1094,12 @@ module.exports = {
       icon: "https://marsprotocol.io/mars_logo_colored.svg",
       decimals: 6
     },
-    terra16nujj838uy80lg6w422dmjazxeg2s547mf0se0: {
+    terra1a8z3f84l2u8azzzestu7aw4ll9a9de4vdzy8zn: {
       protocol: "Proteus Finance",
       symbol: "TPROTEUS",
       name: "Proteus Token",
-      token: "terra16nujj838uy80lg6w422dmjazxeg2s547mf0se0",
-      icon: "https://app-ritz.arhamsoft.info/proteus.png",
+      token: "terra1a8z3f84l2u8azzzestu7aw4ll9a9de4vdzy8zn",
+      icon: "https://proteus.finance/token/coin_dark_100x100.png",
       decimals: 9
     },
   }
