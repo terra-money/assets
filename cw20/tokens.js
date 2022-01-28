@@ -455,7 +455,7 @@ module.exports = {
     },
     terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z: {
       protocol: "Wormhole",
-      symbol: "whLDO",
+      symbol: "weLDO",
       name: "Lido DAO Token (Wormhole)",
       token: "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z",
       icon: "https://static.lido.fi/LDO/LDO.png",
