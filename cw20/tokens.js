@@ -1116,7 +1116,7 @@ module.exports = {
       name: "SolanaSail Governance Token V2",
       token: "terra1rl0cpwgtwl4utnaynugevdje37fnmsea7rv4uu",
       icon: "https://ipfs.io/ipfs/QmNNt1xoyB7gwjLLzUYMELYGY277ZzZXJw1vhnZW18Wozq?filename=logo_GSAIL.png",
-      decimals: 9
+      decimals: 8
     },
   }
 }
