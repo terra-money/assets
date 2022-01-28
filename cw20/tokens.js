@@ -659,21 +659,6 @@ module.exports = {
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/32x32coinlogo.png?ver=1640952410118",
       decimals: 8
     },
-     terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng: {
-      protocol: "GlassFinance",
-      symbol: "SHARD",
-      name: "SHARD Token",
-      token: "terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng",
-      icon: "https://static.wixstatic.com/media/4079cf_14c37331c6a4485591bc6130a37c31a0~mv2.png",
-    },
-    terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6: {
-      protocol: "Mars",
-      symbol: "MARS",
-      name: "Mars Token",
-      token: "terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6",
-      icon: "https://marsprotocol.io/mars_logo_colored.svg",
-      decimals: 6
-    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
