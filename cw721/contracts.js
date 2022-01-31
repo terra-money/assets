@@ -468,15 +468,16 @@ module.exports = {
       homepage: "https://lunashield.io",
       marketplace: ["https://marketplace.luart.io/collections/terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t"],
     },
-    terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu: {
-      contract: "terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu",
-      name: "Unstables",
-      symbol: "UNSTABLES",
-      icon: "https://i.ibb.co/bQrk5Js/logo-new.png",
+   terra1gwv0dttn2fmeys6wdhfjtwj7d449y2v0ennh4t: {
+      contract:"terra1gwv0dttn2fmeys6wdhfjtwj7d449y2v0ennh4t",
+      protocol: "Unstables:2",
+      name:"Unstables: Guardians of Terra",
+      symbol:"UNSTB:2",
+      icon: "https://imgur.com/a/TKZ97PT",
       homepage: "https://www.unstablesonterra.com/",
-      marketplace: ["https://randomearth.io/collections/terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu"],
+      marketplace: ["https://talis.art/collection/61f4809bb123364b12d1865d?from=collections"],
     },
-  },
+
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
       name: "R.E.S.Toads",
@@ -497,6 +498,13 @@ module.exports = {
       symbol: "LUNI",
       icon: "https://cdn.luart.io/logos/luni-logo.jpg",
       homepage: "https://www.luniofficial.com",
+    },
+    terra1et248fl35klhwegr7fggay8333mdgfum0wjfnc: {
+      contract: "terra1et248fl35klhwegr7fggay8333mdgfum0wjfnc",
+      name: "MinervaDAO Governance Phase 0",
+      symbol: "MVAP0",
+      icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
+      homepage: "https://www.minerva.market",
     },
     terra1et248fl35klhwegr7fggay8333mdgfum0wjfnc: {
       contract: "terra1et248fl35klhwegr7fggay8333mdgfum0wjfnc",
