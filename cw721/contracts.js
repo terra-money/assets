@@ -477,7 +477,7 @@ module.exports = {
       homepage: "https://www.unstablesonterra.com/",
       marketplace: ["https://talis.art/collection/61f4809bb123364b12d1865d?from=collections"],
     },
-
+  },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
       name: "R.E.S.Toads",
