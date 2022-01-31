@@ -505,13 +505,5 @@ module.exports = {
       symbol: "MVAP0",
       icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
       homepage: "https://www.minerva.market",
-    },
-    terra1et248fl35klhwegr7fggay8333mdgfum0wjfnc: {
-      contract: "terra1et248fl35klhwegr7fggay8333mdgfum0wjfnc",
-      name: "MinervaDAO Governance Phase 0",
-      symbol: "MVAP0",
-      icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
-      homepage: "https://www.minerva.market",
-    },
   },
 };
