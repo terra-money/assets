@@ -659,6 +659,14 @@ module.exports = {
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/32x32coinlogo.png?ver=1640952410118",
       decimals: 8
     },
+    terra1dh9478k2qvqhqeajhn75a2a7dsnf74y5ukregw: {
+      protocol: "Prism",
+      symbol: "PRISM",
+      name: "Prism Protocol Token",
+      token: "terra1dh9478k2qvqhqeajhn75a2a7dsnf74y5ukregw",
+      icon: "https://prismprotocol.app/prism.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
