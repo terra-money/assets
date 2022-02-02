@@ -667,6 +667,14 @@ module.exports = {
       icon: "https://prismprotocol.app/prism.png",
       decimals: 6
     },
+    terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq: {
+      protocol: "Space Dollar Society",
+      symbol: "SDOLLAR",
+      name: "Space Dollar",
+      token: "terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq",
+      icon: "https://sdollars.wpengine.com/wp-content/uploads/2021/10/spacedollars512x512.png",
+      decimals: 2
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
