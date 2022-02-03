@@ -1110,11 +1110,11 @@ module.exports = {
       icon: "https://marsprotocol.io/mars_logo_colored.svg",
       decimals: 6
     },
-    terra18l7yr4dg25p666epecr9qvssm3nc3x4ynt3ge2: {
+    terra1946alazfurjchhqstkq0p3u4f9jmxcelj6u8re: {
       protocol: "Proteus Finance",
       symbol: "PROTEUS",
       name: "Proteus Token",
-      token: "terra18l7yr4dg25p666epecr9qvssm3nc3x4ynt3ge2",
+      token: "terra1946alazfurjchhqstkq0p3u4f9jmxcelj6u8re",
       icon: "https://proteus.finance/token/coin_dark_100x100.png",
       decimals: 9
     },
