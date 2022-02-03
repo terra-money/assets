@@ -677,6 +677,12 @@ module.exports = {
     },
   },
   testnet: {
+    terra1eae8kz7crdzv0rlw6y0jnfdgyrlamvexa3reut: {
+      protocol: "FanFury",
+      symbol: "FURY",
+      token: "terra1eae8kz7crdzv0rlw6y0jnfdgyrlamvexa3reut",
+      icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/Fanfury.png"
+    },
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
       protocol: "LoTerra",
       symbol: "LOTA",
