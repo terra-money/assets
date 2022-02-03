@@ -468,7 +468,7 @@ module.exports = {
       homepage: "https://lunashield.io",
       marketplace: ["https://marketplace.luart.io/collections/terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t"],
     },
-   terra1gwv0dttn2fmeys6wdhfjtwj7d449y2v0ennh4t: {
+    terra1gwv0dttn2fmeys6wdhfjtwj7d449y2v0ennh4t: {
       contract:"terra1gwv0dttn2fmeys6wdhfjtwj7d449y2v0ennh4t",
       protocol: "Unstables:2",
       name:"Unstables: Guardians of Terra",
@@ -505,5 +505,6 @@ module.exports = {
       symbol: "MVAP0",
       icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
       homepage: "https://www.minerva.market",
+    },
   },
 };
