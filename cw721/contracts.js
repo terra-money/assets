@@ -468,13 +468,14 @@ module.exports = {
       homepage: "https://lunashield.io",
       marketplace: ["https://marketplace.luart.io/collections/terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t"],
     },
-    terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu: {
-      contract: "terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu",
-      name: "Unstables",
-      symbol: "UNSTABLES",
-      icon: "https://i.ibb.co/bQrk5Js/logo-new.png",
+    terra1gwv0dttn2fmeys6wdhfjtwj7d449y2v0ennh4t: {
+      contract:"terra1gwv0dttn2fmeys6wdhfjtwj7d449y2v0ennh4t",
+      protocol: "Unstables:2",
+      name:"Unstables: Guardians of Terra",
+      symbol:"UNSTB:2",
+      icon: "https://imgur.com/a/TKZ97PT",
       homepage: "https://www.unstablesonterra.com/",
-      marketplace: ["https://randomearth.io/collections/terra1jkw0g57qgu2rzc8pd22nf3uepjwc4ts2n0j0zu"],
+      marketplace: ["https://talis.art/collection/61f4809bb123364b12d1865d?from=collections"],
     },
   },
   testnet: {
