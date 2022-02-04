@@ -455,7 +455,7 @@ module.exports = {
     },
     terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z: {
       protocol: "Wormhole",
-      symbol: "whLDO",
+      symbol: "weLDO",
       name: "Lido DAO Token (Wormhole)",
       token: "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z",
       icon: "https://static.lido.fi/LDO/LDO.png",
@@ -463,7 +463,7 @@ module.exports = {
     },
     terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz: {
       protocol: "Wormhole",
-      symbol: "whbETH",
+      symbol: "webETH",
       name: "Lido Bonded ETH (Wormhole)",
       token: "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz",
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
@@ -642,6 +642,38 @@ module.exports = {
       token: "terra100yeqvww74h4yaejj6h733thgcafdaukjtw397",
       icon: "https://finder.extraterrestrial.money/images/APOLLO60.png",
       decimals: 6
+    },
+    terra1a7ye2splpfzyenu0yrdu8t83uzgusx2malkc7u: {
+      protocol: "Allbridge",
+      symbol: "ABR",
+      name: "Allbridge",
+      token: "terra1a7ye2splpfzyenu0yrdu8t83uzgusx2malkc7u",
+      icon: "https://raw.githubusercontent.com/allbridge-io/media/main/token.svg",
+      decimals: 6
+    },
+      terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc: {
+      protocol: "Wormhole",
+      symbol: "whGTPS",
+      name: "Global Transaction Payment Solu",
+      token: "terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc",
+      icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/32x32coinlogo.png?ver=1640952410118",
+      decimals: 8
+    },
+    terra1dh9478k2qvqhqeajhn75a2a7dsnf74y5ukregw: {
+      protocol: "Prism",
+      symbol: "PRISM",
+      name: "Prism Protocol Token",
+      token: "terra1dh9478k2qvqhqeajhn75a2a7dsnf74y5ukregw",
+      icon: "https://prismprotocol.app/prism.png",
+      decimals: 6
+    },
+    terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq: {
+      protocol: "Space Dollar Society",
+      symbol: "SDOLLAR",
+      name: "Space Dollar",
+      token: "terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq",
+      icon: "https://sdollars.wpengine.com/wp-content/uploads/2021/10/spacedollars512x512.png",
+      decimals: 2
     },
   },
   testnet: {
@@ -1057,11 +1089,34 @@ module.exports = {
     },
     terra1d74gfj8gs6rskcuu80x3deus7gut77udhdajv7: {
       protocol: "Wormhole",
-      symbol: "whbETH",
+      symbol: "webETH",
       name: "Lido Bonded ETH (Wormhole)",
       token: "terra1d74gfj8gs6rskcuu80x3deus7gut77udhdajv7",
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
       decimals: 8
+    },
+    terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng: {
+      protocol: "GlassFinance",
+      symbol: "SHARD",
+      name: "SHARD Token",
+      token: "terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng",
+      icon: "https://static.wixstatic.com/media/4079cf_14c37331c6a4485591bc6130a37c31a0~mv2.png",
+    },
+    terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6: {
+      protocol: "Mars",
+      symbol: "MARS",
+      name: "Mars Token",
+      token: "terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6",
+      icon: "https://marsprotocol.io/mars_logo_colored.svg",
+      decimals: 6
+    },
+    terra18l7yr4dg25p666epecr9qvssm3nc3x4ynt3ge2: {
+      protocol: "Proteus Finance",
+      symbol: "PROTEUS",
+      name: "Proteus Token",
+      token: "terra18l7yr4dg25p666epecr9qvssm3nc3x4ynt3ge2",
+      icon: "https://proteus.finance/token/coin_dark_100x100.png",
+      decimals: 9
     },
   }
 }
