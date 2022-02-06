@@ -675,6 +675,14 @@ module.exports = {
       icon: "https://sdollars.wpengine.com/wp-content/uploads/2021/10/spacedollars512x512.png",
       decimals: 2
     },
+    terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz: {
+      protocol: "Prism",
+      symbol: "xPRISM",
+      name: "Prism Governance Token",
+      token: "terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz",
+      icon: "https://prismprotocol.app/xprism.png",
+      decimals: 6
+    }
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
