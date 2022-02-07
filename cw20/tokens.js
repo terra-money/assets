@@ -675,6 +675,22 @@ module.exports = {
       icon: "https://sdollars.wpengine.com/wp-content/uploads/2021/10/spacedollars512x512.png",
       decimals: 2
     },
+    terra1ku5e0dhutxhuxudsmsn5647wwcz6ndr3rsh90k: {
+      protocol: "Wormhole",
+      symbol: "whSAIL",
+      name: "SAIL",
+      token: "terra1ku5e0dhutxhuxudsmsn5647wwcz6ndr3rsh90k",
+      icon: "https://cloudflare-ipfs.com/ipfs/QmPcQfofQNfiv36EAsGQrgAhiPbqGf17i1Cz648JhXFW9m/logo_solana_sail_v2.png",
+      decimals: 6
+    },
+    terra1rl0cpwgtwl4utnaynugevdje37fnmsea7rv4uu: {
+      protocol: "Wormhole",
+      symbol: "whgSAIL",
+      name: "SolanaSail Governance Token V2",
+      token: "terra1rl0cpwgtwl4utnaynugevdje37fnmsea7rv4uu",
+      icon: "https://ipfs.io/ipfs/QmNNt1xoyB7gwjLLzUYMELYGY277ZzZXJw1vhnZW18Wozq?filename=logo_GSAIL.png",
+      decimals: 8
+    },
     terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz: {
       protocol: "Prism",
       symbol: "xPRISM",
@@ -682,7 +698,7 @@ module.exports = {
       token: "terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz",
       icon: "https://prismprotocol.app/xprism.png",
       decimals: 6
-    }
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
