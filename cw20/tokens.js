@@ -675,8 +675,38 @@ module.exports = {
       icon: "https://sdollars.wpengine.com/wp-content/uploads/2021/10/spacedollars512x512.png",
       decimals: 2,
     },
+    terra1ku5e0dhutxhuxudsmsn5647wwcz6ndr3rsh90k: {
+      protocol: "Wormhole",
+      symbol: "whSAIL",
+      name: "SAIL",
+      token: "terra1ku5e0dhutxhuxudsmsn5647wwcz6ndr3rsh90k",
+      icon: "https://cloudflare-ipfs.com/ipfs/QmPcQfofQNfiv36EAsGQrgAhiPbqGf17i1Cz648JhXFW9m/logo_solana_sail_v2.png",
+      decimals: 6
+    },
+    terra1rl0cpwgtwl4utnaynugevdje37fnmsea7rv4uu: {
+      protocol: "Wormhole",
+      symbol: "whgSAIL",
+      name: "SolanaSail Governance Token V2",
+      token: "terra1rl0cpwgtwl4utnaynugevdje37fnmsea7rv4uu",
+      icon: "https://ipfs.io/ipfs/QmNNt1xoyB7gwjLLzUYMELYGY277ZzZXJw1vhnZW18Wozq?filename=logo_GSAIL.png",
+      decimals: 8
+    },
+    terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz: {
+      protocol: "Prism",
+      symbol: "xPRISM",
+      name: "Prism Governance Token",
+      token: "terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz",
+      icon: "https://prismprotocol.app/xprism.png",
+      decimals: 6
+    },
   },
   testnet: {
+    terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
+      protocol: "FanFury",
+      symbol: "FURY",
+      token: "terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg",
+      icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/Fanfury.png"
+    },
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
       protocol: "LoTerra",
       symbol: "LOTA",
@@ -1110,11 +1140,11 @@ module.exports = {
       icon: "https://marsprotocol.io/mars_logo_colored.svg",
       decimals: 6,
     },
-    terra18l7yr4dg25p666epecr9qvssm3nc3x4ynt3ge2: {
+    terra14u5n457t9lyh3qpzdkjxjhwh0dlcm90whgzzzn: {
       protocol: "Proteus Finance",
       symbol: "PROTEUS",
       name: "Proteus Token",
-      token: "terra18l7yr4dg25p666epecr9qvssm3nc3x4ynt3ge2",
+      token: "terra14u5n457t9lyh3qpzdkjxjhwh0dlcm90whgzzzn",
       icon: "https://proteus.finance/token/coin_dark_100x100.png",
       decimals: 9,
     },
