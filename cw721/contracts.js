@@ -38,10 +38,33 @@ module.exports = {
       name: "LunaBulls",
       symbol: "LB",
       homepage: "https://lunabulls.com",
-      icon: "https://lunabulls.com/wp-content/uploads/2021/12/DP.png",
+      icon: "https://lunabulls.mypinata.cloud/ipfs/QmQuohfV7KNRPp3UTe4rigt2dtesgpLivbm7RikzydZWbk",
       marketplace: [
+        "https://marketplace.luart.io/collections/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
         "https://randomearth.io/collections/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
         "https://knowhere.art/collection/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
+      ],
+    },
+    terra1zvmesqul8ss2ty84eml8aqkq0kq5ydwjuyf6a3: {
+      contract: "terra1zvmesqul8ss2ty84eml8aqkq0kq5ydwjuyf6a3",
+      name: "BabyBulls",
+      symbol: "BB",
+      homepage: "https://lunabulls.com",
+      icon: "https://lunabulls.mypinata.cloud/ipfs/QmeLDJ7HQ8aq1aKcRUXPw37XUBh6v2P8n2YLkXP3xaTkm3",
+      marketplace: [
+        "https://marketplace.luart.io/collections/terra1zvmesqul8ss2ty84eml8aqkq0kq5ydwjuyf6a3",
+        "https://randomearth.io/collections/terra1zvmesqul8ss2ty84eml8aqkq0kq5ydwjuyf6a3",
+        "https://knowhere.art/collection/terra1zvmesqul8ss2ty84eml8aqkq0kq5ydwjuyf6a3",
+      ],
+    },
+    terra1k5pa7htlznr7hskhr9dx8qlk65emhktrgmuknd: {
+      contract: "terra1k5pa7htlznr7hskhr9dx8qlk65emhktrgmuknd",
+      name: "LunaBulls Tesseracts",
+      symbol: "LBTS",
+      homepage: "https://lunabulls.com",
+      icon: "https://lunabulls.mypinata.cloud/ipfs/QmPNQSJ88s7qZHWLSmQfZ25aziJZ1ABFXr2bbiiBBAqa1K",
+      marketplace: [
+        "https://marketplace.luart.io/collections/terra1k5pa7htlznr7hskhr9dx8qlk65emhktrgmuknd"
       ],
     },
     terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv: {
