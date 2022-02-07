@@ -1005,6 +1005,11 @@ module.exports = {
       name: "Kujira Team Multisignature Warchest",
       icon: "https://assets.kujira.app/kuji.png",
     },
+    terra13nk2cjepdzzwfqy740pxzpe3x75pd6g0grxm2z: {
+      protocol: "Kujira",
+      name: "Orca aUST Vault",
+      icon: "https://assets.kujira.app/kuji.png",
+    },
     terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z: {
       protocol: "Orne",
       name: "UST-ORNE Pair",
