@@ -691,6 +691,14 @@ module.exports = {
       icon: "https://ipfs.io/ipfs/QmNNt1xoyB7gwjLLzUYMELYGY277ZzZXJw1vhnZW18Wozq?filename=logo_GSAIL.png",
       decimals: 8
     },
+    terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz: {
+      protocol: "Prism",
+      symbol: "xPRISM",
+      name: "Prism Governance Token",
+      token: "terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz",
+      icon: "https://prismprotocol.app/xprism.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
