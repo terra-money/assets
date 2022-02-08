@@ -526,7 +526,6 @@ module.exports = {
       homepage: "https://solohsnft.xyz/",
       marketplace: ["https://marketplace.luart.io/collections/terra1h9rhu457nllgrh4w8rcmc2exv6nvfcjdnd30j0"],
     },
-
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
