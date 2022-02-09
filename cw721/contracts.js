@@ -518,6 +518,14 @@ module.exports = {
       homepage: "https://www.unstablesonterra.com/",
       marketplace: ["https://talis.art/collection/61f4809bb123364b12d1865d?from=collections"],
     },
+    terra1h9rhu457nllgrh4w8rcmc2exv6nvfcjdnd30j0: {
+      contract:"terra1h9rhu457nllgrh4w8rcmc2exv6nvfcjdnd30j0",
+      name:"Silent Solohs",
+      symbol:"SOLOHS",
+      icon: "https://cdn.luart.io/logos/silent-solohs-logo.png",
+      homepage: "https://solohsnft.xyz/",
+      marketplace: ["https://marketplace.luart.io/collections/terra1h9rhu457nllgrh4w8rcmc2exv6nvfcjdnd30j0"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
