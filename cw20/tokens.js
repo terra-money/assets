@@ -1148,7 +1148,7 @@ module.exports = {
       icon: "https://proteus.finance/token/coin_dark_100x100.png",
       decimals: 9
     },
-        terra13fs83g5atgjwuh7c5ydzh6n7gecel6xyhhy2t5: {
+    terra13fs83g5atgjwuh7c5ydzh6n7gecel6xyhhy2t5: {
       protocol: "CAPITRADE",
       symbol: "CDE",
       name: "CAPITRADE TOKEN",
