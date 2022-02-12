@@ -2101,7 +2101,6 @@ module.exports = {
       name: "nLuna-Psi Astroport Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
-
     terra14qtu3fxf8h6afqvhgh65jqs0nk8vpy6vxlmln5: {
       protocol: "Atlo",
       name: "Treasury",
