@@ -2101,5 +2101,55 @@ module.exports = {
       name: "nLuna-Psi Astroport Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
+    terra14qtu3fxf8h6afqvhgh65jqs0nk8vpy6vxlmln5: {
+      protocol: "Atlo",
+      name: "Treasury",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",  
+    },
+    terra1r6ps2zjph92k74ep4q8ernl9n4j32e0ldxc3xk: {
+      protocol: "Atlo",
+      name: "Fee Collector",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",  
+    },
+    terra12z9vdsdjg0thx3wmfnysz6pvegzukykcd709x3: {
+      protocol: "Atlo",
+      name: "Vesting: Team",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",  
+    },
+    terra1yn5l4nrj4qadrne2p6q62h3qkgreum0dq7rdew: {
+      protocol: "Atlo",
+      name: "Vesting: Seed, Public, Early Birds, Advisors",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",  
+    },    
+    terra1a77dwkjmg62wfvkgxwe07ukfctvpgtu3jjvld9: {
+      protocol: "Atlo",
+      name: "Staking: Single-sided",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",  
+    },    
+    terra1rxhf7p6dexv6enq4u5dh7ems82h5u5e6x4l833: {
+      protocol: "Atlo",
+      name: "Staking: LP",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",  
+    },    
+    terra1l0wqwge0vtfmukx028pluxsr7ee2vk8gl5mlxr: {
+      protocol: "Atlo",
+      name: "ATLO-UST LP",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",  
+    },    
+    terra1ycp5lnn0qu4sq4wq7k63zax9f05852xt9nu3yc: {
+      protocol: "Atlo",
+      name: "ATLO-UST Pair",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",  
+    }, 
+    terra16xnc46f7acfff5yrv03ng7u3c8ngfx2jel653q: {
+      protocol: "Atlo",
+      name: "Voting",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",  
+    },    
+    terra1vfrxqy2tw0xrxs8y3agtt3qzuem0pm898umk5v: {
+      protocol: "Atlo",
+      name: "Governance",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",  
+    },  
   },
 };
