@@ -341,7 +341,7 @@ module.exports = {
       icon: "https://www.whitewhale.money/tokenlogo.png",
       decimals: 6
     },
-    terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz: {
+    terra1w0p5zre38ecdy3ez8efd5h9fvgum5s206xknrg: {
       protocol: "White Whale",
       symbol: "vUST",
       name: "Vault UST",
