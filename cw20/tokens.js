@@ -707,6 +707,13 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/Lotaxgizmo/images/57f862e3c2a68708775dae5f962885f2ed309b2d/ICON%20COLOURED%404x%201.png",
       decimals: 9
     },
+    terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8: {
+      protocol: "C2X",
+      symbol: "C2X",
+      name: "C2X Token",
+      token: "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8",
+      icon: "https://c2x.world/c2x-station/icon/C2X.png"
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
@@ -1155,6 +1162,13 @@ module.exports = {
       token: "terra14u5n457t9lyh3qpzdkjxjhwh0dlcm90whgzzzn",
       icon: "https://proteus.finance/token/coin_dark_100x100.png",
       decimals: 9
+    },
+    terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y: {
+      protocol: "C2X",
+      symbol: "C2X",
+      name: "C2X Token",
+      token: "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y",
+      icon: "https://c2x.world/c2x-station/icon/C2X.png"
     },
   }
 }
