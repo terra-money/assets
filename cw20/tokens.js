@@ -1170,5 +1170,13 @@ module.exports = {
       token: "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y",
       icon: "https://c2x.world/c2x-station/icon/C2X.png"
     },
+    terra1cl7whtrqmz5ldr553q69qahck8xvk80fm33qjx: {
+      protocol: "Atlo",
+      symbol: "ATLO",
+      name: "Atlo Token",
+      token: "terra1cl7whtrqmz5ldr553q69qahck8xvk80fm33qjx",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+      decimals: 6
+    },
   }
 }
