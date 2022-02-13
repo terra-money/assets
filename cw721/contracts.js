@@ -193,6 +193,16 @@ module.exports = {
         "https://knowhere.art/collection/terra19auzecsexkyzekcg5r6gvrlm4df3cardccc70w",
       ],
     },
+    terra1gclmlgxyczvmxp72fcfu0n9sm5kfeahpkd348q: {
+      contract: "terra1gclmlgxyczvmxp72fcfu0n9sm5kfeahpkd348q",
+      name: "TalesOfTerra: Commemorative Kwoins",
+      symbol: "KWOIN",
+      icon: "https://images.squarespace-cdn.com/content/v1/613557f834138c745a932b1e/b6a75a91-620b-4cc8-b0f6-7f041fbb58d6/Kwoin-Profile.jpg",
+      homepage: "https://www.talesofterra.art/kwoins",
+      marketplace: [
+        "https://randomearth.io/collections/terra1gclmlgxyczvmxp72fcfu0n9sm5kfeahpkd348q",
+      ],
+    },
     terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq: {
       contract: "terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq",
       protocol: "Astroverse",
