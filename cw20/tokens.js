@@ -714,6 +714,14 @@ module.exports = {
       token: "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8",
       icon: "https://c2x.world/c2x-station/icon/C2X.png"
     },
+    terra1cl7whtrqmz5ldr553q69qahck8xvk80fm33qjx: {
+      protocol: "Atlo",
+      symbol: "ATLO",
+      name: "Atlo Token",
+      token: "terra1cl7whtrqmz5ldr553q69qahck8xvk80fm33qjx",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
@@ -1169,14 +1177,6 @@ module.exports = {
       name: "C2X Token",
       token: "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y",
       icon: "https://c2x.world/c2x-station/icon/C2X.png"
-    },
-    terra1cl7whtrqmz5ldr553q69qahck8xvk80fm33qjx: {
-      protocol: "Atlo",
-      symbol: "ATLO",
-      name: "Atlo Token",
-      token: "terra1cl7whtrqmz5ldr553q69qahck8xvk80fm33qjx",
-      icon: "https://assets.atlo.app/images/atlo-logo.png",
-      decimals: 6
     },
   }
 }
