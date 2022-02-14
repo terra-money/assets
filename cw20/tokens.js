@@ -341,6 +341,14 @@ module.exports = {
       icon: "https://www.whitewhale.money/tokenlogo.png",
       decimals: 6
     },
+    terra1w0p5zre38ecdy3ez8efd5h9fvgum5s206xknrg: {
+      protocol: "White Whale",
+      symbol: "vUST",
+      name: "Vault UST",
+      token: "terra1w0p5zre38ecdy3ez8efd5h9fvgum5s206xknrg",
+      icon: "https://www.whitewhale.money/vustlogo.png",
+      decimals: 6
+    },
     terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r: {
       protocol: "Wormhole",
       symbol: "weWETH",
