@@ -1,10 +1,5 @@
 module.exports = [
   {
-    name: "Oneplanet",
-    link: "https://oneplanetnft.io",
-    icon: "https://www.oneplanetnft.io/logo.svg"
-  },
-  {
     name: "Random Earth",
     link: "https://randomearth.io",
   },
@@ -27,5 +22,10 @@ module.exports = [
     name: "Curio",
     link: "https://curio.art",
     icon: "https://www.curio.art/img/logo.svg",
+  },
+  {
+    name: "Oneplanet",
+    link: "https://oneplanetnft.io",
+    icon: "https://www.oneplanetnft.io/logo.svg"
   },
 ];
