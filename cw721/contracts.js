@@ -536,6 +536,14 @@ module.exports = {
       homepage: "https://solohsnft.xyz/",
       marketplace: ["https://marketplace.luart.io/collections/terra1h9rhu457nllgrh4w8rcmc2exv6nvfcjdnd30j0"],
     },
+    terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf: {
+      contract:"terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf",
+      name:"Terra Skulls",
+      symbol:"TSKG1",
+      icon: "https://storage.googleapis.com/public-knowhere/collections/terraskulls.png",
+      homepage: "terraskulls.io/",
+      marketplace: ["https://knowhere.art/candy-machine/collections/terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
