@@ -845,6 +845,11 @@ module.exports = {
       name: "WHALE",
       icon: "https://www.whitewhale.money/tokenlogo.png",
     },
+    terra1w0p5zre38ecdy3ez8efd5h9fvgum5s206xknrg: {
+      protocol: "Vault UST",
+      name: "vUST",
+      icon: "https://www.whitewhale.money/vustlogo.png",
+    },
     terra1xrk6v2tfjrhjz2dsfecj40ps7ayanjx970gy0j: {
       protocol: "Nexus",
       name: "Governance",
