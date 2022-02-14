@@ -341,6 +341,14 @@ module.exports = {
       icon: "https://www.whitewhale.money/tokenlogo.png",
       decimals: 6
     },
+    terra1w0p5zre38ecdy3ez8efd5h9fvgum5s206xknrg: {
+      protocol: "White Whale",
+      symbol: "vUST",
+      name: "Vault UST",
+      token: "terra1w0p5zre38ecdy3ez8efd5h9fvgum5s206xknrg",
+      icon: "https://www.whitewhale.money/vustlogo.png",
+      decimals: 6
+    },
     terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r: {
       protocol: "Wormhole",
       symbol: "weWETH",
@@ -699,6 +707,45 @@ module.exports = {
       icon: "https://prismprotocol.app/xprism.png",
       decimals: 6
     },
+    terra13fs83g5atgjwuh7c5ydzh6n7gecel6xyhhy2t5: {
+      protocol: "CAPITRADE",
+      symbol: "CDE",
+      name: "CAPITRADE TOKEN",
+      token: "terra13fs83g5atgjwuh7c5ydzh6n7gecel6xyhhy2t5",
+      icon: "https://raw.githubusercontent.com/Lotaxgizmo/images/57f862e3c2a68708775dae5f962885f2ed309b2d/ICON%20COLOURED%404x%201.png",
+      decimals: 9
+    },
+    terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8: {
+      protocol: "C2X",
+      symbol: "C2X",
+      name: "C2X Token",
+      token: "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8",
+      icon: "https://c2x.world/c2x-station/icon/C2X.png"
+    },
+    terra13zaagrrrxj47qjwczsczujlvnnntde7fdt0mau: {
+      protocol: "Prism",
+      symbol: "cLuna",
+      name: "Prism cLuna Token",
+      token: "terra13zaagrrrxj47qjwczsczujlvnnntde7fdt0mau",
+      icon: "https://home.prismprotocol.app/cluna.png",
+      decimals: 6
+    },
+    terra1tlgelulz9pdkhls6uglfn5lmxarx7f2gxtdzh2: {
+      protocol: "Prism",
+      symbol: "pLuna",
+      name: "Prism pLuna Token",
+      token: "terra1tlgelulz9pdkhls6uglfn5lmxarx7f2gxtdzh2",
+      icon: "https://home.prismprotocol.app/pluna.png",
+      decimals: 6
+    },
+    terra17wkadg0tah554r35x6wvff0y5s7ve8npcjfuhz: {
+      protocol: "Prism",
+      symbol: "yLuna",
+      name: "Prism yLuna Token",
+      token: "terra17wkadg0tah554r35x6wvff0y5s7ve8npcjfuhz",
+      icon: "https://home.prismprotocol.app/yluna.png",
+      decimals: 6
+    }
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
@@ -1147,6 +1194,20 @@ module.exports = {
       token: "terra14u5n457t9lyh3qpzdkjxjhwh0dlcm90whgzzzn",
       icon: "https://proteus.finance/token/coin_dark_100x100.png",
       decimals: 9
+    },
+    terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y: {
+      protocol: "C2X",
+      symbol: "C2X",
+      name: "C2X Token",
+      token: "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y",
+      icon: "https://c2x.world/c2x-station/icon/C2X.png"
+    },
+    terra1h7kpmr728qd8gkcvasww2gqgxvzxuf26ymdfc2: {
+      protocol: "Chiguire",
+      symbol: "CHI",
+      name: "Chiguire Token",
+      token: "terra1h7kpmr728qd8gkcvasww2gqgxvzxuf26ymdfc2",
+      icon: "https://cdn-icons-png.flaticon.com/512/185/185718.png"
     },
   }
 }

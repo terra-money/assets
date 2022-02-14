@@ -228,6 +228,18 @@ module.exports = {
       "uusd",
       "terra1a7ye2splpfzyenu0yrdu8t83uzgusx2malkc7u"
     ],
+    terra10k7y9qw63tfwj7e3x4uuzru2u9kvtd4ureajhd: [
+      "uusd",
+      "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4"
+    ],
+    terra18raj59xx32kuz66sfg82kqta6q0aslfs3m8s4r: [
+      "uusd",
+      "terra1jx4lmmke2srcvpjeereetc9hgegp4g5j0p9r2q"
+    ],
+    terra1v4kpj65uq63m4x0mqzntzm27ecpactt42nyp5c: [
+      "uusd",
+      "terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz"
+    ],
   },
   testnet: {
     terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu: [
