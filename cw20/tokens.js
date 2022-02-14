@@ -722,6 +722,30 @@ module.exports = {
       token: "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8",
       icon: "https://c2x.world/c2x-station/icon/C2X.png"
     },
+    terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz: {
+      protocol: "Prism",
+      symbol: "cLuna",
+      name: "Prism cLuna Token",
+      token: "terra13zaagrrrxj47qjwczsczujlvnnntde7fdt0mau",
+      icon: "https://home.prismprotocol.app/cluna.png",
+      decimals: 6
+    },
+    terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz: {
+      protocol: "Prism",
+      symbol: "pLuna",
+      name: "Prism pLuna Token",
+      token: "terra1tlgelulz9pdkhls6uglfn5lmxarx7f2gxtdzh2",
+      icon: "https://home.prismprotocol.app/pluna.png",
+      decimals: 6
+    },
+    terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz: {
+      protocol: "Prism",
+      symbol: "yLuna",
+      name: "Prism yLuna Token",
+      token: "terra17wkadg0tah554r35x6wvff0y5s7ve8npcjfuhz",
+      icon: "https://home.prismprotocol.app/yluna.png",
+      decimals: 6
+    }
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
