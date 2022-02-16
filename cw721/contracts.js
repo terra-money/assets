@@ -163,13 +163,13 @@ module.exports = {
       homepage: "https://twitter.com/LUNAmeowNFT",
       marketplace: ["https://knowhere.art/collection/terra1ce6jq4da4u49x5mwfdun9jxz5az5uflsgqc067"],
     },
-    terra1cdd4k8shstdsrfl83c2f2hts8kfh636k58uqmm: {
-      contract: "terra1cdd4k8shstdsrfl83c2f2hts8kfh636k58uqmm",
+    terra1dh4tjp2qt8axyvp354hevdvv940dcecqd3f4nh: {
+      contract: "terra1dh4tjp2qt8axyvp354hevdvv940dcecqd3f4nh",
       name: "Terra Best Girls",
       symbol: "BESTGIRLS",
       icon: "https://storage.googleapis.com/public-knowhere/collections/terra-best-girls.jpeg",
       homepage: "https://twitter.com/BestGirlsNFT",
-      marketplace: ["https://knowhere.art/collection/terra1cdd4k8shstdsrfl83c2f2hts8kfh636k58uqmm"],
+      marketplace: ["https://knowhere.art/collection/terra1dh4tjp2qt8axyvp354hevdvv940dcecqd3f4nh"],
     },
     terra192vcn2julwy7r2cd5prnkmnm3nxsts5sm32ygq: {
       contract: "terra192vcn2julwy7r2cd5prnkmnm3nxsts5sm32ygq",
@@ -536,6 +536,14 @@ module.exports = {
       homepage: "https://solohsnft.xyz/",
       marketplace: ["https://marketplace.luart.io/collections/terra1h9rhu457nllgrh4w8rcmc2exv6nvfcjdnd30j0"],
     },
+    terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf: {
+      contract:"terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf",
+      name:"Terra Skulls",
+      symbol:"TSKG1",
+      icon: "https://storage.googleapis.com/public-knowhere/collections/terraskulls.png",
+      homepage: "terraskulls.io/",
+      marketplace: ["https://knowhere.art/candy-machine/collections/terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
@@ -564,6 +572,13 @@ module.exports = {
       symbol: "MVAP0",
       icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
       homepage: "https://www.minerva.market",
+    },
+    terra1pzuql4dtxj7rfe6vj2cyd208kz56pnpj7j4mvm: {
+      contract: "terra1pzuql4dtxj7rfe6vj2cyd208kz56pnpj7j4mvm",
+      name: "GoFund US(T)",
+      symbol: "GoFund-UST",
+      icon: "https://gofundust.money/favicon.png",
+      homepage: "https://gofundust.money/",
     },
   },
 };

@@ -745,7 +745,15 @@ module.exports = {
       token: "terra17wkadg0tah554r35x6wvff0y5s7ve8npcjfuhz",
       icon: "https://home.prismprotocol.app/yluna.png",
       decimals: 6
-    }
+    },
+    terra1cl7whtrqmz5ldr553q69qahck8xvk80fm33qjx: {
+      protocol: "Atlo",
+      symbol: "ATLO",
+      name: "Atlo Token",
+      token: "terra1cl7whtrqmz5ldr553q69qahck8xvk80fm33qjx",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
