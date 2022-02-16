@@ -406,9 +406,9 @@ module.exports = {
       "uusd",
       "terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng"
     ],
-    terra1anwwv3pd2q3rexnnda7ctfd0xpketdsnpayg0g: [
+    terra1sfk7dveafnzfe6lqjcqm335vzdmv8286mfwlfc: [
       "uusd",
-      "terra1h7kpmr728qd8gkcvasww2gqgxvzxuf26ymdfc2"
+      "terra1skfgen8c2hr04wc7yk3u4eqlp2nrv0xl0vuavs"
     ],
   }
 }
