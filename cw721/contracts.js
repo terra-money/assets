@@ -573,5 +573,12 @@ module.exports = {
       icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
       homepage: "https://www.minerva.market",
     },
+    terra1pzuql4dtxj7rfe6vj2cyd208kz56pnpj7j4mvm: {
+      contract: "terra1pzuql4dtxj7rfe6vj2cyd208kz56pnpj7j4mvm",
+      name: "GoFund US(T)",
+      symbol: "GoFund-UST",
+      icon: "https://gofundust.money/favicon.png",
+      homepage: "https://gofundust.money/",
+    },
   },
 };
