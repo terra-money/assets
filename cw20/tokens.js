@@ -1210,11 +1210,11 @@ module.exports = {
       token: "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y",
       icon: "https://c2x.world/c2x-station/icon/C2X.png"
     },
-    terra1h7kpmr728qd8gkcvasww2gqgxvzxuf26ymdfc2: {
+    terra1skfgen8c2hr04wc7yk3u4eqlp2nrv0xl0vuavs: {
       protocol: "Chiguire",
       symbol: "CHI",
       name: "Chiguire Token",
-      token: "terra1h7kpmr728qd8gkcvasww2gqgxvzxuf26ymdfc2",
+      token: "terra1skfgen8c2hr04wc7yk3u4eqlp2nrv0xl0vuavs",
       icon: "https://cdn-icons-png.flaticon.com/512/185/185718.png"
     },
   }
