@@ -163,13 +163,13 @@ module.exports = {
       homepage: "https://twitter.com/LUNAmeowNFT",
       marketplace: ["https://knowhere.art/collection/terra1ce6jq4da4u49x5mwfdun9jxz5az5uflsgqc067"],
     },
-    terra1cdd4k8shstdsrfl83c2f2hts8kfh636k58uqmm: {
-      contract: "terra1cdd4k8shstdsrfl83c2f2hts8kfh636k58uqmm",
+    terra1dh4tjp2qt8axyvp354hevdvv940dcecqd3f4nh: {
+      contract: "terra1dh4tjp2qt8axyvp354hevdvv940dcecqd3f4nh",
       name: "Terra Best Girls",
       symbol: "BESTGIRLS",
       icon: "https://storage.googleapis.com/public-knowhere/collections/terra-best-girls.jpeg",
       homepage: "https://twitter.com/BestGirlsNFT",
-      marketplace: ["https://knowhere.art/collection/terra1cdd4k8shstdsrfl83c2f2hts8kfh636k58uqmm"],
+      marketplace: ["https://knowhere.art/collection/terra1dh4tjp2qt8axyvp354hevdvv940dcecqd3f4nh"],
     },
     terra192vcn2julwy7r2cd5prnkmnm3nxsts5sm32ygq: {
       contract: "terra192vcn2julwy7r2cd5prnkmnm3nxsts5sm32ygq",
