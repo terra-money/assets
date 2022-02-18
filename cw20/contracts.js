@@ -1015,7 +1015,7 @@ module.exports = {
       name: "Orca aUST Vault",
       icon: "https://assets.kujira.app/kuji.png",
     },
-    terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z: {
+    terra13yftwgefkggq3u627gphq98s6ufwh9u85h5kmg: {
       protocol: "Orne",
       name: "UST-ORNE Pair",
       icon: "https://orne.io/img/token_icon.png",
@@ -2106,7 +2106,7 @@ module.exports = {
       name: "TerraFloki UST-TFLOKI LP New World Staking",
       icon: "https://terrafloki.io/ticket2_logo.png"
     },
-    terra1cc5p6u7fm3eh9m2h0jjjay4hlluw5e32mtstjd: {
+    terra1eqzmr4gcx7vtwgcxvg86ccsaly8xqzwu0wu47u: {
       protocol: "Orne",
       name: "UST-ORNE Pair",
       icon: "https://orne.io/img/token_icon.png",

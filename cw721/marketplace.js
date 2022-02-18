@@ -23,4 +23,9 @@ module.exports = [
     link: "https://curio.art",
     icon: "https://www.curio.art/img/logo.svg",
   },
+  {
+    name: "OnePlanet",
+    link: "https://oneplanetnft.io",
+    icon: "https://www.oneplanetnft.io/logo.svg"
+  },
 ];
