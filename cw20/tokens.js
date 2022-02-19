@@ -754,6 +754,14 @@ module.exports = {
       icon: "https://assets.atlo.app/images/atlo-logo.png",
       decimals: 6
     },
+    terra1vchw83qt25j89zqwdpmdzj722sqxthnckqzxxp: {
+      protocol: "Local Terra",
+      symbol: "LOCAL",
+      name: "LOCAL Token",
+      token: "terra1vchw83qt25j89zqwdpmdzj722sqxthnckqzxxp",
+      icon: "https://localterra.money/local-logo-dark.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
