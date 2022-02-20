@@ -445,6 +445,14 @@ module.exports = {
       icon: "https://assets.kujira.app/kuji.png",
       decimals: 6
     },
+    terra188w26t95tf4dz77raftme8p75rggatxjxfeknw: {
+      protocol: "Kujira",
+      symbol: "sKUJI",
+      name: "Staked KUJI",
+      token: "terra188w26t95tf4dz77raftme8p75rggatxjxfeknw",
+      icon: "https://assets.kujira.app/skuji.png",
+      decimals: 6
+    },
     terra133chr09wu8sakfte5v7vd8qzq9vghtkv4tn0ur: {
       protocol: "Wormhole",
       symbol: "wewstETH",
