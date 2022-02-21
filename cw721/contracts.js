@@ -227,6 +227,18 @@ module.exports = {
         "https://knowhere.art/collection/terra1xv0as2esvwqcuaqtdhvrdhykrfe75qw42tgh6f",
       ],
     },
+    terra13ptfhnrl7n2zcq8369s39a5eqg85xxtj77jtuh: {
+      contract: "terra13ptfhnrl7n2zcq8369s39a5eqg85xxtj77jtuh",
+      protocol: "Astroverse",
+      name: "Astroverse x Vinboy",
+      symbol: "AVIN",
+      icon: "https://www.astroverse.art/wp-content/uploads/2021/09/logo10.jpg",
+      homepage: "https://www.astroverse.art/",
+      marketplace: [
+        "https://randomearth.io/collections/terra13ptfhnrl7n2zcq8369s39a5eqg85xxtj77jtuh",
+        "https://knowhere.art/collection/terra13ptfhnrl7n2zcq8369s39a5eqg85xxtj77jtuh",
+      ],
+    },
     terra1whyze49j9d0672pleaflk0wfufxrh8l0at2h8q: {
       contract: "terra1whyze49j9d0672pleaflk0wfufxrh8l0at2h8q",
       protocol: "Terranauts",
