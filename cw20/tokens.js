@@ -1225,5 +1225,12 @@ module.exports = {
       token: "terra1skfgen8c2hr04wc7yk3u4eqlp2nrv0xl0vuavs",
       icon: "https://cdn-icons-png.flaticon.com/512/185/185718.png"
     },
+    terra1jw55wct7rcv9fqvawenw0yns2s54d3rcqtd734: {
+      protocol: "Monito",
+      symbol: "MON",
+      name: "Monito Token",
+      token: "terra1jw55wct7rcv9fqvawenw0yns2s54d3rcqtd734",
+      icon: "https://images.emojiterra.com/google/android-11/512px/1f412.png"
+    },
   }
 }
