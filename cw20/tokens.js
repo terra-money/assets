@@ -770,6 +770,13 @@ module.exports = {
       icon: "https://localterra.money/local-logo-dark.png",
       decimals: 6
     },
+    terra1ykl7ee0dakfev97ektynnup8hscyuhc9kly9k4: {
+      protocol: "Terra",
+      symbol: "LTVN",
+      name: "Luntivo Finance Token",
+      token: "terra1ykl7ee0dakfev97ektynnup8hscyuhc9kly9k4",
+      icon: "https://luntivo.finance/images/coin.png"
+    }
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
