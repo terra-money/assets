@@ -1225,5 +1225,12 @@ module.exports = {
       token: "terra1skfgen8c2hr04wc7yk3u4eqlp2nrv0xl0vuavs",
       icon: "https://cdn-icons-png.flaticon.com/512/185/185718.png"
     },
+    terra1ykl7ee0dakfev97ektynnup8hscyuhc9kly9k4: {
+      protocol: "Terra",
+      symbol: "LTVN",
+      name: "Luntivo Token",
+      token: "terra1ykl7ee0dakfev97ektynnup8hscyuhc9kly9k4",
+      icon: "https://luntivo.finance/images/coin.png"
+    }
   }
 }
