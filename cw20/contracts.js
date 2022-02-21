@@ -2161,5 +2161,10 @@ module.exports = {
       name: "nLuna-Psi Astroport Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
+    terra1ykl7ee0dakfev97ektynnup8hscyuhc9kly9k4: {
+      protocol: "Terraswap",
+      name:   "Luntivo",
+      icon:   "https://luntivo.finance/images/coin.png",
+    }
   },
 };
