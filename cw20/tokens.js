@@ -775,7 +775,8 @@ module.exports = {
       symbol: "LTVN",
       name: "Luntivo Finance Token",
       token: "terra1ykl7ee0dakfev97ektynnup8hscyuhc9kly9k4",
-      icon: "https://luntivo.finance/images/coin.png"
+      icon: "https://luntivo.finance/images/coin.png",
+      decimals: 6
     }
   },
   testnet: {
