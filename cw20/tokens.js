@@ -1240,5 +1240,12 @@ module.exports = {
       token: "terra1jw55wct7rcv9fqvawenw0yns2s54d3rcqtd734",
       icon: "https://images.emojiterra.com/google/android-11/512px/1f412.png"
     },
+    terra1gmpdn3vdhpgrwdrupy2wzzw9fkm2ac649rfc4k: {
+      protocol: "Lunaverse",
+      symbol: "LUV",
+      name: "Lunaverse token",
+      token: "terra1gmpdn3vdhpgrwdrupy2wzzw9fkm2ac649rfc4k",
+      icon: "https://lunaverse.io/favicon.ico"
+    },
   }
 }
