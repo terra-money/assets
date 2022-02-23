@@ -208,7 +208,7 @@ module.exports = {
       protocol: "Astroverse",
       name: "Astroverse #01",
       symbol: "AST1",
-      icon: "https://www.astroverse.art/wp-content/uploads/2021/09/logo10.jpg",
+      icon: "https://www.astroverse.art/wp-content/uploads/2022/02/Astroverse-logo.png",
       homepage: "https://www.astroverse.art/",
       marketplace: [
         "https://randomearth.io/collections/terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq",
@@ -220,7 +220,7 @@ module.exports = {
       protocol: "Astroverse",
       name: "Astroverse #02",
       symbol: "AV2",
-      icon: "https://www.astroverse.art/wp-content/uploads/2021/09/logo10.jpg",
+      icon: "https://www.astroverse.art/wp-content/uploads/2022/02/Astroverse-02-logo.png",
       homepage: "https://www.astroverse.art/",
       marketplace: [
         "https://randomearth.io/collections/terra1xv0as2esvwqcuaqtdhvrdhykrfe75qw42tgh6f",
@@ -232,7 +232,7 @@ module.exports = {
       protocol: "Astroverse",
       name: "Astroverse x Vinboy",
       symbol: "AVIN",
-      icon: "https://www.astroverse.art/wp-content/uploads/2021/09/logo10.jpg",
+      icon: "https://www.astroverse.art/wp-content/uploads/2022/02/astroverse-x-vin-logo.png",
       homepage: "https://www.astroverse.art/",
       marketplace: [
         "https://randomearth.io/collections/terra13ptfhnrl7n2zcq8369s39a5eqg85xxtj77jtuh",
