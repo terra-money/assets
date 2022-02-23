@@ -655,6 +655,91 @@ module.exports = {
       name: "SPEC Burn Vault",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
+    terra1fxwelge6mf5l6z0rjpylzcfq9w9tw2q7tewaf5: {
+      protocol: "Spectrum",
+      name: "SPEC Staker",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1w9d33yf2j05m2h6f3k7sjuhgrdrznqmncjrwhq: {
+      protocol: "Spectrum",
+      name: "SPEC Staker Astroport",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra12kzevdnqe4k82cg5f07dywgj4lvkshhhwh4gnc: {
+      protocol: "Spectrum",
+      name: "SPEC Staker Single Asset",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1wn0d0zwl382pnl6hdcd8r926yx6mcqcag7v39j: {
+      protocol: "Spectrum",
+      name: "Spec Astroport ASTRO-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1egstlx9c9pq5taja5sg0yhraa0cl5laxyvm3ln: {
+      protocol: "Spectrum",
+      name: "Spec Astroport LUNA-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1ejl4v53w4all7zkw8nfkw2q6d3qkpls8m4cav4: {
+      protocol: "Spectrum",
+      name: "Spec Astroport bLUNA-LUNA Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1ukm33qyqx0qcz7rupv085rgpx0tp5wzkhmcj3f: {
+      protocol: "Spectrum",
+      name: "Spec Astroport ANC-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1y5hd5ea9dshfwf5eysqtsey7qkdhhktmtw9y3q: {
+      protocol: "Spectrum",
+      name: "Spec Astroport MIR-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1p30zk5xfn34lygcyhs2us9mxwzsn88v2yqrcw6: {
+      protocol: "Spectrum",
+      name: "Spec Astroport ORION-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra10htnzp8gk49u97whehd9uuj5rl2keegcvdhg2q: {
+      protocol: "Spectrum",
+      name: "Spec Astroport STT-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1yj34w2n24p4x7s69evjp7ukzz82ca5tvlzqa84: {
+      protocol: "Spectrum",
+      name: "Spec Astroport VKR-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1s9zqk5ksnwp8qywrmdwt2fq0a9l0zc2d2sw2an: {
+      protocol: "Spectrum",
+      name: "Spec Astroport MINE-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1zngkjhqqearpfhym9x9hnutpklduz45e9uvp9u: {
+      protocol: "Spectrum",
+      name: "Spec Astroport APOLLO-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1jxh7hahwxlsy5cckkyhuz50a60mpn5tr0px6tq: {
+      protocol: "Spectrum",
+      name: "Spec Astroport Psi-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1zl3ud44lja3r8ld8nwzh3eukl6h97gp2xr4wq6: {
+      protocol: "Spectrum",
+      name: "Spec Astroport nLuna-Psi Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1xw3jzqwrql5fvddchzxycd2ygrep5kudsden5c: {
+      protocol: "Spectrum",
+      name: "Spec Astroport nETH-Psi Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1d9cufxz9a4px9zfzq8quqewlj24durtu6lhwfw: {
+      protocol: "Spectrum",
+      name: "Spec Astroport XDEFI-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
     terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5: {
       protocol: "StarTerra",
       name: "STT/LP Staking Faction Lunatics",
@@ -1884,6 +1969,31 @@ module.exports = {
     terra1l3g2yv5cqwdtrxeun4a76jkq45gwwm682usvs4: {
       protocol: "Spectrum",
       name: "SPEC Burn Vault",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra15nwqmmmza9y643apneg0ddwt0ekk38qdevnnjt: {
+      protocol: "Spectrum",
+      name: "SPEC Staker",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra14lezmh3d449pu8hfhwpxu5wu694l4tzg3lhru5: {
+      protocol: "Spectrum",
+      name: "Spec Staker Astroport",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1xt7p5a5dezj4d5h4rhry6mr6khhfhgnszem08s: {
+      protocol: "Spectrum",
+      name: "Spec Staker Single Asset",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra19x7u7d837p9x6rzwesnk65n3aml0p3apytz4d2: {
+      protocol: "Spectrum",
+      name: "Spec Astroport ASTRO-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1salzgw4879x45rduugn88j8x2mv6hzjdvwfmzh: {
+      protocol: "Spectrum",
+      name: "Spec Astroport ANC-UST Farm",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
     terra1cxz4m6rvq9vkw8x9f3gqtuex6t5ulm6sr3j4qz: {
