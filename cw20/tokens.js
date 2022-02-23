@@ -770,6 +770,13 @@ module.exports = {
       icon: "https://localterra.money/local-logo-dark.png",
       decimals: 6
     },
+    terra1gmpdn3vdhpgrwdrupy2wzzw9fkm2ac649rfc4k: {
+      protocol: "Lunaverse",
+      symbol: "LUV",
+      name: "Lunaverse token",
+      token: "terra1gmpdn3vdhpgrwdrupy2wzzw9fkm2ac649rfc4k",
+      icon: "https://lunaverse.io/favicon.ico"
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
@@ -1239,13 +1246,6 @@ module.exports = {
       name: "Monito Token",
       token: "terra1jw55wct7rcv9fqvawenw0yns2s54d3rcqtd734",
       icon: "https://images.emojiterra.com/google/android-11/512px/1f412.png"
-    },
-    terra1gmpdn3vdhpgrwdrupy2wzzw9fkm2ac649rfc4k: {
-      protocol: "Lunaverse",
-      symbol: "LUV",
-      name: "Lunaverse token",
-      token: "terra1gmpdn3vdhpgrwdrupy2wzzw9fkm2ac649rfc4k",
-      icon: "https://lunaverse.io/favicon.ico"
     },
   }
 }
