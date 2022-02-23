@@ -775,7 +775,8 @@ module.exports = {
       symbol: "LUV",
       name: "Lunaverse token",
       token: "terra1gmpdn3vdhpgrwdrupy2wzzw9fkm2ac649rfc4k",
-      icon: "https://lunaverse.io/favicon.ico"
+      icon: "https://lunaverse.io/favicon.ico",
+      decimals: 6
     },
   },
   testnet: {
