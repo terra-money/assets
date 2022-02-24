@@ -785,7 +785,7 @@ module.exports = {
       token: "terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6",
       icon: "https://lunaverse.io/assets/images/logo.png",
       decimals: 6
-    }
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
