@@ -1248,5 +1248,20 @@ module.exports = {
       token: "terra1jw55wct7rcv9fqvawenw0yns2s54d3rcqtd734",
       icon: "https://images.emojiterra.com/google/android-11/512px/1f412.png"
     },
+    terra165s28f7za00p6g78c2rd5z6dkmv2rxrq0qhfrg: {
+      protocol: "Anchor",
+      symbol: "bATOM",
+      name: "Bonded ATOM",
+      token: "terra165s28f7za00p6g78c2rd5z6dkmv2rxrq0qhfrg",
+      icon: "https://files.pstake.finance/logos/bAssets/bATOM.svg",
+    },
+    terra16ythupvqqkdwfvd2fdcxl7uzesqw9hv9h594q2: {
+      protocol: "Wormhole",
+      symbol: "webATOM",
+      name: "pStake Bonded ATOM (Wormhole)",
+      token: "terra16ythupvqqkdwfvd2fdcxl7uzesqw9hv9h594q2",
+      icon: "https://files.pstake.finance/logos/bAssets/bATOM_Wormhole.svg",
+      decimals: 8,
+    },
   }
 }
