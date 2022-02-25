@@ -244,6 +244,10 @@ module.exports = {
       "uusd",
       "terra1cl7whtrqmz5ldr553q69qahck8xvk80fm33qjx"
     ],
+    terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6: [
+      "uusd",
+      "terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6"
+    ],
   },
   testnet: {
     terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu: [
