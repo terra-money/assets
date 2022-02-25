@@ -777,7 +777,15 @@ module.exports = {
       token: "terra1ykl7ee0dakfev97ektynnup8hscyuhc9kly9k4",
       icon: "https://luntivo.finance/images/coin.png",
       decimals: 3
-    }
+    },
+    terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6: {
+      protocol: "Lunaverse",
+      symbol: "LUV",
+      name: "Lunaverse",
+      token: "terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6",
+      icon: "https://lunaverse.io/assets/images/logo.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
