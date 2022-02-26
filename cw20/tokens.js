@@ -786,6 +786,14 @@ module.exports = {
       icon: "https://lunaverse.io/assets/images/logo.png",
       decimals: 6
     },
+    terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp: {
+      protocol: "Terra",
+      symbol: "ROBO",
+      name: "RoboHero",
+      token: "terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp",
+      icon: "https://robohero.io/assets/token.png",
+      decimals: 6
+    }
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
