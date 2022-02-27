@@ -556,6 +556,13 @@ module.exports = {
       homepage: "terraskulls.io/",
       marketplace: ["https://knowhere.art/candy-machine/collections/terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf"],
     },
+    terra1w4n7szdxs5gd0cj0e6ns5d2hqpjxu70yptqk90: {
+      contract: "terra1w4n7szdxs5gd0cj0e6ns5d2hqpjxu70yptqk90",
+      name: "GoFund US(T)",
+      symbol: "GoFund-UST",
+      icon: "https://gofundust.money/favicon.png",
+      homepage: "https://gofundust.money/",
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
@@ -585,8 +592,8 @@ module.exports = {
       icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
       homepage: "https://www.minerva.market",
     },
-    terra1c2qck540pw9cpee5dkd547dznrsz0vk0hq9xtk: {
-      contract: "terra1c2qck540pw9cpee5dkd547dznrsz0vk0hq9xtk",
+    terra13rxnrpjk5l8c77zsdzzq63zmavu03hwn532wn0: {
+      contract: "terra13rxnrpjk5l8c77zsdzzq63zmavu03hwn532wn0",
       name: "GoFund US(T)",
       symbol: "GoFund-UST",
       icon: "https://gofundust.money/favicon.png",
