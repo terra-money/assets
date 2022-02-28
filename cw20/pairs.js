@@ -248,6 +248,10 @@ module.exports = {
       "terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz",
       "terra1w0p5zre38ecdy3ez8efd5h9fvgum5s206xknrg"
     ],
+    terra1hmcd4kwafyydd4mjv2rzhcuuwnfuqc2prkmlhj: [
+      "uusd",
+      "terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6"
+    ],
   },
   testnet: {
     terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu: [
