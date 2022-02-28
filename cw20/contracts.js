@@ -2056,6 +2056,11 @@ module.exports = {
       name: "WHALE-UST LP Token",
       icon: "https://www.whitewhale.money/tokenlogo.png",
     },
+    terra1z4hyc87tuln35nu465d5equke4nf7xqepx7rtg: {
+      protocol: "Vault UST",
+      name: "vUST",
+      icon: "https://www.whitewhale.money/vustlogo.png",
+    },
     terra1u7tnl4326ge86mzqeqnzxxjg7xkgj8nfg65a2h: {
       protocol: "Nexus",
       name: "Governance",
