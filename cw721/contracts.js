@@ -556,6 +556,22 @@ module.exports = {
       homepage: "terraskulls.io/",
       marketplace: ["https://knowhere.art/candy-machine/collections/terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf"],
     },
+    terra1cx2c7pkchltqfstev03hns79d93tmqeht5msxt: {
+      contract: "terra1cx2c7pkchltqfstev03hns79d93tmqeht5msxt",
+      protocol: "Mars Protocol",
+      name: "Manifesto Medal",
+      symbol: "MEDAL",
+      icon: "https://ipfs.io/ipfs/QmPVFWGhAgTmS646tCMhTnLg9mdUnQJpEoJPEghVcxhxPs",
+      homepage: "https://marsprotocol.io/",
+    },
+    terra10rvcahsp9yuaxtn2xhnke08mksdslkmzk87dvt: {
+      contract: "terra10rvcahsp9yuaxtn2xhnke08mksdslkmzk87dvt",
+      protocol: "Mars Protocol",
+      name: "R-MEDAL",
+      symbol: "RMEDAL",
+      icon: "https://ipfs.io/ipfs/QmbbXKezWaxC687a3jQffzyc8u8xSyLv3aTGsNzdzk393y",
+      homepage: "https://marsprotocol.io/",
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
@@ -591,22 +607,6 @@ module.exports = {
       symbol: "GoFund-UST",
       icon: "https://gofundust.money/favicon.png",
       homepage: "https://gofundust.money/",
-    },
-    terra1cx2c7pkchltqfstev03hns79d93tmqeht5msxt: {
-      contract: "terra1cx2c7pkchltqfstev03hns79d93tmqeht5msxt",
-      protocol: "Mars Protocol",
-      name: "Manifesto Medal",
-      symbol: "MEDAL",
-      icon: "https://ipfs.io/ipfs/QmPVFWGhAgTmS646tCMhTnLg9mdUnQJpEoJPEghVcxhxPs",
-      homepage: "https://marsprotocol.io/",
-    },
-    terra10rvcahsp9yuaxtn2xhnke08mksdslkmzk87dvt: {
-      contract: "terra10rvcahsp9yuaxtn2xhnke08mksdslkmzk87dvt",
-      protocol: "Mars Protocol",
-      name: "R-MEDAL",
-      symbol: "RMEDAL",
-      icon: "https://ipfs.io/ipfs/QmbbXKezWaxC687a3jQffzyc8u8xSyLv3aTGsNzdzk393y",
-      homepage: "https://marsprotocol.io/",
     },
   },
 };
