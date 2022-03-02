@@ -1369,15 +1369,11 @@ module.exports = {
       name: "Governance",
       icon: "https://assets.atlo.app/images/atlo-logo.png",
     },
-
-
-
     terra1tgg6ccwy42aya75rjtpx4cagpg64p5rz59vxtj: {
       protocol: "Luart",
       name: "LUART-UST LP",
       icon: "https://cdn.luart.io/logos/luart-logo.png",
     },
-
     terra1dlcwvsy6t7skge7s2dtdvr75lakltwr3xk9j2d: {
       protocol: "Luart",
       name: "LUART Staking",
@@ -1388,7 +1384,6 @@ module.exports = {
       name: "LUART LP Staking",
       icon: "https://cdn.luart.io/logos/luart-logo.png",
     },
-
     terra1xfdezegr8may3tp2lyuvht28w7las9k32tg4rk: {
       protocol: "Luart",
       name: "LUART Vesting Private",
@@ -1414,9 +1409,6 @@ module.exports = {
       name: "LUART Vesting Team",
       icon: "https://cdn.luart.io/logos/luart-logo.png",
     },
-
-
-
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
