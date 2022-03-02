@@ -793,7 +793,15 @@ module.exports = {
       token: "terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp",
       icon: "https://robohero.io/assets/token.png",
       decimals: 6
-    }
+    },
+    terra1vwz7t30q76s7xx6qgtxdqnu6vpr3ak3vw62ygk: {
+      protocol: "Luart",
+      symbol: "LUART",
+      name: "Luart Token",
+      token: "terra1vwz7t30q76s7xx6qgtxdqnu6vpr3ak3vw62ygk",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
@@ -1278,6 +1286,14 @@ module.exports = {
       token: "terra16ythupvqqkdwfvd2fdcxl7uzesqw9hv9h594q2",
       icon: "https://files.pstake.finance/logos/bAssets/bATOM_Wormhole.svg",
       decimals: 8,
+    },
+    terra16wvd4hkqw388y8kff9g535gtr4th6zxj48trpn: {
+      protocol: "Luart",
+      symbol: "LUART",
+      name: "Luart Token",
+      token: "terra16wvd4hkqw388y8kff9g535gtr4th6zxj48trpn",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+      decimals: 6
     },
   }
 }
