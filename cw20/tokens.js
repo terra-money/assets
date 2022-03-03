@@ -1295,5 +1295,13 @@ module.exports = {
       icon: "https://cdn.luart.io/logos/luart-logo.png",
       decimals: 6
     },
+    terra1vpws4hmpmpsqwnz3gljn8zj42rv7rkpc5atgt4: {
+      protocol: "Wormhole",
+      symbol: "DFIAT",
+      name: "DeFiato",
+      token: "terra1vpws4hmpmpsqwnz3gljn8zj42rv7rkpc5atgt4",
+      icon: "https://defiato-public.s3.ap-southeast-1.amazonaws.com/defiato-logo-small.jpeg",
+      decimals: 8
+    },
   }
 }
