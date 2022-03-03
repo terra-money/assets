@@ -1369,6 +1369,46 @@ module.exports = {
       name: "Governance",
       icon: "https://assets.atlo.app/images/atlo-logo.png",
     },
+    terra1tgg6ccwy42aya75rjtpx4cagpg64p5rz59vxtj: {
+      protocol: "Luart",
+      name: "LUART-UST LP",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1dlcwvsy6t7skge7s2dtdvr75lakltwr3xk9j2d: {
+      protocol: "Luart",
+      name: "LUART Staking",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1zg32rp9lc3k0zzscdr93xxn0w5kll62l9x3a4u: {
+      protocol: "Luart",
+      name: "LUART LP Staking",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1xfdezegr8may3tp2lyuvht28w7las9k32tg4rk: {
+      protocol: "Luart",
+      name: "LUART Vesting Private",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1jshuv8a7mx3fvhvpmcqpua7ft8c9q5anllryy4: {
+      protocol: "Luart",
+      name: "LUART Vesting Marketing",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1ny3njmscejk6kf8zg2y2jh9yrwnmxy3npp44qg: {
+      protocol: "Luart",
+      name: "LUART Vesting Advisors",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1zg6qt3h3axqne70dw4sswgfrqedkcpw3gu6jn7: {
+      protocol: "Luart",
+      name: "LUART Vesting Development Fund",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra18hdv038c68uj70qvarnr55e9c3kwjk4tkzhc4j: {
+      protocol: "Luart",
+      name: "LUART Vesting Team",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
