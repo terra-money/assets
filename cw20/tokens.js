@@ -802,6 +802,22 @@ module.exports = {
       icon: "https://cdn.luart.io/logos/luart-logo.png",
       decimals: 6
     },
+    terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n: {
+      protocol: "Mars",
+      symbol: "MARS",
+      name: "Mars Token",
+      token: "terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n",
+      icon: "https://marsprotocol.io/MARSTokenMini.svg",
+      decimals: 6
+    },
+    terra1a04v570f9cxp49mk06vjsm8axsswndpwwt67k4: {
+      protocol: "Mars",
+      symbol: "XMARS",
+      name: "xMars Token",
+      token: "terra1a04v570f9cxp49mk06vjsm8axsswndpwwt67k4",
+      icon: "https://marsprotocol.io/xMARSTokenMini.svg",
+      decimals: 6
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
@@ -1235,12 +1251,12 @@ module.exports = {
       token: "terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng",
       icon: "https://static.wixstatic.com/media/4079cf_14c37331c6a4485591bc6130a37c31a0~mv2.png",
     },
-    terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6: {
+    terra1h9tmwpwll5zpx6dvu28t8mvjk9jctu9nftm5ru: {
       protocol: "Mars",
       symbol: "MARS",
       name: "Mars Token",
-      token: "terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6",
-      icon: "https://marsprotocol.io/mars_logo_colored.svg",
+      token: "terra1h9tmwpwll5zpx6dvu28t8mvjk9jctu9nftm5ru",
+      icon: "https://marsprotocol.io/MARSTokenMini.svg",
       decimals: 6
     },
     terra14u5n457t9lyh3qpzdkjxjhwh0dlcm90whgzzzn: {
@@ -1295,5 +1311,12 @@ module.exports = {
       icon: "https://cdn.luart.io/logos/luart-logo.png",
       decimals: 6
     },
+    terra16k25cyvzqj0a8mhcl4y3s3z9fxrrdk25n2v3m7: {
+      protocol: "Mars",
+      symbol: "XMARS",
+      name: "xMars Token",
+      token: "terra16k25cyvzqj0a8mhcl4y3s3z9fxrrdk25n2v3m7",
+      icon: "https://marsprotocol.io/xMARSTokenMini.svg",
+    }
   }
 }
