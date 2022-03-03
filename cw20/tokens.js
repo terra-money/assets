@@ -794,6 +794,14 @@ module.exports = {
       icon: "https://robohero.io/assets/token.png",
       decimals: 6
     },
+    terra1vwz7t30q76s7xx6qgtxdqnu6vpr3ak3vw62ygk: {
+      protocol: "Luart",
+      symbol: "LUART",
+      name: "Luart Token",
+      token: "terra1vwz7t30q76s7xx6qgtxdqnu6vpr3ak3vw62ygk",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+      decimals: 6
+    },
     terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n: {
       protocol: "Mars",
       symbol: "MARS",
@@ -1295,13 +1303,20 @@ module.exports = {
       icon: "https://files.pstake.finance/logos/bAssets/bATOM_Wormhole.svg",
       decimals: 8,
     },
+    terra16wvd4hkqw388y8kff9g535gtr4th6zxj48trpn: {
+      protocol: "Luart",
+      symbol: "LUART",
+      name: "Luart Token",
+      token: "terra16wvd4hkqw388y8kff9g535gtr4th6zxj48trpn",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+      decimals: 6
+    },
     terra16k25cyvzqj0a8mhcl4y3s3z9fxrrdk25n2v3m7: {
       protocol: "Mars",
       symbol: "XMARS",
       name: "xMars Token",
       token: "terra16k25cyvzqj0a8mhcl4y3s3z9fxrrdk25n2v3m7",
       icon: "https://marsprotocol.io/xMARSTokenMini.svg",
-      decimals: 6
-    },
+    }
   }
 }
