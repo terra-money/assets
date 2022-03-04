@@ -818,6 +818,14 @@ module.exports = {
       icon: "https://marsprotocol.io/xMARSTokenMini.svg",
       decimals: 6
     },
+    terra1vpws4hmpmpsqwnz3gljn8zj42rv7rkpc5atgt4: {
+      protocol: "Wormhole",
+      symbol: "DFIAT",
+      name: "DeFiato",
+      token: "terra1vpws4hmpmpsqwnz3gljn8zj42rv7rkpc5atgt4",
+      icon: "https://defiato-public.s3.ap-southeast-1.amazonaws.com/defiato-logo-small.jpeg",
+      decimals: 8
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
@@ -1317,6 +1325,6 @@ module.exports = {
       name: "xMars Token",
       token: "terra16k25cyvzqj0a8mhcl4y3s3z9fxrrdk25n2v3m7",
       icon: "https://marsprotocol.io/xMARSTokenMini.svg",
-    }
+    },
   }
 }
