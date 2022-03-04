@@ -501,14 +501,6 @@ module.exports = {
       icon: "https://github.com/sushiswap/assets/blob/master/blockchains/ethereum/assets/0x72B886d09C117654aB7dA13A14d603001dE0B777/logo.png?raw=true",
       decimals: 8
     },
-    terra1a7zxk56c72elupp7p44hn4k94fsvavnhylhr6h: {
-      protocol: "Mars",
-      symbol: "MARS",
-      name: "Mars",
-      token: "terra1a7zxk56c72elupp7p44hn4k94fsvavnhylhr6h",
-      icon: "https://marsprotocol.io/mars_logo_colored.svg",
-      decimals: 6
-    },
     terra193c42lfwmlkasvcw22l9qqzc5q2dx208tkd7wl: {
       protocol: "Bitlocus",
       symbol: "BTL",
