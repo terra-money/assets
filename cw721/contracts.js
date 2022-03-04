@@ -579,6 +579,13 @@ module.exports = {
       icon: "https://ipfs.io/ipfs/QmbbXKezWaxC687a3jQffzyc8u8xSyLv3aTGsNzdzk393y",
       homepage: "https://marsprotocol.io/",
     },
+    terra1y0r5c9k52sag7rrn0g205w36g9wggjy0apxpx4: {
+      contract: "terra1y0r5c9k52sag7rrn0g205w36g9wggjy0apxpx4",
+      name: "TerraWorld Land NFT",
+      symbol: "TWLD",
+      icon: "https://terraworld.me/favicon.png",
+      homepage: "https://terraworld.me/",
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
