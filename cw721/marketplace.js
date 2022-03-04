@@ -32,5 +32,10 @@ module.exports = [
     name: "Messier Art",
     link: "https://messier.art",
     icon: "https://assets.messier.art/logo.png",
-  }
+  },
+  {
+    name: "Terra World Factory",
+    link: "https://factory.terraworld.me/",
+    icon: "https://terraworld.me/favicon.png",
+  },
 ];
