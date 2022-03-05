@@ -1333,5 +1333,12 @@ module.exports = {
       token: "terra1c2hhxp6nadzdncwwn94yfn95ehu3vqvusas5dt",
       icon: "https://images.emojiterra.com/google/android-11/512px/1f637.png",
     },
+    terra1c2hhxp6nadzdncwwn94yfn95ehu3vqvusas5dt: {
+      protocol: "COVID",
+      symbol: "CVD",
+      name: "Test COVID Token",
+      token: "terra1c2hhxp6nadzdncwwn94yfn95ehu3vqvusas5dt",
+      icon: "https://images.emojiterra.com/google/android-11/512px/1f637.png",
+    },
   }
 }
