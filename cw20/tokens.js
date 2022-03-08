@@ -1318,5 +1318,12 @@ module.exports = {
       token: "terra16k25cyvzqj0a8mhcl4y3s3z9fxrrdk25n2v3m7",
       icon: "https://marsprotocol.io/xMARSTokenMini.svg",
     },
+    terra1c2hhxp6nadzdncwwn94yfn95ehu3vqvusas5dt: {
+      protocol: "COVID",
+      symbol: "CVD",
+      name: "Test COVID Token",
+      token: "terra1c2hhxp6nadzdncwwn94yfn95ehu3vqvusas5dt",
+      icon: "https://images.emojiterra.com/google/android-11/512px/1f637.png",
+    },
   }
 }
