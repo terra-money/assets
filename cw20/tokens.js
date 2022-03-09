@@ -826,6 +826,14 @@ module.exports = {
       icon: "https://cloudflare-ipfs.com/ipfs/QmVeSBHDtJYFd6yKSdFghRRsj4jXHdm81rmCUEdLHDK928?filename=ceres.svg",
       decimals: 6
     },
+    terra1z3e2e4jpk4n0xzzwlkgcfvc95pc5ldq0xcny58: {
+      protocol: "Wormhole",
+      symbol: "wasAVAX",
+      name: "BENQI Staked AVAX (Wormhole)",
+      token: "terra1z3e2e4jpk4n0xzzwlkgcfvc95pc5ldq0xcny58",
+      icon: "https://benqi.fi/images/assets/savax.svg",
+      decimals: 8,
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
