@@ -1349,5 +1349,13 @@ module.exports = {
       icon: "https://benqi.fi/images/assets/savax.svg",
       decimals: 8,
     },
+    terra1efjugpjc50d8sha7lr8s48cr7wmsthz94eevcl: {
+      protocol: "Wormhole",
+      symbol: "whDAO",
+      name: "DAO Maker",
+      token: "terra1efjugpjc50d8sha7lr8s48cr7wmsthz94eevcl",
+      icon: "https://etherscan.io/token/images/daomaker_128.png",
+      decimals: 8,
+    }
   }
 }
