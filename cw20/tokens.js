@@ -818,6 +818,14 @@ module.exports = {
       icon: "https://defiato-public.s3.ap-southeast-1.amazonaws.com/defiato-logo-small.jpeg",
       decimals: 8
     },
+    terra1hppnw4jppmrzzga4yvd8s87y3dwkhe27xwwl5d: {
+      protocol: "Ceres",
+      symbol: "CERES",
+      name: "Ceres Governance Token",
+      token: "terra1hppnw4jppmrzzga4yvd8s87y3dwkhe27xwwl5d",
+      icon: "https://cloudflare-ipfs.com/ipfs/QmVeSBHDtJYFd6yKSdFghRRsj4jXHdm81rmCUEdLHDK928?filename=ceres.svg",
+      decimals: 6
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
@@ -1324,6 +1332,14 @@ module.exports = {
       name: "Test COVID Token",
       token: "terra1c2hhxp6nadzdncwwn94yfn95ehu3vqvusas5dt",
       icon: "https://images.emojiterra.com/google/android-11/512px/1f637.png",
+    },
+    terra1yuzqfdrp87wfhe7vatzzq79p806n4dmpf0z5q5: {
+      protocol: "Ceres",
+      symbol: "CERES",
+      name: "Ceres Governance Token",
+      token: "terra1yuzqfdrp87wfhe7vatzzq79p806n4dmpf0z5q5",
+      icon: "https://cloudflare-ipfs.com/ipfs/QmVeSBHDtJYFd6yKSdFghRRsj4jXHdm81rmCUEdLHDK928?filename=ceres.svg",
+      decimals: 6
     },
   }
 }
