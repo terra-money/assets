@@ -821,7 +821,7 @@ module.exports = {
     terra1hppnw4jppmrzzga4yvd8s87y3dwkhe27xwwl5d: {
       protocol: "Ceres",
       symbol: "CERES",
-      name: "Ceres Governance Token ",
+      name: "Ceres Governance Token",
       token: "terra1hppnw4jppmrzzga4yvd8s87y3dwkhe27xwwl5d",
       icon: "https://cloudflare-ipfs.com/ipfs/QmVeSBHDtJYFd6yKSdFghRRsj4jXHdm81rmCUEdLHDK928?filename=ceres.svg",
       decimals: 6
@@ -1336,7 +1336,7 @@ module.exports = {
     terra1yuzqfdrp87wfhe7vatzzq79p806n4dmpf0z5q5: {
       protocol: "Ceres",
       symbol: "CERES",
-      name: "Ceres Governance Token ",
+      name: "Ceres Governance Token",
       token: "terra1yuzqfdrp87wfhe7vatzzq79p806n4dmpf0z5q5",
       icon: "https://cloudflare-ipfs.com/ipfs/QmVeSBHDtJYFd6yKSdFghRRsj4jXHdm81rmCUEdLHDK928?filename=ceres.svg",
       decimals: 6
