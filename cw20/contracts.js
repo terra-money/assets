@@ -870,6 +870,16 @@ module.exports = {
       name: "TWD-UST LP Token",
       icon: "https://terraoffice.world/twd_logo.png",
     },
+    terra1uvchkwq4kv0vhy23c78hyy72zks2hqtpctklh2: {
+      protocol: "TerraWorld",
+      name: "XTRA-UST Pair",
+      icon: "https://terraworld.me/assets/XTRA.png",
+    },
+    terra1pndz6cy4t42qae4m7avkjjyu6vlcrlrx3hep0k: {
+      protocol: "TerraWorld",
+      name: "XTRA-UST LP Token",
+      icon: "https://terraworld.me/assets/XTRA.png",
+    },
     terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63: {
       protocol: "Miaw Trader",
       name: "MIAW Token",

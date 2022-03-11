@@ -156,6 +156,10 @@ module.exports = {
       "uusd",
       "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6"
     ],
+    terra1uvchkwq4kv0vhy23c78hyy72zks2hqtpctklh2: [
+      "uusd",
+      "terra1kvjscdgwuvwc6uzm4rqfjl6nlmuhj28tequlnc"
+    ],
     terra12mzh5cp6tgc65t2cqku5zvkjj8xjtuv5v9whyd: [
       "uusd",
       "terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63"

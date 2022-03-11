@@ -296,6 +296,13 @@ module.exports = {
       token: "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6",
       icon: "https://terraoffice.world/twd_logo.png"
     },
+    terra1kvjscdgwuvwc6uzm4rqfjl6nlmuhj28tequlnc: {
+      protocol: "TerraWorld",
+      symbol: "XTRA",
+      name: "xterra Token",
+      token: "terra1kvjscdgwuvwc6uzm4rqfjl6nlmuhj28tequlnc",
+      icon: "https://terraworld.me/assets/XTRA.png"
+    },
     terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63: {
       protocol: "Miaw Trader",
       symbol: "MIAW",
