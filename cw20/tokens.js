@@ -841,6 +841,22 @@ module.exports = {
       icon: "https://benqi.fi/images/assets/savax.svg",
       decimals: 8,
     },
+    terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02: {
+      protocol: "Stader",
+      symbol: "SD",
+      name: "Stader SD",
+      token: "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/whSD.png",
+      decimals: 8,
+    },
+    terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep: {
+      protocol: "Stader",
+      symbol: "xSD",
+      name: "Stader xSD",
+      token: "terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/xSD.png",
+      decimals: 8,
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
@@ -1362,22 +1378,6 @@ module.exports = {
       name: "BENQI Staked AVAX (Wormhole)",
       token: "terra12x8dnuzuqpywue9d8qy2dlc2n2ux5a77yjg0zl",
       icon: "https://benqi.fi/images/assets/savax.svg",
-      decimals: 8,
-    },
-    terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02: {
-      protocol: "Stader",
-      symbol: "SD",
-      name: "Stader SD",
-      token: "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02",
-      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/whSD.png",
-      decimals: 8,
-    },
-    terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep: {
-      protocol: "Stader",
-      symbol: "xSD",
-      name: "Stader xSD",
-      token: "terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep",
-      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/xSD.png",
       decimals: 8,
     },
   }
