@@ -1364,5 +1364,21 @@ module.exports = {
       icon: "https://benqi.fi/images/assets/savax.svg",
       decimals: 8,
     },
+    terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02: {
+      protocol: "Stader",
+      symbol: "SD",
+      name: "Stader SD",
+      token: "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/whSD.png",
+      decimals: 8,
+    },
+    terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep: {
+      protocol: "Stader",
+      symbol: "xSD",
+      name: "Stader xSD",
+      token: "terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/xSD.png",
+      decimals: 8,
+    },
   }
 }
