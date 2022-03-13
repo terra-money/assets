@@ -843,8 +843,8 @@ module.exports = {
     },
     terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02: {
       protocol: "Stader",
-      symbol: "SD",
-      name: "Stader SD",
+      symbol: "whSD",
+      name: "Stader whSD",
       token: "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02",
       icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/whSD.png",
       decimals: 8,
