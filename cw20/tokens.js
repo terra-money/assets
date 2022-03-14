@@ -841,6 +841,14 @@ module.exports = {
       icon: "https://benqi.fi/images/assets/savax.svg",
       decimals: 8,
     },
+    terra1zd6let0zg0xjn2sestagxv4ax24a4ml6j40qdr: {
+      protocol: "MintDAO",
+      symbol: "MINT",
+      name: "MintDAO",
+      token: "terra1zd6let0zg0xjn2sestagxv4ax24a4ml6j40qdr",
+      icon: "https://mintdao.io/assets/token.svg",
+      decimals: 6,
+    },
     terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02: {
       protocol: "Stader",
       symbol: "whSD",
