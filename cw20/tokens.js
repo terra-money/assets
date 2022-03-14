@@ -849,6 +849,22 @@ module.exports = {
       icon: "https://mintdao.io/assets/token.svg",
       decimals: 6,
     },
+    terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02: {
+      protocol: "Stader",
+      symbol: "whSD",
+      name: "Stader whSD",
+      token: "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/whSD.png",
+      decimals: 8,
+    },
+    terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep: {
+      protocol: "Stader",
+      symbol: "xSD",
+      name: "Stader xSD",
+      token: "terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/xSD.png",
+      decimals: 8,
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
