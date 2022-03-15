@@ -622,5 +622,13 @@ module.exports = {
       icon: "https://gofundust.money/favicon.png",
       homepage: "https://gofundust.money/",
     },
+    terra1x8m8vju636xh7026dehq6g7ye66tn0yu4c7mq8: {
+      contract: "terra1x8m8vju636xh7026dehq6g7ye66tn0yu4c7mq8",
+      name: "Rekt Wolf",
+      symbol: "RW",
+      icon: "https://cdn.luart.io/logos/rekt-wolf-logo.jpg",
+      homepage: "https://docs.rektwolf.io/",
+      marketplace: ["https://marketplace.luart.io/collections/terra1x8m8vju636xh7026dehq6g7ye66tn0yu4c7mq8"],
+    },
   },
 };
