@@ -870,6 +870,16 @@ module.exports = {
       name: "TWD-UST LP Token",
       icon: "https://terraoffice.world/twd_logo.png",
     },
+    terra1uvchkwq4kv0vhy23c78hyy72zks2hqtpctklh2: {
+      protocol: "TerraWorld",
+      name: "XTRA-UST Pair",
+      icon: "https://terraworld.me/assets/XTRA.png",
+    },
+    terra1pndz6cy4t42qae4m7avkjjyu6vlcrlrx3hep0k: {
+      protocol: "TerraWorld",
+      name: "XTRA-UST LP Token",
+      icon: "https://terraworld.me/assets/XTRA.png",
+    },
     terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63: {
       protocol: "Miaw Trader",
       name: "MIAW Token",
@@ -1368,6 +1378,46 @@ module.exports = {
       protocol: "Atlo",
       name: "Governance",
       icon: "https://assets.atlo.app/images/atlo-logo.png",
+    },
+    terra1tgg6ccwy42aya75rjtpx4cagpg64p5rz59vxtj: {
+      protocol: "Luart",
+      name: "LUART-UST LP",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1dlcwvsy6t7skge7s2dtdvr75lakltwr3xk9j2d: {
+      protocol: "Luart",
+      name: "LUART Staking",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1zg32rp9lc3k0zzscdr93xxn0w5kll62l9x3a4u: {
+      protocol: "Luart",
+      name: "LUART LP Staking",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1xfdezegr8may3tp2lyuvht28w7las9k32tg4rk: {
+      protocol: "Luart",
+      name: "LUART Vesting Private",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1jshuv8a7mx3fvhvpmcqpua7ft8c9q5anllryy4: {
+      protocol: "Luart",
+      name: "LUART Vesting Marketing",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1ny3njmscejk6kf8zg2y2jh9yrwnmxy3npp44qg: {
+      protocol: "Luart",
+      name: "LUART Vesting Advisors",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1zg6qt3h3axqne70dw4sswgfrqedkcpw3gu6jn7: {
+      protocol: "Luart",
+      name: "LUART Vesting Development Fund",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra18hdv038c68uj70qvarnr55e9c3kwjk4tkzhc4j: {
+      protocol: "Luart",
+      name: "LUART Vesting Team",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
     },
   },
   testnet: {
@@ -2055,6 +2105,11 @@ module.exports = {
       protocol: "White Whale",
       name: "WHALE-UST LP Token",
       icon: "https://www.whitewhale.money/tokenlogo.png",
+    },
+    terra1z4hyc87tuln35nu465d5equke4nf7xqepx7rtg: {
+      protocol: "Vault UST",
+      name: "vUST",
+      icon: "https://www.whitewhale.money/vustlogo.png",
     },
     terra1u7tnl4326ge86mzqeqnzxxjg7xkgj8nfg65a2h: {
       protocol: "Nexus",

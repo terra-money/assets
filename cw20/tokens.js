@@ -296,6 +296,13 @@ module.exports = {
       token: "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6",
       icon: "https://terraoffice.world/twd_logo.png"
     },
+    terra1kvjscdgwuvwc6uzm4rqfjl6nlmuhj28tequlnc: {
+      protocol: "TerraWorld",
+      symbol: "XTRA",
+      name: "xterra Token",
+      token: "terra1kvjscdgwuvwc6uzm4rqfjl6nlmuhj28tequlnc",
+      icon: "https://terraworld.me/assets/XTRA.png"
+    },
     terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63: {
       protocol: "Miaw Trader",
       symbol: "MIAW",
@@ -500,14 +507,6 @@ module.exports = {
       token: "terra169edevav3pdrtjcx35j6pvzuv54aevewar4nlh",
       icon: "https://github.com/sushiswap/assets/blob/master/blockchains/ethereum/assets/0x72B886d09C117654aB7dA13A14d603001dE0B777/logo.png?raw=true",
       decimals: 8
-    },
-    terra1a7zxk56c72elupp7p44hn4k94fsvavnhylhr6h: {
-      protocol: "Mars",
-      symbol: "MARS",
-      name: "Mars",
-      token: "terra1a7zxk56c72elupp7p44hn4k94fsvavnhylhr6h",
-      icon: "https://marsprotocol.io/mars_logo_colored.svg",
-      decimals: 6
     },
     terra193c42lfwmlkasvcw22l9qqzc5q2dx208tkd7wl: {
       protocol: "Bitlocus",
@@ -777,7 +776,95 @@ module.exports = {
       token: "terra1ykl7ee0dakfev97ektynnup8hscyuhc9kly9k4",
       icon: "https://luntivo.finance/images/coin.png",
       decimals: 3
-    }
+    },
+    terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6: {
+      protocol: "Lunaverse",
+      symbol: "LUV",
+      name: "Lunaverse",
+      token: "terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6",
+      icon: "https://lunaverse.io/assets/images/logo.png",
+      decimals: 6
+    },
+    terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp: {
+      protocol: "Terra",
+      symbol: "ROBO",
+      name: "RoboHero",
+      token: "terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp",
+      icon: "https://robohero.io/assets/token.png",
+      decimals: 6
+    },
+    terra1vwz7t30q76s7xx6qgtxdqnu6vpr3ak3vw62ygk: {
+      protocol: "Luart",
+      symbol: "LUART",
+      name: "Luart Token",
+      token: "terra1vwz7t30q76s7xx6qgtxdqnu6vpr3ak3vw62ygk",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+      decimals: 6
+    },
+    terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n: {
+      protocol: "Mars",
+      symbol: "MARS",
+      name: "Mars Token",
+      token: "terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n",
+      icon: "https://marsprotocol.io/MARSTokenMini.svg",
+      decimals: 6
+    },
+    terra1a04v570f9cxp49mk06vjsm8axsswndpwwt67k4: {
+      protocol: "Mars",
+      symbol: "XMARS",
+      name: "xMars Token",
+      token: "terra1a04v570f9cxp49mk06vjsm8axsswndpwwt67k4",
+      icon: "https://marsprotocol.io/xMARSTokenMini.svg",
+      decimals: 6
+    },
+    terra1vpws4hmpmpsqwnz3gljn8zj42rv7rkpc5atgt4: {
+      protocol: "Wormhole",
+      symbol: "DFIAT",
+      name: "DeFiato",
+      token: "terra1vpws4hmpmpsqwnz3gljn8zj42rv7rkpc5atgt4",
+      icon: "https://defiato-public.s3.ap-southeast-1.amazonaws.com/defiato-logo-small.jpeg",
+      decimals: 8
+    },
+    terra1hppnw4jppmrzzga4yvd8s87y3dwkhe27xwwl5d: {
+      protocol: "Ceres",
+      symbol: "CERES",
+      name: "Ceres Governance Token",
+      token: "terra1hppnw4jppmrzzga4yvd8s87y3dwkhe27xwwl5d",
+      icon: "https://cloudflare-ipfs.com/ipfs/QmVeSBHDtJYFd6yKSdFghRRsj4jXHdm81rmCUEdLHDK928?filename=ceres.svg",
+      decimals: 6
+    },
+    terra1z3e2e4jpk4n0xzzwlkgcfvc95pc5ldq0xcny58: {
+      protocol: "Wormhole",
+      symbol: "wasAVAX",
+      name: "BENQI Staked AVAX (Wormhole)",
+      token: "terra1z3e2e4jpk4n0xzzwlkgcfvc95pc5ldq0xcny58",
+      icon: "https://benqi.fi/images/assets/savax.svg",
+      decimals: 8,
+    },
+    terra1zd6let0zg0xjn2sestagxv4ax24a4ml6j40qdr: {
+      protocol: "MintDAO",
+      symbol: "MINT",
+      name: "MintDAO",
+      token: "terra1zd6let0zg0xjn2sestagxv4ax24a4ml6j40qdr",
+      icon: "https://mintdao.io/assets/token.svg",
+      decimals: 6,
+    },
+    terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02: {
+      protocol: "Stader",
+      symbol: "whSD",
+      name: "Stader whSD",
+      token: "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/whSD.png",
+      decimals: 8,
+    },
+    terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep: {
+      protocol: "Stader",
+      symbol: "xSD",
+      name: "Stader xSD",
+      token: "terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/xSD.png",
+      decimals: 8,
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
@@ -1211,12 +1298,12 @@ module.exports = {
       token: "terra1cpluvvuswx6fj0cx98ex6rpds3rjr024vq5eng",
       icon: "https://static.wixstatic.com/media/4079cf_14c37331c6a4485591bc6130a37c31a0~mv2.png",
     },
-    terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6: {
+    terra1h9tmwpwll5zpx6dvu28t8mvjk9jctu9nftm5ru: {
       protocol: "Mars",
       symbol: "MARS",
       name: "Mars Token",
-      token: "terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6",
-      icon: "https://marsprotocol.io/mars_logo_colored.svg",
+      token: "terra1h9tmwpwll5zpx6dvu28t8mvjk9jctu9nftm5ru",
+      icon: "https://marsprotocol.io/MARSTokenMini.svg",
       decimals: 6
     },
     terra14u5n457t9lyh3qpzdkjxjhwh0dlcm90whgzzzn: {
@@ -1247,6 +1334,59 @@ module.exports = {
       name: "Monito Token",
       token: "terra1jw55wct7rcv9fqvawenw0yns2s54d3rcqtd734",
       icon: "https://images.emojiterra.com/google/android-11/512px/1f412.png"
+    },
+    terra165s28f7za00p6g78c2rd5z6dkmv2rxrq0qhfrg: {
+      protocol: "Anchor",
+      symbol: "bATOM",
+      name: "Bonded ATOM",
+      token: "terra165s28f7za00p6g78c2rd5z6dkmv2rxrq0qhfrg",
+      icon: "https://files.pstake.finance/logos/bAssets/bATOM.svg",
+    },
+    terra16ythupvqqkdwfvd2fdcxl7uzesqw9hv9h594q2: {
+      protocol: "Wormhole",
+      symbol: "webATOM",
+      name: "pStake Bonded ATOM (Wormhole)",
+      token: "terra16ythupvqqkdwfvd2fdcxl7uzesqw9hv9h594q2",
+      icon: "https://files.pstake.finance/logos/bAssets/bATOM_Wormhole.svg",
+      decimals: 8,
+    },
+    terra16wvd4hkqw388y8kff9g535gtr4th6zxj48trpn: {
+      protocol: "Luart",
+      symbol: "LUART",
+      name: "Luart Token",
+      token: "terra16wvd4hkqw388y8kff9g535gtr4th6zxj48trpn",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+      decimals: 6
+    },
+    terra16k25cyvzqj0a8mhcl4y3s3z9fxrrdk25n2v3m7: {
+      protocol: "Mars",
+      symbol: "XMARS",
+      name: "xMars Token",
+      token: "terra16k25cyvzqj0a8mhcl4y3s3z9fxrrdk25n2v3m7",
+      icon: "https://marsprotocol.io/xMARSTokenMini.svg",
+    },
+    terra1c2hhxp6nadzdncwwn94yfn95ehu3vqvusas5dt: {
+      protocol: "COVID",
+      symbol: "CVD",
+      name: "Test COVID Token",
+      token: "terra1c2hhxp6nadzdncwwn94yfn95ehu3vqvusas5dt",
+      icon: "https://images.emojiterra.com/google/android-11/512px/1f637.png",
+    },
+    terra1yuzqfdrp87wfhe7vatzzq79p806n4dmpf0z5q5: {
+      protocol: "Ceres",
+      symbol: "CERES",
+      name: "Ceres Governance Token",
+      token: "terra1yuzqfdrp87wfhe7vatzzq79p806n4dmpf0z5q5",
+      icon: "https://cloudflare-ipfs.com/ipfs/QmVeSBHDtJYFd6yKSdFghRRsj4jXHdm81rmCUEdLHDK928?filename=ceres.svg",
+      decimals: 6
+    },
+    terra12x8dnuzuqpywue9d8qy2dlc2n2ux5a77yjg0zl: {
+      protocol: "Wormhole",
+      symbol: "wasAVAX",
+      name: "BENQI Staked AVAX (Wormhole)",
+      token: "terra12x8dnuzuqpywue9d8qy2dlc2n2ux5a77yjg0zl",
+      icon: "https://benqi.fi/images/assets/savax.svg",
+      decimals: 8,
     },
   }
 }

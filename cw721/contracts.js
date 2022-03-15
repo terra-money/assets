@@ -208,7 +208,7 @@ module.exports = {
       protocol: "Astroverse",
       name: "Astroverse #01",
       symbol: "AST1",
-      icon: "https://www.astroverse.art/wp-content/uploads/2021/09/logo10.jpg",
+      icon: "https://www.astroverse.art/wp-content/uploads/2022/02/Astroverse-logo.png",
       homepage: "https://www.astroverse.art/",
       marketplace: [
         "https://randomearth.io/collections/terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq",
@@ -220,7 +220,7 @@ module.exports = {
       protocol: "Astroverse",
       name: "Astroverse #02",
       symbol: "AV2",
-      icon: "https://www.astroverse.art/wp-content/uploads/2021/09/logo10.jpg",
+      icon: "https://www.astroverse.art/wp-content/uploads/2022/02/Astroverse-02-logo.png",
       homepage: "https://www.astroverse.art/",
       marketplace: [
         "https://randomearth.io/collections/terra1xv0as2esvwqcuaqtdhvrdhykrfe75qw42tgh6f",
@@ -232,7 +232,7 @@ module.exports = {
       protocol: "Astroverse",
       name: "Astroverse x Vinboy",
       symbol: "AVIN",
-      icon: "https://www.astroverse.art/wp-content/uploads/2021/09/logo10.jpg",
+      icon: "https://www.astroverse.art/wp-content/uploads/2022/02/astroverse-x-vin-logo.png",
       homepage: "https://www.astroverse.art/",
       marketplace: [
         "https://randomearth.io/collections/terra13ptfhnrl7n2zcq8369s39a5eqg85xxtj77jtuh",
@@ -556,6 +556,36 @@ module.exports = {
       homepage: "terraskulls.io/",
       marketplace: ["https://knowhere.art/candy-machine/collections/terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf"],
     },
+    terra1w4n7szdxs5gd0cj0e6ns5d2hqpjxu70yptqk90: {
+      contract: "terra1w4n7szdxs5gd0cj0e6ns5d2hqpjxu70yptqk90",
+      name: "GoFund US(T)",
+      symbol: "GoFund-UST",
+      icon: "https://gofundust.money/favicon.png",
+      homepage: "https://gofundust.money/",
+    },
+    terra1cx2c7pkchltqfstev03hns79d93tmqeht5msxt: {
+      contract: "terra1cx2c7pkchltqfstev03hns79d93tmqeht5msxt",
+      protocol: "Mars Protocol",
+      name: "Manifesto Medal",
+      symbol: "MEDAL",
+      icon: "https://ipfs.io/ipfs/QmPVFWGhAgTmS646tCMhTnLg9mdUnQJpEoJPEghVcxhxPs",
+      homepage: "https://marsprotocol.io/",
+    },
+    terra10rvcahsp9yuaxtn2xhnke08mksdslkmzk87dvt: {
+      contract: "terra10rvcahsp9yuaxtn2xhnke08mksdslkmzk87dvt",
+      protocol: "Mars Protocol",
+      name: "R-MEDAL",
+      symbol: "RMEDAL",
+      icon: "https://ipfs.io/ipfs/QmbbXKezWaxC687a3jQffzyc8u8xSyLv3aTGsNzdzk393y",
+      homepage: "https://marsprotocol.io/",
+    },
+    terra1y0r5c9k52sag7rrn0g205w36g9wggjy0apxpx4: {
+      contract: "terra1y0r5c9k52sag7rrn0g205w36g9wggjy0apxpx4",
+      name: "TerraWorld Land NFT",
+      symbol: "TWLD",
+      icon: "https://terraworld.me/favicon.png",
+      homepage: "https://terraworld.me/",
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
@@ -585,8 +615,8 @@ module.exports = {
       icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
       homepage: "https://www.minerva.market",
     },
-    terra1c2qck540pw9cpee5dkd547dznrsz0vk0hq9xtk: {
-      contract: "terra1c2qck540pw9cpee5dkd547dznrsz0vk0hq9xtk",
+    terra13rxnrpjk5l8c77zsdzzq63zmavu03hwn532wn0: {
+      contract: "terra13rxnrpjk5l8c77zsdzzq63zmavu03hwn532wn0",
       name: "GoFund US(T)",
       symbol: "GoFund-UST",
       icon: "https://gofundust.money/favicon.png",
