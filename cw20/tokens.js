@@ -828,7 +828,7 @@ module.exports = {
     },
   },
   testnet: {
-    terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
+    terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
       protocol: "FanFury",
       symbol: "FURY",
       token: "terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq",
