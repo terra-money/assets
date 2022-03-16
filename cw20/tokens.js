@@ -867,10 +867,10 @@ module.exports = {
     },
   },
   testnet: {
-    terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
+    terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
       protocol: "FanFury",
       symbol: "FURY",
-      token: "terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg",
+      token: "terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq",
       icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/Fanfury.png"
     },
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
