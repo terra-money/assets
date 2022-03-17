@@ -1388,5 +1388,13 @@ module.exports = {
       icon: "https://benqi.fi/images/assets/savax.svg",
       decimals: 8,
     },
+    terra1spt8mjrg5w8er4na206x24gyrtvr278q78vpwa: {
+      protocol: "Wormhole",
+      symbol: "wbSOL",
+      name: "Lido Bonded SOL (test) (Wormhole)",
+      token: "terra1spt8mjrg5w8er4na206x24gyrtvr278q78vpwa",
+      icon: "https://raw.githubusercontent.com/ChorusOne/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
+      decimals: 8,
+    },
   }
 }
