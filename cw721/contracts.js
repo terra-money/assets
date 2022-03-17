@@ -586,6 +586,22 @@ module.exports = {
       icon: "https://terraworld.me/favicon.png",
       homepage: "https://terraworld.me/",
     },
+    terra1x8m8vju636xh7026dehq6g7ye66tn0yu4c7mq8: {
+      contract: "terra1x8m8vju636xh7026dehq6g7ye66tn0yu4c7mq8",
+      name: "Rekt Wolf",
+      symbol: "RW",
+      icon: "https://cdn.luart.io/logos/rekt-wolf-logo.jpg",
+      homepage: "https://docs.rektwolf.io/",
+      marketplace: ["https://marketplace.luart.io/collections/terra1x8m8vju636xh7026dehq6g7ye66tn0yu4c7mq8"],
+    },
+    terra1stzp2dlwceqh6k6cffv4zj64ddx28rdgpdal74: {
+      contract: "terra1stzp2dlwceqh6k6cffv4zj64ddx28rdgpdal74",
+      name: "MutantZ Gen 1",
+      symbol: "MUTZGEN1",
+      icon: "https://cdn.luart.io/logos/mutantz-logo.jpg",
+      homepage: "https://www.sntntstudios.com/",
+      marketplace: ["https://marketplace.luart.io/collections/terra1stzp2dlwceqh6k6cffv4zj64ddx28rdgpdal74"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {

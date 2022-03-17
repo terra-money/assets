@@ -296,6 +296,13 @@ module.exports = {
       token: "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6",
       icon: "https://terraoffice.world/twd_logo.png"
     },
+    terra1kvjscdgwuvwc6uzm4rqfjl6nlmuhj28tequlnc: {
+      protocol: "TerraWorld",
+      symbol: "XTRA",
+      name: "xterra Token",
+      token: "terra1kvjscdgwuvwc6uzm4rqfjl6nlmuhj28tequlnc",
+      icon: "https://terraworld.me/assets/XTRA.png"
+    },
     terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63: {
       protocol: "Miaw Trader",
       symbol: "MIAW",
@@ -826,12 +833,44 @@ module.exports = {
       icon: "https://cloudflare-ipfs.com/ipfs/QmVeSBHDtJYFd6yKSdFghRRsj4jXHdm81rmCUEdLHDK928?filename=ceres.svg",
       decimals: 6
     },
+    terra1z3e2e4jpk4n0xzzwlkgcfvc95pc5ldq0xcny58: {
+      protocol: "Wormhole",
+      symbol: "wasAVAX",
+      name: "BENQI Staked AVAX (Wormhole)",
+      token: "terra1z3e2e4jpk4n0xzzwlkgcfvc95pc5ldq0xcny58",
+      icon: "https://benqi.fi/images/assets/savax.svg",
+      decimals: 8,
+    },
+    terra1zd6let0zg0xjn2sestagxv4ax24a4ml6j40qdr: {
+      protocol: "MintDAO",
+      symbol: "MINT",
+      name: "MintDAO",
+      token: "terra1zd6let0zg0xjn2sestagxv4ax24a4ml6j40qdr",
+      icon: "https://mintdao.io/assets/token.svg",
+      decimals: 6,
+    },
+    terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02: {
+      protocol: "Stader",
+      symbol: "whSD",
+      name: "Stader whSD",
+      token: "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/whSD.png",
+      decimals: 8,
+    },
+    terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep: {
+      protocol: "Stader",
+      symbol: "xSD",
+      name: "Stader xSD",
+      token: "terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/xSD.png",
+      decimals: 8,
+    },
   },
   testnet: {
-    terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
+    terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
       protocol: "FanFury",
       symbol: "FURY",
-      token: "terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg",
+      token: "terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq",
       icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/Fanfury.png"
     },
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
@@ -1340,6 +1379,22 @@ module.exports = {
       token: "terra1yuzqfdrp87wfhe7vatzzq79p806n4dmpf0z5q5",
       icon: "https://cloudflare-ipfs.com/ipfs/QmVeSBHDtJYFd6yKSdFghRRsj4jXHdm81rmCUEdLHDK928?filename=ceres.svg",
       decimals: 6
+    },
+    terra12x8dnuzuqpywue9d8qy2dlc2n2ux5a77yjg0zl: {
+      protocol: "Wormhole",
+      symbol: "wasAVAX",
+      name: "BENQI Staked AVAX (Wormhole)",
+      token: "terra12x8dnuzuqpywue9d8qy2dlc2n2ux5a77yjg0zl",
+      icon: "https://benqi.fi/images/assets/savax.svg",
+      decimals: 8,
+    },
+    terra1spt8mjrg5w8er4na206x24gyrtvr278q78vpwa: {
+      protocol: "Wormhole",
+      symbol: "wbSOL",
+      name: "Lido Bonded SOL (test) (Wormhole)",
+      token: "terra1spt8mjrg5w8er4na206x24gyrtvr278q78vpwa",
+      icon: "https://raw.githubusercontent.com/ChorusOne/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
+      decimals: 8,
     },
   }
 }

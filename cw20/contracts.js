@@ -740,6 +740,16 @@ module.exports = {
       name: "Spec Astroport XDEFI-UST Farm",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
+    terra16usjvptlpdrj7hcmy7mvdap5tttzcya7ch0can: {
+      protocol: "Spectrum",
+      name: "Spec nLuna Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1gvlll4hytc9s34dskw5ym86erx3hx2j6sa8zhy: {
+      protocol: "Spectrum",
+      name: "Spec nETH Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
     terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5: {
       protocol: "StarTerra",
       name: "STT/LP Staking Faction Lunatics",
@@ -869,6 +879,16 @@ module.exports = {
       protocol: "TerraWorld",
       name: "TWD-UST LP Token",
       icon: "https://terraoffice.world/twd_logo.png",
+    },
+    terra1uvchkwq4kv0vhy23c78hyy72zks2hqtpctklh2: {
+      protocol: "TerraWorld",
+      name: "XTRA-UST Pair",
+      icon: "https://terraworld.me/assets/XTRA.png",
+    },
+    terra1pndz6cy4t42qae4m7avkjjyu6vlcrlrx3hep0k: {
+      protocol: "TerraWorld",
+      name: "XTRA-UST LP Token",
+      icon: "https://terraworld.me/assets/XTRA.png",
     },
     terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63: {
       protocol: "Miaw Trader",
@@ -2034,6 +2054,16 @@ module.exports = {
     terra1salzgw4879x45rduugn88j8x2mv6hzjdvwfmzh: {
       protocol: "Spectrum",
       name: "Spec Astroport ANC-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1qrzu4zls2ep8drfmx2ul4fu9fu5qular9jlktl: {
+      protocol: "Spectrum",
+      name: "Spec nLuna Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1zhdxsmpzpakrxcns00kyegpd8gsj4qvrahwj26: {
+      protocol: "Spectrum",
+      name: "Spec nETH Farm",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
     terra1cxz4m6rvq9vkw8x9f3gqtuex6t5ulm6sr3j4qz: {
