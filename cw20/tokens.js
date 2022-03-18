@@ -724,7 +724,7 @@ module.exports = {
     },
     terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8: {
       protocol: "C2X",
-      symbol: "C2X",
+      symbol: "CTX",
       name: "C2X Token",
       token: "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8",
       icon: "https://c2x.world/c2x-station/icon/C2X.png"
@@ -1316,7 +1316,7 @@ module.exports = {
     },
     terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y: {
       protocol: "C2X",
-      symbol: "C2X",
+      symbol: "CTX",
       name: "C2X Token",
       token: "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y",
       icon: "https://c2x.world/c2x-station/icon/C2X.png"
@@ -1403,6 +1403,13 @@ module.exports = {
       token: "terra1en4ns92rf0jthl2wxgp7ulkaxvg7lwc98whzj7",
       icon: "https://ceres.ventures/cvust.svg",
       decimals: 6,
+    },
+    terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36: {
+      protocol: "C2X",
+      symbol: "LCT",
+      name: "LCT Token",
+      token: "terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36",
+      icon: "https://c2x.world/c2x-station/icon/LCT.png"
     },
   }
 }
