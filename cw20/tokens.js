@@ -1404,11 +1404,11 @@ module.exports = {
       icon: "https://ceres.ventures/cvust.svg",
       decimals: 6,
     },
-	terra1lsc9mh3l974f0a329d5fwa45g25hkenq8k90zl: {
+	terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36: {
       protocol: "C2X",
       symbol: "LCT",
       name: "LCT Token",
-      token: "terra1lsc9mh3l974f0a329d5fwa45g25hkenq8k90zl",
+      token: "terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36",
       icon: "https://c2x.world/c2x-station/icon/LCT.png"
     },
   }
