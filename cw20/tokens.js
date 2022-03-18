@@ -724,7 +724,7 @@ module.exports = {
     },
     terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8: {
       protocol: "C2X",
-      symbol: "C2X",
+      symbol: "CTX",
       name: "C2X Token",
       token: "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8",
       icon: "https://c2x.world/c2x-station/icon/C2X.png"
@@ -1316,7 +1316,7 @@ module.exports = {
     },
     terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y: {
       protocol: "C2X",
-      symbol: "C2X",
+      symbol: "CTX",
       name: "C2X Token",
       token: "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y",
       icon: "https://c2x.world/c2x-station/icon/C2X.png"
@@ -1395,6 +1395,13 @@ module.exports = {
       token: "terra1spt8mjrg5w8er4na206x24gyrtvr278q78vpwa",
       icon: "https://raw.githubusercontent.com/ChorusOne/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
       decimals: 8,
+    },
+	terra1lsc9mh3l974f0a329d5fwa45g25hkenq8k90zl: {
+      protocol: "C2X",
+      symbol: "LCT",
+      name: "LCT Token",
+      token: "terra1lsc9mh3l974f0a329d5fwa45g25hkenq8k90zl",
+      icon: "https://c2x.world/c2x-station/icon/LCT.png"
     },
   }
 }
