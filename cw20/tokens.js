@@ -1404,7 +1404,7 @@ module.exports = {
       icon: "https://ceres.ventures/cvust.svg",
       decimals: 6,
     },
-	terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36: {
+    terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36: {
       protocol: "C2X",
       symbol: "LCT",
       name: "LCT Token",
