@@ -1396,5 +1396,13 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/ChorusOne/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
       decimals: 8,
     },
+    terra1en4ns92rf0jthl2wxgp7ulkaxvg7lwc98whzj7: {
+      protocol: "Ceres",
+      symbol: "cvUST",
+      name: "Ceres Vault UST",
+      token: "terra1en4ns92rf0jthl2wxgp7ulkaxvg7lwc98whzj7",
+      icon: "https://ceres.ventures/cvust.svg",
+      decimals: 6,
+    },
   }
 }
