@@ -33,6 +33,17 @@
           "url": "https://chrome.google.com/webstore/detail/leap-wallet/aijcbedoijmgnlmjeegjaglmepbmpkpi"
         }
       ]
+    },
+    {
+      "name": "Falcon Wallet",
+      "identifier": "falcon-wallet",
+      "icon": "https://api.falconwallet.app/assets/images/falcon-logo.png",
+      "urls": [
+        {
+          "browser": "chrome",
+          "url": "https://chrome.google.com/webstore/detail/falcon-wallet/gkhnjcpkikkkfhhdhhphcbhmkikoicgn"
+        }
+      ]
     }
   ]
 }

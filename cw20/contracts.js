@@ -655,6 +655,101 @@ module.exports = {
       name: "SPEC Burn Vault",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
+    terra1fxwelge6mf5l6z0rjpylzcfq9w9tw2q7tewaf5: {
+      protocol: "Spectrum",
+      name: "SPEC Staker",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1w9d33yf2j05m2h6f3k7sjuhgrdrznqmncjrwhq: {
+      protocol: "Spectrum",
+      name: "SPEC Staker Astroport",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra12kzevdnqe4k82cg5f07dywgj4lvkshhhwh4gnc: {
+      protocol: "Spectrum",
+      name: "SPEC Staker Single Asset",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1wn0d0zwl382pnl6hdcd8r926yx6mcqcag7v39j: {
+      protocol: "Spectrum",
+      name: "Spec Astroport ASTRO-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1egstlx9c9pq5taja5sg0yhraa0cl5laxyvm3ln: {
+      protocol: "Spectrum",
+      name: "Spec Astroport LUNA-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1ejl4v53w4all7zkw8nfkw2q6d3qkpls8m4cav4: {
+      protocol: "Spectrum",
+      name: "Spec Astroport bLUNA-LUNA Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1ukm33qyqx0qcz7rupv085rgpx0tp5wzkhmcj3f: {
+      protocol: "Spectrum",
+      name: "Spec Astroport ANC-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1y5hd5ea9dshfwf5eysqtsey7qkdhhktmtw9y3q: {
+      protocol: "Spectrum",
+      name: "Spec Astroport MIR-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1p30zk5xfn34lygcyhs2us9mxwzsn88v2yqrcw6: {
+      protocol: "Spectrum",
+      name: "Spec Astroport ORION-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra10htnzp8gk49u97whehd9uuj5rl2keegcvdhg2q: {
+      protocol: "Spectrum",
+      name: "Spec Astroport STT-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1yj34w2n24p4x7s69evjp7ukzz82ca5tvlzqa84: {
+      protocol: "Spectrum",
+      name: "Spec Astroport VKR-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1s9zqk5ksnwp8qywrmdwt2fq0a9l0zc2d2sw2an: {
+      protocol: "Spectrum",
+      name: "Spec Astroport MINE-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1zngkjhqqearpfhym9x9hnutpklduz45e9uvp9u: {
+      protocol: "Spectrum",
+      name: "Spec Astroport APOLLO-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1jxh7hahwxlsy5cckkyhuz50a60mpn5tr0px6tq: {
+      protocol: "Spectrum",
+      name: "Spec Astroport Psi-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1zl3ud44lja3r8ld8nwzh3eukl6h97gp2xr4wq6: {
+      protocol: "Spectrum",
+      name: "Spec Astroport nLuna-Psi Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1xw3jzqwrql5fvddchzxycd2ygrep5kudsden5c: {
+      protocol: "Spectrum",
+      name: "Spec Astroport nETH-Psi Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1d9cufxz9a4px9zfzq8quqewlj24durtu6lhwfw: {
+      protocol: "Spectrum",
+      name: "Spec Astroport XDEFI-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra16usjvptlpdrj7hcmy7mvdap5tttzcya7ch0can: {
+      protocol: "Spectrum",
+      name: "Spec nLuna Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1gvlll4hytc9s34dskw5ym86erx3hx2j6sa8zhy: {
+      protocol: "Spectrum",
+      name: "Spec nETH Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
     terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5: {
       protocol: "StarTerra",
       name: "STT/LP Staking Faction Lunatics",
@@ -785,6 +880,16 @@ module.exports = {
       name: "TWD-UST LP Token",
       icon: "https://terraoffice.world/twd_logo.png",
     },
+    terra1uvchkwq4kv0vhy23c78hyy72zks2hqtpctklh2: {
+      protocol: "TerraWorld",
+      name: "XTRA-UST Pair",
+      icon: "https://terraworld.me/assets/XTRA.png",
+    },
+    terra1pndz6cy4t42qae4m7avkjjyu6vlcrlrx3hep0k: {
+      protocol: "TerraWorld",
+      name: "XTRA-UST LP Token",
+      icon: "https://terraworld.me/assets/XTRA.png",
+    },
     terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63: {
       protocol: "Miaw Trader",
       name: "MIAW Token",
@@ -845,6 +950,11 @@ module.exports = {
       name: "WHALE",
       icon: "https://www.whitewhale.money/tokenlogo.png",
     },
+    terra1w0p5zre38ecdy3ez8efd5h9fvgum5s206xknrg: {
+      protocol: "Vault UST",
+      name: "vUST",
+      icon: "https://www.whitewhale.money/vustlogo.png",
+    },
     terra1xrk6v2tfjrhjz2dsfecj40ps7ayanjx970gy0j: {
       protocol: "Nexus",
       name: "Governance",
@@ -857,17 +967,17 @@ module.exports = {
     },
     terra163pkeeuwxzr0yhndf8xd2jprm9hrtk59xf7nqf: {
       protocol: "Nexus",
-      name: "Psi-UST Pair",
+      name: "Psi-UST Terraswap Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1q6r8hfdl203htfvpsmyh8x689lp2g0m7856fwd: {
       protocol: "Nexus",
-      name: "Psi-UST LP",
+      name: "Psi-UST Terraswap LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra12kzewegufqprmzl20nhsuwjjq6xu8t8ppzt30a: {
       protocol: "Nexus",
-      name: "Psi-UST Staking",
+      name: "Psi-UST Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra16mtntdg7rkvt3q5hcz8nqr6hj8mme5jmrtk8y2: {
@@ -917,17 +1027,17 @@ module.exports = {
     },
     terra1zvn8z6y8u2ndwvsjhtpsjsghk6pa6ugwzxp6vx: {
       protocol: "Nexus",
-      name: "nLuna-Psi Pair",
+      name: "nLuna-Psi Terraswap Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1tuw46dwfvahpcwf3ulempzsn9a0vhazut87zec: {
       protocol: "Nexus",
-      name: "nLuna-Psi LP",
+      name: "nLuna-Psi Terraswap LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1hs4ev0ghwn4wr888jwm56eztfpau6rjcd8mczc: {
       protocol: "Nexus",
-      name: "nLuna-Psi Staking",
+      name: "nLuna-Psi Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1tfrecwlvzcv9h697q3g0d08vd53ssu5w4war4n: {
@@ -962,17 +1072,17 @@ module.exports = {
     },
     terra14zhkur7l7ut7tx6kvj28fp5q982lrqns59mnp3: {
       protocol: "Nexus",
-      name: "nETH-Psi Pair",
+      name: "nETH-Psi Terraswap Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1y8kxhfg22px5er32ctsgjvayaj8q36tr590qtp: {
       protocol: "Nexus",
-      name: "nETH-Psi LP",
+      name: "nETH-Psi Terraswap LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1lws09x0slx892ux526d6atwwgdxnjg58uan8ph: {
       protocol: "Nexus",
-      name: "nETH-Psi Staking",
+      name: "nETH-Psi Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1zkyrfyq7x9v5vqnnrznn3kvj35az4f6jxftrl2: {
@@ -1005,7 +1115,12 @@ module.exports = {
       name: "Kujira Team Multisignature Warchest",
       icon: "https://assets.kujira.app/kuji.png",
     },
-    terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z: {
+    terra13nk2cjepdzzwfqy740pxzpe3x75pd6g0grxm2z: {
+      protocol: "Kujira",
+      name: "Orca aUST Vault",
+      icon: "https://assets.kujira.app/kuji.png",
+    },
+    terra13yftwgefkggq3u627gphq98s6ufwh9u85h5kmg: {
       protocol: "Orne",
       name: "UST-ORNE Pair",
       icon: "https://orne.io/img/token_icon.png",
@@ -1038,6 +1153,11 @@ module.exports = {
     terra1r3kkmkhysk2gjeq3rutjgfu4e79m3jhw6w72w5: {
       protocol: "Kujira",
       name: "Operational",
+      icon: "https://assets.kujira.app/kuji.png",
+    },
+    terra1vvj874nwtmxk0u0spj83d364xyhqk2e652jrck: {
+      protocol: "Kujira",
+      name: "Protocol Revenue Pool",
       icon: "https://assets.kujira.app/kuji.png",
     },
     terra19fjaurx28dq4wgnf9fv3qg0lwldcln3jqafzm6: {
@@ -1124,36 +1244,36 @@ module.exports = {
       protocol: "Terra Name Service",
       name: "UST-TNS Staking",
       icon: "https://tns.money/static/images/tns.png",
-    },   
-    terra1jfk9saed6c4n40qwe54mcxmgs8kz4husly3jx4: {      
+    },
+    terra1jfk9saed6c4n40qwe54mcxmgs8kz4husly3jx4: {
       protocol: "Terra Name Service",
       name: "Controller",
-      icon: "https://tns.money/static/images/tns.png",      
-    },    
-    terra19gqw63xnt9237d2s8cdrzstn98g98y7hkl80gs: {      
-      protocol: "Terra Name Service",
-      name: "Registry",      
-      icon: "https://tns.money/static/images/tns.png",      
+      icon: "https://tns.money/static/images/tns.png",
     },
-    terra1uhr0lncf04nhwn5p2uaellepery0lgphl09ut8: {      
+    terra19gqw63xnt9237d2s8cdrzstn98g98y7hkl80gs: {
       protocol: "Terra Name Service",
-      name: "Default Resolver",      
-      icon: "https://tns.money/static/images/tns.png",      
+      name: "Registry",
+      icon: "https://tns.money/static/images/tns.png",
+    },
+    terra1uhr0lncf04nhwn5p2uaellepery0lgphl09ut8: {
+      protocol: "Terra Name Service",
+      name: "Default Resolver",
+      icon: "https://tns.money/static/images/tns.png",
     },
     terra1a5thpf2gdrrneewjkutyz5q6zr2kn8ymg0cxn9: {
       protocol: "Terra Name Service",
-      name: "Governance",      
-      icon: "https://tns.money/static/images/tns.png",      
+      name: "Governance",
+      icon: "https://tns.money/static/images/tns.png",
     },
     terra1ua7mgqjjx04k3syhl0ast3hujy5tfu9440srp9: {
       protocol: "Terra Name Service",
-      name: "Airdrop",      
-      icon: "https://tns.money/static/images/tns.png",      
+      name: "Airdrop",
+      icon: "https://tns.money/static/images/tns.png",
     },
     terra1sqyyzqf3qjgq2ypkkjmcf9tg3pt3dlt9w8syen: {
       protocol: "Terra Name Service",
-      name: "Community Pool",      
-      icon: "https://tns.money/static/images/tns.png",      
+      name: "Community Pool",
+      icon: "https://tns.money/static/images/tns.png",
     },
     terra1rtxau4as3e05gkffjxysdzr3l4mwd39r35sjnc: {
       protocol: "Terra Name Service",
@@ -1169,6 +1289,145 @@ module.exports = {
       protocol: "Thorstarter",
       name: "Thorstarter Tiers",
       icon: "https://thorstarter.org/static/img/src/favicon.png",
+    },
+    terra1zgrx9jjqrfye8swykfgmd6hpde60j0nszzupp9: {
+      protocol: "Astroport",
+      name: "Generator",
+    },
+   terra1v5ct2tuhfqd0tf8z0wwengh4fg77kaczgf6gtx: {
+      protocol: "Nexus",
+      name: "Psi-UST Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1cspx9menzglmn7xt3tcn8v8lg6gu9r50d7lnve: {
+      protocol: "Nexus",
+      name: "Psi-UST Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1fmu29xhg5nk8jr0p603y5qugpk2r0ywcyxyv7k: {
+      protocol: "Nexus",
+      name: "Psi-UST Astroport Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra18hjdxnnkv8ewqlaqj3zpn0vsfpzdt3d0y2ufdz: {
+      protocol: "Nexus",
+      name: "nETH-Psi Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1pjfqacx7k6dg63v2h5q96zjg7w5q25093wnkjc: {
+      protocol: "Nexus",
+      name: "nETH-Psi Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra13n2sqaj25ugkt79k3evhvua30ut9qt8q0268zc: {
+      protocol: "Nexus",
+      name: "nETH-Psi Astroport Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra10lv5wz84kpwxys7jeqkfxx299drs3vnw0lj8mz: {
+      protocol: "Nexus",
+      name: "nLuna-Psi Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1t53c8p0zwvj5xx7sxh3qtse0fq5765dltjrg33: {
+      protocol: "Nexus",
+      name: "nLuna-Psi Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1sxzggeujnxrd7hsx7uf2l6axh2uuv4zz5jadyg: {
+      protocol: "Nexus",
+      name: "nLuna-Psi Astroport Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra14qtu3fxf8h6afqvhgh65jqs0nk8vpy6vxlmln5: {
+      protocol: "Atlo",
+      name: "Treasury",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+    },
+    terra1r6ps2zjph92k74ep4q8ernl9n4j32e0ldxc3xk: {
+      protocol: "Atlo",
+      name: "Fee Collector",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+    },
+    terra12z9vdsdjg0thx3wmfnysz6pvegzukykcd709x3: {
+      protocol: "Atlo",
+      name: "Vesting: Team",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+    },
+    terra1yn5l4nrj4qadrne2p6q62h3qkgreum0dq7rdew: {
+      protocol: "Atlo",
+      name: "Vesting: Seed, Public, Early Birds, Advisors",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+    },
+    terra1a77dwkjmg62wfvkgxwe07ukfctvpgtu3jjvld9: {
+      protocol: "Atlo",
+      name: "Staking: Single-sided",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+    },
+    terra1rxhf7p6dexv6enq4u5dh7ems82h5u5e6x4l833: {
+      protocol: "Atlo",
+      name: "Staking: LP",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+    },
+    terra1l0wqwge0vtfmukx028pluxsr7ee2vk8gl5mlxr: {
+      protocol: "Atlo",
+      name: "ATLO-UST LP",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+    },
+    terra1ycp5lnn0qu4sq4wq7k63zax9f05852xt9nu3yc: {
+      protocol: "Atlo",
+      name: "ATLO-UST Pair",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+    },
+    terra16xnc46f7acfff5yrv03ng7u3c8ngfx2jel653q: {
+      protocol: "Atlo",
+      name: "Voting",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+    },
+    terra1vfrxqy2tw0xrxs8y3agtt3qzuem0pm898umk5v: {
+      protocol: "Atlo",
+      name: "Governance",
+      icon: "https://assets.atlo.app/images/atlo-logo.png",
+    },
+    terra1tgg6ccwy42aya75rjtpx4cagpg64p5rz59vxtj: {
+      protocol: "Luart",
+      name: "LUART-UST LP",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1dlcwvsy6t7skge7s2dtdvr75lakltwr3xk9j2d: {
+      protocol: "Luart",
+      name: "LUART Staking",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1zg32rp9lc3k0zzscdr93xxn0w5kll62l9x3a4u: {
+      protocol: "Luart",
+      name: "LUART LP Staking",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1xfdezegr8may3tp2lyuvht28w7las9k32tg4rk: {
+      protocol: "Luart",
+      name: "LUART Vesting Private",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1jshuv8a7mx3fvhvpmcqpua7ft8c9q5anllryy4: {
+      protocol: "Luart",
+      name: "LUART Vesting Marketing",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1ny3njmscejk6kf8zg2y2jh9yrwnmxy3npp44qg: {
+      protocol: "Luart",
+      name: "LUART Vesting Advisors",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra1zg6qt3h3axqne70dw4sswgfrqedkcpw3gu6jn7: {
+      protocol: "Luart",
+      name: "LUART Vesting Development Fund",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+    terra18hdv038c68uj70qvarnr55e9c3kwjk4tkzhc4j: {
+      protocol: "Luart",
+      name: "LUART Vesting Team",
+      icon: "https://cdn.luart.io/logos/luart-logo.png",
     },
   },
   testnet: {
@@ -1772,6 +2031,41 @@ module.exports = {
       name: "SPEC Burn Vault",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
+    terra15nwqmmmza9y643apneg0ddwt0ekk38qdevnnjt: {
+      protocol: "Spectrum",
+      name: "SPEC Staker",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra14lezmh3d449pu8hfhwpxu5wu694l4tzg3lhru5: {
+      protocol: "Spectrum",
+      name: "Spec Staker Astroport",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1xt7p5a5dezj4d5h4rhry6mr6khhfhgnszem08s: {
+      protocol: "Spectrum",
+      name: "Spec Staker Single Asset",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra19x7u7d837p9x6rzwesnk65n3aml0p3apytz4d2: {
+      protocol: "Spectrum",
+      name: "Spec Astroport ASTRO-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1salzgw4879x45rduugn88j8x2mv6hzjdvwfmzh: {
+      protocol: "Spectrum",
+      name: "Spec Astroport ANC-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1qrzu4zls2ep8drfmx2ul4fu9fu5qular9jlktl: {
+      protocol: "Spectrum",
+      name: "Spec nLuna Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1zhdxsmpzpakrxcns00kyegpd8gsj4qvrahwj26: {
+      protocol: "Spectrum",
+      name: "Spec nETH Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
     terra1cxz4m6rvq9vkw8x9f3gqtuex6t5ulm6sr3j4qz: {
       protocol: "StarTerra",
       name: "STT Staking Faction Lunatics",
@@ -1832,6 +2126,11 @@ module.exports = {
       name: "WHALE-UST LP Token",
       icon: "https://www.whitewhale.money/tokenlogo.png",
     },
+    terra1z4hyc87tuln35nu465d5equke4nf7xqepx7rtg: {
+      protocol: "Vault UST",
+      name: "vUST",
+      icon: "https://www.whitewhale.money/vustlogo.png",
+    },
     terra1u7tnl4326ge86mzqeqnzxxjg7xkgj8nfg65a2h: {
       protocol: "Nexus",
       name: "Governance",
@@ -1839,17 +2138,17 @@ module.exports = {
     },
     terra1ee9h9c9fv2smm8wkq0aw78tut3w3x62ckj6nz8: {
       protocol: "Nexus",
-      name: "Psi-UST Pair",
+      name: "Psi-UST Terraswap Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra12qfjg2m50syyg3eljpj0rx0x8jez5j56mg77zc: {
       protocol: "Nexus",
-      name: "Psi-UST LP",
+      name: "Psi-UST Terraswap LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1qsc7y8448payj9fyjxn6ffxxmdcj5g5dtptfq2: {
       protocol: "Nexus",
-      name: "Psi-UST Staking",
+      name: "Psi-UST Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1tr4uxvmsfx7sl06m7xnp848ta20gesj0hpufjd: {
@@ -1894,17 +2193,17 @@ module.exports = {
     },
     terra1p3e50cfx47u2utkj0qcls6305plky9pprv0ack: {
       protocol: "Nexus",
-      name: "nLuna-Psi Pair",
+      name: "nLuna-Psi Terraswap Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1a7awn36j2yy7jvy8te72rwrhl6zma3yugtrhm5: {
       protocol: "Nexus",
-      name: "nLuna-Psi LP",
+      name: "nLuna-Psi Terraswap LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra14r89lj2e87qz2vwmdjxs70khh89n3w2xy2zkgn: {
       protocol: "Nexus",
-      name: "nLuna-Psi Staking",
+      name: "nLuna-Psi Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1uwl6n4ql5n2mueasu32f537m85y5mtgq66xj0y: {
@@ -1939,17 +2238,17 @@ module.exports = {
     },
     terra15wlxslvcjtj5y083chl4kqespzugd28dwxdksn: {
       protocol: "Nexus",
-      name: "nETH-Psi Pair",
+      name: "nETH-Psi Terraswap Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1y2r544tw2q4cgpgjvts8uu6gekk9kwz047a9sl: {
       protocol: "Nexus",
-      name: "nETH-Psi LP",
+      name: "nETH-Psi Terraswap LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1u8gvskrt5n6vdeeuc4428pxhjh75h0jcntm7ca: {
       protocol: "Nexus",
-      name: "nETH-Psi Staking",
+      name: "nETH-Psi Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1mxy8lmf2jeyr7js7xvm046fssyfa5a9pm78fpn: {
@@ -1997,10 +2296,55 @@ module.exports = {
       name: "TerraFloki UST-TFLOKI LP New World Staking",
       icon: "https://terrafloki.io/ticket2_logo.png"
     },
-    terra1cc5p6u7fm3eh9m2h0jjjay4hlluw5e32mtstjd: {
+    terra1eqzmr4gcx7vtwgcxvg86ccsaly8xqzwu0wu47u: {
       protocol: "Orne",
       name: "UST-ORNE Pair",
       icon: "https://orne.io/img/token_icon.png",
+    },
+   terra1a7vcghx2vjyg74nqk5krd9ppa8ks8ytz5vdsgp: {
+      protocol: "Nexus",
+      name: "Psi-UST Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1zv9uhshhuw6yr4m95nx54cpl0g4ahska5uwfv8: {
+      protocol: "Nexus",
+      name: "Psi-UST Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1xeq2ej8s0t9z2ch08x5tc7009za43w8983elv0: {
+      protocol: "Nexus",
+      name: "Psi-UST Astroport Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1mt63aef37fx9z7jfadtgk8a5swxlxce9pjdgvy: {
+      protocol: "Nexus",
+      name: "nETH-Psi Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1dpzuan9dyp20ze7ttfv4n6vwjl9k0j9nppzq2s: {
+      protocol: "Nexus",
+      name: "nETH-Psi Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1sxhfaud8svmazlvg2qffsgke96e7qguf057pc9: {
+      protocol: "Nexus",
+      name: "nETH-Psi Astroport Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1uwf0yn9rnt7anpceqm7s00zfgevnwaaqde2eee: {
+      protocol: "Nexus",
+      name: "nLuna-Psi Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1kyjspjr054v00nw7g2fttk6fq9furq9wjsy0x2: {
+      protocol: "Nexus",
+      name: "nLuna-Psi Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra18vqwp39c4jcgaax2d6275ghdtywz3xazzhl4xx: {
+      protocol: "Nexus",
+      name: "nLuna-Psi Astroport Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
   },
 };
