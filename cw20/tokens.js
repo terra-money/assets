@@ -1411,5 +1411,10 @@ module.exports = {
       token: "terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36",
       icon: "https://c2x.world/c2x-station/icon/LCT.png"
     },
+    terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr: {
+      symbol: "CSW",
+      token: "terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr",
+      decimals: 6,
+    },
   }
 }
