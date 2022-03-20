@@ -259,6 +259,22 @@ module.exports = {
       icon: "https://cloudflare-ipfs.com/ipfs/Qmc92yxY3Ucyn3kt7TbB6MzXuMcgQRpENebZaQ2tseqqRe/1.png",
       homepage: "https://terranauts.io",
     },
+    terra1cea5cugmhpkjre9400efn4tfsjrpnnevfum5jp: {
+      contract: "terra1cea5cugmhpkjre9400efn4tfsjrpnnevfum5jp",
+      protocol: "Terranauts",
+      name: "Terranauts Sectors",
+      symbol: "SCTRS",
+      icon: "https://bafkreifkcna4cr3tt3r5yln36dex6x2bsenknsmdaizqpfx7fsux5rsvmi.ipfs.dweb.link",
+      homepage: "https://terranauts.io",
+    },
+    terra13q7gj95yldpnmz4hgec78t5h7vtgn7ueapez5h: {
+      contract: "terra13q7gj95yldpnmz4hgec78t5h7vtgn7ueapez5h",
+      protocol: "Terranauts",
+      name: "Terranauts Signal",
+      symbol: "SGNL",
+      icon: "https://bafkreic6z2zwhdy7cgb3cijpqi3cnhb454vc2ppzxo2jfxpjohhxuvwrj4.ipfs.dweb.link",
+      homepage: "https://terranauts.io",
+    },
     terra1t0l0sz0efnr7cm3hxked7nn2x7xx5syw02k8tc: {
       contract: "terra1t0l0sz0efnr7cm3hxked7nn2x7xx5syw02k8tc",
       protocol: "TerraPeeps",
