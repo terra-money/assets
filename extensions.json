@@ -26,7 +26,7 @@
     {
       "name": "Leap Wallet",
       "identifier": "leap-wallet",
-      "icon": "http://leapwallet.io/icon.png",
+      "icon": "https://leapwallet.io/icon.png",
       "urls": [
         {
           "browser": "chrome",
