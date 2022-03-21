@@ -1411,5 +1411,13 @@ module.exports = {
       token: "terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36",
       icon: "https://c2x.world/c2x-station/icon/LCT.png"
     },
+    terra1uux6gwd6pzr0gfzrru5kne55cxex9d0700c72r: {
+      protocol: "Wormhole",
+      symbol: "whPAXG",
+      name: "Paxos Gold (Wormhole)",
+      token: "terra1uux6gwd6pzr0gfzrru5kne55cxex9d0700c72r",
+      icon: "https://github.com/paxosglobal/paxos-gold-contract/blob/master/assets/Pax-Gold-Logo-FINAL-color.png",
+      decimals: 8,
+    },
   }
 }
