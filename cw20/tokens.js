@@ -47,7 +47,7 @@ module.exports = {
     },
     terra1qelfthdanju7wavc5tq0k5r0rhsyzyyrsn09qy: {
       protocol: "Mirror",
-      symbol: "mAMC",
+      symbol: "mAMC (Delisted)",
       name: "AMC Entertainment Holdings Inc.",
       token: "terra1qelfthdanju7wavc5tq0k5r0rhsyzyyrsn09qy",
       icon: "https://whitelist.mirror.finance/icon/AMC.png"
@@ -94,6 +94,13 @@ module.exports = {
       token: "terra18wayjpyq28gd970qzgjfmsjj7dmgdk039duhph",
       icon: "https://whitelist.mirror.finance/icon/COIN.png"
     },
+    terra149755r3y0rve30e209awkhn5cxgkn5c8ju9pm5: {
+      protocol: "Mirror",
+      symbol: "mDIS",
+      name: "The Walt Disney Company",
+      token: "terra149755r3y0rve30e209awkhn5cxgkn5c8ju9pm5",
+      icon: "https://whitelist.mirror.finance/icon/DIS.png"
+    },
     terra19ya4jpvjvvtggepvmmj6ftmwly3p7way0tt08r: {
       protocol: "Mirror",
       symbol: "mDOT",
@@ -124,7 +131,7 @@ module.exports = {
     },
     terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p: {
       protocol: "Mirror",
-      symbol: "mGME",
+      symbol: "mGME (Delisted)",
       name: "GameStop Corp",
       token: "terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p",
       icon: "https://whitelist.mirror.finance/icon/GME.png"
@@ -143,12 +150,12 @@ module.exports = {
       token: "terra137drsu8gce5thf6jr5mxlfghw36rpljt3zj73v",
       icon: "https://whitelist.mirror.finance/icon/GS.png"
     },
-    terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec: {
+    terra18yqdfzfhnguerz9du5mnvxsh5kxlknqhcxzjfr: {
       protocol: "Mirror",
-      symbol: "mIAU (Delisted)",
-      name: "iShares Gold Trust",
-      token: "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec",
-      icon: "https://whitelist.mirror.finance/icon/IAU.png"
+      symbol: "mHOOD",
+      name: "Robinhood Markets, Inc.",
+      token: "terra18yqdfzfhnguerz9du5mnvxsh5kxlknqhcxzjfr",
+      icon: "https://whitelist.mirror.finance/icon/HOOD.png"
     },
     terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq: {
       protocol: "Mirror",
@@ -156,6 +163,27 @@ module.exports = {
       name: "iShares Gold Trust",
       token: "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq",
       icon: "https://whitelist.mirror.finance/icon/IAU.png"
+    },
+    terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec: {
+      protocol: "Mirror",
+      symbol: "mIAU (Delisted)",
+      name: "iShares Gold Trust",
+      token: "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec",
+      icon: "https://whitelist.mirror.finance/icon/IAU.png"
+    },
+    terra1ptdxmj3xmmljzx02nr4auwfuelmj0cnkh8egs2: {
+      protocol: "Mirror",
+      symbol: "mJNJ",
+      name: "Johnson & Johnson",
+      token: "terra1ptdxmj3xmmljzx02nr4auwfuelmj0cnkh8egs2",
+      icon: "https://whitelist.mirror.finance/icon/JNJ.png"
+    },
+    terra1qsnj5gvq8rgs7yws8x5u02gwd5wvtu4tks0hjm: {
+      protocol: "Mirror",
+      symbol: "mKO",
+      name: "Coca-Cola",
+      token: "terra1qsnj5gvq8rgs7yws8x5u02gwd5wvtu4tks0hjm",
+      icon: "https://whitelist.mirror.finance/icon/KO.png"
     },
     terra1227ppwxxj3jxz8cfgq00jgnxqcny7ryenvkwj6: {
       protocol: "Mirror",
@@ -171,12 +199,47 @@ module.exports = {
       token: "terra1jsxngqasf2zynj5kyh0tgq9mj3zksa5gk35j4k",
       icon: "https://whitelist.mirror.finance/icon/NFLX.png"
     },
+    terra1dj2cj02zak0nvwy3uj9r9dhhxhdwxnw6psse6p: {
+      protocol: "Mirror",
+      symbol: "mNIO",
+      name: "NIO Inc.",
+      token: "terra1dj2cj02zak0nvwy3uj9r9dhhxhdwxnw6psse6p",
+      icon: "https://whitelist.mirror.finance/icon/NIO.png"
+    },
+    terra17ana8hvzea0q7w367dm0dw48sxwql39qekpt7g: {
+      protocol: "Mirror",
+      symbol: "mNKE",
+      name: "NIKE, Inc.",
+      token: "terra17ana8hvzea0q7w367dm0dw48sxwql39qekpt7g",
+      icon: "https://whitelist.mirror.finance/icon/NKE.png"
+    },
+    terra1drsjzvzej4h4qlehcfwclxg4w5l3h5tuvd3jd8: {
+      protocol: "Mirror",
+      symbol: "mNVDA",
+      name: "NVIDIA Corporation",
+      token: "terra1drsjzvzej4h4qlehcfwclxg4w5l3h5tuvd3jd8",
+      icon: "https://whitelist.mirror.finance/icon/NVDA.png"
+    },
+    terra1rh2907984nudl7vh56qjdtvv7947z4dujj92sx: {
+      protocol: "Mirror",
+      symbol: "mPYPL",
+      name: "PayPal Holdings Inc",
+      token: "terra1rh2907984nudl7vh56qjdtvv7947z4dujj92sx",
+      icon: "https://whitelist.mirror.finance/icon/PYPL.png"
+    },
     terra1csk6tc7pdmpr782w527hwhez6gfv632tyf72cp: {
       protocol: "Mirror",
       symbol: "mQQQ",
       name: "Invesco QQQ Trust",
       token: "terra1csk6tc7pdmpr782w527hwhez6gfv632tyf72cp",
       icon: "https://whitelist.mirror.finance/icon/QQQ.png"
+    },
+    terra1246zy658dfgtausf0c4a6ly8sc2e285q4kxqga: {
+      protocol: "Mirror",
+      symbol: "mSBUX",
+      name: "Starbucks Corporation",
+      token: "terra1246zy658dfgtausf0c4a6ly8sc2e285q4kxqga",
+      icon: "https://whitelist.mirror.finance/icon/SBUX.png"
     },
     terra1kscs6uhrqwy6rx5kuw5lwpuqvm3t6j2d6uf2lp: {
       protocol: "Mirror",
