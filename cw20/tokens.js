@@ -936,6 +936,14 @@ module.exports = {
       icon: "https://github.com/paxosglobal/paxos-gold-contract/blob/master/assets/Pax-Gold-Logo-FINAL-color.png",
       decimals: 8,
     },
+    terra1efjugpjc50d8sha7lr8s48cr7wmsthz94eevcl: {
+      protocol: "Wormhole",
+      symbol: "whDAO",
+      name: "DAO Maker",
+      token: "terra1efjugpjc50d8sha7lr8s48cr7wmsthz94eevcl",
+      icon: "https://etherscan.io/token/images/daomaker_128.png",
+      decimals: 8,
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
