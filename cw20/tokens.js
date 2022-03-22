@@ -47,7 +47,7 @@ module.exports = {
     },
     terra1qelfthdanju7wavc5tq0k5r0rhsyzyyrsn09qy: {
       protocol: "Mirror",
-      symbol: "mAMC",
+      symbol: "mAMC (Delisted)",
       name: "AMC Entertainment Holdings Inc.",
       token: "terra1qelfthdanju7wavc5tq0k5r0rhsyzyyrsn09qy",
       icon: "https://whitelist.mirror.finance/icon/AMC.png"
@@ -94,6 +94,13 @@ module.exports = {
       token: "terra18wayjpyq28gd970qzgjfmsjj7dmgdk039duhph",
       icon: "https://whitelist.mirror.finance/icon/COIN.png"
     },
+    terra149755r3y0rve30e209awkhn5cxgkn5c8ju9pm5: {
+      protocol: "Mirror",
+      symbol: "mDIS",
+      name: "The Walt Disney Company",
+      token: "terra149755r3y0rve30e209awkhn5cxgkn5c8ju9pm5",
+      icon: "https://whitelist.mirror.finance/icon/DIS.png"
+    },
     terra19ya4jpvjvvtggepvmmj6ftmwly3p7way0tt08r: {
       protocol: "Mirror",
       symbol: "mDOT",
@@ -124,7 +131,7 @@ module.exports = {
     },
     terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p: {
       protocol: "Mirror",
-      symbol: "mGME",
+      symbol: "mGME (Delisted)",
       name: "GameStop Corp",
       token: "terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p",
       icon: "https://whitelist.mirror.finance/icon/GME.png"
@@ -143,12 +150,12 @@ module.exports = {
       token: "terra137drsu8gce5thf6jr5mxlfghw36rpljt3zj73v",
       icon: "https://whitelist.mirror.finance/icon/GS.png"
     },
-    terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec: {
+    terra18yqdfzfhnguerz9du5mnvxsh5kxlknqhcxzjfr: {
       protocol: "Mirror",
-      symbol: "mIAU (Delisted)",
-      name: "iShares Gold Trust",
-      token: "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec",
-      icon: "https://whitelist.mirror.finance/icon/IAU.png"
+      symbol: "mHOOD",
+      name: "Robinhood Markets, Inc.",
+      token: "terra18yqdfzfhnguerz9du5mnvxsh5kxlknqhcxzjfr",
+      icon: "https://whitelist.mirror.finance/icon/HOOD.png"
     },
     terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq: {
       protocol: "Mirror",
@@ -156,6 +163,27 @@ module.exports = {
       name: "iShares Gold Trust",
       token: "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq",
       icon: "https://whitelist.mirror.finance/icon/IAU.png"
+    },
+    terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec: {
+      protocol: "Mirror",
+      symbol: "mIAU (Delisted)",
+      name: "iShares Gold Trust",
+      token: "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec",
+      icon: "https://whitelist.mirror.finance/icon/IAU.png"
+    },
+    terra1ptdxmj3xmmljzx02nr4auwfuelmj0cnkh8egs2: {
+      protocol: "Mirror",
+      symbol: "mJNJ",
+      name: "Johnson & Johnson",
+      token: "terra1ptdxmj3xmmljzx02nr4auwfuelmj0cnkh8egs2",
+      icon: "https://whitelist.mirror.finance/icon/JNJ.png"
+    },
+    terra1qsnj5gvq8rgs7yws8x5u02gwd5wvtu4tks0hjm: {
+      protocol: "Mirror",
+      symbol: "mKO",
+      name: "Coca-Cola",
+      token: "terra1qsnj5gvq8rgs7yws8x5u02gwd5wvtu4tks0hjm",
+      icon: "https://whitelist.mirror.finance/icon/KO.png"
     },
     terra1227ppwxxj3jxz8cfgq00jgnxqcny7ryenvkwj6: {
       protocol: "Mirror",
@@ -171,12 +199,47 @@ module.exports = {
       token: "terra1jsxngqasf2zynj5kyh0tgq9mj3zksa5gk35j4k",
       icon: "https://whitelist.mirror.finance/icon/NFLX.png"
     },
+    terra1dj2cj02zak0nvwy3uj9r9dhhxhdwxnw6psse6p: {
+      protocol: "Mirror",
+      symbol: "mNIO",
+      name: "NIO Inc.",
+      token: "terra1dj2cj02zak0nvwy3uj9r9dhhxhdwxnw6psse6p",
+      icon: "https://whitelist.mirror.finance/icon/NIO.png"
+    },
+    terra17ana8hvzea0q7w367dm0dw48sxwql39qekpt7g: {
+      protocol: "Mirror",
+      symbol: "mNKE",
+      name: "NIKE, Inc.",
+      token: "terra17ana8hvzea0q7w367dm0dw48sxwql39qekpt7g",
+      icon: "https://whitelist.mirror.finance/icon/NKE.png"
+    },
+    terra1drsjzvzej4h4qlehcfwclxg4w5l3h5tuvd3jd8: {
+      protocol: "Mirror",
+      symbol: "mNVDA",
+      name: "NVIDIA Corporation",
+      token: "terra1drsjzvzej4h4qlehcfwclxg4w5l3h5tuvd3jd8",
+      icon: "https://whitelist.mirror.finance/icon/NVDA.png"
+    },
+    terra1rh2907984nudl7vh56qjdtvv7947z4dujj92sx: {
+      protocol: "Mirror",
+      symbol: "mPYPL",
+      name: "PayPal Holdings Inc",
+      token: "terra1rh2907984nudl7vh56qjdtvv7947z4dujj92sx",
+      icon: "https://whitelist.mirror.finance/icon/PYPL.png"
+    },
     terra1csk6tc7pdmpr782w527hwhez6gfv632tyf72cp: {
       protocol: "Mirror",
       symbol: "mQQQ",
       name: "Invesco QQQ Trust",
       token: "terra1csk6tc7pdmpr782w527hwhez6gfv632tyf72cp",
       icon: "https://whitelist.mirror.finance/icon/QQQ.png"
+    },
+    terra1246zy658dfgtausf0c4a6ly8sc2e285q4kxqga: {
+      protocol: "Mirror",
+      symbol: "mSBUX",
+      name: "Starbucks Corporation",
+      token: "terra1246zy658dfgtausf0c4a6ly8sc2e285q4kxqga",
+      icon: "https://whitelist.mirror.finance/icon/SBUX.png"
     },
     terra1kscs6uhrqwy6rx5kuw5lwpuqvm3t6j2d6uf2lp: {
       protocol: "Mirror",
@@ -295,6 +358,13 @@ module.exports = {
       name: "TWD Token",
       token: "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6",
       icon: "https://terraoffice.world/twd_logo.png"
+    },
+    terra1kvjscdgwuvwc6uzm4rqfjl6nlmuhj28tequlnc: {
+      protocol: "TerraWorld",
+      symbol: "XTRA",
+      name: "xterra Token",
+      token: "terra1kvjscdgwuvwc6uzm4rqfjl6nlmuhj28tequlnc",
+      icon: "https://terraworld.me/assets/XTRA.png"
     },
     terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63: {
       protocol: "Miaw Trader",
@@ -717,7 +787,7 @@ module.exports = {
     },
     terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8: {
       protocol: "C2X",
-      symbol: "C2X",
+      symbol: "CTX",
       name: "C2X Token",
       token: "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8",
       icon: "https://c2x.world/c2x-station/icon/C2X.png"
@@ -826,12 +896,60 @@ module.exports = {
       icon: "https://cloudflare-ipfs.com/ipfs/QmVeSBHDtJYFd6yKSdFghRRsj4jXHdm81rmCUEdLHDK928?filename=ceres.svg",
       decimals: 6
     },
+    terra1z3e2e4jpk4n0xzzwlkgcfvc95pc5ldq0xcny58: {
+      protocol: "Wormhole",
+      symbol: "wasAVAX",
+      name: "BENQI Staked AVAX (Wormhole)",
+      token: "terra1z3e2e4jpk4n0xzzwlkgcfvc95pc5ldq0xcny58",
+      icon: "https://benqi.fi/images/assets/savax.svg",
+      decimals: 8,
+    },
+    terra1zd6let0zg0xjn2sestagxv4ax24a4ml6j40qdr: {
+      protocol: "MintDAO",
+      symbol: "MINT",
+      name: "MintDAO",
+      token: "terra1zd6let0zg0xjn2sestagxv4ax24a4ml6j40qdr",
+      icon: "https://mintdao.io/assets/token.svg",
+      decimals: 6,
+    },
+    terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02: {
+      protocol: "Stader",
+      symbol: "whSD",
+      name: "Stader whSD",
+      token: "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/whSD.png",
+      decimals: 8,
+    },
+    terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep: {
+      protocol: "Stader",
+      symbol: "xSD",
+      name: "Stader xSD",
+      token: "terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/xSD.png",
+      decimals: 8,
+    },
+    terra1uux6gwd6pzr0gfzrru5kne55cxex9d0700c72r: {
+      protocol: "Wormhole",
+      symbol: "whPAXG",
+      name: "Paxos Gold (Wormhole)",
+      token: "terra1uux6gwd6pzr0gfzrru5kne55cxex9d0700c72r",
+      icon: "https://github.com/paxosglobal/paxos-gold-contract/blob/master/assets/Pax-Gold-Logo-FINAL-color.png",
+      decimals: 8,
+    },
+    terra1efjugpjc50d8sha7lr8s48cr7wmsthz94eevcl: {
+      protocol: "Wormhole",
+      symbol: "whDAO",
+      name: "DAO Maker",
+      token: "terra1efjugpjc50d8sha7lr8s48cr7wmsthz94eevcl",
+      icon: "https://etherscan.io/token/images/daomaker_128.png",
+      decimals: 8,
+    },
   },
   testnet: {
-    terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {
+    terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
       protocol: "FanFury",
       symbol: "FURY",
-      token: "terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg",
+      token: "terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq",
       icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/Fanfury.png"
     },
     terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4: {
@@ -1277,7 +1395,7 @@ module.exports = {
     },
     terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y: {
       protocol: "C2X",
-      symbol: "C2X",
+      symbol: "CTX",
       name: "C2X Token",
       token: "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y",
       icon: "https://c2x.world/c2x-station/icon/C2X.png"
@@ -1296,11 +1414,11 @@ module.exports = {
       token: "terra1jw55wct7rcv9fqvawenw0yns2s54d3rcqtd734",
       icon: "https://images.emojiterra.com/google/android-11/512px/1f412.png"
     },
-    terra165s28f7za00p6g78c2rd5z6dkmv2rxrq0qhfrg: {
+    terra1pw8kuxf3d7xnlsrqr39p29emwvufyr0yyjk3fg: {
       protocol: "Anchor",
       symbol: "bATOM",
       name: "Bonded ATOM",
-      token: "terra165s28f7za00p6g78c2rd5z6dkmv2rxrq0qhfrg",
+      token: "terra1pw8kuxf3d7xnlsrqr39p29emwvufyr0yyjk3fg",
       icon: "https://files.pstake.finance/logos/bAssets/bATOM.svg",
     },
     terra16ythupvqqkdwfvd2fdcxl7uzesqw9hv9h594q2: {
@@ -1349,13 +1467,33 @@ module.exports = {
       icon: "https://benqi.fi/images/assets/savax.svg",
       decimals: 8,
     },
-    terra1efjugpjc50d8sha7lr8s48cr7wmsthz94eevcl: {
+    terra1spt8mjrg5w8er4na206x24gyrtvr278q78vpwa: {
       protocol: "Wormhole",
-      symbol: "whDAO",
-      name: "DAO Maker",
-      token: "terra1efjugpjc50d8sha7lr8s48cr7wmsthz94eevcl",
-      icon: "https://etherscan.io/token/images/daomaker_128.png",
+      symbol: "wbSOL",
+      name: "Lido Bonded SOL (test) (Wormhole)",
+      token: "terra1spt8mjrg5w8er4na206x24gyrtvr278q78vpwa",
+      icon: "https://raw.githubusercontent.com/ChorusOne/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
       decimals: 8,
-    }
+    },
+    terra1en4ns92rf0jthl2wxgp7ulkaxvg7lwc98whzj7: {
+      protocol: "Ceres",
+      symbol: "cvUST",
+      name: "Ceres Vault UST",
+      token: "terra1en4ns92rf0jthl2wxgp7ulkaxvg7lwc98whzj7",
+      icon: "https://ceres.ventures/cvust.svg",
+      decimals: 6,
+    },
+    terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36: {
+      protocol: "C2X",
+      symbol: "LCT",
+      name: "LCT Token",
+      token: "terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36",
+      icon: "https://c2x.world/c2x-station/icon/LCT.png"
+    },
+    terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr: {
+      symbol: "CSW",
+      token: "terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr",
+      decimals: 6,
+    },
   }
 }
