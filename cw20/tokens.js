@@ -944,6 +944,13 @@ module.exports = {
       icon: "https://etherscan.io/token/images/daomaker_128.png",
       decimals: 8,
     },
+    terra1su6g4t4vwx7y0uh3ksancyaurj4l6w9pfs40qt: {
+      symbol: "LINK",
+      name: "ChainLink Token",
+      token: "terra1su6g4t4vwx7y0uh3ksancyaurj4l6w9pfs40qt",
+      icon: "https://ipfs.io/ipfs/QmbfnNALyHC3siaZR3j2mQ44MDVFr2dtR5ciqu3anbD4eP?filename=chainlink.png",
+      decimals: 18,
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
