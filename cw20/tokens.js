@@ -1427,7 +1427,7 @@ module.exports = {
       name: "pStake Bonded ATOM (Wormhole)",
       token: "terra16ythupvqqkdwfvd2fdcxl7uzesqw9hv9h594q2",
       icon: "https://files.pstake.finance/logos/bAssets/bATOM_Wormhole.svg",
-      decimals: 8,
+      decimals: 6,
     },
     terra16wvd4hkqw388y8kff9g535gtr4th6zxj48trpn: {
       protocol: "Luart",
