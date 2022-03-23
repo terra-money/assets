@@ -944,6 +944,14 @@ module.exports = {
       icon: "https://etherscan.io/token/images/daomaker_128.png",
       decimals: 8,
     },
+      terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
+      protocol: "Sayve",
+      symbol: "SAYVE",
+      name: "Sayve Token",
+      token: "terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr",
+      icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
