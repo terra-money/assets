@@ -1480,7 +1480,7 @@ module.exports = {
       symbol: "cvUST",
       name: "Ceres Vault UST",
       token: "terra1en4ns92rf0jthl2wxgp7ulkaxvg7lwc98whzj7",
-      icon: "https://ceres.ventures/cvust.svg",
+      icon: "https://ceres.ventures/cvust.png",
       decimals: 6,
     },
     terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36: {
