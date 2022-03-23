@@ -1429,6 +1429,21 @@ module.exports = {
       name: "LUART Vesting Team",
       icon: "https://cdn.luart.io/logos/luart-logo.png",
     },
+     terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
+     protocol: "Sayve Protocol",
+     name: "SAYVE Token",
+     icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
+   },
+    terra1k8lvj3w7dxzd6zlyptcj086gfwms422xkqjmzx: {
+     protocol: "Sayve Protocol",
+     name: "SAYVE-UST Pair",
+     icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
+   },
+   terra1drradty46zqun4624p8a3sp9h5jfg9phwlgnm2:{
+     protocol: "Sayve Protocol",
+     name: "SAYVE-UST LP Token",
+     icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
