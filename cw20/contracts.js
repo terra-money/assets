@@ -2411,5 +2411,10 @@ module.exports = {
       name: "nLuna-Psi Astroport Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
+    terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf: {
+      protocol: "Wormhole",
+      name: "Bridge tokens custody",
+      icon: "https://finder.extraterrestrial.money/images/WORMHOLE60.png",
+    },
   },
 };
