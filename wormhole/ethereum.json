@@ -1,0 +1,13 @@
+{
+  "mainnet": {
+    "uluna": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+    "uusd": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
+    "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz": "0x707f9118e33a9b8998bea41dd0d46f38bb963fc8"
+  },
+  "testnet": {}
+}
