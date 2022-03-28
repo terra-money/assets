@@ -1180,6 +1180,11 @@ module.exports = {
       name: "PLY Vesting",
       icon: "https://playnity.io/uploads/logo/logo100.png",
     },
+    terra1sc850sav9qre48sm7mzlcejdukl3rpduz3psk2: {
+      protocol: "PlayNity",
+      name: "PLY Vesting 2",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
     terra1fvq04l6pzslhxf7yyxhfmz5hv64xsye8vcmgzt: {
       protocol: "PlayNity",
       name: "PLY-UST Staking Liquid",
@@ -1188,6 +1193,51 @@ module.exports = {
     terra1hxyyjpu8548ccwth9pnc5ztgpupnn2a3c9s0f8: {
       protocol: "PlayNity",
       name: "PLY-UST Staking Locked 3M",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra1f0xcccegjwutnheasl4w3ttfktsdkay5fk7vjc: {
+      protocol: "PlayNity",
+      name: "PLY Single Asset Staking",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra1erqmuax2anl4l3nlq7nywt98ywnkstyy5g5nll: {
+      protocol: "PlayNity",
+      name: "PLY SA PEX Bonus Staking - Bronze",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra1tvxhckff3v07x0exv877mkjgsr7ec0m6y8629p: {
+      protocol: "PlayNity",
+      name: "PLY SA PEX Bonus Staking - Silver",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra1qpt28748nr7xyv04a63eew6yvd2vlly7dfg704: {
+      protocol: "PlayNity",
+      name: "PLY SA PEX Bonus Staking - Gold",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra1h7gsqfnmqg3rnf2a43s06ah4q9nt336ccm83rx: {
+      protocol: "PlayNity",
+      name: "PLY SA PEX Bonus Staking - Diamond",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra16v6sm86d8lw9m4h8ds6l9rvkdhj3se0c52du83: {
+      protocol: "PlayNity",
+      name: "AUST PEX Bonus Staking - Bronze",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra1uq7azwj7l9dvvuss3p95rju8wh9dyk4y3v27qs: {
+      protocol: "PlayNity",
+      name: "AUST PEX Bonus Staking - Silver",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra1tkmwufuvun3j2462afshw70439ewj7v7elhyhf: {
+      protocol: "PlayNity",
+      name: "AUST PEX Bonus Staking - Gold",
+      icon: "https://playnity.io/uploads/logo/logo100.png",
+    },
+    terra13mxteeyt2y8jlh5qluyhj4mkgt44lpwnexgl3s: {
+      protocol: "PlayNity",
+      name: "AUST PEX Bonus Staking - Diamond",
       icon: "https://playnity.io/uploads/logo/logo100.png",
     },
     terra1auxjy8f8al78g9ecmv85agaynj8wkjp5kjce2p: {
@@ -1428,6 +1478,21 @@ module.exports = {
       protocol: "Luart",
       name: "LUART Vesting Team",
       icon: "https://cdn.luart.io/logos/luart-logo.png",
+    },
+     terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
+     protocol: "Sayve Protocol",
+     name: "SAYVE Token",
+     icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
+   },
+    terra1k8lvj3w7dxzd6zlyptcj086gfwms422xkqjmzx: {
+     protocol: "Sayve Protocol",
+     name: "SAYVE-UST Pair",
+     icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
+   },
+   terra1drradty46zqun4624p8a3sp9h5jfg9phwlgnm2:{
+     protocol: "Sayve Protocol",
+     name: "SAYVE-UST LP Token",
+     icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
     },
   },
   testnet: {
@@ -2345,6 +2410,11 @@ module.exports = {
       protocol: "Nexus",
       name: "nLuna-Psi Astroport Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf: {
+      protocol: "Wormhole",
+      name: "Bridge tokens custody",
+      icon: "https://finder.extraterrestrial.money/images/WORMHOLE60.png",
     },
   },
 };

@@ -951,6 +951,14 @@ module.exports = {
       icon: "https://ipfs.io/ipfs/QmbfnNALyHC3siaZR3j2mQ44MDVFr2dtR5ciqu3anbD4eP?filename=chainlink.png",
       decimals: 18,
     },
+      terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
+      protocol: "Sayve",
+      symbol: "SAYVE",
+      name: "Sayve Token",
+      token: "terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr",
+      icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
@@ -1434,7 +1442,7 @@ module.exports = {
       name: "pStake Bonded ATOM (Wormhole)",
       token: "terra16ythupvqqkdwfvd2fdcxl7uzesqw9hv9h594q2",
       icon: "https://files.pstake.finance/logos/bAssets/bATOM_Wormhole.svg",
-      decimals: 8,
+      decimals: 6,
     },
     terra16wvd4hkqw388y8kff9g535gtr4th6zxj48trpn: {
       protocol: "Luart",
@@ -1487,7 +1495,7 @@ module.exports = {
       symbol: "cvUST",
       name: "Ceres Vault UST",
       token: "terra1en4ns92rf0jthl2wxgp7ulkaxvg7lwc98whzj7",
-      icon: "https://ceres.ventures/cvust.svg",
+      icon: "https://ceres.ventures/cvust.png",
       decimals: 6,
     },
     terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36: {

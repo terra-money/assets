@@ -168,8 +168,8 @@ module.exports = {
       name: "Terra Best Girls",
       symbol: "BESTGIRLS",
       icon: "https://storage.googleapis.com/public-knowhere/collections/terra-best-girls.jpeg",
-      homepage: "https://twitter.com/BestGirlsNFT",
-      marketplace: ["https://knowhere.art/collection/terra1dh4tjp2qt8axyvp354hevdvv940dcecqd3f4nh"],
+      homepage: "https://bestgirlsnft.com/",
+      marketplace: ["https://knowhere.art/collections/terra1dh4tjp2qt8axyvp354hevdvv940dcecqd3f4nh"],
     },
     terra192vcn2julwy7r2cd5prnkmnm3nxsts5sm32ygq: {
       contract: "terra192vcn2julwy7r2cd5prnkmnm3nxsts5sm32ygq",
