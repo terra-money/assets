@@ -945,6 +945,7 @@ module.exports = {
       decimals: 8,
     },
     terra1su6g4t4vwx7y0uh3ksancyaurj4l6w9pfs40qt: {
+      protocol: "Chainlink",
       symbol: "LINK",
       name: "ChainLink Token",
       token: "terra1su6g4t4vwx7y0uh3ksancyaurj4l6w9pfs40qt",
