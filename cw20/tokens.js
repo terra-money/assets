@@ -960,6 +960,22 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
       decimals: 6,
     },
+    terra1mt2ytlrxhvd5c4d4fshxxs3zcus3fkdmuv4mk2: {
+      protocol: "Brokkr Brotocol",
+      symbol: "BRO",
+      name: "BRO token",
+      token: "terra1mt2ytlrxhvd5c4d4fshxxs3zcus3fkdmuv4mk2",
+      icon: "https://brokkr.finance/static/BRO/Bro-Token-64.svg",
+      decimals: 6,
+    },
+    terra1qryq5wreecx2wd3cdtzz94syr4z0a92l60asds: {
+      protocol: "Brokkr Brotocol",
+      symbol: "bBRO",
+      name: "bBRO token",
+      token: "terra1qryq5wreecx2wd3cdtzz94syr4z0a92l60asds",
+      icon: "https://brokkr.finance/static/bBRO/bBro-Token-64.svg",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
@@ -1509,22 +1525,6 @@ module.exports = {
     terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr: {
       symbol: "CSW",
       token: "terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr",
-      decimals: 6,
-    },
-    terra1mt2ytlrxhvd5c4d4fshxxs3zcus3fkdmuv4mk2: {
-      protocol: "Brokkr Brotocol",
-      symbol: "BRO",
-      name: "BRO token",
-      token: "terra1mt2ytlrxhvd5c4d4fshxxs3zcus3fkdmuv4mk2",
-      icon: "https://brokkr.finance/static/BRO/Bro-Token-64.svg",
-      decimals: 6,
-    },
-    terra1qryq5wreecx2wd3cdtzz94syr4z0a92l60asds: {
-      protocol: "Brokkr Brotocol",
-      symbol: "bBRO",
-      name: "bBRO token",
-      token: "terra1qryq5wreecx2wd3cdtzz94syr4z0a92l60asds",
-      icon: "https://brokkr.finance/static/bBRO/bBro-Token-64.svg",
       decimals: 6,
     },
   }
