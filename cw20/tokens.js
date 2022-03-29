@@ -1483,6 +1483,14 @@ module.exports = {
       icon: "https://benqi.fi/images/assets/savax.svg",
       decimals: 8,
     },
+    terra17ewm2qjljcvfpmsnje68fnf7tnxecw4prs84sx: {
+      protocol: "Anchor",
+      symbol: "bSOL",
+      name: "Bonded SOL",
+      token: "terra17ewm2qjljcvfpmsnje68fnf7tnxecw4prs84sx",
+      icon: "https://raw.githubusercontent.com/ChorusOne/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
+      decimals: 6,
+    },
     terra1spt8mjrg5w8er4na206x24gyrtvr278q78vpwa: {
       protocol: "Wormhole",
       symbol: "wbSOL",
