@@ -960,6 +960,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
       decimals: 6,
     },
+    terra1z55rhw0ut70jxdmpvge98mvj0rkwcz74q77z0u: {
+      protocol: "Guides",
+      symbol: "GUIDES",
+      name: "Guides Token",
+      token: "terra1z55rhw0ut70jxdmpvge98mvj0rkwcz74q77z0u",
+      icon: "https://cdn.fs.guides.co/HBAKzovT2ulOa54snzDg",
+      decimals: 6,
+    },
     terra1mt2ytlrxhvd5c4d4fshxxs3zcus3fkdmuv4mk2: {
       protocol: "Brokkr Brotocol",
       symbol: "BRO",
