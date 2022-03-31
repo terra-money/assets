@@ -1494,6 +1494,21 @@ module.exports = {
      name: "SAYVE-UST LP Token",
      icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
     },
+   terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6: {
+     protocol: "Lunaverse",
+     name: "LUV Token",
+     icon: "https://lunaverse.io/assets/images/logo.png"
+   },
+    terra1hmcd4kwafyydd4mjv2rzhcuuwnfuqc2prkmlhj: {
+     protocol: "Lunaverse",
+     name: "LUV-UST Pair",
+     icon: "https://lunaverse.io/assets/images/logo.png"
+   },
+   terra1qq6g0kds9zn97lvrukf2qxf6w4sjt0k9jhcdty:{
+     protocol: "Lunaverse",
+     name: "LUV-UST LP Token",
+     icon: "https://lunaverse.io/assets/images/logo.png",
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
