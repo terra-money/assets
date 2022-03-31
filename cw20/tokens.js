@@ -1543,5 +1543,12 @@ module.exports = {
       token: "terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr",
       decimals: 6,
     },
+    terra13sy0hckawkrfmh8t90c7207wuew3f3n549u9jn: {
+      symbol: "RICH",
+      token:"terra13sy0hckawkrfmh8t90c7207wuew3f3n549u9jn",
+      decimals: 6,
+      name: "RichMan Group",
+      icon:"https://sooahphoto.co.kr/icon/rich.png"
+    },
   }
 }
