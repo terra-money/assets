@@ -984,6 +984,13 @@ module.exports = {
       icon: "https://brokkr.finance/static/bBRO/bBro-Token-64.svg",
       decimals: 6,
     },
+    terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl: { 
+      symbol: "SST",
+      name: "Sooah Studio Token",
+      token: "terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl",
+      icon: "https://sooahphoto.co.kr/icon/logo.png",
+      decimals: 6,
+    }, 
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
@@ -1542,13 +1549,6 @@ module.exports = {
       symbol: "CSW",
       token: "terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr",
       decimals: 6,
-    },
-    terra13sy0hckawkrfmh8t90c7207wuew3f3n549u9jn: {
-      symbol: "RICH",
-      token:"terra13sy0hckawkrfmh8t90c7207wuew3f3n549u9jn",
-      decimals: 6,
-      name: "RichMan Group",
-      icon:"https://sooahphoto.co.kr/icon/rich.png"
-    },
+    }, 
   }
 }
