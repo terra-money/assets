@@ -1008,7 +1008,13 @@ module.exports = {
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/Ultimatalioniscoin225x225.png?ver=1649021019249",
       decimals: 18
     },        
-    
+    terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl: { 
+      symbol: "SST",
+      name: "Sooah Studio Token",
+      token: "terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl",
+      icon: "https://sooahphoto.co.kr/icon/logo.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
@@ -1567,6 +1573,6 @@ module.exports = {
       symbol: "CSW",
       token: "terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr",
       decimals: 6,
-    },
+    }, 
   }
 }
