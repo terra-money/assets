@@ -984,13 +984,37 @@ module.exports = {
       icon: "https://brokkr.finance/static/bBRO/bBro-Token-64.svg",
       decimals: 6,
     },
+    terra15zvyhmv6gwddht7kt4q6w5nasn4tcpgzcdfmgr: {
+      protocol: "Terra",
+      symbol: "GTPS",
+      name: "Global Transaction Payment Solut",
+      token: "terra15zvyhmv6gwddht7kt4q6w5nasn4tcpgzcdfmgr",
+      icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/225x225GTPS.png?ver=1649021019248",
+      decimals: 18
+    },    
+    terra15pkdjxv2ewjzn9x665y26pfz2h6ymak4d4e8se: {
+      protocol: "Terra",
+      symbol: "GFI",
+      name: "Gtps.Finance",
+      token: "terra15pkdjxv2ewjzn9x665y26pfz2h6ymak4d4e8se",
+      icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/GtpsFinance225x225.png?ver=1649021019248",
+      decimals: 18
+    },    
+    terra1fyjsxx73jrufw8ufgtuswa773dvdkny92k70wa: {
+      protocol: "Terra",
+      symbol: "ULC",
+      name: "Ultimatalioniscoin",
+      token: "terra1fyjsxx73jrufw8ufgtuswa773dvdkny92k70wa",
+      icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/Ultimatalioniscoin225x225.png?ver=1649021019249",
+      decimals: 18
+    },        
     terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl: { 
       symbol: "SST",
       name: "Sooah Studio Token",
       token: "terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl",
       icon: "https://sooahphoto.co.kr/icon/logo.png",
       decimals: 6,
-    }, 
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
