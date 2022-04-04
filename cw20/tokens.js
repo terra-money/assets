@@ -649,6 +649,13 @@ module.exports = {
       token: "terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3",
       icon: "https://astroport.fi/astro_logo.png",
     },
+    terra14lpnyzc9z4g3ugr4lhm8s4nle0tq8vcltkhzh7: {
+      protocol: "Astroport",
+      symbol: "xASTRO",
+      name: "xASTRO Token",
+      token: "terra14lpnyzc9z4g3ugr4lhm8s4nle0tq8vcltkhzh7",
+      icon: "https://app.astroport.fi/tokens/xAstro.png",
+    },
     terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq: {
       protocol: "Angel Protocol",
       symbol: "HALO",
