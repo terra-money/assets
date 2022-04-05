@@ -390,7 +390,7 @@ module.exports = {
     terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03: {
       protocol: "Orion Money",
       symbol: "ORION",
-      name: "Orion Money Token",
+      name: "Orion Money (Portal)",
       token: "terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03",
       icon: "https://orion.money/assets/ORION-LOGO-2.1-GREEN@256x256.png",
       decimals: 8
@@ -421,88 +421,88 @@ module.exports = {
     },
     terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r: {
       protocol: "Wormhole",
-      symbol: "weWETH",
-      name: "Wrapped Ether (Wormhole)",
+      symbol: "ETH",
+      name: "Ether (Portal)",
       token: "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
       decimals: 8
     },
     terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55: {
       protocol: "Wormhole",
-      symbol: "weWBTC",
-      name: "Wrapped BTC (Wormhole)",
+      symbol: "WBTC",
+      name: "Wrapped BTC (Portal)",
       token: "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh/logo.png",
       decimals: 8
     },
     terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk: {
       protocol: "Wormhole",
-      symbol: "wsSOL",
-      name: "Wrapped SOL (Wormhole)",
+      symbol: "SOL",
+      name: "SOL (Portal)",
       token: "terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
       decimals: 8
     },
     terra1dfasranqm4uyaz72r960umxy0w8t6zewqlnkuq: {
       protocol: "Wormhole",
-      symbol: "weMATIC",
-      name: "Matic Token (Wormhole)",
+      symbol: "MATICet",
+      name: "MATIC (Portal from Ethereum)",
       token: "terra1dfasranqm4uyaz72r960umxy0w8t6zewqlnkuq",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C7NNPWuZCNjZBfW5p6JvGsR8pUdsRpEdP1ZAhnoDwj7h/logo.png",
       decimals: 8
     },
     terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8: {
       protocol: "Wormhole",
-      symbol: "wbWBNB",
-      name: "Wrapped BNB (Wormhole)",
+      symbol: "BNB",
+      name: "Binance Coin (Portal)",
       token: "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
       decimals: 8
     },
     terra1xvqlpjl2dxyel9qrp6qvtrg04xe3jh9cyxc6av: {
       protocol: "Wormhole",
-      symbol: "wbCake",
-      name: "PancakeSwap Token (Wormhole)",
+      symbol: "CAKE",
+      name: "PancakeSwap Token (Portal)",
       token: "terra1xvqlpjl2dxyel9qrp6qvtrg04xe3jh9cyxc6av",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S/logo.png",
       decimals: 8
     },
     terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym: {
       protocol: "Wormhole",
-      symbol: "weLINK",
-      name: "ChainLink Token (Wormhole)",
+      symbol: "LINK",
+      name: "Chainlink (Portal)",
       token: "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png",
       decimals: 8
     },
     terra1csvuzlf92nyemu6tv25h0l79etpe8hz3h5vn4a: {
       protocol: "Wormhole",
-      symbol: "weSUSHI",
-      name: "SushiToken (Wormhole)",
+      symbol: "SUSHI",
+      name: "SushiToken (Portal)",
       token: "terra1csvuzlf92nyemu6tv25h0l79etpe8hz3h5vn4a",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj/logo.png",
       decimals: 8
     },
     terra1wyxkuy5jq545fn7xfn3enpvs5zg9f9dghf6gxf: {
       protocol: "Wormhole",
-      symbol: "weUNI",
-      name: "Uniswap (Wormhole)",
+      symbol: "UNI",
+      name: "Uniswap (Portal)",
       token: "terra1wyxkuy5jq545fn7xfn3enpvs5zg9f9dghf6gxf",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36/logo.png",
       decimals: 8
     },
     terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva: {
       protocol: "Wormhole",
-      symbol: "weUSDT",
-      name: "Tether USD (Wormhole)",
+      symbol: "USDTet",
+      name: "Tether USD (Portal from Ethereum)",
       token: "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png",
       decimals: 6
     },
     terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06: {
       protocol: "Wormhole",
-      symbol: "weUSDC",
-      name: "USD Coin (Wormhole)",
+      symbol: "USDCet",
+      name: "USD Coin (Portal from Ethereum)",
       token: "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png",
       decimals: 6
@@ -525,32 +525,32 @@ module.exports = {
     },
     terra133chr09wu8sakfte5v7vd8qzq9vghtkv4tn0ur: {
       protocol: "Wormhole",
-      symbol: "wewstETH",
-      name: "Wrapped liquid staked Ether 2.0 (Wormhole)",
+      symbol: "wstETH",
+      name: "Lido wstETH (Portal)",
       token: "terra133chr09wu8sakfte5v7vd8qzq9vghtkv4tn0ur",
       icon: "https://static.lido.fi/wstETH/wstETH.png",
       decimals: 8
     },
     terra1t9ul45l7m6jw6sxgvnp8e5hj8xzkjsg82g84ap: {
       protocol: "Wormhole",
-      symbol: "wsstSOL",
-      name: "Lido staked SOL (Wormhole)",
+      symbol: "wstSOL",
+      name: "Lido wstSOL (Portal)",
       token: "terra1t9ul45l7m6jw6sxgvnp8e5hj8xzkjsg82g84ap",
       icon: "https://static.lido.fi/stSOL/stSOL.png",
       decimals: 8
     },
     terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z: {
       protocol: "Wormhole",
-      symbol: "weLDO",
-      name: "Lido DAO Token (Wormhole)",
+      symbol: "LDO",
+      name: "Lido DAO (Portal)",
       token: "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z",
       icon: "https://static.lido.fi/LDO/LDO.png",
       decimals: 8
     },
     terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz: {
       protocol: "Wormhole",
-      symbol: "webETH",
-      name: "Lido Bonded ETH (Wormhole)",
+      symbol: "bETH",
+      name: "Lido bETH (Portal)",
       token: "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz",
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
       decimals: 8
@@ -566,7 +566,7 @@ module.exports = {
     terra169edevav3pdrtjcx35j6pvzuv54aevewar4nlh: {
       protocol: "Wormhole",
       symbol: "XDEFI",
-      name: "XDEFI (Wormhole)",
+      name: "XDEFI (Portal)",
       token: "terra169edevav3pdrtjcx35j6pvzuv54aevewar4nlh",
       icon: "https://github.com/sushiswap/assets/blob/master/blockchains/ethereum/assets/0x72B886d09C117654aB7dA13A14d603001dE0B777/logo.png?raw=true",
       decimals: 8
@@ -899,7 +899,7 @@ module.exports = {
     terra1z3e2e4jpk4n0xzzwlkgcfvc95pc5ldq0xcny58: {
       protocol: "Wormhole",
       symbol: "wasAVAX",
-      name: "BENQI Staked AVAX (Wormhole)",
+      name: "BENQI Staked AVAX (Portal)",
       token: "terra1z3e2e4jpk4n0xzzwlkgcfvc95pc5ldq0xcny58",
       icon: "https://benqi.fi/images/assets/savax.svg",
       decimals: 8,
@@ -914,8 +914,8 @@ module.exports = {
     },
     terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02: {
       protocol: "Stader",
-      symbol: "whSD",
-      name: "Stader whSD",
+      symbol: "SD",
+      name: "Stader SD (Portal)",
       token: "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02",
       icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/whSD.png",
       decimals: 8,
@@ -930,8 +930,8 @@ module.exports = {
     },
     terra1uux6gwd6pzr0gfzrru5kne55cxex9d0700c72r: {
       protocol: "Wormhole",
-      symbol: "whPAXG",
-      name: "Paxos Gold (Wormhole)",
+      symbol: "PAXG",
+      name: "Paxos Gold (Portal)",
       token: "terra1uux6gwd6pzr0gfzrru5kne55cxex9d0700c72r",
       icon: "https://github.com/paxosglobal/paxos-gold-contract/blob/master/assets/Pax-Gold-Logo-FINAL-color.png",
       decimals: 8,
@@ -1014,6 +1014,182 @@ module.exports = {
       token: "terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl",
       icon: "https://sooahphoto.co.kr/icon/logo.png",
       decimals: 6,
+    },
+    terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc: {
+      protocol: "Wormhole",
+      symbol: "ATLAS",
+      name: "Star Atlas (Portal)",
+      token: "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png",
+      decimals: 8
+    },
+    terra1nc6flp57m5hsr6y5y8aexzszy43ksr0drdr8rp: {
+      protocol: "Wormhole",
+      symbol: "AUDIO",
+      name: "Audius (Portal)",
+      token: "terra1nc6flp57m5hsr6y5y8aexzszy43ksr0drdr8rp",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AUDIO_wh.png",
+      decimals: 8
+    },
+    terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m: {
+      protocol: "Wormhole",
+      symbol: "AVAX",
+      name: "AVAX (Portal)",
+      token: "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png",
+      decimals: 8
+    },
+    terra1apxgj5agkkfdm2tprwvykug0qtahxvfmugnhx2: {
+      protocol: "Wormhole",
+      symbol: "BAT",
+      name: "Basic Attention Token (Portal)",
+      token: "terra1apxgj5agkkfdm2tprwvykug0qtahxvfmugnhx2",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BAT_wh.png",
+      decimals: 8
+    },
+    terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd: {
+      protocol: "Wormhole",
+      symbol: "BUSDbs",
+      name: "Binance USD (Portal from BSC)",
+      token: "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BUSDbs_wh.png",
+      decimals: 8
+    },
+    terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95: {
+      protocol: "Wormhole",
+      symbol: "DAI",
+      name: "DAI (Portal)",
+      token: "terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAI_wh.png",
+      decimals: 8
+    },
+    terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8: {
+      protocol: "Wormhole",
+      symbol: "MATICpo",
+      name: "MATIC (Portal from Polygon)",
+      token: "terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICpo_wh.png",
+      decimals: 8
+    },
+    terra15a9dr3a2a2lj5fclrw35xxg9yuxg0d908wpf2y: {
+      protocol: "Wormhole",
+      symbol: "MIMet",
+      name: "Magic Internet Money (Portal from Ethereum)",
+      token: "terra15a9dr3a2a2lj5fclrw35xxg9yuxg0d908wpf2y",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MIMet_wh.png",
+      decimals: 8
+    },
+    terra1ht5sepn28z999jx33sdduuxm9acthad507jg9q: {
+      protocol: "Wormhole",
+      symbol: "RAY",
+      name: "Raydium (Portal)",
+      token: "terra1ht5sepn28z999jx33sdduuxm9acthad507jg9q",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RAY_wh.png",
+      decimals: 6
+    },
+    terra17h82zsq6q8x5tsgm5ugcx4gytw3axguvzt4pkc: {
+      protocol: "Wormhole",
+      symbol: "SBR",
+      name: "Saber (Portal)",
+      token: "terra17h82zsq6q8x5tsgm5ugcx4gytw3axguvzt4pkc",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SBR_wh.png",
+      decimals: 6
+    },
+    terra1huku2lecfjhq9d00k5a8dh73gw7dwe6vvuf2dd: {
+      protocol: "Wormhole",
+      symbol: "SHIB",
+      name: "Shiba Inu (Portal)",
+      token: "terra1huku2lecfjhq9d00k5a8dh73gw7dwe6vvuf2dd",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SHIB_wh.png",
+      decimals: 8
+    },
+    terra1dkam9wd5yvaswv4yq3n2aqd4wm5j8n82qc0c7c: {
+      protocol: "Wormhole",
+      symbol: "SRMso",
+      name: "Serum (Portal from Solana)",
+      token: "terra1dkam9wd5yvaswv4yq3n2aqd4wm5j8n82qc0c7c",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SRMso_wh.png",
+      decimals: 6
+    },
+    terra1pvel56a2hs93yd429pzv9zp5aptcjg5ulhkz7w: {
+      protocol: "Wormhole",
+      symbol: "USDCav",
+      name: "USD Coin (Portal from Avalanche)",
+      token: "terra1pvel56a2hs93yd429pzv9zp5aptcjg5ulhkz7w",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
+      decimals: 6
+    },
+    terra1yljlrxvkar0c6ujpvf8g57m5rpcwl7r032zyvu: {
+      protocol: "Wormhole",
+      symbol: "USDCbs",
+      name: "USD Coin (Portal from BSC)",
+      token: "terra1yljlrxvkar0c6ujpvf8g57m5rpcwl7r032zyvu",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCbs_wh.png",
+      decimals: 8
+    },
+    terra1kkyyh7vganlpkj0gkc2rfmhy858ma4rtwywe3x: {
+      protocol: "Wormhole",
+      symbol: "USDCpo",
+      name: "USD Coin (Portal from Polygon)",
+      token: "terra1kkyyh7vganlpkj0gkc2rfmhy858ma4rtwywe3x",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCpo_wh.png",
+      decimals: 6
+    },
+    terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4: {
+      protocol: "Wormhole",
+      symbol: "USDCso",
+      name: "USD Coin (Portal from Solana)",
+      token: "terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCso_wh.png",
+      decimals: 6
+    },
+    terra1eqvq3thjhye7anv6f6mhxpjhyvww8zjvqcdgjx: {
+      protocol: "Wormhole",
+      symbol: "USDTav",
+      name: "Tether USD (Portal from Avalanche)",
+      token: "terra1eqvq3thjhye7anv6f6mhxpjhyvww8zjvqcdgjx",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
+      decimals: 6
+    },
+    terra1vlqeghv5mt5udh96kt5zxlh2wkh8q4kewkr0dd: {
+      protocol: "Wormhole",
+      symbol: "USDTbs",
+      name: "Tether USD (Portal from BSC)",
+      token: "terra1vlqeghv5mt5udh96kt5zxlh2wkh8q4kewkr0dd",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTbs_wh.png",
+      decimals: 8
+    },
+    terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5: {
+      protocol: "Wormhole",
+      symbol: "USDTso",
+      name: "Tether USD (Portal from Solana)",
+      token: "terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTso_wh.png",
+      decimals: 6
+    },
+    terra1fpfn2kkr8mv390wx4dtpfk3vkjx9ch3thvykl3: {
+      protocol: "Wormhole",
+      symbol: "gOHM",
+      name: "Governance OHM (Portal)",
+      token: "terra1fpfn2kkr8mv390wx4dtpfk3vkjx9ch3thvykl3",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/gOHM_wh.png",
+      decimals: 8
+    },
+    terra1qvlpf2v0zmru3gtex40sqq02wxp39x3cjh359y: {
+      protocol: "Wormhole",
+      symbol: "mSOL",
+      name: "Marinade staked SOL (Portal)",
+      token: "terra1qvlpf2v0zmru3gtex40sqq02wxp39x3cjh359y",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/mSOL_wh.png",
+      decimals: 8
+    },
+    terra1w7ywr6waxtjuvn5svk5wqydqpjj0q9ps7qct4d: {
+      protocol: "Wormhole",
+      symbol: "stETH",
+      name: "Lido Staked Ether (Portal)",
+      token: "terra1w7ywr6waxtjuvn5svk5wqydqpjj0q9ps7qct4d",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/stETH_wh.png",
+      decimals: 8
     },
   },
   testnet: {
