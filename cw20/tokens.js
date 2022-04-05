@@ -1024,6 +1024,13 @@ module.exports = {
       icon: "https://sooahphoto.co.kr/icon/logo.png",
       decimals: 6,
     },
+    terra1srp2u95kxps35nvan88gn96nfqhukqya2d0ffc: {
+      protocol: "C2X",
+      symbol: "LCT",
+      name: "LCT Token",
+      token: "terra1srp2u95kxps35nvan88gn96nfqhukqya2d0ffc",
+      icon: "https://c2x.world/c2x-station/icon/LCT.png"
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
@@ -1583,5 +1590,12 @@ module.exports = {
       token: "terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr",
       decimals: 6,
     }, 
+    terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy: {
+      protocol: "C2X",
+      symbol: "CST",
+      name: "CST Token",
+      token: "terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy",
+      icon: "https://c2x.world/c2x-station/icon/CST.png"
+    },
   }
 }
