@@ -654,5 +654,12 @@ module.exports = {
       icon: "https://gofundust.money/favicon.png",
       homepage: "https://gofundust.money/",
     },
+    terra1d0nmywxwm5hr0vz6v26qsz8q25m2v9j5adaws3: {
+      contract: "terra1d0nmywxwm5hr0vz6v26qsz8q25m2v9j5adaws3",
+      name: "Astroport Lockdrop NFT",
+      symbol: "Astroport Lockdrop NFT",
+      icon: "https://astroport.fi/astro_logo.png",
+      homepage: "https://astroport.fi/",
+    },
   },
 };
