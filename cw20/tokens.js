@@ -1031,6 +1031,22 @@ module.exports = {
       token: "terra1srp2u95kxps35nvan88gn96nfqhukqya2d0ffc",
       icon: "https://c2x.world/c2x-station/icon/LCT.png"
     },
+    terra18zqcnl83z98tf6lly37gghm7238k7lh79u4z9a: {
+      protocol: "Anchor",
+      symbol: "bATOM",
+      name: "Bonded ATOM",
+      token: "terra18zqcnl83z98tf6lly37gghm7238k7lh79u4z9a",
+      icon: "https://files.pstake.finance/logos/bAssets/bATOM.svg",
+      decimals: 6
+    },
+    terra128pe5jpempxu0nws5lw28se9zknhsr78626cpn: {
+      protocol: "Wormhole",
+      symbol: "webATOM",
+      name: "pStake Bonded ATOM (Wormhole)",
+      token: "terra128pe5jpempxu0nws5lw28se9zknhsr78626cpn",
+      icon: "https://files.pstake.finance/logos/bAssets/bATOM_Wormhole.svg",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
