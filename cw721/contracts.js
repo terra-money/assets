@@ -624,6 +624,13 @@ module.exports = {
       icon: "https://astroport.fi/astro_logo.png",
       homepage: "https://astroport.fi/",
     },
+    terra1zgmx99up0d78utmgygzslsevjmx7wqpmh3dkxj: {
+      contract: "terra1zgmx99up0d78utmgygzslsevjmx7wqpmh3dkxj",
+      name: "States DAO Avatar",
+      symbol: "SDA",
+      icon: "https://statesdao.club/img/states-dao-avatar-logo.png",
+      homepage: "https://statesdao.club",
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
