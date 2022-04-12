@@ -1416,7 +1416,7 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/MainNet/NWT.png",
       decimals: 9
     },
-    terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
+    terra1mpq5zkkm39nmjrjg9raknpfrfmcfwv0nh0whvn: {
       protocol: "Nebula",
       symbol: "NEB",
       token: "terra1mpq5zkkm39nmjrjg9raknpfrfmcfwv0nh0whvn",
