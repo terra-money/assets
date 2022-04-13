@@ -623,6 +623,9 @@ module.exports = {
       name: "Astroport Lockdrop NFT",
       icon: "https://astroport.fi/astro_logo.png",
       homepage: "https://astroport.fi/",
+      marketplace: [
+         "https://knowhere.art/collections/terra1d0nmywxwm5hr0vz6v26qsz8q25m2v9j5adaws3",
+      ],
     },
     terra1zgmx99up0d78utmgygzslsevjmx7wqpmh3dkxj: {
       contract: "terra1zgmx99up0d78utmgygzslsevjmx7wqpmh3dkxj",
