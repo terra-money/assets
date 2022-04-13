@@ -648,6 +648,15 @@ module.exports = {
       name: "Astroport Token",
       token: "terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3",
       icon: "https://astroport.fi/astro_logo.png",
+      decimals: 6,
+    },
+    terra14lpnyzc9z4g3ugr4lhm8s4nle0tq8vcltkhzh7: {
+      protocol: "Astroport",
+      symbol: "xASTRO",
+      name: "Staked Astroport Token",
+      token: "terra14lpnyzc9z4g3ugr4lhm8s4nle0tq8vcltkhzh7",
+      icon: "https://app.astroport.fi/tokens/xAstro.png",
+      decimals: 6,
     },
     terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq: {
       protocol: "Angel Protocol",
@@ -1190,6 +1199,37 @@ module.exports = {
       token: "terra1w7ywr6waxtjuvn5svk5wqydqpjj0q9ps7qct4d",
       icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/stETH_wh.png",
       decimals: 8
+    },
+    terra1srp2u95kxps35nvan88gn96nfqhukqya2d0ffc: {
+      protocol: "C2X",
+      symbol: "LCT",
+      name: "LCT Token",
+      token: "terra1srp2u95kxps35nvan88gn96nfqhukqya2d0ffc",
+      icon: "https://c2x.world/c2x-station/icon/LCT.png"
+    },
+    terra18zqcnl83z98tf6lly37gghm7238k7lh79u4z9a: {
+      protocol: "Anchor",
+      symbol: "bATOM",
+      name: "Bonded ATOM",
+      token: "terra18zqcnl83z98tf6lly37gghm7238k7lh79u4z9a",
+      icon: "https://files.pstake.finance/logos/bAssets/bATOM.svg",
+      decimals: 6
+    },
+    terra128pe5jpempxu0nws5lw28se9zknhsr78626cpn: {
+      protocol: "Wormhole",
+      symbol: "webATOM",
+      name: "pStake Bonded ATOM (Wormhole)",
+      token: "terra128pe5jpempxu0nws5lw28se9zknhsr78626cpn",
+      icon: "https://files.pstake.finance/logos/bAssets/bATOM_Wormhole.svg",
+      decimals: 6,
+    },
+    terra1laczhlpxlgmrwr9un9ds74qxd2fj4754nf82dn: {
+      protocol: "Willisch finance",
+      symbol: "WCOIN",
+      name: "Willisch Coin",
+      token: "terra1laczhlpxlgmrwr9un9ds74qxd2fj4754nf82dn",
+      icon: "https://drive.google.com/file/d/1wuKLSoWwaTLj9NqabA0cdlY4yhVKOm8v/view?usp=sharing",
+      decimals: 6
     },
   },
   testnet: {
@@ -1750,5 +1790,20 @@ module.exports = {
       token: "terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr",
       decimals: 6,
     }, 
+    terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy: {
+      protocol: "C2X",
+      symbol: "CST",
+      name: "CST Token",
+      token: "terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy",
+      icon: "https://c2x.world/c2x-station/icon/CST.png"
+    },
+    terra1y739x9m5nqfl2tvvzzvck9amgdt06qm5xaaxmn: {
+      protocol: "Willisch finance",
+      symbol: "WCOIN",
+      name: "Willisch Coin",
+      token: "terra1y739x9m5nqfl2tvvzzvck9amgdt06qm5xaaxmn",
+      icon: "https://drive.google.com/file/d/1wuKLSoWwaTLj9NqabA0cdlY4yhVKOm8v/view?usp=sharing",
+      decimals: 6
+    },
   }
 }

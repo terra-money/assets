@@ -618,6 +618,22 @@ module.exports = {
       homepage: "https://www.sntntstudios.com/",
       marketplace: ["https://marketplace.luart.io/collections/terra1stzp2dlwceqh6k6cffv4zj64ddx28rdgpdal74"],
     },
+    terra1d0nmywxwm5hr0vz6v26qsz8q25m2v9j5adaws3: {
+      contract: "terra1d0nmywxwm5hr0vz6v26qsz8q25m2v9j5adaws3",
+      name: "Astroport Lockdrop NFT",
+      icon: "https://astroport.fi/astro_logo.png",
+      homepage: "https://astroport.fi/",
+      marketplace: [
+         "https://knowhere.art/collections/terra1d0nmywxwm5hr0vz6v26qsz8q25m2v9j5adaws3",
+      ],
+    },
+    terra1zgmx99up0d78utmgygzslsevjmx7wqpmh3dkxj: {
+      contract: "terra1zgmx99up0d78utmgygzslsevjmx7wqpmh3dkxj",
+      name: "States DAO Avatar",
+      symbol: "SDA",
+      icon: "https://statesdao.club/img/states-dao-avatar-logo.png",
+      homepage: "https://statesdao.club",
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
