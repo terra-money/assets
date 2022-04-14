@@ -1063,7 +1063,7 @@ module.exports = {
       icon: "https://drive.google.com/file/d/1wuKLSoWwaTLj9NqabA0cdlY4yhVKOm8v/view?usp=sharing",
       decimals: 6
     },
-	terra1thhm2u93m2stytzynhsxh5h3jrtg540x4punqy: {
+    terra1thhm2u93m2stytzynhsxh5h3jrtg540x4punqy: {
       protocol: "C2X",
       symbol: "LCTfancard",
       name: "LCT Fancard Token",
