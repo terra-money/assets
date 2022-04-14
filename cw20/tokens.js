@@ -539,6 +539,14 @@ module.exports = {
       icon: "https://static.lido.fi/stSOL/stSOL.png",
       decimals: 8
     },
+    terra1c3xd5s2j3ejx2d94tvcjfkrdeu6rmz48ghzznj: {
+      protocol: "Wormhole",
+      symbol: "wsbSOL",
+      name: "Lido bonded SOL (Portal)",
+      token: "terra1c3xd5s2j3ejx2d94tvcjfkrdeu6rmz48ghzznj",
+      icon: "https://raw.githubusercontent.com/ChorusOne/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
+      decimals: 8
+    },
     terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z: {
       protocol: "Wormhole",
       symbol: "weLDO",
