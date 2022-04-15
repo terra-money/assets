@@ -1244,7 +1244,7 @@ module.exports = {
       symbol: "LCTfancard",
       name: "LCT Fancard Token",
       token: "terra1thhm2u93m2stytzynhsxh5h3jrtg540x4punqy",
-      icon: "https://c2x.world/c2x-station/icon/LCTfancard.png"
+      icon: "https://c2x.world/c2x-station/icon/LCTfancard.png",
 	  decimals: 0
     },	
   },
