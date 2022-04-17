@@ -1246,7 +1246,23 @@ module.exports = {
       token: "terra1thhm2u93m2stytzynhsxh5h3jrtg540x4punqy",
       icon: "https://c2x.world/c2x-station/icon/LCTfancard.png",
       decimals: 0
-    },	
+    },
+    terra1yeyr6taynkwdl85ppaggr3zr8txhf66cny2ang: {
+      protocol: "Kinetic Money",
+      symbol: "KNTC",
+      name: "Kinetic Token",
+      token: "terra1yeyr6taynkwdl85ppaggr3zr8txhf66cny2ang",
+      icon: "https://app.kinetic.money/static/media/logo-kinetic.8c7f1942.svg",
+      decimals: 6,
+    },
+    terra1g53pyke8jtmt4lwvk4yl0xaqc4u0qlsl8dz3ex: {
+      protocol: "Kinetic Money",
+      symbol: "kUST",
+      name: "Kinetic kUST Token",
+      token: "terra1g53pyke8jtmt4lwvk4yl0xaqc4u0qlsl8dz3ex",
+      icon: "https://extraterra-assets.s3.us-east-2.amazonaws.com/images/SVG/kUST.svg",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
