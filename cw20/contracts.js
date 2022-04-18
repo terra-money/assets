@@ -1509,6 +1509,26 @@ module.exports = {
      name: "LUV-UST LP Token",
      icon: "https://lunaverse.io/assets/images/logo.png",
     },
+    terra15qr8ev2c0a0jswjtfrhfaj5ucgkhjd7la2shlg: {
+      protocol: "Steak",
+      name: "Steak Hub",
+      icon: "https://larry.engineer/assets/steak.png"
+    },
+    terra1rl4zyexjphwgx6v3ytyljkkc4mrje2pyznaclv: {
+      protocol: "Steak",
+      name: "Steak Token",
+      icon: "https://larry.engineer/assets/steak.png"
+    },
+    terra14q0cgunptuym048a4y2awt8a7fl9acudmfzk5e: {
+      protocol: "Steak",
+      name: "STEAK-LUNA Pair",
+      icon: "https://larry.engineer/assets/steak.png"
+    },
+    terra1pwc77c6a588cualln2uypyyvg5r76tfaazgk62: {
+      protocol: "Steak",
+      name: "STEAK-LUNA LP",
+      icon: "https://larry.engineer/assets/steak.png"
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
@@ -2430,6 +2450,26 @@ module.exports = {
       protocol: "Wormhole",
       name: "Bridge tokens custody",
       icon: "https://finder.extraterrestrial.money/images/WORMHOLE60.png",
+    },
+    terra1xshrfs3lp7nwkdfh3067vfsf3kmweygfsc3hzy: {
+      protocol: "Steak",
+      name: "Steak Hub",
+      icon: "https://larry.engineer/assets/steak.png"
+    },
+    terra1awhvtkm553rszxtvnuda4fe2r6rjjj7hjwzv0w: {
+      protocol: "Steak",
+      name: "Steak Token",
+      icon: "https://larry.engineer/assets/steak.png"
+    },
+    terra1x3tyfme7y84mv3y6ftugllrln5y7ewhf36davz: {
+      protocol: "Steak",
+      name: "STEAK-LUNA Pair",
+      icon: "https://larry.engineer/assets/steak.png"
+    },
+    terra1exla7lyc8g85szpntmcs5f2rvvg5gwwn7jekje: {
+      protocol: "Steak",
+      name: "STEAK-LUNA LP",
+      icon: "https://larry.engineer/assets/steak.png"
     },
   },
 };
