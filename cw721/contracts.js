@@ -499,6 +499,13 @@ module.exports = {
       icon: "https://d75aawrtvbfp1.cloudfront.net/misc/hero/logo.png",
       homepage: "https://heronft.io/",
     },
+    terra13ukec8vdz9vra3tdla6dnw477ldgnzcn7wdw9q: {
+      contract: "terra13ukec8vdz9vra3tdla6dnw477ldgnzcn7wdw9q",
+      name: "VILLAINS",
+      symbol: "HERO",
+      icon: "https://d75aawrtvbfp1.cloudfront.net/misc/hero/logo.png",
+      homepage: "https://heronft.io/",
+    },
     terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq: {
       contract: "terra1l8tx35lkzlgeh77nnzxgm8a2pzakw5khtg0npq",
       name: "UNDRGRND",
