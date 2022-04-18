@@ -1821,5 +1821,13 @@ module.exports = {
       icon: "https://drive.google.com/file/d/1wuKLSoWwaTLj9NqabA0cdlY4yhVKOm8v/view?usp=sharing",
       decimals: 6
     },
+    terra13593q4c5zlswkwu6z0w25700s7xjdqv0kg3afg: {
+      protocol: "Outp0st demo token",
+      symbol: "FPt",
+      name: "FutureProof token",
+      token: "terra13593q4c5zlswkwu6z0w25700s7xjdqv0kg3afg",
+      icon: "https://outp0st.io/outpost/hatchful/logo_short.svg",
+      decimals: 6
+    },
   }
 }
