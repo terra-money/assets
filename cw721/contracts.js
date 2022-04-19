@@ -677,5 +677,12 @@ module.exports = {
       icon: "https://gofundust.money/favicon.png",
       homepage: "https://gofundust.money/",
     },
+    terra1rk25c0d90mr5jkz2rh2rz6l5sk0f6ppgcuhm8p: {
+      contract: "terra1rk25c0d90mr5jkz2rh2rz6l5sk0f6ppgcuhm8p",
+      name: "Luna Bugz",
+      symbol: "Bugz",
+      icon: "https://ipfs.lunapunks.io/ipfs/QmcYd3ae6wPVgFggasANeaCW895ZMYYxdtzg4hoeTKjhsk/icon.jpg",
+      homepage: "https://lunabugz.com/",
+    },
   },
 };
