@@ -1255,6 +1255,14 @@ module.exports = {
       icon: "https://extraterra-assets.s3.us-east-2.amazonaws.com/images/SVG/kUST.svg",
       decimals: 6,
     },
+    terra1rl4zyexjphwgx6v3ytyljkkc4mrje2pyznaclv: {
+      protocol: "Steak",
+      symbol: "STEAK",
+      name: "Steak Token",
+      token: "terra1rl4zyexjphwgx6v3ytyljkkc4mrje2pyznaclv",
+      icon: "https://larry.engineer/assets/steak.svg",
+      decimals: 6
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
@@ -1835,6 +1843,14 @@ module.exports = {
       name: "FutureProof token",
       token: "terra13593q4c5zlswkwu6z0w25700s7xjdqv0kg3afg",
       icon: "https://outp0st.io/outpost/hatchful/logo_short.svg",
+      decimals: 6
+    },
+    terra1awhvtkm553rszxtvnuda4fe2r6rjjj7hjwzv0w: {
+      protocol: "Steak",
+      symbol: "STEAK",
+      name: "Steak Token",
+      token: "terra1awhvtkm553rszxtvnuda4fe2r6rjjj7hjwzv0w",
+      icon: "https://larry.engineer/assets/steak.svg",
       decimals: 6
     },
   }
