@@ -1040,6 +1040,16 @@ module.exports = {
       name: "nLuna-Psi Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
+    terra1au4h305fn4w3zpka2ql59e0t70jnqzu4mj2txx: {
+      protocol: "Nexus",
+      name: "nLuna autocompounder",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1u553zk43jd4rwzc53qrdrq4jc2p8rextyq09dj: {
+      protocol: "Nexus",
+      name: "cnLuna",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
     terra1tfrecwlvzcv9h697q3g0d08vd53ssu5w4war4n: {
       protocol: "Nexus",
       name: "bETH Vault",
@@ -1083,6 +1093,96 @@ module.exports = {
     terra1lws09x0slx892ux526d6atwwgdxnjg58uan8ph: {
       protocol: "Nexus",
       name: "nETH-Psi Terraswap Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1fupv3y5tcpy33w4pjjrrhqjtnla6f9y676hvaw: {
+      protocol: "Nexus",
+      name: "nETH autocompounder",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1nagqpmyw55yjphea4rhntlfv87ugmeaj8ym756: {
+      protocol: "Nexus",
+      name: "cnETH",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1hn9rzu66s422rl9kg0a7j2yxdjef0szkqvy7ws: {
+      protocol: "Nexus",
+      name: "wasAVAX Vault",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra103r2lfz8uhtlfy4c4f99zp5cts2lvy5de932l4: {
+      protocol: "Nexus",
+      name: "wasAVAX Vault strategy",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra13k62n0285wj8ug0ngcgpf7dgnkzqeu279tz636: {
+      protocol: "Nexus",
+      name: "nAVAX",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1rx2mgn02lxf0q2vwk05e4judmzv5xwxt2h7xv5: {
+      protocol: "Nexus",
+      name: "nAVAX config holder",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1trwqvdw458fnen3k37wrc6ntvg6aw2u703htm8: {
+      protocol: "Nexus",
+      name: "nAVAX rewards",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra15xz8xv9fl4u92l7yeejzntfpqrpf2hx0vss3d4: {
+      protocol: "Nexus",
+      name: "nAVAX Psi distributor",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra10usmg35qsa92fagh49np7phmhhr4ryhyl27749: {
+      protocol: "Nexus",
+      name: "nAVAX-Psi Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1p3zj8tkzufw9szmm97taj7x6kkd0cy7k2mpdws: {
+      protocol: "Nexus",
+      name: "nAVAX-Psi Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1lh3h7l5vsul2pxlevraucwev42ar6kyx33u4c8: {
+      protocol: "Nexus",
+      name: "bATOM Vault",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1vtpdqwp6t9cxvgu29zzv3yse7e2a2mmdsnv797: {
+      protocol: "Nexus",
+      name: "bATOM Vault strategy",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1jtdc6zpf95tvh9peuaxwp3v0yqszcnwl8j5ade: {
+      protocol: "Nexus",
+      name: "nATOM",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1m0jku6nhlwg6rq95nmqkkv2ztd0ue5a3f8kx49: {
+      protocol: "Nexus",
+      name: "nATOM config holder",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1ahfzztd37zcdlret8xh80lf8sy5vcjtf7j2rwg: {
+      protocol: "Nexus",
+      name: "nATOM rewards",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1zeu9hz6fd602cc6g2x68xea6p94vaf3ajv8mrk: {
+      protocol: "Nexus",
+      name: "nATOM Psi distributor",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1spcf4486jjn8678hstwqzeeudu98yp7pyyltnl: {
+      protocol: "Nexus",
+      name: "nATOM-Psi Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1pyavxxun3vuakqq0wyqft69l3zjns0q76wut7z: {
+      protocol: "Nexus",
+      name: "nATOM-Psi Astroport LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1zkyrfyq7x9v5vqnnrznn3kvj35az4f6jxftrl2: {
@@ -2306,6 +2406,16 @@ module.exports = {
       name: "nLuna-Psi Terraswap Staking",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
+    terra1vgvm8rdkjzyhwlm6znt2jc0cufpw5t6kt26ne2: {
+      protocol: "Nexus",
+      name: "nLuna autocompounder",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1c7xq5705dztw85t3dx6jwxrsnxdd89laqv4lkg: {
+      protocol: "Nexus",
+      name: "cnLuna",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
     terra1uwl6n4ql5n2mueasu32f537m85y5mtgq66xj0y: {
       protocol: "Nexus",
       name: "bETH Vault",
@@ -2349,6 +2459,96 @@ module.exports = {
     terra1u8gvskrt5n6vdeeuc4428pxhjh75h0jcntm7ca: {
       protocol: "Nexus",
       name: "nETH-Psi Terraswap Staking",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra12d853sr5u39tjualmnw5jnh5e8gv9wa00h4dfl: {
+      protocol: "Nexus",
+      name: "nETH autocompounder",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1fj4dvh96veaqppgg3r74k8twwc86vmy6jpdwr7: {
+      protocol: "Nexus",
+      name: "cnETH",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1kv0yen0mjy9uawr379d9aapy0ezwxj9gsujvra: {
+      protocol: "Nexus",
+      name: "wasAVAX Vault",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra10l4exc0pskkgudy6ulfhf9xhm7rs56sxx078rc: {
+      protocol: "Nexus",
+      name: "wasAVAX Vault strategy",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1yhfgahhzlgymfcnfchfcqykkdm43tx34l6g5yy: {
+      protocol: "Nexus",
+      name: "nAVAX",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1kk6an7lvxrzml6d668kq5x9d9pl6xe9vdx306r: {
+      protocol: "Nexus",
+      name: "nAVAX config holder",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1vrmf3uq5kmqphck9gap269sr4pyxm0p4lmsy2j: {
+      protocol: "Nexus",
+      name: "nAVAX rewards",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1pu8urtemmq6dp9dk436tcrattvsqe72hlg4tvv: {
+      protocol: "Nexus",
+      name: "nAVAX Psi distributor",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra14urary9td7czsuxlgjndjzv2h48vw9qawa7as5: {
+      protocol: "Nexus",
+      name: "nAVAX-Psi Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra13udg8u7796dav4hs6de096a6au57y27xwlqswe: {
+      protocol: "Nexus",
+      name: "nAVAX-Psi Astroport LP",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1gglrthqrpexp8r68n2xyru559qadrudxxxmxdd: {
+      protocol: "Nexus",
+      name: "bATOM Vault",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1qs3kknhgylupne492zhlwy9mvv942mtuwvtdww: {
+      protocol: "Nexus",
+      name: "bATOM Vault strategy",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1pnujv8lrau9n9dpcspp73xtdv7pcwn0p6j35ff: {
+      protocol: "Nexus",
+      name: "nATOM",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1rycc4z340pfmed0rnmgtp2qeuc6jwpvrad2py7: {
+      protocol: "Nexus",
+      name: "nATOM config holder",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1p62zr3965k956u8fspyydey2pn2gy5k2r736t3: {
+      protocol: "Nexus",
+      name: "nATOM rewards",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1scah849dgfhn0q7xxtymdky00vcrahgzx7svpa: {
+      protocol: "Nexus",
+      name: "nATOM Psi distributor",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1gcw8895qk3tw8s3dakulnf0ef3gsfst74q4wf0: {
+      protocol: "Nexus",
+      name: "nATOM-Psi Astroport Pair",
+      icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
+    },
+    terra1u5esukk805vqgp732ugen5et49lnt55ztv83dx: {
+      protocol: "Nexus",
+      name: "nATOM-Psi Astroport LP",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
     },
     terra1mxy8lmf2jeyr7js7xvm046fssyfa5a9pm78fpn: {
