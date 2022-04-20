@@ -1269,7 +1269,7 @@ module.exports = {
       name: "CST Token",
       token: "terra1jkkt5638cd5pur0u5jnr2juw0v6hz5d6z8xu8m",
       icon: "https://c2x.world/c2x-station/icon/CST.png",
-	  decimals: 6
+      decimals: 6
     },
     terra1kz7qszu7p4dg9lts7m9m7lpuarsnan47jh3fam: {
       protocol: "C2X",
