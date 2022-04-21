@@ -378,7 +378,40 @@ module.exports = {
       symbol: "Psi",
       name: "Nexus Governance Token",
       token: "terra12897djskt9rge8dtmm86w654g7kzckkd698608",
-      icon: "https://terra.nexusprotocol.app/assets/psi.png"
+      icon: "https://terra.nexusprotocol.app/assets/psi.png",
+      decimals: 6
+    },
+    terra10f2mt82kjnkxqj2gepgwl637u2w4ue2z5nhz5j: {
+      protocol: "Nexus",
+      symbol: "nLuna",
+      name: "Nexus nLuna Token",
+      token: "terra10f2mt82kjnkxqj2gepgwl637u2w4ue2z5nhz5j",
+      icon: "https://terra.nexusprotocol.app/nLuna.svg",
+      decimals: 6
+    },
+    terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn: {
+      protocol: "Nexus",
+      symbol: "nETH",
+      name: "Nexus nETH Token",
+      token: "terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn",
+      icon: "https://terra.nexusprotocol.app/nEth.svg",
+      decimals: 6
+    },
+    terra1u553zk43jd4rwzc53qrdrq4jc2p8rextyq09dj: {
+      protocol: "Nexus",
+      symbol: "cnLuna",
+      name: "nLuna autocompounder share representation",
+      token: "terra1u553zk43jd4rwzc53qrdrq4jc2p8rextyq09dj",
+      icon: "https://terra.nexusprotocol.app/cnLuna.svg",
+      decimals: 6
+    },
+    terra1nagqpmyw55yjphea4rhntlfv87ugmeaj8ym756: {
+      protocol: "Nexus",
+      symbol: "cnETH",
+      name: "nETH autocompounder share representation",
+      token: "terra1nagqpmyw55yjphea4rhntlfv87ugmeaj8ym756",
+      icon: "https://terra.nexusprotocol.app/cnETH.svg",
+      decimals: 6
     },
     terra1dy9kmlm4anr92e42mrkjwzyvfqwz66un00rwr5: {
       protocol: "ValkyrieProtocol",
