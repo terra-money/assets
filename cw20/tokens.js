@@ -413,6 +413,22 @@ module.exports = {
       icon: "https://terra.nexusprotocol.app/cnETH.svg",
       decimals: 6
     },
+    terra13k62n0285wj8ug0ngcgpf7dgnkzqeu279tz636: {
+      protocol: "Nexus",
+      symbol: "nAVAX",
+      name: "Nexus nAVAX Token",
+      token: "terra13k62n0285wj8ug0ngcgpf7dgnkzqeu279tz636",
+      icon: "https://terra.nexusprotocol.app/nAVAX.svg",
+      decimals: 6
+    },
+    terra1jtdc6zpf95tvh9peuaxwp3v0yqszcnwl8j5ade: {
+      protocol: "Nexus",
+      symbol: "nATOM",
+      name: "Nexus nATOM Token",
+      token: "terra1jtdc6zpf95tvh9peuaxwp3v0yqszcnwl8j5ade",
+      icon: "https://terra.nexusprotocol.app/nATOM.svg",
+      decimals: 6
+    },
     terra1dy9kmlm4anr92e42mrkjwzyvfqwz66un00rwr5: {
       protocol: "ValkyrieProtocol",
       symbol: "VKR",
@@ -1900,6 +1916,62 @@ module.exports = {
       name: "Steak Token",
       token: "terra1awhvtkm553rszxtvnuda4fe2r6rjjj7hjwzv0w",
       icon: "https://larry.engineer/assets/steak.svg",
+      decimals: 6
+    },
+    terra18nle009rtynpjgleh2975rleu5zts0zdtqryte: {
+      protocol: "Nexus",
+      symbol: "Psi",
+      name: "Nexus Governance Token",
+      token: "terra18nle009rtynpjgleh2975rleu5zts0zdtqryte",
+      icon: "https://terra.nexusprotocol.app/assets/psi.png",
+      decimals: 6
+    },
+    terra1gzq2zd4skvnvgm2z48fdp0mxy2djmtk7sz4uhe: {
+      protocol: "Nexus",
+      symbol: "nLuna",
+      name: "Nexus nLuna Token",
+      token: "terra1gzq2zd4skvnvgm2z48fdp0mxy2djmtk7sz4uhe",
+      icon: "https://terra.nexusprotocol.app/nLuna.svg",
+      decimals: 6
+    },
+    terra1em8dvzln8quptj9tuptf8tu73jyuv5jn6kqdwv: {
+      protocol: "Nexus",
+      symbol: "nETH",
+      name: "Nexus nETH Token",
+      token: "terra1em8dvzln8quptj9tuptf8tu73jyuv5jn6kqdwv",
+      icon: "https://terra.nexusprotocol.app/nEth.svg",
+      decimals: 6
+    },
+    terra1c7xq5705dztw85t3dx6jwxrsnxdd89laqv4lkg: {
+      protocol: "Nexus",
+      symbol: "cnLuna",
+      name: "nLuna autocompounder share representation",
+      token: "terra1c7xq5705dztw85t3dx6jwxrsnxdd89laqv4lkg",
+      icon: "https://terra.nexusprotocol.app/cnLuna.svg",
+      decimals: 6
+    },
+    terra1fj4dvh96veaqppgg3r74k8twwc86vmy6jpdwr7: {
+      protocol: "Nexus",
+      symbol: "cnETH",
+      name: "nETH autocompounder share representation",
+      token: "terra1fj4dvh96veaqppgg3r74k8twwc86vmy6jpdwr7",
+      icon: "https://terra.nexusprotocol.app/cnETH.svg",
+      decimals: 6
+    },
+    terra1yhfgahhzlgymfcnfchfcqykkdm43tx34l6g5yy: {
+      protocol: "Nexus",
+      symbol: "nAVAX",
+      name: "Nexus nAVAX Token",
+      token: "terra1yhfgahhzlgymfcnfchfcqykkdm43tx34l6g5yy",
+      icon: "https://terra.nexusprotocol.app/nAVAX.svg",
+      decimals: 6
+    },
+    terra1pnujv8lrau9n9dpcspp73xtdv7pcwn0p6j35ff: {
+      protocol: "Nexus",
+      symbol: "nATOM",
+      name: "Nexus nATOM Token",
+      token: "terra1pnujv8lrau9n9dpcspp73xtdv7pcwn0p6j35ff",
+      icon: "https://terra.nexusprotocol.app/nATOM.svg",
       decimals: 6
     },
   }
