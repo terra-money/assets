@@ -1634,6 +1634,11 @@ module.exports = {
       name: "FURY Token",
       icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png",
     },
+    terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k: {
+      protocol: "Fanfury",
+      name: "FURY Token",
+      icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png",
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
