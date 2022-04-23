@@ -1,22 +1,22 @@
 {
   "mainnet": {
     "name": "mainnet",
-    "chainID": "columbus-4",
-    "lcd": "https://lcd.terra.dev"
+    "chainID": "columbus-5",
+    "lcd": "https://lcd.terra.dev",
+    "mantle": "https://mantle.terra.dev",
+    "walletconnectID": 1
   },
   "testnet": {
     "name": "testnet",
-    "chainID": "tequila-0004",
-    "lcd": "https://tequila-lcd.terra.dev"
-  },
-  "bombay": {
-    "name": "bombay",
-    "chainID": "bombay-0008",
-    "lcd": "https://bombay-lcd.terra.dev"
+    "chainID": "bombay-12",
+    "lcd": "https://bombay-lcd.terra.dev",
+    "mantle": "https://bombay-mantle.terra.dev",
+    "walletconnectID": 0
   },
   "localterra": {
     "name": "localterra",
     "chainID": "localterra",
-    "lcd": "http://localhost:3060"
+    "lcd": "http://localhost:3060",
+    "mantle": "http://localhost:1337"
   }
 }

@@ -1,0 +1,7 @@
+{
+  "mainnet": {
+    "uluna": "0x70928E5B188def72817b7775F0BF6325968e563B",
+    "uusd": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1"
+  },
+  "testnet": {}
+}
