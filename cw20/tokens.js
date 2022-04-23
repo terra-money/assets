@@ -1329,9 +1329,9 @@ module.exports = {
       decimals: 0
     },
     terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k: {
-      protocol: "Fanfury",
+      protocol: "FanFury",
       symbol: "FURY",
-      name: "FURY Token",
+      name: "FURY",
       token: "terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k",
       icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png",
       decimals: 6
