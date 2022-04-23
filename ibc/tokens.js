@@ -16,6 +16,14 @@ module.exports = {
       name: "Secret",
       icon: "https://assets.terra.money/icon/svg/ibc/SCRT.svg"
     },
+    '18ABA66B791918D51D33415DA173632735D830E2E77E63C91C11D3008CFD5262': {
+      denom: "ibc/18ABA66B791918D51D33415DA173632735D830E2E77E63C91C11D3008CFD5262",
+      path: "transfer/channel-41",
+      base_denom: "uatom",
+      symbol: "ATOM",
+      name: "Cosmos",
+      icon: "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
+    },
   },
   testnet: {}
 }
