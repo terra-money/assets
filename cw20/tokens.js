@@ -1974,5 +1974,13 @@ module.exports = {
       icon: "https://terra.nexusprotocol.app/nATOM.svg",
       decimals: 6
     },
+     terra1sjwpj2gfr92pmzlj8jawnzpetxfmwrfc8z9yw3: {
+      protocol: "MART",
+      symbol: "MART",
+      name: "MetaArt",
+      token: "terra1sjwpj2gfr92pmzlj8jawnzpetxfmwrfc8z9yw3",
+      icon: "https://ibb.co/k98dvmg",
+      decimals: 8
+    },
   }
 }
