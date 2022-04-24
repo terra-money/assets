@@ -1974,5 +1974,13 @@ module.exports = {
       icon: "https://terra.nexusprotocol.app/nATOM.svg",
       decimals: 6
     },
+    terra1n4jdmwdyx0043nf2fnjefa3a2s5727znd7dy39: {
+      protocol: "Unique Auction",
+      symbol: "UNIQ",
+      name: "Unique Auction Test Token",
+      token: "terra1n4jdmwdyx0043nf2fnjefa3a2s5727znd7dy39",
+      icon: "https://unique.auction/route/uniq.png",
+      decimals: 6
+    },
   }
 }
