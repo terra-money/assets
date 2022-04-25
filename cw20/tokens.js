@@ -1336,6 +1336,22 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/TestNet/neworld-labs.png",
       decimals: 9
     },
+    terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k: {
+      protocol: "FanFury",
+      symbol: "FURY",
+      name: "FURY",
+      token: "terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k",
+      icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png",
+      decimals: 6
+    },
+    terra14vw4sfqwe7jw8ppcc7u44vq7hy9qa2nlstnxmu: {
+      protocol: "Vite",
+      symbol: "VITC",
+      name: "Vitamin Coin",
+      token: "terra14vw4sfqwe7jw8ppcc7u44vq7hy9qa2nlstnxmu",
+      icon: "https://raw.githubusercontent.com/vitelabs/crypto-info/master/tokens/vitc/tti_22d0b205bed4d268a05dfc3c.png",
+      decimals: 6
+    }
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {

@@ -1,5 +1,15 @@
 module.exports = {
   mainnet: {
+    terra1rk25c0d90mr5jkz2rh2rz6l5sk0f6ppgcuhm8p: {
+      contract: "terra1rk25c0d90mr5jkz2rh2rz6l5sk0f6ppgcuhm8p",
+      name: "Luna Bugz",
+      symbol: "Bugz",
+      icon: "https://ipfs.lunapunks.io/ipfs/QmcYd3ae6wPVgFggasANeaCW895ZMYYxdtzg4hoeTKjhsk/icon.jpg",
+      homepage: "https://lunabugz.com/",
+      marketplace: [
+        "https://launchpad.lunapunks.io/market/1/1",
+      ],
+    },
     terra1tv5hu9d2hw4q9tn4x30870ae0e4mrttqj0fcv6: {
       contract: "terra1tv5hu9d2hw4q9tn4x30870ae0e4mrttqj0fcv6",
       name: "Deviants Factions",
