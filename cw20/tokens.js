@@ -1328,6 +1328,14 @@ module.exports = {
       icon: "https://c2x.world/c2x-station/icon/CSTfancard.png",
       decimals: 0
     },
+    terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k: {
+      protocol: "FanFury",
+      symbol: "FURY",
+      name: "FURY",
+      token: "terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k",
+      icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png",
+      decimals: 6
+    },
     terra14vw4sfqwe7jw8ppcc7u44vq7hy9qa2nlstnxmu: {
       protocol: "Vite",
       symbol: "VITC",
