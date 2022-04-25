@@ -2014,5 +2014,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/TestNet/neworld-labs.png",
       decimals: 9
     },
+    
+ terra1ajuddgxqfhfmnmy8hw9yv5cerjtuec3phrq3ex: {
+      protocol: "Wormhole",
+      symbol: "UST",
+      name: "UST.",
+      token: "terra1ajuddgxqfhfmnmy8hw9yv5cerjtuec3phrq3ex",
+      icon: "https://extraterra-assets.s3.us-east-2.amazonaws.com/images/SVG/UST.svg"
+      decimals: 6
+    },
   }
 }
