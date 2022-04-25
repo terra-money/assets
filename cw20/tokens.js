@@ -2014,5 +2014,13 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/TestNet/neworld-labs.png",
       decimals: 9
     },
+     terra1sjwpj2gfr92pmzlj8jawnzpetxfmwrfc8z9yw3: {
+      protocol: "MetaArt",
+      symbol: "MART",
+      name: "MetaArt",
+      token: "terra1sjwpj2gfr92pmzlj8jawnzpetxfmwrfc8z9yw3",
+      icon: "https://ibb.co/k98dvmg",
+      decimals: 8
+    },
   }
 }
