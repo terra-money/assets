@@ -684,6 +684,14 @@ module.exports = {
          "https://nft.c2x.world/",
       ],
     },
+    terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8: {
+      contract: "terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8",
+      name: "ArtsyApes",
+      symbol: "ART",
+      icon: "https://cdn.luart.io/logos/artsy-apes-logo.png",
+      homepage: "https://www.artsyapes.com/",
+      marketplace: ["https://marketplace.luart.io/collections/terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8"],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
