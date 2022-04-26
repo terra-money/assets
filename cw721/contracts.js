@@ -1,5 +1,27 @@
 module.exports = {
   mainnet: {
+    terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm: {
+      contract: "terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm",
+      name: "Lootopians",
+      symbol: "LOOTOPIANS",
+      icon: "https://d75aawrtvbfp1.cloudfront.net/partners%2Flootopians%2Flogo-min.png",
+      homepage: "https://spacedollars.money/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm",
+        "https://knowhere.art/collection/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm"
+      ],
+    },
+    terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x: {
+      contract: "terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x",
+      name: "Lootopian Items",
+      symbol: "LOOTITEMS",
+      icon: "https://d75aawrtvbfp1.cloudfront.net/partners%2Flootopiansitems%2Flogo.png",
+      homepage: "https://spacedollars.money/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x",
+        "https://knowhere.art/collection/terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x"
+      ],
+    },
     terra1rk25c0d90mr5jkz2rh2rz6l5sk0f6ppgcuhm8p: {
       contract: "terra1rk25c0d90mr5jkz2rh2rz6l5sk0f6ppgcuhm8p",
       name: "Luna Bugz",
