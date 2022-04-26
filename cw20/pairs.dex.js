@@ -360,6 +360,16 @@ module.exports = {
       type: "xyk",
       assets: ["terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8", "terra1srp2u95kxps35nvan88gn96nfqhukqya2d0ffc"],
     },
+    terra1q00r9whldewsktqne5sux6gtaxn2vlfvu5geej: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uusd", "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8"],
+    },
+    terra14hpees7gp0addrkgavwpylsr9tnzg57c0vdxav: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1jkkt5638cd5pur0u5jnr2juw0v6hz5d6z8xu8m", "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8"],
+    },
   },
   testnet: {
     terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu: {
