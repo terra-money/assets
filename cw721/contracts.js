@@ -651,6 +651,17 @@ module.exports = {
       icon: "https://statesdao.club/img/states-dao-avatar-logo.png",
       homepage: "https://statesdao.club",
     },
+    terra1tt0zqv8hd6j85cn0srg9nkvj7fzrj03g2pz5t4: {
+      contract: "terra1tt0zqv8hd6j85cn0srg9nkvj7fzrj03g2pz5t4",
+      name: "Chromatic Souls : AFK Raid",
+      symbol: "CSTchromatic",
+      icon: "https://c2x.world/c2x-station/icon/CSTchromatic.png",
+      homepage: "https://chromaticsouls.c2x.world",
+      marketplace: [
+         "https://dex.c2xnft.com/",
+         "https://nft.c2x.world/",
+      ],
+    },
   },
   testnet: {
     terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
