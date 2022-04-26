@@ -280,6 +280,14 @@ module.exports = {
       "terra14vw4sfqwe7jw8ppcc7u44vq7hy9qa2nlstnxmu",
       "uusd"
     ],
+    terra1q00r9whldewsktqne5sux6gtaxn2vlfvu5geej: [
+      "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8",
+      "uusd"
+    ],
+    terra14hpees7gp0addrkgavwpylsr9tnzg57c0vdxav: [
+      "terra1jkkt5638cd5pur0u5jnr2juw0v6hz5d6z8xu8m",
+      "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8"
+    ],
   },
   testnet: {
     terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu: [
