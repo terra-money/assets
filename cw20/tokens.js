@@ -2014,5 +2014,13 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/TestNet/neworld-labs.png",
       decimals: 9
     },
+    terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g: {
+      protocol: "Wormhole",
+      symbol: "SB",
+      name: "DragonSB",
+      token: "terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g",
+      icon: "https://dragonsb.finance/img/image2/SB.png",
+      decimals: 6
+    },
   }
 }
