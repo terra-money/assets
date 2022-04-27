@@ -288,6 +288,10 @@ module.exports = {
       "terra1jkkt5638cd5pur0u5jnr2juw0v6hz5d6z8xu8m",
       "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8"
     ],
+    terra10nrggq77wztuux4h637xmh3tv7gscsmd0qck7d: [
+      "uusd",
+      "terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g"
+    ],
   },
   testnet: {
     terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu: [
@@ -485,10 +489,6 @@ module.exports = {
     terra10q7sxwraf5ateahzmdkj9ge3yh8zwj474mzqta: [
       "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y",
       "terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy"
-    ],	
-    terra10nrggq77wztuux4h637xmh3tv7gscsmd0qck7d: [
-      "uusd",
-      "terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g"
     ],
   }
 }
