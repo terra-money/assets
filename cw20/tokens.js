@@ -1351,6 +1351,14 @@ module.exports = {
       token: "terra14vw4sfqwe7jw8ppcc7u44vq7hy9qa2nlstnxmu",
       icon: "https://raw.githubusercontent.com/vitelabs/crypto-info/master/tokens/vitc/tti_22d0b205bed4d268a05dfc3c.png",
       decimals: 6
+    },
+    terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g: {
+      protocol: "Wormhole",
+      symbol: "SB",
+      name: "DragonSB",
+      token: "terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g",
+      icon: "https://dragonsb.finance/img/image2/SB.png",
+      decimals: 6
     }
   },
   testnet: {
