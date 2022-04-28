@@ -43,6 +43,16 @@ module.exports = {
         "https://knowhere.art/collection/terra1tv5hu9d2hw4q9tn4x30870ae0e4mrttqj0fcv6",
       ],
     },
+    terra1t37vatdcsmg4qlyy8n4fgapecce5g4gw5mlzlt: {
+      contract: "terra1t37vatdcsmg4qlyy8n4fgapecce5g4gw5mlzlt",
+      name: "Deviants Factions Outbreak",
+      symbol: "DFC",
+      icon: "https://deviantsfactions.com/deviantsAvatar.png",
+      homepage: "https://deviantsfactions.com",
+      marketplace: [
+        "https://deviantsfactions.com/store",
+      ],
+    },
     terra1sc89k9200ycvpd0cs0ul0qmj98p9n8wjp5sft7: {
       contract: "terra1sc89k9200ycvpd0cs0ul0qmj98p9n8wjp5sft7",
       name: "Terra Turtles",
