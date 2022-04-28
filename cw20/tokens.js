@@ -1344,6 +1344,14 @@ module.exports = {
       icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png",
       decimals: 6
     },
+    terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93: {
+      protocol: "Reactor Money",
+      symbol: "RCT",
+      name: "Reactor Token",
+      token: "terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93",
+      icon: "https://bigbang.reactor.money/logo-reactor.png",
+      decimals: 6,
+    },
     terra14vw4sfqwe7jw8ppcc7u44vq7hy9qa2nlstnxmu: {
       protocol: "Vite",
       symbol: "VITC",
