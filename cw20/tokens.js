@@ -1349,7 +1349,7 @@ module.exports = {
       symbol: "RCT",
       name: "Reactor Token",
       token: "terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93",
-      icon: "https://bigbang.reactor.money/logo-reactor.png",
+      icon: "https://reactor.money/assets/logo.svg",
       decimals: 6,
     },
     terra14vw4sfqwe7jw8ppcc7u44vq7hy9qa2nlstnxmu: {
