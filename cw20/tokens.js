@@ -1047,14 +1047,6 @@ module.exports = {
       icon: "https://files.pstake.finance/logos/bAssets/bATOM_Wormhole.svg",
       decimals: 6,
     },
-    terra1laczhlpxlgmrwr9un9ds74qxd2fj4754nf82dn: {
-      protocol: "Willisch finance",
-      symbol: "WCOIN",
-      name: "Willisch Coin",
-      token: "terra1laczhlpxlgmrwr9un9ds74qxd2fj4754nf82dn",
-      icon: "https://drive.google.com/file/d/1wuKLSoWwaTLj9NqabA0cdlY4yhVKOm8v/view?usp=sharing",
-      decimals: 6
-    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
@@ -1620,14 +1612,6 @@ module.exports = {
       name: "CST Token",
       token: "terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy",
       icon: "https://c2x.world/c2x-station/icon/CST.png"
-    },
-    terra1y739x9m5nqfl2tvvzzvck9amgdt06qm5xaaxmn: {
-      protocol: "Willisch finance",
-      symbol: "WCOIN",
-      name: "Willisch Coin",
-      token: "terra1y739x9m5nqfl2tvvzzvck9amgdt06qm5xaaxmn",
-      icon: "https://drive.google.com/file/d/1wuKLSoWwaTLj9NqabA0cdlY4yhVKOm8v/view?usp=sharing",
-      decimals: 6
     },
   }
 }
