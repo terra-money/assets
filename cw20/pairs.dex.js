@@ -345,6 +345,31 @@ module.exports = {
       type: "xyk",
       assets: ["uusd", "terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz"],
     },
+      terra1k8lvj3w7dxzd6zlyptcj086gfwms422xkqjmzx: {
+      dex: "astroport",
+      type: "xyk",
+      assets: ["uusd", "terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr"],
+    },
+    terra1hmcd4kwafyydd4mjv2rzhcuuwnfuqc2prkmlhj: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uusd", "terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6"],
+    },
+    terra1rxzs4rs28rx89dt57nnph6xz8zmycf5js2d4ey: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8", "terra1srp2u95kxps35nvan88gn96nfqhukqya2d0ffc"],
+    },
+    terra1q00r9whldewsktqne5sux6gtaxn2vlfvu5geej: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uusd", "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8"],
+    },
+    terra14hpees7gp0addrkgavwpylsr9tnzg57c0vdxav: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1jkkt5638cd5pur0u5jnr2juw0v6hz5d6z8xu8m", "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8"],
+    },
   },
   testnet: {
     terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu: {
@@ -556,6 +581,21 @@ module.exports = {
       dex: "terraswap",
       type: "xyk",
       assets: ["uusd", "terra1jw55wct7rcv9fqvawenw0yns2s54d3rcqtd734"],
+    },
+     terra1vg4krld6j75505y8djwnnq78ymgg54p8tnqf2q: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uusd", "terra13593q4c5zlswkwu6z0w25700s7xjdqv0kg3afg"],
+    },
+     terra10q7sxwraf5ateahzmdkj9ge3yh8zwj474mzqta: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy", "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y"],
+    },
+    terra1pl35nnjxgg069mjn8e6j45ng26gvepqxr74wkj: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36", "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y"],
     },
   },
 };
