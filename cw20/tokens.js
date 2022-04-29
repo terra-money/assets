@@ -1049,7 +1049,7 @@ module.exports = {
       token: "terra15zvyhmv6gwddht7kt4q6w5nasn4tcpgzcdfmgr",
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/225x225GTPS.png?ver=1649021019248",
       decimals: 18
-    },    
+    },
     terra15pkdjxv2ewjzn9x665y26pfz2h6ymak4d4e8se: {
       protocol: "Terra",
       symbol: "GFI",
@@ -1057,7 +1057,7 @@ module.exports = {
       token: "terra15pkdjxv2ewjzn9x665y26pfz2h6ymak4d4e8se",
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/GtpsFinance225x225.png?ver=1649021019248",
       decimals: 18
-    },    
+    },
     terra1fyjsxx73jrufw8ufgtuswa773dvdkny92k70wa: {
       protocol: "Terra",
       symbol: "ULC",
@@ -1065,8 +1065,8 @@ module.exports = {
       token: "terra1fyjsxx73jrufw8ufgtuswa773dvdkny92k70wa",
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/Ultimatalioniscoin225x225.png?ver=1649021019249",
       decimals: 18
-    },        
-    terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl: { 
+    },
+    terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl: {
       symbol: "SST",
       name: "Sooah Studio Token",
       token: "terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl",
@@ -1367,7 +1367,15 @@ module.exports = {
       token: "terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g",
       icon: "https://dragonsb.finance/img/image2/SB.png",
       decimals: 6
-    }
+    },
+    terra1yhlhrea3rgyx2xdnsswsfakn28qa8z7yp5gmhd: {
+      protocol: "Orion Money",
+      symbol: "orionASTRO",
+      name: "Orion Money xASTRO Derivative Token",
+      token: "terra1yhlhrea3rgyx2xdnsswsfakn28qa8z7yp5gmhd",
+      icon: "https://orion.money/assets/orionASTRO-LOGO@256x256.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
@@ -1926,7 +1934,7 @@ module.exports = {
       symbol: "CSW",
       token: "terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr",
       decimals: 6,
-    }, 
+    },
     terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy: {
       protocol: "C2X",
       symbol: "CST",
