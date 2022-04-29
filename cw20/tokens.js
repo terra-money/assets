@@ -1277,7 +1277,7 @@ module.exports = {
       symbol: "WCOIN",
       name: "Willisch Coin",
       token: "terra1laczhlpxlgmrwr9un9ds74qxd2fj4754nf82dn",
-      icon: "https://drive.google.com/file/d/1wuKLSoWwaTLj9NqabA0cdlY4yhVKOm8v/view?usp=sharing",
+      icon: "https://www.willisch.finance/images/icons/wcoin.svg",
       decimals: 6
     },
     terra1thhm2u93m2stytzynhsxh5h3jrtg540x4punqy: {
@@ -1939,7 +1939,7 @@ module.exports = {
       symbol: "WCOIN",
       name: "Willisch Coin",
       token: "terra1y739x9m5nqfl2tvvzzvck9amgdt06qm5xaaxmn",
-      icon: "https://drive.google.com/file/d/1wuKLSoWwaTLj9NqabA0cdlY4yhVKOm8v/view?usp=sharing",
+      icon: "https://www.willisch.finance/images/icons/wcoin.svg",
       decimals: 6
     },
     terra13593q4c5zlswkwu6z0w25700s7xjdqv0kg3afg: {
