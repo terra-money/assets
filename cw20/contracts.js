@@ -1634,6 +1634,21 @@ module.exports = {
       name: "FURY",
       icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png",
     },
+    terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh: {
+      protocol: "R.E.S.Toads",
+      name: "RESToad Token",
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg"
+    },
+    terra1e76nq6ll0vzy4apprphh0k5wqzzsndjakwd6x0: {
+      protocol: "R.E.S.Toads",
+      name: "TOAD-UST Pair",
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg"
+    },
+    terra1qze0rv67swfl7zlr087snsxe6jdde5kka2ckx3: {
+      protocol: "R.E.S.Toads",
+      name: "TOAD-UST LP",
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg"
+    }
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
