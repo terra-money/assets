@@ -795,7 +795,7 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/allbridge-io/media/main/token.svg",
       decimals: 6
     },
-      terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc: {
+    terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc: {
       protocol: "Wormhole",
       symbol: "whGTPS",
       name: "Global Transaction Payment Solu",
@@ -1010,7 +1010,7 @@ module.exports = {
       icon: "https://ipfs.io/ipfs/QmbfnNALyHC3siaZR3j2mQ44MDVFr2dtR5ciqu3anbD4eP?filename=chainlink.png",
       decimals: 18,
     },
-      terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
+    terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
       protocol: "Sayve",
       symbol: "SAYVE",
       name: "Sayve Token",
@@ -1049,7 +1049,7 @@ module.exports = {
       token: "terra15zvyhmv6gwddht7kt4q6w5nasn4tcpgzcdfmgr",
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/225x225GTPS.png?ver=1649021019248",
       decimals: 18
-    },    
+    },
     terra15pkdjxv2ewjzn9x665y26pfz2h6ymak4d4e8se: {
       protocol: "Terra",
       symbol: "GFI",
@@ -1057,7 +1057,7 @@ module.exports = {
       token: "terra15pkdjxv2ewjzn9x665y26pfz2h6ymak4d4e8se",
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/GtpsFinance225x225.png?ver=1649021019248",
       decimals: 18
-    },    
+    },
     terra1fyjsxx73jrufw8ufgtuswa773dvdkny92k70wa: {
       protocol: "Terra",
       symbol: "ULC",
@@ -1065,8 +1065,8 @@ module.exports = {
       token: "terra1fyjsxx73jrufw8ufgtuswa773dvdkny92k70wa",
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/Ultimatalioniscoin225x225.png?ver=1649021019249",
       decimals: 18
-    },        
-    terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl: { 
+    },
+    terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl: {
       symbol: "SST",
       name: "Sooah Studio Token",
       token: "terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl",
@@ -1366,6 +1366,14 @@ module.exports = {
       name: "DragonSB",
       token: "terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g",
       icon: "https://dragonsb.finance/img/image2/SB.png",
+      decimals: 6
+    },
+    terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh: {
+      protocol: "R.E.S.Toads",
+      symbol: "TOAD",
+      name: "RESToad Token",
+      token: "terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh",
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg",
       decimals: 6
     }
   },
@@ -1926,7 +1934,7 @@ module.exports = {
       symbol: "CSW",
       token: "terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr",
       decimals: 6,
-    }, 
+    },
     terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy: {
       protocol: "C2X",
       symbol: "CST",
@@ -2030,5 +2038,13 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/TestNet/neworld-labs.png",
       decimals: 9
     },
+    terra1zdpny7z8llfrel04dd47gvqd2r4jw4qek0uc54: {
+      protocol: "R.E.S.Toads",
+      symbol: "TTOAD",
+      name: "RESToad Token Test",
+      token: "terra1zdpny7z8llfrel04dd47gvqd2r4jw4qek0uc54",
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg",
+      decimals: 6
+    }
   }
 }
