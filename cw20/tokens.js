@@ -2030,5 +2030,13 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/TestNet/neworld-labs.png",
       decimals: 9
     },
+    terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f: {
+      protocol: "PAVO FINANCE",
+      symbol: "PAVO",
+      name: "PAVO TOKEN",
+      token: "terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f",
+      icon: "https://ibb.co/kBmYp4x",
+      decimals: 6
+    },
   }
 }
