@@ -606,8 +606,8 @@ module.exports = {
     },
     terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz: {
       protocol: "Wormhole",
-      symbol: "bETH",
-      name: "Lido bETH (Portal)",
+      symbol: "webETH",
+      name: "Lido Bonded ETH (Wormhole)",
       token: "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz",
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
       decimals: 8
@@ -1277,7 +1277,7 @@ module.exports = {
       symbol: "WCOIN",
       name: "Willisch Coin",
       token: "terra1laczhlpxlgmrwr9un9ds74qxd2fj4754nf82dn",
-      icon: "https://drive.google.com/file/d/1wuKLSoWwaTLj9NqabA0cdlY4yhVKOm8v/view?usp=sharing",
+      icon: "https://www.willisch.finance/images/icons/wcoin.svg",
       decimals: 6
     },
     terra1thhm2u93m2stytzynhsxh5h3jrtg540x4punqy: {
@@ -1375,7 +1375,15 @@ module.exports = {
       token: "terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh",
       icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg",
       decimals: 6
-    }
+    },
+    terra1yhlhrea3rgyx2xdnsswsfakn28qa8z7yp5gmhd: {
+      protocol: "Orion Money",
+      symbol: "orionASTRO",
+      name: "Orion Money xASTRO Derivative Token",
+      token: "terra1yhlhrea3rgyx2xdnsswsfakn28qa8z7yp5gmhd",
+      icon: "https://orion.money/assets/orionASTRO-LOGO@256x256.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
@@ -1947,7 +1955,7 @@ module.exports = {
       symbol: "WCOIN",
       name: "Willisch Coin",
       token: "terra1y739x9m5nqfl2tvvzzvck9amgdt06qm5xaaxmn",
-      icon: "https://drive.google.com/file/d/1wuKLSoWwaTLj9NqabA0cdlY4yhVKOm8v/view?usp=sharing",
+      icon: "https://www.willisch.finance/images/icons/wcoin.svg",
       decimals: 6
     },
     terra13593q4c5zlswkwu6z0w25700s7xjdqv0kg3afg: {
@@ -2044,6 +2052,14 @@ module.exports = {
       name: "RESToad Token Test",
       token: "terra1zdpny7z8llfrel04dd47gvqd2r4jw4qek0uc54",
       icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg",
+      decimals: 6
+    },
+    terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f: {
+      protocol: "PAVO FINANCE",
+      symbol: "PAVO",
+      name: "PAVO TOKEN",
+      token: "terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f",
+      icon: "https://ibb.co/kBmYp4x",
       decimals: 6
     }
   }

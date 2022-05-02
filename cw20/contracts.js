@@ -745,6 +745,36 @@ module.exports = {
       name: "Spec nLuna Farm",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
+    terra1mr9xlwydgg0lfxvy68ylxuchzy6jdn706vwu8c: {
+      protocol: "Spectrum",
+      name: "Spec Astroport SAYVE-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra19dfth8559etgnqmnu9nwd87pjqsuufswwclcav: {
+      protocol: "Spectrum",
+      name: "Spec Astroport Stluna-Luna Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1puxzzlcr2urp4pvx523xhq593tgpt7damnm6pc: {
+      protocol: "Spectrum",
+      name: "Spec Astroport Stsol-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra12td8as6zhm3m9djjmpxzfue9syvrj0ewe070hf: {
+      protocol: "Spectrum",
+      name: "Spec Astroport Steth-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1aeaz2w7gxu7ga8fj76mna8skhvq6ft0q0x42tv: {
+      protocol: "Spectrum",
+      name: "Spec Astroport Stluna-LDO Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1d55nmhuq75r3vf93hwkau2stts4mpe9h22herz: {
+      protocol: "Spectrum",
+      name: "Spec Astroport MARS-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
     terra1gvlll4hytc9s34dskw5ym86erx3hx2j6sa8zhy: {
       protocol: "Spectrum",
       name: "Spec nETH Farm",
