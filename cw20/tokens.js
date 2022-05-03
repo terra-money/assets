@@ -795,7 +795,7 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/allbridge-io/media/main/token.svg",
       decimals: 6
     },
-      terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc: {
+    terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc: {
       protocol: "Wormhole",
       symbol: "whGTPS",
       name: "Global Transaction Payment Solu",
@@ -1010,7 +1010,7 @@ module.exports = {
       icon: "https://ipfs.io/ipfs/QmbfnNALyHC3siaZR3j2mQ44MDVFr2dtR5ciqu3anbD4eP?filename=chainlink.png",
       decimals: 18,
     },
-      terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
+    terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
       protocol: "Sayve",
       symbol: "SAYVE",
       name: "Sayve Token",
@@ -1366,6 +1366,14 @@ module.exports = {
       name: "DragonSB",
       token: "terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g",
       icon: "https://dragonsb.finance/img/image2/SB.png",
+      decimals: 6
+    },
+    terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh: {
+      protocol: "R.E.S.Toads",
+      symbol: "TOAD",
+      name: "RESToad Token",
+      token: "terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh",
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg",
       decimals: 6
     },
     terra1yhlhrea3rgyx2xdnsswsfakn28qa8z7yp5gmhd: {
@@ -2038,6 +2046,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/TestNet/neworld-labs.png",
       decimals: 9
     },
+    terra1zdpny7z8llfrel04dd47gvqd2r4jw4qek0uc54: {
+      protocol: "R.E.S.Toads",
+      symbol: "TTOAD",
+      name: "RESToad Token Test",
+      token: "terra1zdpny7z8llfrel04dd47gvqd2r4jw4qek0uc54",
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg",
+      decimals: 6
+    },
     terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f: {
       protocol: "PAVO FINANCE",
       symbol: "PAVO",
@@ -2045,6 +2061,6 @@ module.exports = {
       token: "terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f",
       icon: "https://ibb.co/kBmYp4x",
       decimals: 6
-    },
+    }
   }
 }
