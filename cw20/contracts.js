@@ -745,6 +745,36 @@ module.exports = {
       name: "Spec nLuna Farm",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
+    terra1mr9xlwydgg0lfxvy68ylxuchzy6jdn706vwu8c: {
+      protocol: "Spectrum",
+      name: "Spec Astroport SAYVE-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra19dfth8559etgnqmnu9nwd87pjqsuufswwclcav: {
+      protocol: "Spectrum",
+      name: "Spec Astroport Stluna-Luna Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1puxzzlcr2urp4pvx523xhq593tgpt7damnm6pc: {
+      protocol: "Spectrum",
+      name: "Spec Astroport Stsol-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra12td8as6zhm3m9djjmpxzfue9syvrj0ewe070hf: {
+      protocol: "Spectrum",
+      name: "Spec Astroport Steth-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1aeaz2w7gxu7ga8fj76mna8skhvq6ft0q0x42tv: {
+      protocol: "Spectrum",
+      name: "Spec Astroport Stluna-LDO Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
+    terra1d55nmhuq75r3vf93hwkau2stts4mpe9h22herz: {
+      protocol: "Spectrum",
+      name: "Spec Astroport MARS-UST Farm",
+      icon: "https://terra.spec.finance/assets/SPEC.png",
+    },
     terra1gvlll4hytc9s34dskw5ym86erx3hx2j6sa8zhy: {
       protocol: "Spectrum",
       name: "Spec nETH Farm",
@@ -1634,6 +1664,21 @@ module.exports = {
       name: "FURY",
       icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png",
     },
+    terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh: {
+      protocol: "R.E.S.Toads",
+      name: "RESToad Token",
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg"
+    },
+    terra1e76nq6ll0vzy4apprphh0k5wqzzsndjakwd6x0: {
+      protocol: "R.E.S.Toads",
+      name: "TOAD-UST Pair",
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg"
+    },
+    terra1qze0rv67swfl7zlr087snsxe6jdde5kka2ckx3: {
+      protocol: "R.E.S.Toads",
+      name: "TOAD-UST LP",
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg"
+    }
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
