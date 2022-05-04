@@ -1392,6 +1392,14 @@ module.exports = {
       icon: "https://retrograde.money/retro_logo.png",
       decimals: 6
     },
+    terra1ezz5xply2v3xdyv32gy5tcd7zq4k235q4xtzwe: {
+      protocol: "Neworld",
+      symbol: "NWT",
+      name: "Neworld Token",
+      token: "terra1ezz5xply2v3xdyv32gy5tcd7zq4k235q4xtzwe",
+      icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/MainNet/NWT.png",
+      decimals: 9
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
@@ -2069,6 +2077,14 @@ module.exports = {
       token: "terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f",
       icon: "https://ibb.co/kBmYp4x",
       decimals: 6
-    }
+    },
+    terra1llfavtqvk9jh25m4w86cq6exaev405mrf4dtvw: {
+      protocol: "Neworld",
+      symbol: "NWT",
+      name: "Neworld Token",
+      token: "terra1llfavtqvk9jh25m4w86cq6exaev405mrf4dtvw",
+      icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/MainNet/NWT.png",
+      decimals: 9
+    },
   }
 }
