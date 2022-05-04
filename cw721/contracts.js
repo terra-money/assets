@@ -1,5 +1,17 @@
 module.exports = {
   mainnet: {
+    terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc: {
+      contract: "terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc",
+      protocol: "Derby Stars",
+      name: "Derby Stars Horse",
+      symbol: "DSHO",
+      icon: "https://dy7lm72krmydr.cloudfront.net/icon/ds_horse_nft_logo.png",
+      homepage: "https://derbystars.com/",
+      marketplace: [
+        "https://www.oneplanetnft.io/collection/terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc",
+        "https://randomearth.io/collections/terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc",
+      ],
+    },
     terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm: {
       contract: "terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm",
       name: "Lootopians",
