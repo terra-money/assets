@@ -2016,7 +2016,7 @@ module.exports = {
     },
     terra1ce736hurlv7f3w7fykl5k9uyaapesdewgn80lu: {
       protocol: "Wormhole",
-      symbol: "whFRAX",
+      symbol: "FRAX",
       name: "Frax (Portal)",
       token: "terra1ce736hurlv7f3w7fykl5k9uyaapesdewgn80lu",
       icon: "https://frax.imgix.net/tokens/frax.png",
@@ -2024,7 +2024,7 @@ module.exports = {
     },
     terra1qmz4cj7900lx04wy66q7nzquj8dnl53d5v9ehv: {
       protocol: "Wormhole",
-      symbol: "whFXS",
+      symbol: "FXS",
       name: "Frax Share (Portal)",
       token: "terra1qmz4cj7900lx04wy66q7nzquj8dnl53d5v9ehv",
       icon: "https://frax.imgix.net/tokens/fxs.png",
