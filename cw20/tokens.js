@@ -1384,6 +1384,14 @@ module.exports = {
       icon: "https://orion.money/assets/orionASTRO-LOGO@256x256.png",
       decimals: 6
     },
+    terra1j4hwavavmtsafa6zr0npalfz3tk9gf3p4787mp: {
+      protocol: "Retrograde",
+      symbol: "RETRO",
+      name: "Retrograde",
+      token: "terra1j4hwavavmtsafa6zr0npalfz3tk9gf3p4787mp",
+      icon: "https://retrograde.money/retro_logo.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
