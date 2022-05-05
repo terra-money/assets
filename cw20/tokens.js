@@ -1400,6 +1400,14 @@ module.exports = {
       icon: "https://terrnado.cash/logo.png",
       decimals: 6
     },
+    terra1n9k2he20h5vpyn4mgv7pg4pzvw2n3wc4a86v3g: {
+      protocol: "TerrnadoCash",
+      symbol: "sTND",
+      name: "TerrnadoCash",
+      token: "terra1n9k2he20h5vpyn4mgv7pg4pzvw2n3wc4a86v3g",
+      icon: "https://terrnado.cash/stnd_logo.svg",
+      decimals: 6
+    }
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
