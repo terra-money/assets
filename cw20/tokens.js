@@ -1392,6 +1392,14 @@ module.exports = {
       icon: "https://retrograde.money/retro_logo.png",
       decimals: 6
     },
+    terra16wggm67a34msdxasg2vergm2pt289y7930wv7d: {
+      protocol: "TerrnadoCash",
+      symbol: "TND",
+      name: "TerrnadoCash",
+      token: "terra16wggm67a34msdxasg2vergm2pt289y7930wv7d",
+      icon: "https://terrnado.cash/logo.png",
+      decimals: 6
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
