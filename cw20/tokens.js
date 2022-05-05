@@ -1407,7 +1407,15 @@ module.exports = {
       token: "terra1n9k2he20h5vpyn4mgv7pg4pzvw2n3wc4a86v3g",
       icon: "https://terrnado.cash/stnd_logo.svg",
       decimals: 6
-    }
+    },
+    terra1ezz5xply2v3xdyv32gy5tcd7zq4k235q4xtzwe: {
+      protocol: "Neworld",
+      symbol: "NWT",
+      name: "Neworld Token",
+      token: "terra1ezz5xply2v3xdyv32gy5tcd7zq4k235q4xtzwe",
+      icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/MainNet/NWT.png",
+      decimals: 9
+    },
   },
   testnet: {
     terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
@@ -2054,6 +2062,22 @@ module.exports = {
       icon: "https://terra.nexusprotocol.app/nATOM.svg",
       decimals: 6
     },
+    terra1ce736hurlv7f3w7fykl5k9uyaapesdewgn80lu: {
+      protocol: "Wormhole",
+      symbol: "FRAX",
+      name: "Frax (Portal)",
+      token: "terra1ce736hurlv7f3w7fykl5k9uyaapesdewgn80lu",
+      icon: "https://frax.imgix.net/tokens/frax.png",
+      decimals: 8
+    },
+    terra1qmz4cj7900lx04wy66q7nzquj8dnl53d5v9ehv: {
+      protocol: "Wormhole",
+      symbol: "FXS",
+      name: "Frax Share (Portal)",
+      token: "terra1qmz4cj7900lx04wy66q7nzquj8dnl53d5v9ehv",
+      icon: "https://frax.imgix.net/tokens/fxs.png",
+      decimals: 8
+    },
     terra1n4jdmwdyx0043nf2fnjefa3a2s5727znd7dy39: {
       protocol: "Unique Auction",
       symbol: "UNIQ",
@@ -2085,6 +2109,14 @@ module.exports = {
       token: "terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f",
       icon: "https://ibb.co/kBmYp4x",
       decimals: 6
-    }
+    },
+    terra1llfavtqvk9jh25m4w86cq6exaev405mrf4dtvw: {
+      protocol: "Neworld",
+      symbol: "NWT",
+      name: "Neworld Token",
+      token: "terra1llfavtqvk9jh25m4w86cq6exaev405mrf4dtvw",
+      icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/MainNet/NWT.png",
+      decimals: 9
+    },
   }
 }
