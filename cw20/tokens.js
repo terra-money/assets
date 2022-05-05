@@ -2038,6 +2038,22 @@ module.exports = {
       icon: "https://terra.nexusprotocol.app/nATOM.svg",
       decimals: 6
     },
+    terra1ce736hurlv7f3w7fykl5k9uyaapesdewgn80lu: {
+      protocol: "Wormhole",
+      symbol: "FRAX",
+      name: "Frax (Portal)",
+      token: "terra1ce736hurlv7f3w7fykl5k9uyaapesdewgn80lu",
+      icon: "https://frax.imgix.net/tokens/frax.png",
+      decimals: 8
+    },
+    terra1qmz4cj7900lx04wy66q7nzquj8dnl53d5v9ehv: {
+      protocol: "Wormhole",
+      symbol: "FXS",
+      name: "Frax Share (Portal)",
+      token: "terra1qmz4cj7900lx04wy66q7nzquj8dnl53d5v9ehv",
+      icon: "https://frax.imgix.net/tokens/fxs.png",
+      decimals: 8
+    },
     terra1n4jdmwdyx0043nf2fnjefa3a2s5727znd7dy39: {
       protocol: "Unique Auction",
       symbol: "UNIQ",
