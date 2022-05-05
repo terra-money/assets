@@ -1392,6 +1392,22 @@ module.exports = {
       icon: "https://retrograde.money/retro_logo.png",
       decimals: 6
     },
+    terra16wggm67a34msdxasg2vergm2pt289y7930wv7d: {
+      protocol: "TerrnadoCash",
+      symbol: "TND",
+      name: "TerrnadoCash",
+      token: "terra16wggm67a34msdxasg2vergm2pt289y7930wv7d",
+      icon: "https://terrnado.cash/logo.png",
+      decimals: 6
+    },
+    terra1n9k2he20h5vpyn4mgv7pg4pzvw2n3wc4a86v3g: {
+      protocol: "TerrnadoCash",
+      symbol: "sTND",
+      name: "TerrnadoCash",
+      token: "terra1n9k2he20h5vpyn4mgv7pg4pzvw2n3wc4a86v3g",
+      icon: "https://terrnado.cash/stnd_logo.svg",
+      decimals: 6
+    },
     terra1ezz5xply2v3xdyv32gy5tcd7zq4k235q4xtzwe: {
       protocol: "Neworld",
       symbol: "NWT",

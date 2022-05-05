@@ -1678,6 +1678,51 @@ module.exports = {
       protocol: "R.E.S.Toads",
       name: "TOAD-UST LP",
       icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg"
+    },
+    terra16wggm67a34msdxasg2vergm2pt289y7930wv7d: {
+      protocol: "TerrnadoCash",
+      name: "TND",
+      icon: "https://terrnado.cash/tnd_logo.png"
+    },
+    terra1n9k2he20h5vpyn4mgv7pg4pzvw2n3wc4a86v3g: {
+      protocol: "TerrnadoCash",
+      name: "sTND",
+      icon: "https://terrnado.cash/stnd_logo.svg"
+    },
+    terra1fg8f9s8ltyw59crjde6vrv2chvcprndayk9gt4: {
+      protocol: "TerrnadoCash",
+      name: "TND-UST Pair",
+      icon: "https://terrnado.cash/logo.png"
+    },
+    terra1w5etcaqzhwe6huwytkwuxzkvlvqx98vgu6z96u: {
+      protocol: "TerrnadoCash",
+      name: "TND-UST LP",
+      icon: "https://terrnado.cash/logo.png"
+    },
+    terra1wez50a5t3658m6zyydaeyprtwwt8gtt0dcswlw: {
+      protocol: "TerrnadoCash",
+      name: "TFLOKI TND-UST Pair",
+      icon: "https://terrnado.cash/logo.png"
+    },
+    terra1jer5s9ykl64cm7xxp6zea9myjgru6vp38h9yzf: {
+      protocol: "TerrnadoCash",
+      name: "TFLOKI TND-UST LP",
+      icon: "https://terrnado.cash/logo.png"
+    },
+    terra1tzhh2yt0arrwttpywg65vy0kyu99n22jhjxva7: {
+      protocol: "TerrnadoCash",
+      name: "UST Anonymizer",
+      icon: "https://terrnado.cash/logo.png"
+    },
+    terra1q9ylsdaa7zjs2p585suwdfprlcz4prexsqfvhn: {
+      protocol: "TerrnadoCash",
+      name: "CW20 Anonymizer",
+      icon: "https://terrnado.cash/logo.png"
+    },
+    terra1vcqxdu0re3rz292kgx7ysp9a2702m82wzltygj: {
+      protocol: "TerrnadoCash",
+      name: "Terrnado Vault",
+      icon: "https://terrnado.cash/logo.png"
     }
   },
   testnet: {
