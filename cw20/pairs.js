@@ -280,6 +280,22 @@ module.exports = {
       "terra14vw4sfqwe7jw8ppcc7u44vq7hy9qa2nlstnxmu",
       "uusd"
     ],
+    terra1q00r9whldewsktqne5sux6gtaxn2vlfvu5geej: [
+      "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8",
+      "uusd"
+    ],
+    terra14hpees7gp0addrkgavwpylsr9tnzg57c0vdxav: [
+      "terra1jkkt5638cd5pur0u5jnr2juw0v6hz5d6z8xu8m",
+      "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8"
+    ],
+    terra10nrggq77wztuux4h637xmh3tv7gscsmd0qck7d: [
+      "uusd",
+      "terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g"
+    ],
+    terra1fg8f9s8ltyw59crjde6vrv2chvcprndayk9gt4: [
+      "uusd",
+      "terra16wggm67a34msdxasg2vergm2pt289y7930wv7d"
+    ]
   },
   testnet: {
     terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu: [
@@ -477,6 +493,14 @@ module.exports = {
     terra10q7sxwraf5ateahzmdkj9ge3yh8zwj474mzqta: [
       "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y",
       "terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy"
-    ],	
+    ],
+    terra1e76nq6ll0vzy4apprphh0k5wqzzsndjakwd6x0: [
+      "uusd",
+      "terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh"
+    ],
+    terra1w6dv258aqc9su5cywz9hraaz0d9uu3ue76rwjg: [
+      "uusd",
+      "terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f"
+    ],
   }
 }

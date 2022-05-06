@@ -606,8 +606,8 @@ module.exports = {
     },
     terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz: {
       protocol: "Wormhole",
-      symbol: "bETH",
-      name: "Lido bETH (Portal)",
+      symbol: "webETH",
+      name: "Lido Bonded ETH (Wormhole)",
       token: "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz",
       icon: "https://static.lido.fi/bETH_Wormhole/bETH_Wormhole.svg",
       decimals: 8
@@ -795,7 +795,7 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/allbridge-io/media/main/token.svg",
       decimals: 6
     },
-      terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc: {
+    terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc: {
       protocol: "Wormhole",
       symbol: "whGTPS",
       name: "Global Transaction Payment Solu",
@@ -1010,7 +1010,7 @@ module.exports = {
       icon: "https://ipfs.io/ipfs/QmbfnNALyHC3siaZR3j2mQ44MDVFr2dtR5ciqu3anbD4eP?filename=chainlink.png",
       decimals: 18,
     },
-      terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
+    terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
       protocol: "Sayve",
       symbol: "SAYVE",
       name: "Sayve Token",
@@ -1049,7 +1049,7 @@ module.exports = {
       token: "terra15zvyhmv6gwddht7kt4q6w5nasn4tcpgzcdfmgr",
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/225x225GTPS.png?ver=1649021019248",
       decimals: 18
-    },    
+    },
     terra15pkdjxv2ewjzn9x665y26pfz2h6ymak4d4e8se: {
       protocol: "Terra",
       symbol: "GFI",
@@ -1057,7 +1057,7 @@ module.exports = {
       token: "terra15pkdjxv2ewjzn9x665y26pfz2h6ymak4d4e8se",
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/GtpsFinance225x225.png?ver=1649021019248",
       decimals: 18
-    },    
+    },
     terra1fyjsxx73jrufw8ufgtuswa773dvdkny92k70wa: {
       protocol: "Terra",
       symbol: "ULC",
@@ -1065,8 +1065,8 @@ module.exports = {
       token: "terra1fyjsxx73jrufw8ufgtuswa773dvdkny92k70wa",
       icon: "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/Ultimatalioniscoin225x225.png?ver=1649021019249",
       decimals: 18
-    },        
-    terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl: { 
+    },
+    terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl: {
       symbol: "SST",
       name: "Sooah Studio Token",
       token: "terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl",
@@ -1277,7 +1277,7 @@ module.exports = {
       symbol: "WCOIN",
       name: "Willisch Coin",
       token: "terra1laczhlpxlgmrwr9un9ds74qxd2fj4754nf82dn",
-      icon: "https://drive.google.com/file/d/1wuKLSoWwaTLj9NqabA0cdlY4yhVKOm8v/view?usp=sharing",
+      icon: "https://www.willisch.finance/images/icons/wcoin.svg",
       decimals: 6
     },
     terra1thhm2u93m2stytzynhsxh5h3jrtg540x4punqy: {
@@ -1336,6 +1336,14 @@ module.exports = {
       icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png",
       decimals: 6
     },
+    terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93: {
+      protocol: "Reactor Money",
+      symbol: "RCT",
+      name: "Reactor Token",
+      token: "terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93",
+      icon: "https://reactor.money/assets/logo.svg",
+      decimals: 6,
+    },
     terra14vw4sfqwe7jw8ppcc7u44vq7hy9qa2nlstnxmu: {
       protocol: "Vite",
       symbol: "VITC",
@@ -1343,7 +1351,63 @@ module.exports = {
       token: "terra14vw4sfqwe7jw8ppcc7u44vq7hy9qa2nlstnxmu",
       icon: "https://raw.githubusercontent.com/vitelabs/crypto-info/master/tokens/vitc/tti_22d0b205bed4d268a05dfc3c.png",
       decimals: 6
-    }
+    },
+    terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g: {
+      protocol: "Wormhole",
+      symbol: "SB",
+      name: "DragonSB",
+      token: "terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g",
+      icon: "https://dragonsb.finance/img/image2/SB.png",
+      decimals: 6
+    },
+    terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh: {
+      protocol: "R.E.S.Toads",
+      symbol: "TOAD",
+      name: "RESToad Token",
+      token: "terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh",
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg",
+      decimals: 6
+    },
+    terra1yhlhrea3rgyx2xdnsswsfakn28qa8z7yp5gmhd: {
+      protocol: "Orion Money",
+      symbol: "orionASTRO",
+      name: "Orion Money xASTRO Derivative Token",
+      token: "terra1yhlhrea3rgyx2xdnsswsfakn28qa8z7yp5gmhd",
+      icon: "https://orion.money/assets/orionASTRO-LOGO@256x256.png",
+      decimals: 6
+    },
+    terra1j4hwavavmtsafa6zr0npalfz3tk9gf3p4787mp: {
+      protocol: "Retrograde",
+      symbol: "RETRO",
+      name: "Retrograde",
+      token: "terra1j4hwavavmtsafa6zr0npalfz3tk9gf3p4787mp",
+      icon: "https://retrograde.money/retro_logo.png",
+      decimals: 6
+    },
+    terra16wggm67a34msdxasg2vergm2pt289y7930wv7d: {
+      protocol: "TerrnadoCash",
+      symbol: "TND",
+      name: "TerrnadoCash",
+      token: "terra16wggm67a34msdxasg2vergm2pt289y7930wv7d",
+      icon: "https://terrnado.cash/logo.png",
+      decimals: 6
+    },
+    terra1n9k2he20h5vpyn4mgv7pg4pzvw2n3wc4a86v3g: {
+      protocol: "TerrnadoCash",
+      symbol: "sTND",
+      name: "TerrnadoCash",
+      token: "terra1n9k2he20h5vpyn4mgv7pg4pzvw2n3wc4a86v3g",
+      icon: "https://terrnado.cash/stnd_logo.svg",
+      decimals: 6
+    },
+    terra1ezz5xply2v3xdyv32gy5tcd7zq4k235q4xtzwe: {
+      protocol: "Neworld",
+      symbol: "NWT",
+      name: "Neworld Token",
+      token: "terra1ezz5xply2v3xdyv32gy5tcd7zq4k235q4xtzwe",
+      icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/MainNet/NWT.png",
+      decimals: 9
+    },
   },
   testnet: {
     terra1eae8kz7crdzv0rlw6y0jnfdgyrlamvexa3reut: {
@@ -1902,7 +1966,7 @@ module.exports = {
       symbol: "CSW",
       token: "terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr",
       decimals: 6,
-    }, 
+    },
     terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy: {
       protocol: "C2X",
       symbol: "CST",
@@ -1915,7 +1979,7 @@ module.exports = {
       symbol: "WCOIN",
       name: "Willisch Coin",
       token: "terra1y739x9m5nqfl2tvvzzvck9amgdt06qm5xaaxmn",
-      icon: "https://drive.google.com/file/d/1wuKLSoWwaTLj9NqabA0cdlY4yhVKOm8v/view?usp=sharing",
+      icon: "https://www.willisch.finance/images/icons/wcoin.svg",
       decimals: 6
     },
     terra13593q4c5zlswkwu6z0w25700s7xjdqv0kg3afg: {
@@ -1989,6 +2053,62 @@ module.exports = {
       token: "terra1pnujv8lrau9n9dpcspp73xtdv7pcwn0p6j35ff",
       icon: "https://terra.nexusprotocol.app/nATOM.svg",
       decimals: 6
+    },
+    terra1ce736hurlv7f3w7fykl5k9uyaapesdewgn80lu: {
+      protocol: "Wormhole",
+      symbol: "FRAX",
+      name: "Frax (Portal)",
+      token: "terra1ce736hurlv7f3w7fykl5k9uyaapesdewgn80lu",
+      icon: "https://frax.imgix.net/tokens/frax.png",
+      decimals: 8
+    },
+    terra1qmz4cj7900lx04wy66q7nzquj8dnl53d5v9ehv: {
+      protocol: "Wormhole",
+      symbol: "FXS",
+      name: "Frax Share (Portal)",
+      token: "terra1qmz4cj7900lx04wy66q7nzquj8dnl53d5v9ehv",
+      icon: "https://frax.imgix.net/tokens/fxs.png",
+      decimals: 8
+    },
+    terra1n4jdmwdyx0043nf2fnjefa3a2s5727znd7dy39: {
+      protocol: "Unique Auction",
+      symbol: "UNIQ",
+      name: "Unique Auction Test Token",
+      token: "terra1n4jdmwdyx0043nf2fnjefa3a2s5727znd7dy39",
+      icon: "https://unique.auction/route/uniq.png",
+      decimals: 6
+    },
+    terra1altrflnumhy7juwzzqgrctve84v8c7chgyw496: {
+      protocol: "Neworld",
+      symbol: "NWLD",
+      name: "Neworld Labs Develpper Token",
+      token: "terra1altrflnumhy7juwzzqgrctve84v8c7chgyw496",
+      icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/TestNet/neworld-labs.png",
+      decimals: 9
+    },
+    terra1zdpny7z8llfrel04dd47gvqd2r4jw4qek0uc54: {
+      protocol: "R.E.S.Toads",
+      symbol: "TTOAD",
+      name: "RESToad Token Test",
+      token: "terra1zdpny7z8llfrel04dd47gvqd2r4jw4qek0uc54",
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg",
+      decimals: 6
+    },
+    terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f: {
+      protocol: "PAVO FINANCE",
+      symbol: "PAVO",
+      name: "PAVO TOKEN",
+      token: "terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f",
+      icon: "https://ibb.co/kBmYp4x",
+      decimals: 6
+    },
+    terra1llfavtqvk9jh25m4w86cq6exaev405mrf4dtvw: {
+      protocol: "Neworld",
+      symbol: "NWT",
+      name: "Neworld Token",
+      token: "terra1llfavtqvk9jh25m4w86cq6exaev405mrf4dtvw",
+      icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/MainNet/NWT.png",
+      decimals: 9
     },
   }
 }

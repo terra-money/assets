@@ -1,5 +1,39 @@
 module.exports = {
   mainnet: {
+    terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc: {
+      contract: "terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc",
+      protocol: "Derby Stars",
+      name: "Derby Stars Horse",
+      symbol: "DSHO",
+      icon: "https://dy7lm72krmydr.cloudfront.net/icon/ds_horse_nft_logo.png",
+      homepage: "https://derbystars.com/",
+      marketplace: [
+        "https://www.oneplanetnft.io/collection/terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc",
+        "https://randomearth.io/collections/terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc",
+      ],
+    },
+    terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm: {
+      contract: "terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm",
+      name: "Lootopians",
+      symbol: "LOOTOPIANS",
+      icon: "https://d75aawrtvbfp1.cloudfront.net/partners%2Flootopians%2Flogo-min.png",
+      homepage: "https://spacedollars.money/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm",
+        "https://knowhere.art/collection/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm"
+      ],
+    },
+    terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x: {
+      contract: "terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x",
+      name: "Lootopian Items",
+      symbol: "LOOTITEMS",
+      icon: "https://d75aawrtvbfp1.cloudfront.net/partners%2Flootopiansitems%2Flogo.png",
+      homepage: "https://spacedollars.money/",
+      marketplace: [
+        "https://randomearth.io/collections/terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x",
+        "https://knowhere.art/collection/terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x"
+      ],
+    },
     terra1rk25c0d90mr5jkz2rh2rz6l5sk0f6ppgcuhm8p: {
       contract: "terra1rk25c0d90mr5jkz2rh2rz6l5sk0f6ppgcuhm8p",
       name: "Luna Bugz",
@@ -19,6 +53,16 @@ module.exports = {
       marketplace: [
         "https://randomearth.io/collections/terra1tv5hu9d2hw4q9tn4x30870ae0e4mrttqj0fcv6",
         "https://knowhere.art/collection/terra1tv5hu9d2hw4q9tn4x30870ae0e4mrttqj0fcv6",
+      ],
+    },
+    terra1t37vatdcsmg4qlyy8n4fgapecce5g4gw5mlzlt: {
+      contract: "terra1t37vatdcsmg4qlyy8n4fgapecce5g4gw5mlzlt",
+      name: "Deviants Factions Outbreak",
+      symbol: "DFC",
+      icon: "https://deviantsfactions.com/deviantsAvatar.png",
+      homepage: "https://deviantsfactions.com",
+      marketplace: [
+        "https://deviantsfactions.com/store",
       ],
     },
     terra1sc89k9200ycvpd0cs0ul0qmj98p9n8wjp5sft7: {
@@ -650,6 +694,25 @@ module.exports = {
       symbol: "SDA",
       icon: "https://statesdao.club/img/states-dao-avatar-logo.png",
       homepage: "https://statesdao.club",
+    },
+    terra1tt0zqv8hd6j85cn0srg9nkvj7fzrj03g2pz5t4: {
+      contract: "terra1tt0zqv8hd6j85cn0srg9nkvj7fzrj03g2pz5t4",
+      name: "Chromatic Souls : AFK Raid",
+      symbol: "CSTchromatic",
+      icon: "https://c2x.world/c2x-station/icon/CSTchromatic.png",
+      homepage: "https://chromaticsouls.c2x.world",
+      marketplace: [
+         "https://dex.c2xnft.com/",
+         "https://nft.c2x.world/",
+      ],
+    },
+    terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8: {
+      contract: "terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8",
+      name: "ArtsyApes",
+      symbol: "ART",
+      icon: "https://cdn.luart.io/logos/artsy-apes-logo.png",
+      homepage: "https://www.artsyapes.com/",
+      marketplace: ["https://marketplace.luart.io/collections/terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8"],
     },
   },
   testnet: {
