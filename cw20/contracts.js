@@ -1660,7 +1660,7 @@ module.exports = {
       icon: "https://larry.engineer/assets/steak.png"
     },
     terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k: {
-      protocol: "FanFury",
+      protocol: "Fanfury",
       name: "FURY",
       icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png",
     },
