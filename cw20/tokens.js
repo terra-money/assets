@@ -1328,6 +1328,14 @@ module.exports = {
       icon: "https://c2x.world/c2x-station/icon/CSTfancard.png",
       decimals: 0
     },
+    terra1amz5c45l34n7w8m5a3z7rd7u0k037x4nnsemwj: {
+      protocol: "Neworld",
+      symbol: "NWLD",
+      name: "Neworld Labs Develpper Token",
+      token: "terra1amz5c45l34n7w8m5a3z7rd7u0k037x4nnsemwj",
+      icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/TestNet/neworld-labs.png",
+      decimals: 9
+    },
     terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k: {
       protocol: "Fanfury",
       symbol: "FURY",
