@@ -678,7 +678,7 @@ module.exports = {
   },
   testnet: {
     terra1eae8kz7crdzv0rlw6y0jnfdgyrlamvexa3reut: {
-      protocol: "FanFury",
+      protocol: "Fanfury",
       symbol: "FURY",
       token: "terra1eae8kz7crdzv0rlw6y0jnfdgyrlamvexa3reut",
       icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/Fanfury.png"
