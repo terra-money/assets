@@ -1329,7 +1329,7 @@ module.exports = {
       decimals: 0
     },
     terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k: {
-      protocol: "FanFury",
+      protocol: "Fanfury",
       symbol: "FURY",
       name: "FURY",
       token: "terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k",
@@ -1346,8 +1346,8 @@ module.exports = {
     }
   },
   testnet: {
-    terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq: {
-      protocol: "FanFury",
+    terra1eae8kz7crdzv0rlw6y0jnfdgyrlamvexa3reut: {
+      protocol: "Fanfury",
       symbol: "FURY",
       token: "terra1zjthyw8e8jayngkvg5kddccwa9v46s4w9sq2pq",
       icon: "https://crytpo11.s3.eu-central-1.amazonaws.com/Fanfury.png"
