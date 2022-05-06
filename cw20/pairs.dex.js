@@ -602,12 +602,12 @@ module.exports = {
       type: "xyk",
       assets: ["uluna", "terra1skfgen8c2hr04wc7yk3u4eqlp2nrv0xl0vuavs"],
     },
-     terra1kapv9c87wppa54wn6myucezhtqa52cq7rnhlml: {
+    terra1kapv9c87wppa54wn6myucezhtqa52cq7rnhlml: {
       dex: "terraswap",
       type: "xyk",
       assets: ["uusd", "terra1jw55wct7rcv9fqvawenw0yns2s54d3rcqtd734"],
     },
-     terra1vg4krld6j75505y8djwnnq78ymgg54p8tnqf2q: {
+    terra1vg4krld6j75505y8djwnnq78ymgg54p8tnqf2q: {
       dex: "terraswap",
       type: "xyk",
       assets: ["uusd", "terra13593q4c5zlswkwu6z0w25700s7xjdqv0kg3afg"],
