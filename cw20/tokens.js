@@ -991,7 +991,7 @@ module.exports = {
       symbol: "PAXG",
       name: "Paxos Gold (Portal)",
       token: "terra1uux6gwd6pzr0gfzrru5kne55cxex9d0700c72r",
-      icon: "https://github.com/paxosglobal/paxos-gold-contract/blob/master/assets/Pax-Gold-Logo-FINAL-color.png",
+      icon: "https://github.com/paxosglobal/paxos-gold-contract/blob/master/assets/Pax-Gold-Logo-FINAL-color.png?raw=true",
       decimals: 8,
     },
     terra1efjugpjc50d8sha7lr8s48cr7wmsthz94eevcl: {
