@@ -1422,6 +1422,14 @@ module.exports = {
       token: "terra1mpq5zkkm39nmjrjg9raknpfrfmcfwv0nh0whvn",
       icon: "https://assets.neb.money/icons/NEB.png"
     },
+    terra1c00vskhyzdv0z63z2tyetzx2qma67n2z3vzyn0: {
+      protocol: "Anchor",
+      symbol: "bSOL",
+      name: "Bonded SOL",
+      token: "terra1c00vskhyzdv0z63z2tyetzx2qma67n2z3vzyn0",
+      icon: "https://raw.githubusercontent.com/ChorusOne/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
+      decimals: 6
+    },
   },
   testnet: {
     terra1eae8kz7crdzv0rlw6y0jnfdgyrlamvexa3reut: {
