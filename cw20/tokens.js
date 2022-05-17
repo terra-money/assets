@@ -1879,11 +1879,11 @@ module.exports = {
       icon: "https://proteus.finance/token/coin_dark_100x100.png",
       decimals: 9
     },
-    terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y: {
+    terra1sfhqgl8skca0gjsxvremdalsx2antn8yrs2p3q: {
       protocol: "C2X",
       symbol: "CTX",
       name: "C2X Token",
-      token: "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y",
+      token: "terra1sfhqgl8skca0gjsxvremdalsx2antn8yrs2p3q",
       icon: "https://c2x.world/c2x-station/icon/C2X.png"
     },
     terra1skfgen8c2hr04wc7yk3u4eqlp2nrv0xl0vuavs: {
@@ -1977,11 +1977,11 @@ module.exports = {
       icon: "https://ceres.ventures/cvust.png",
       decimals: 6,
     },
-    terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36: {
+    terra178muner9x4shrdnu9xjnurlgd4qkul9tfeh5n2: {
       protocol: "C2X",
       symbol: "LCT",
       name: "LCT Token",
-      token: "terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36",
+      token: "terra178muner9x4shrdnu9xjnurlgd4qkul9tfeh5n2",
       icon: "https://c2x.world/c2x-station/icon/LCT.png"
     },
     terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr: {
@@ -1989,11 +1989,11 @@ module.exports = {
       token: "terra1yxmz0r83s3xy9jn5ywx39xsxtm75esfx896lhr",
       decimals: 6,
     },
-    terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy: {
+    terra1l0dj9xalgeszlhzexjqd7zryvz0af7uapkl02u: {
       protocol: "C2X",
       symbol: "CST",
       name: "CST Token",
-      token: "terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy",
+      token: "terra1l0dj9xalgeszlhzexjqd7zryvz0af7uapkl02u",
       icon: "https://c2x.world/c2x-station/icon/CST.png"
     },
     terra1y739x9m5nqfl2tvvzzvck9amgdt06qm5xaaxmn: {

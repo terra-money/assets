@@ -612,15 +612,15 @@ module.exports = {
       type: "xyk",
       assets: ["uusd", "terra13593q4c5zlswkwu6z0w25700s7xjdqv0kg3afg"],
     },
-     terra10q7sxwraf5ateahzmdkj9ge3yh8zwj474mzqta: {
+     terra1h74ummlyfp6zk0cf3394yx5vn92t37g4nmemd8: {
       dex: "terraswap",
       type: "xyk",
-      assets: ["terra1z5vwaslkyale8eqkr8k5qhw7na4nx7rpxranqy", "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y"],
+      assets: ["terra1l0dj9xalgeszlhzexjqd7zryvz0af7uapkl02u", "terra1sfhqgl8skca0gjsxvremdalsx2antn8yrs2p3q"],
     },
-    terra1pl35nnjxgg069mjn8e6j45ng26gvepqxr74wkj: {
+    terra1uh8ejv4quxhslfn0xgdxu0p7shgt4lnzjvftmx: {
       dex: "terraswap",
       type: "xyk",
-      assets: ["terra15xqdfw9cda82g27hrk5mzr5y8lzcgmr4qnts36", "terra1snlp5p25tsksh9stdjk5vuqll9x00g3tcuf49y"],
+      assets: ["terra178muner9x4shrdnu9xjnurlgd4qkul9tfeh5n2", "terra1sfhqgl8skca0gjsxvremdalsx2antn8yrs2p3q"],
     },
     terra1w6dv258aqc9su5cywz9hraaz0d9uu3ue76rwjg: {
       dex: "terraswap",
