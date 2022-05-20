@@ -9,7 +9,7 @@
   "localterra": {
     "name": "localterra",
     "chainID": "localterra",
-    "lcd": "http://localhost:3060",
+    "lcd": "http://localhost:1317",
     "mantle": "http://localhost:1337"
   }
 }
