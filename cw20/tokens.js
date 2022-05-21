@@ -2132,5 +2132,13 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/MainNet/NWT.png",
       decimals: 9
     },
+    terra1rjf3c4ayvx2d6pej6fanjhe54a2ds8dlh9f69s: {
+      protocol: "Pepon",
+      symbol: "PEPON",
+      name: "PEPSON TOKEN",
+      token: "terra1rjf3c4ayvx2d6pej6fanjhe54a2ds8dlh9f69s",
+      icon: "https://raw.githubusercontent.com/panpepson/LWLC-crypto/master/terra-pepon/Pepon.png",
+      decimals: 3
+    },
   }
 }
