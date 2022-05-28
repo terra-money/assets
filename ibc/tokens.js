@@ -1,5 +1,6 @@
 module.exports = {
-  mainnet: {
+  mainnet: {},
+  classic: {
     '0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B': {
       denom: "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
       path: "transfer/channel-1",
