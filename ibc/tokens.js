@@ -8,6 +8,14 @@ module.exports = {
       name: "Osmosis",
       icon: "https://assets.terra.money/icon/svg/ibc/OSMO.svg"
     },
+    '4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04': {
+      denom: "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
+      path: "transfer/channel-2",
+      base_denom: "ujuno",
+      symbol: "JUNO",
+      name: "Juno",
+      icon: "https://assets.terra.money/icon/svg/ibc/JUNO.svg"
+    },
     '10BD6ED30BA132AB96F146D71A23B46B2FC19E7D79F52707DC91F2F3A45040AD': {
       denom: "ibc/10BD6ED30BA132AB96F146D71A23B46B2FC19E7D79F52707DC91F2F3A45040AD",
       path: "transfer/channel-3",
