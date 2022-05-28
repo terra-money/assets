@@ -1,5 +1,6 @@
 module.exports = {
-  mainnet: {
+  mainnet: {},
+  classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
       protocol: "Anchor",
       symbol: "bLuna",

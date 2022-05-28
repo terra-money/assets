@@ -1,5 +1,6 @@
 module.exports = {
-  mainnet: {
+  mainnet: {},
+  classic: {
     terra18dq84qfpz267xuu0k47066svuaez9hr4xvwlex: {
       dex: "astroport",
       type: "xyk",

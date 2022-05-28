@@ -1,5 +1,6 @@
 module.exports = {
-  mainnet: {
+  mainnet: {},
+  classic: {
     terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc: {
       contract: "terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc",
       protocol: "Derby Stars",
