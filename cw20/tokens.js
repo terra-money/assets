@@ -1,5 +1,12 @@
 module.exports = {
-  mainnet: {},
+  mainnet: {
+    terra1dtaqwlmzlk3jku5un6h6rfunttmwsqnfz7evvdf4pwr0wypsl68q6nuam0: {
+      protocol: "FatManTerra",
+      symbol: "FATMAN",
+      token: "terra1dtaqwlmzlk3jku5un6h6rfunttmwsqnfz7evvdf4pwr0wypsl68q6nuam0",
+      icon: "https://raw.githubusercontent.com/anondelight/logos/main/fatman-logo.png"
+    },
+  },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
       protocol: "Anchor",
