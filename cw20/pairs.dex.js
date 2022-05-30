@@ -3,7 +3,7 @@ module.exports = {
     terra1dtaakf99dllanxn0sg0ryft4j9fsewypgns5gavev6tz49mw0wds8cg89y: {
       dex: "terraswap",
       type: "xyk",
-      assets: ["uusd", "terra1dtaqwlmzlk3jku5un6h6rfunttmwsqnfz7evvdf4pwr0wypsl68q6nuam0"],
+      assets: ["uluna", "terra1dtaqwlmzlk3jku5un6h6rfunttmwsqnfz7evvdf4pwr0wypsl68q6nuam0"],
     },
   },
   classic: {
