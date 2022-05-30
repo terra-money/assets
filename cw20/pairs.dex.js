@@ -1,5 +1,11 @@
 module.exports = {
-  mainnet: {},
+  mainnet: {
+    terra1dtaqwlmzlk3jku5un6h6rfunttmwsqnfz7evvdf4pwr0wypsl68q6nuam0: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uusd", "terra17x3atzjq7ku2s8la5l8ukhalzl5slwfewr0pnn"],
+    },
+  },
   classic: {
     terra18dq84qfpz267xuu0k47066svuaez9hr4xvwlex: {
       dex: "astroport",
