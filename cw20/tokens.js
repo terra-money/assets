@@ -1,5 +1,12 @@
 module.exports = {
-  mainnet: {},
+  mainnet: {
+    terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct: {
+      protocol: "Eris Protocol",
+      symbol: "ampLUNA",
+      token: "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
+      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna800.png"
+    },
+  },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
       protocol: "Anchor",
