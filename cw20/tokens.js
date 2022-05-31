@@ -1431,6 +1431,34 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/ChorusOne/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
       decimals: 6
     },
+    terra16gqgpuy7z64chzz3su2xugjgrhuj3h89wx2z59: {
+      protocol: "C2X",
+      symbol: "BST",
+      name: "BST Token",
+      token: "terra16gqgpuy7z64chzz3su2xugjgrhuj3h89wx2z59",
+      icon: "https://c2x.world/c2x-station/icon/BST.png"
+    },
+    terra1l670q2m9j3npltmsqe428mwu0msw336m8jtq00: {
+      protocol: "C2X",
+      symbol: "KRX",
+      name: "KRX Token",
+      token: "terra1l670q2m9j3npltmsqe428mwu0msw336m8jtq00",
+      icon: "https://c2x.world/c2x-station/icon/KRX.png"
+    },
+    terra1fy7lnlls8ufzfeefc98tkn66x07scud2s3d23p: {
+      protocol: "C2X",
+      symbol: "BSTfancard",
+      name: "BST Fancard Token",
+      token: "terra1fy7lnlls8ufzfeefc98tkn66x07scud2s3d23p",
+      icon: "https://c2x.world/c2x-station/icon/BSTfancard.png"
+    },
+    terra1f5m40hs40sa9nuku776swjljsa2t39h58uhlw3: {
+      protocol: "C2X",
+      symbol: "KRXfancard",
+      name: "KRX Fancard Token",
+      token: "terra1f5m40hs40sa9nuku776swjljsa2t39h58uhlw3",
+      icon: "https://c2x.world/c2x-station/icon/KRXfancard.png"
+    },
   },
   testnet: {
     terra1eae8kz7crdzv0rlw6y0jnfdgyrlamvexa3reut: {
