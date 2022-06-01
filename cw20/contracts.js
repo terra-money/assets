@@ -1,5 +1,26 @@
 module.exports = {
-  mainnet: {},
+  mainnet: {
+    terra10788fkzah89xrdm27zkj5yvhj9x3494lxawzm5qq3vvxcqz2yzaqyd3enk: {
+      protocol: "Eris Protocol",
+      name: "Eris Liquid Staking Hub",
+      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
+    },
+    terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct: {
+      protocol: "Eris Protocol",
+      name: "Eris Liquid Staking Token (ampLUNA)",
+      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
+    },
+    terra1ccxwgew8aup6fysd7eafjzjz6hw89n40h273sgu3pl4lxrajnk5st2hvfh: {
+      protocol: "Eris Protocol",
+      name: "ampLUNA-LUNA Pair",
+      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
+    },
+    terra1eh2aulwsyc9m45ggeznav402xcck4ll0yn0xgtlxyf4zkwch7juqsxvfzr: {
+      protocol: "Eris Protocol",
+      name: "ampLUNA-LUNA LP",
+      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
+    },
+  },
   classic: {
     terra1ulgw0td86nvs4wtpsc80thv6xelk76ut7a7apj: {
       protocol: "Terraswap",
