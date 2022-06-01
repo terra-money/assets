@@ -32,8 +32,8 @@ module.exports = {
       name: "Cosmos",
       icon: "https://assets.terra.money/icon/svg/ibc/ATOM.svg"
     },
-    '0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B': {
-      denom: "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
+    '64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860': {
+      denom: "ibc/64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860",
       path: "transfer/channel-4",
       base_denom: "ugraviton",
       symbol: "GRAV",
