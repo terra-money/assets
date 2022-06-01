@@ -1,5 +1,14 @@
 module.exports = {
-  mainnet: {},
+  mainnet: {
+    terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh: {
+      protocol: "Stader",
+      symbol: "LunaX",
+      name: "LunaX Token",
+      token: "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
+      icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
+      decimals: 6
+    }
+  },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
       protocol: "Anchor",
