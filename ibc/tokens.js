@@ -6,7 +6,7 @@ module.exports = {
       base_denom: "uusdc",
       symbol: "axlUSDC",
       name: "Axelar USD Coin",
-      icon: "https://assets.terra.money/icon/svg/thorswap/USDC.svg"
+      icon: "https://assets.terra.money/icon/thorswap/USDC.svg"
     },
     'CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF': {
       denom: "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
@@ -14,7 +14,7 @@ module.exports = {
       base_denom: "uusdt",
       symbol: "axlUSDT",
       name: "Axelar Theter USD",
-      icon: "https://assets.terra.money/icon/svg/thorswap/USDT.svg"
+      icon: "https://assets.terra.money/icon/thorswap/USDT.svg"
     },
     '05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD': {
       denom: "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
@@ -22,7 +22,7 @@ module.exports = {
       base_denom: "wbtc-satoshi",
       symbol: "axlWBTC",
       name: "Axelar Wrapped Bitcoin",
-      icon: "https://assets.terra.money/icon/svg/thorswap/WBTC.svg",
+      icon: "https://assets.terra.money/icon/thorswap/WBTC.svg",
       decimals: 8,
     },
     '0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B': {
