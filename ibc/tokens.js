@@ -21,7 +21,7 @@ module.exports = {
       path: "transfer/channel-6",
       base_denom: "uusdt",
       symbol: "axlUSDT",
-      name: "Axelar Theter USD",
+      name: "Axelar Tether USD",
       icon: "https://assets.terra.money/icon/thorswap/USDT.svg"
     },
     '05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD': {
