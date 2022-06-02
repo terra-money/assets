@@ -1,5 +1,13 @@
 module.exports = {
   mainnet: {
+    'BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674': {
+      denom: "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
+      path: "transfer/channel-6",
+      base_denom: "weth-wei",
+      symbol: "axlWETH",
+      name: "Axelar Wrapped Ethereum",
+      icon: "https://assets.terra.money/icon/thorswap/ETH.svg"
+    },
     'B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4': {
       denom: "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
       path: "transfer/channel-6",
