@@ -1,5 +1,13 @@
 module.exports = {
   mainnet: {
+    'B090DC21658BD57698522880590CA53947B8B09355764131AA94EC75517D46A5': {
+      denom: "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
+      path: "transfer/channel-8",
+      base_denom: "ucre",
+      symbol: "CRE",
+      name: "Crescent Network",
+      icon: "https://assets.terra.money/icon/svg/ibc/CRE.svg",
+    },
     'BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674': {
       denom: "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
       path: "transfer/channel-6",
