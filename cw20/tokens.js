@@ -14,6 +14,11 @@ module.exports = {
       token: "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
       icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
     },
+    terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al: {
+      protocol: "STEAK Protocol",
+      name: "STEAK Liquid Token",
+      icon:"https://liquidstaking.app/steak.png"
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
