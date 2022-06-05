@@ -23,12 +23,12 @@ module.exports = {
     terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al: {
       protocol: "STEAK Protocol",
       name: "STEAK Liquid Token",
-      icon:"https://liquidstaking.app/steak.png"
+      icon: "https://liquidstaking.app/steak.png",
     },
     terra12e4v50xl33fnwkzltz9vu565snlmx65vdrk8e2644km09myewr8q538psc: {
       protocol: "STEAK Protocol",
       name: "STEAK Liquid Staking Hub",
-      icon:"https://liquidstaking.app/steak.png"
+      icon: "https://liquidstaking.app/steak.png",
     },
   },
   classic: {
