@@ -26,11 +26,11 @@ module.exports = [
   {
     name: "OnePlanet",
     link: "https://oneplanetnft.io",
-    icon: "https://www.oneplanetnft.io/logo.svg"
+    icon: "https://www.oneplanetnft.io/logo.svg",
   },
   {
     name: "Messier Art",
     link: "https://messier.art",
     icon: "https://assets.messier.art/logo.png",
-  }
+  },
 ];

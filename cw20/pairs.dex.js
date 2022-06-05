@@ -23,7 +23,10 @@ module.exports = {
     terra1req03gy0eyeeg9e7nwjyn0pct6hdqtphy837j784492l4hcsh0vqx2n8az: {
       dex: "terraswap",
       type: "xyk",
-      assets: ["ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4", "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF"],
+      assets: [
+        "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+        "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
+      ],
     },
     terra1zdpq84j8ex29wz9tmygqtftplrw87x8wmuyfh0rsy60uq7nadtsq5pjr7y: {
       dex: "terraswap",
@@ -357,10 +360,10 @@ module.exports = {
       type: "xyk",
       assets: ["terra100yeqvww74h4yaejj6h733thgcafdaukjtw397", "uusd"],
     },
-    terra1l7xu2rl3c7qmtx3r5sd2tz25glf6jh8ul7aag7 : {
+    terra1l7xu2rl3c7qmtx3r5sd2tz25glf6jh8ul7aag7: {
       dex: "astroport",
       type: "xyk",
-      assets: ["terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3", "uusd"]
+      assets: ["terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3", "uusd"],
     },
     terra1dqjt2jm908qaayw5hdl36w50sshmgem37suawr: {
       dex: "terraswap",
@@ -667,7 +670,7 @@ module.exports = {
     terra1w6dv258aqc9su5cywz9hraaz0d9uu3ue76rwjg: {
       dex: "terraswap",
       type: "xyk",
-      assets: ["uusd","terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f"],
+      assets: ["uusd", "terra14lde08vqx9mxp50wuq8nrtvjfxa8v48u3h2x3f"],
     },
   },
 };

@@ -3,22 +3,22 @@ module.exports = {
     terra10788fkzah89xrdm27zkj5yvhj9x3494lxawzm5qq3vvxcqz2yzaqyd3enk: {
       protocol: "Eris Protocol",
       name: "Eris Liquid Staking Hub",
-      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
+      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
     },
     terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct: {
       protocol: "Eris Protocol",
       name: "Eris Liquid Staking Token (ampLUNA)",
-      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
+      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
     },
     terra1ccxwgew8aup6fysd7eafjzjz6hw89n40h273sgu3pl4lxrajnk5st2hvfh: {
       protocol: "Eris Protocol",
       name: "ampLUNA-LUNA Pair",
-      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
+      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
     },
     terra1eh2aulwsyc9m45ggeznav402xcck4ll0yn0xgtlxyf4zkwch7juqsxvfzr: {
       protocol: "Eris Protocol",
       name: "ampLUNA-LUNA LP",
-      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png"
+      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
     },
     terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al: {
       protocol: "STEAK Protocol",
@@ -1405,42 +1405,42 @@ module.exports = {
     terra1auxjy8f8al78g9ecmv85agaynj8wkjp5kjce2p: {
       protocol: "TerraFloki",
       name: "TerraFloki UST-TFLOKI LP",
-      icon: "https://terrafloki.io/terrafloki_logo.png"
+      icon: "https://terrafloki.io/terrafloki_logo.png",
     },
     terra1jhvyfuewmhy6zafw6x7au0gcthyfcruf4lfm5z: {
       protocol: "TerraFloki",
       name: "TerraFloki UST-TFLOKI LP Staking",
-      icon: "https://terrafloki.io/terrafloki_logo.png"
+      icon: "https://terrafloki.io/terrafloki_logo.png",
     },
     terra18q3zetn2rc8y9z6k5h6vvng28l2c0ekqgegzsn: {
       protocol: "TerraFloki",
       name: "TerraFloki Governance",
-      icon: "https://terrafloki.io/terrafloki_logo.png"
+      icon: "https://terrafloki.io/terrafloki_logo.png",
     },
     terra1awhv74w79sxtr3c65l53m0y46yttr6xaecmed2: {
       protocol: "TerraFloki",
       name: "TerraFloki TFLOKI Genesis Staking",
-      icon: "https://terrafloki.io/ticket_logo.png"
+      icon: "https://terrafloki.io/ticket_logo.png",
     },
     terra1ucaza5zmmh9efhrrcv92uuh20vdj6ggg57se94: {
       protocol: "TerraFloki",
       name: "TerraFloki TFLOKI New World Staking",
-      icon: "https://terrafloki.io/ticket2_logo.png"
+      icon: "https://terrafloki.io/ticket2_logo.png",
     },
     terra17mw6s5l03ecdslpfdgx6hn0hh9g5aj8sjg04n8: {
       protocol: "TerraFloki",
       name: "TerraFloki UST-TFLOKI LP New World Staking",
-      icon: "https://terrafloki.io/ticket2_logo.png"
+      icon: "https://terrafloki.io/ticket2_logo.png",
     },
     terra1nr0tmlms7dw7mg2crwpey4nunwq3pfajr4gxa9: {
       protocol: "TerraFloki",
       name: "TerraFloki TFLOKI Aviator Staking",
-      icon: "https://terrafloki.io/ticket3_logo.png"
+      icon: "https://terrafloki.io/ticket3_logo.png",
     },
     terra136dggkaa0pdws2pz6r0ffk5l5zg50j5f2cl3vj: {
       protocol: "TerraFloki",
       name: "TerraFloki UST-TFLOKI LP Aviator Staking",
-      icon: "https://terrafloki.io/ticket3_logo.png"
+      icon: "https://terrafloki.io/ticket3_logo.png",
     },
     terra1hqnk9expq3k4la2ruzdnyapgndntec4fztdyln: {
       protocol: "Terra Name Service",
@@ -1506,7 +1506,7 @@ module.exports = {
       protocol: "Astroport",
       name: "Generator",
     },
-   terra1v5ct2tuhfqd0tf8z0wwengh4fg77kaczgf6gtx: {
+    terra1v5ct2tuhfqd0tf8z0wwengh4fg77kaczgf6gtx: {
       protocol: "Nexus",
       name: "Psi-UST Astroport Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
@@ -1641,55 +1641,55 @@ module.exports = {
       name: "LUART Vesting Team",
       icon: "https://cdn.luart.io/logos/luart-logo.png",
     },
-     terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
-     protocol: "Sayve Protocol",
-     name: "SAYVE Token",
-     icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
-   },
-    terra1k8lvj3w7dxzd6zlyptcj086gfwms422xkqjmzx: {
-     protocol: "Sayve Protocol",
-     name: "SAYVE-UST Pair",
-     icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png"
-   },
-   terra1drradty46zqun4624p8a3sp9h5jfg9phwlgnm2:{
-     protocol: "Sayve Protocol",
-     name: "SAYVE-UST LP Token",
-     icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
+    terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
+      protocol: "Sayve Protocol",
+      name: "SAYVE Token",
+      icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
     },
-   terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6: {
-     protocol: "Lunaverse",
-     name: "LUV Token",
-     icon: "https://lunaverse.io/assets/images/logo.png"
-   },
+    terra1k8lvj3w7dxzd6zlyptcj086gfwms422xkqjmzx: {
+      protocol: "Sayve Protocol",
+      name: "SAYVE-UST Pair",
+      icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
+    },
+    terra1drradty46zqun4624p8a3sp9h5jfg9phwlgnm2: {
+      protocol: "Sayve Protocol",
+      name: "SAYVE-UST LP Token",
+      icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
+    },
+    terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6: {
+      protocol: "Lunaverse",
+      name: "LUV Token",
+      icon: "https://lunaverse.io/assets/images/logo.png",
+    },
     terra1hmcd4kwafyydd4mjv2rzhcuuwnfuqc2prkmlhj: {
-     protocol: "Lunaverse",
-     name: "LUV-UST Pair",
-     icon: "https://lunaverse.io/assets/images/logo.png"
-   },
-   terra1qq6g0kds9zn97lvrukf2qxf6w4sjt0k9jhcdty:{
-     protocol: "Lunaverse",
-     name: "LUV-UST LP Token",
-     icon: "https://lunaverse.io/assets/images/logo.png",
+      protocol: "Lunaverse",
+      name: "LUV-UST Pair",
+      icon: "https://lunaverse.io/assets/images/logo.png",
+    },
+    terra1qq6g0kds9zn97lvrukf2qxf6w4sjt0k9jhcdty: {
+      protocol: "Lunaverse",
+      name: "LUV-UST LP Token",
+      icon: "https://lunaverse.io/assets/images/logo.png",
     },
     terra15qr8ev2c0a0jswjtfrhfaj5ucgkhjd7la2shlg: {
       protocol: "Steak",
       name: "Steak Hub",
-      icon: "https://larry.engineer/assets/steak.png"
+      icon: "https://larry.engineer/assets/steak.png",
     },
     terra1rl4zyexjphwgx6v3ytyljkkc4mrje2pyznaclv: {
       protocol: "Steak",
       name: "Steak Token",
-      icon: "https://larry.engineer/assets/steak.png"
+      icon: "https://larry.engineer/assets/steak.png",
     },
     terra14q0cgunptuym048a4y2awt8a7fl9acudmfzk5e: {
       protocol: "Steak",
       name: "STEAK-LUNA Pair",
-      icon: "https://larry.engineer/assets/steak.png"
+      icon: "https://larry.engineer/assets/steak.png",
     },
     terra1pwc77c6a588cualln2uypyyvg5r76tfaazgk62: {
       protocol: "Steak",
       name: "STEAK-LUNA LP",
-      icon: "https://larry.engineer/assets/steak.png"
+      icon: "https://larry.engineer/assets/steak.png",
     },
     terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k: {
       protocol: "Fanfury",
@@ -1699,63 +1699,63 @@ module.exports = {
     terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh: {
       protocol: "R.E.S.Toads",
       name: "RESToad Token",
-      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg"
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg",
     },
     terra1e76nq6ll0vzy4apprphh0k5wqzzsndjakwd6x0: {
       protocol: "R.E.S.Toads",
       name: "TOAD-UST Pair",
-      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg"
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg",
     },
     terra1qze0rv67swfl7zlr087snsxe6jdde5kka2ckx3: {
       protocol: "R.E.S.Toads",
       name: "TOAD-UST LP",
-      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg"
+      icon: "https://www.redeyedspacetoads.io/toad_token_logo.svg",
     },
     terra16wggm67a34msdxasg2vergm2pt289y7930wv7d: {
       protocol: "TerrnadoCash",
       name: "TND",
-      icon: "https://terrnado.cash/tnd_logo.png"
+      icon: "https://terrnado.cash/tnd_logo.png",
     },
     terra1n9k2he20h5vpyn4mgv7pg4pzvw2n3wc4a86v3g: {
       protocol: "TerrnadoCash",
       name: "sTND",
-      icon: "https://terrnado.cash/stnd_logo.svg"
+      icon: "https://terrnado.cash/stnd_logo.svg",
     },
     terra1fg8f9s8ltyw59crjde6vrv2chvcprndayk9gt4: {
       protocol: "TerrnadoCash",
       name: "TND-UST Pair",
-      icon: "https://terrnado.cash/logo.png"
+      icon: "https://terrnado.cash/logo.png",
     },
     terra1w5etcaqzhwe6huwytkwuxzkvlvqx98vgu6z96u: {
       protocol: "TerrnadoCash",
       name: "TND-UST LP",
-      icon: "https://terrnado.cash/logo.png"
+      icon: "https://terrnado.cash/logo.png",
     },
     terra1wez50a5t3658m6zyydaeyprtwwt8gtt0dcswlw: {
       protocol: "TerrnadoCash",
       name: "TFLOKI TND-UST Pair",
-      icon: "https://terrnado.cash/logo.png"
+      icon: "https://terrnado.cash/logo.png",
     },
     terra1jer5s9ykl64cm7xxp6zea9myjgru6vp38h9yzf: {
       protocol: "TerrnadoCash",
       name: "TFLOKI TND-UST LP",
-      icon: "https://terrnado.cash/logo.png"
+      icon: "https://terrnado.cash/logo.png",
     },
     terra1tzhh2yt0arrwttpywg65vy0kyu99n22jhjxva7: {
       protocol: "TerrnadoCash",
       name: "UST Anonymizer",
-      icon: "https://terrnado.cash/logo.png"
+      icon: "https://terrnado.cash/logo.png",
     },
     terra1q9ylsdaa7zjs2p585suwdfprlcz4prexsqfvhn: {
       protocol: "TerrnadoCash",
       name: "CW20 Anonymizer",
-      icon: "https://terrnado.cash/logo.png"
+      icon: "https://terrnado.cash/logo.png",
     },
     terra1vcqxdu0re3rz292kgx7ysp9a2702m82wzltygj: {
       protocol: "TerrnadoCash",
       name: "Terrnado Vault",
-      icon: "https://terrnado.cash/logo.png"
-    }
+      icon: "https://terrnado.cash/logo.png",
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
@@ -2696,39 +2696,39 @@ module.exports = {
     terra1k03qhj74pmfdt6nq9p6wvw24t25plyalavfcc2: {
       protocol: "TerraFloki",
       name: "TerraFloki UST-TFLOKI LP",
-      icon: "https://terrafloki.io/terrafloki_logo.png"
+      icon: "https://terrafloki.io/terrafloki_logo.png",
     },
     terra1xxhfqy9fgnkucl4m94628qw52y078fwtegv830: {
       protocol: "TerraFloki",
       name: "TerraFloki UST-TFLOKI LP Staking",
-      icon: "https://terrafloki.io/terrafloki_logo.png"
+      icon: "https://terrafloki.io/terrafloki_logo.png",
     },
     terra147kfuxaep6940f56qxujzas5rxvzra3dsz6ysx: {
       protocol: "TerraFloki",
       name: "TerraFloki Governance",
-      icon: "https://terrafloki.io/terrafloki_logo.png"
+      icon: "https://terrafloki.io/terrafloki_logo.png",
     },
     terra1ss6290u0xsg3sppyuzjmal0pquntlh5ccnmvs7: {
       protocol: "TerraFloki",
       name: "TerraFloki TFLOKI Genesis Staking",
-      icon: "https://terrafloki.io/ticket_logo.png"
+      icon: "https://terrafloki.io/ticket_logo.png",
     },
     terra1p386cwda42q6hdzfhgdr0mvpva5jwstgp8lcpe: {
       protocol: "TerraFloki",
       name: "TerraFloki TFLOKI New World Staking",
-      icon: "https://terrafloki.io/ticket2_logo.png"
+      icon: "https://terrafloki.io/ticket2_logo.png",
     },
     terra162mj8vpl64m3pjpah3pr828dvuhu55v95av9ac: {
       protocol: "TerraFloki",
       name: "TerraFloki UST-TFLOKI LP New World Staking",
-      icon: "https://terrafloki.io/ticket2_logo.png"
+      icon: "https://terrafloki.io/ticket2_logo.png",
     },
     terra1eqzmr4gcx7vtwgcxvg86ccsaly8xqzwu0wu47u: {
       protocol: "Orne",
       name: "UST-ORNE Pair",
       icon: "https://orne.io/img/token_icon.png",
     },
-   terra1a7vcghx2vjyg74nqk5krd9ppa8ks8ytz5vdsgp: {
+    terra1a7vcghx2vjyg74nqk5krd9ppa8ks8ytz5vdsgp: {
       protocol: "Nexus",
       name: "Psi-UST Astroport Pair",
       icon: "https://terra.nexusprotocol.app/logos/nexus_protocol.png",
@@ -2781,22 +2781,22 @@ module.exports = {
     terra1xshrfs3lp7nwkdfh3067vfsf3kmweygfsc3hzy: {
       protocol: "Steak",
       name: "Steak Hub",
-      icon: "https://larry.engineer/assets/steak.png"
+      icon: "https://larry.engineer/assets/steak.png",
     },
     terra1awhvtkm553rszxtvnuda4fe2r6rjjj7hjwzv0w: {
       protocol: "Steak",
       name: "Steak Token",
-      icon: "https://larry.engineer/assets/steak.png"
+      icon: "https://larry.engineer/assets/steak.png",
     },
     terra1x3tyfme7y84mv3y6ftugllrln5y7ewhf36davz: {
       protocol: "Steak",
       name: "STEAK-LUNA Pair",
-      icon: "https://larry.engineer/assets/steak.png"
+      icon: "https://larry.engineer/assets/steak.png",
     },
     terra1exla7lyc8g85szpntmcs5f2rvvg5gwwn7jekje: {
       protocol: "Steak",
       name: "STEAK-LUNA LP",
-      icon: "https://larry.engineer/assets/steak.png"
+      icon: "https://larry.engineer/assets/steak.png",
     },
   },
 };
