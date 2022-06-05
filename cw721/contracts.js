@@ -21,7 +21,7 @@ module.exports = {
       homepage: "https://spacedollars.money/",
       marketplace: [
         "https://randomearth.io/collections/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm",
-        "https://knowhere.art/collection/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm"
+        "https://knowhere.art/collection/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm",
       ],
     },
     terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x: {
@@ -32,7 +32,7 @@ module.exports = {
       homepage: "https://spacedollars.money/",
       marketplace: [
         "https://randomearth.io/collections/terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x",
-        "https://knowhere.art/collection/terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x"
+        "https://knowhere.art/collection/terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x",
       ],
     },
     terra1rk25c0d90mr5jkz2rh2rz6l5sk0f6ppgcuhm8p: {
@@ -41,9 +41,7 @@ module.exports = {
       symbol: "Bugz",
       icon: "https://ipfs.lunapunks.io/ipfs/QmcYd3ae6wPVgFggasANeaCW895ZMYYxdtzg4hoeTKjhsk/icon.jpg",
       homepage: "https://lunabugz.com/",
-      marketplace: [
-        "https://launchpad.lunapunks.io/market/1/1",
-      ],
+      marketplace: ["https://launchpad.lunapunks.io/market/1/1"],
     },
     terra1tv5hu9d2hw4q9tn4x30870ae0e4mrttqj0fcv6: {
       contract: "terra1tv5hu9d2hw4q9tn4x30870ae0e4mrttqj0fcv6",
@@ -62,9 +60,7 @@ module.exports = {
       symbol: "DFC",
       icon: "https://deviantsfactions.com/deviantsAvatar.png",
       homepage: "https://deviantsfactions.com",
-      marketplace: [
-        "https://deviantsfactions.com/store",
-      ],
+      marketplace: ["https://deviantsfactions.com/store"],
     },
     terra1sc89k9200ycvpd0cs0ul0qmj98p9n8wjp5sft7: {
       contract: "terra1sc89k9200ycvpd0cs0ul0qmj98p9n8wjp5sft7",
@@ -94,9 +90,7 @@ module.exports = {
       symbol: "LB3D",
       homepage: "https://lunabulls.com",
       icon: "https://lunabulls.mypinata.cloud/ipfs/QmQuohfV7KNRPp3UTe4rigt2dtesgpLivbm7RikzydZWbk",
-      marketplace: [
-        "https://randomearth.io/collections/terra18d5cqlsqgxp8w7ysn48l4r8a5328592wfwjtyz"
-      ]
+      marketplace: ["https://randomearth.io/collections/terra18d5cqlsqgxp8w7ysn48l4r8a5328592wfwjtyz"],
     },
     terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2: {
       contract: "terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
@@ -108,7 +102,7 @@ module.exports = {
         "https://marketplace.luart.io/collections/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
         "https://randomearth.io/collections/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
         "https://knowhere.art/collection/terra1trn7mhgc9e2wfkm5mhr65p3eu7a2lc526uwny2",
-      ]
+      ],
     },
     terra1zvmesqul8ss2ty84eml8aqkq0kq5ydwjuyf6a3: {
       contract: "terra1zvmesqul8ss2ty84eml8aqkq0kq5ydwjuyf6a3",
@@ -120,7 +114,7 @@ module.exports = {
         "https://marketplace.luart.io/collections/terra1zvmesqul8ss2ty84eml8aqkq0kq5ydwjuyf6a3",
         "https://randomearth.io/collections/terra1zvmesqul8ss2ty84eml8aqkq0kq5ydwjuyf6a3",
         "https://knowhere.art/collection/terra1zvmesqul8ss2ty84eml8aqkq0kq5ydwjuyf6a3",
-      ]
+      ],
     },
     terra1k5pa7htlznr7hskhr9dx8qlk65emhktrgmuknd: {
       contract: "terra1k5pa7htlznr7hskhr9dx8qlk65emhktrgmuknd",
@@ -128,9 +122,7 @@ module.exports = {
       symbol: "LBTS",
       homepage: "https://lunabulls.com",
       icon: "https://lunabulls.mypinata.cloud/ipfs/QmPNQSJ88s7qZHWLSmQfZ25aziJZ1ABFXr2bbiiBBAqa1K",
-      marketplace: [
-        "https://marketplace.luart.io/collections/terra1k5pa7htlznr7hskhr9dx8qlk65emhktrgmuknd"
-      ]
+      marketplace: ["https://marketplace.luart.io/collections/terra1k5pa7htlznr7hskhr9dx8qlk65emhktrgmuknd"],
     },
     terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv: {
       contract: "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv",
@@ -254,9 +246,7 @@ module.exports = {
       symbol: "KWOIN",
       icon: "https://images.squarespace-cdn.com/content/v1/613557f834138c745a932b1e/b6a75a91-620b-4cc8-b0f6-7f041fbb58d6/Kwoin-Profile.jpg",
       homepage: "https://www.talesofterra.art/kwoins",
-      marketplace: [
-        "https://randomearth.io/collections/terra1gclmlgxyczvmxp72fcfu0n9sm5kfeahpkd348q",
-      ],
+      marketplace: ["https://randomearth.io/collections/terra1gclmlgxyczvmxp72fcfu0n9sm5kfeahpkd348q"],
     },
     terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq: {
       contract: "terra1y076t8yrj0t4ag969w92ez9qfdj0c6dn7xhmkq",
@@ -597,9 +587,7 @@ module.exports = {
       symbol: "GBAC",
       icon: "https://i.ibb.co/qjbZDy1/gbac.jpg",
       homepage: "https://www.galacticbabyape.com",
-      marketplace: [
-        "https://randomearth.io/collections/terra1598rvtgufwr7pnpqhrlajjrmvte4l8a6xkty6y"
-      ],
+      marketplace: ["https://randomearth.io/collections/terra1598rvtgufwr7pnpqhrlajjrmvte4l8a6xkty6y"],
     },
     terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t: {
       contract: "terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t",
@@ -610,26 +598,26 @@ module.exports = {
       marketplace: ["https://marketplace.luart.io/collections/terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t"],
     },
     terra1gwv0dttn2fmeys6wdhfjtwj7d449y2v0ennh4t: {
-      contract:"terra1gwv0dttn2fmeys6wdhfjtwj7d449y2v0ennh4t",
+      contract: "terra1gwv0dttn2fmeys6wdhfjtwj7d449y2v0ennh4t",
       protocol: "Unstables:2",
-      name:"Unstables: Guardians of Terra",
-      symbol:"UNSTB:2",
+      name: "Unstables: Guardians of Terra",
+      symbol: "UNSTB:2",
       icon: "https://imgur.com/a/TKZ97PT",
       homepage: "https://www.unstablesonterra.com/",
       marketplace: ["https://talis.art/collection/61f4809bb123364b12d1865d?from=collections"],
     },
     terra1h9rhu457nllgrh4w8rcmc2exv6nvfcjdnd30j0: {
-      contract:"terra1h9rhu457nllgrh4w8rcmc2exv6nvfcjdnd30j0",
-      name:"Silent Solohs",
-      symbol:"SOLOHS",
+      contract: "terra1h9rhu457nllgrh4w8rcmc2exv6nvfcjdnd30j0",
+      name: "Silent Solohs",
+      symbol: "SOLOHS",
       icon: "https://cdn.luart.io/logos/silent-solohs-logo.png",
       homepage: "https://solohsnft.xyz/",
       marketplace: ["https://marketplace.luart.io/collections/terra1h9rhu457nllgrh4w8rcmc2exv6nvfcjdnd30j0"],
     },
     terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf: {
-      contract:"terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf",
-      name:"Terra Skulls",
-      symbol:"TSKG1",
+      contract: "terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf",
+      name: "Terra Skulls",
+      symbol: "TSKG1",
       icon: "https://storage.googleapis.com/public-knowhere/collections/terraskulls.png",
       homepage: "terraskulls.io/",
       marketplace: ["https://knowhere.art/candy-machine/collections/terra1ughahl2yl5r8yc4u4j2ak8x55vjl3t0vrrd3mf"],
@@ -685,9 +673,7 @@ module.exports = {
       name: "Astroport Lockdrop NFT",
       icon: "https://astroport.fi/astro_logo.png",
       homepage: "https://astroport.fi/",
-      marketplace: [
-         "https://knowhere.art/collections/terra1d0nmywxwm5hr0vz6v26qsz8q25m2v9j5adaws3",
-      ],
+      marketplace: ["https://knowhere.art/collections/terra1d0nmywxwm5hr0vz6v26qsz8q25m2v9j5adaws3"],
     },
     terra1zgmx99up0d78utmgygzslsevjmx7wqpmh3dkxj: {
       contract: "terra1zgmx99up0d78utmgygzslsevjmx7wqpmh3dkxj",
@@ -702,10 +688,7 @@ module.exports = {
       symbol: "CSTchromatic",
       icon: "https://c2x.world/c2x-station/icon/CSTchromatic.png",
       homepage: "https://chromaticsouls.c2x.world",
-      marketplace: [
-         "https://dex.c2xnft.com/",
-         "https://nft.c2x.world/",
-      ],
+      marketplace: ["https://dex.c2xnft.com/", "https://nft.c2x.world/"],
     },
     terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8: {
       contract: "terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8",

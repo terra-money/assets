@@ -4,3 +4,5 @@ node_modules/
 cw20/*.json
 cw721/*.json
 ibc/*.json
+
+yarn.lock

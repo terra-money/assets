@@ -31,12 +31,7 @@
             }
           }
         },
-        "required": [
-          "name",
-          "identifier",
-          "icon",
-          "urls"
-        ]
+        "required": ["name", "identifier", "icon", "urls"]
       }
     },
     "url_item": {
