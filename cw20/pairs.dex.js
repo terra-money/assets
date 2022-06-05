@@ -28,6 +28,11 @@ module.exports = {
         "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
       ],
     },
+    terra1zdpq84j8ex29wz9tmygqtftplrw87x8wmuyfh0rsy60uq7nadtsq5pjr7y: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uluna", "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al"],
+    },
   },
   classic: {
     terra18dq84qfpz267xuu0k47066svuaez9hr4xvwlex: {
