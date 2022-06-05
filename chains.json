@@ -1,15 +1,32 @@
 {
   "mainnet": {
     "name": "mainnet",
-    "chainID": "columbus-5",
-    "lcd": "https://lcd.terra.dev",
-    "mantle": "https://mantle.terra.dev",
+    "chainID": "phoenix-1",
+    "lcd": "https://phoenix-lcd.terra.dev",
+    "api": "https://phoenix-api.terra.dev",
+    "mantle": "https://phoenix-mantle.terra.dev",
     "walletconnectID": 1
+  },
+  "classic": {
+    "name": "classic",
+    "chainID": "columbus-5",
+    "lcd": "https://columbus-lcd.terra.dev",
+    "api": "https://columbus-api.terra.dev",
+    "mantle": "https://columbus-mantle.terra.dev",
+    "walletconnectID": 2
+  },
+  "testnet": {
+    "name": "testnet",
+    "chainID": "pisco-1",
+    "lcd": "https://pisco-lcd.terra.dev",
+    "api": "https://pisco-api.terra.dev",
+    "mantle": "https://pisco-mantle.terra.dev",
+    "walletconnectID": 0
   },
   "localterra": {
     "name": "localterra",
     "chainID": "localterra",
-    "lcd": "http://localhost:3060",
+    "lcd": "http://localhost:1317",
     "mantle": "http://localhost:1337"
   }
 }

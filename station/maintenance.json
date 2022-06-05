@@ -1,4 +1,5 @@
 {
   "mainnet": false,
+  "classic": false,
   "testnet": false
 }

@@ -15,7 +15,7 @@ glob(
       const list = require(fullPath);
 
       // Sort lists based on protocol name, or contract name.
-      ["mainnet", "testnet"].forEach((network) => {
+      ["mainnet", "classic", "testnet"].forEach((network) => {
         if (typeof list[network] === "undefined") {
           return;
         }

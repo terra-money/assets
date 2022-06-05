@@ -1,6 +1,6 @@
-# Terra Assets 
+# Terra Assets
 
-This repository contains contract addresses for many different use-cases. 
+This repository contains contract addresses for many different use-cases.
 
 ## Layout
 
@@ -24,7 +24,7 @@ There are other lists that are used less often so I've left them out of this wal
 
 ## Process for adding a new contract
 
-1. Fork this repository so you can make changes. 
+1. Fork this repository so you can make changes.
 1. Make the desired changes in your own fork, then create a pull request for the changes.
 1. Make sure to include a trailing comma on the item you are adding. This helps prevent merge conflicts in the future.
 1. Please add your contract to the end of the list for the correct network (mainnet or testnet). The build process will sort the list alphabetically by either protocol name, or name depending on the list.

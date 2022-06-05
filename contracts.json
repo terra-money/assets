@@ -1,5 +1,6 @@
 {
-  "mainnet": {
+  "mainnet": {},
+  "classic": {
     "assertLimitOrder": "terra1vs9jr7pxuqwct3j29lez3pfetuu8xmq7tk3lzk",
     "routeswap": "terra19qx5xe6q9ll4w0890ux7lv2p4mf3csd4qvt3ex",
     "tnsRegistry": "terra19gqw63xnt9237d2s8cdrzstn98g98y7hkl80gs",
