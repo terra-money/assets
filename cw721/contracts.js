@@ -699,40 +699,5 @@ module.exports = {
       marketplace: ["https://marketplace.luart.io/collections/terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8"],
     },
   },
-  testnet: {
-    terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm: {
-      name: "R.E.S.Toads",
-      symbol: "RESToads",
-      contract: "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm",
-      icon: "https://www.redeyedspacetoads.io/rest_icon.svg",
-    },
-    terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f: {
-      contract: "terra1rpqhlgctcwfs9m69r8svwrsynmhge0vdr8c23f",
-      name: "HellCats",
-      symbol: "HELLCATS",
-      icon: "https://cdn.luart.io/logos/hellcats-logo.jpg",
-      homepage: "https://www.hellcatsnft.com",
-    },
-    terra16sez62vaf4xgdj5f9dxvksdnsuat3k3sd3txrh: {
-      contract: "terra16sez62vaf4xgdj5f9dxvksdnsuat3k3sd3txrh",
-      name: "LUNI",
-      symbol: "LUNI",
-      icon: "https://cdn.luart.io/logos/luni-logo.jpg",
-      homepage: "https://www.luniofficial.com",
-    },
-    terra1et248fl35klhwegr7fggay8333mdgfum0wjfnc: {
-      contract: "terra1et248fl35klhwegr7fggay8333mdgfum0wjfnc",
-      name: "MinervaDAO Governance Phase 0",
-      symbol: "MVAP0",
-      icon: "https://minerva-nft-p0.s3.amazonaws.com/Images/logo2.JPG",
-      homepage: "https://www.minerva.market",
-    },
-    terra13rxnrpjk5l8c77zsdzzq63zmavu03hwn532wn0: {
-      contract: "terra13rxnrpjk5l8c77zsdzzq63zmavu03hwn532wn0",
-      name: "GoFund US(T)",
-      symbol: "GoFund-UST",
-      icon: "https://gofundust.money/favicon.png",
-      homepage: "https://gofundust.money/",
-    },
-  },
+  testnet: {},
 };
