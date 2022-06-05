@@ -17,6 +17,8 @@ module.exports = {
     terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al: {
       protocol: "STEAK Protocol",
       name: "STEAK Liquid Token",
+      symbol: "STEAK",
+      token: "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al",
       icon: "https://liquidstaking.app/steak.png",
     },
   },
