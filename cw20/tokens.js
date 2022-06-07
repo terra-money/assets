@@ -29,6 +29,14 @@ module.exports = {
       icon: "https://astroport.fi/astro_logo.png",
       decimals: 6,
     },
+     terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8: {
+      protocol: "Astroport",
+      symbol: "xASTRO",
+      name: "Staked Astroport Token",
+      token: "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
+      icon: "https://app.astroport.fi/tokens/xAstro.png",
+      decimals: 6,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
