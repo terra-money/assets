@@ -21,6 +21,14 @@ module.exports = {
       token: "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al",
       icon: "https://liquidstaking.app/steak.png",
     },
+    terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26: {
+      protocol: "Astroport",
+      symbol: "ASTRO",
+      name: "Astroport Token",
+      token: "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
+      icon: "https://astroport.fi/astro_logo.png",
+      decimals: 6,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
