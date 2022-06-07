@@ -1473,6 +1473,7 @@ module.exports = {
       name: "BST Fancard Token",
       token: "terra1fy7lnlls8ufzfeefc98tkn66x07scud2s3d23p",
       icon: "https://c2x.world/c2x-station/icon/BSTfancard.png",
+      decimals: 0,
     },
     terra1f5m40hs40sa9nuku776swjljsa2t39h58uhlw3: {
       protocol: "C2X",
@@ -1480,6 +1481,7 @@ module.exports = {
       name: "KRX Fancard Token",
       token: "terra1f5m40hs40sa9nuku776swjljsa2t39h58uhlw3",
       icon: "https://c2x.world/c2x-station/icon/KRXfancard.png",
+      decimals: 0,
     },
   },
   testnet: {},
