@@ -1483,6 +1483,21 @@ module.exports = {
       icon: "https://c2x.world/c2x-station/icon/KRXfancard.png",
       decimals: 0,
     },
+    terra1zjhsuvuy5z7ucvx56facefmlrrgluhun27chlf: {
+      protocol: "C2X",
+      symbol: "ILT",
+      name: "ILT Token",
+      token: "terra1zjhsuvuy5z7ucvx56facefmlrrgluhun27chlf",
+      icon: "https://c2x.world/c2x-station/icon/ILT.png",
+    },
+    terra14s8p2wnvh5vpxn4fgu562m2sm9780pk5gvkf9a: {
+      protocol: "C2X",
+      symbol: "ILTfancard",
+      name: "ILT Fancard Token",
+      token: "terra14s8p2wnvh5vpxn4fgu562m2sm9780pk5gvkf9a",
+      icon: "https://c2x.world/c2x-station/icon/ILTfancard.png",
+      decimals: 0,
+    },
   },
   testnet: {},
 };
