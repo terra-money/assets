@@ -13,6 +13,7 @@ module.exports = {
       symbol: "ampLUNA",
       token: "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
       icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
+      decimals: 6,
     },
     terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al: {
       protocol: "STEAK Protocol",
@@ -20,6 +21,7 @@ module.exports = {
       symbol: "STEAK",
       token: "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al",
       icon: "https://liquidstaking.app/steak.png",
+      decimals: 6,
     },
   },
   classic: {
