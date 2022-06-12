@@ -14,6 +14,14 @@ module.exports = {
       token: "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
       icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
     },
+    terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s:{
+      protocol: "Luna Bird Board",
+      symbol: "LUBI",
+      name: "Luna Bird Token",
+      token: "terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s",
+      icon: "https://www.lunabird.network/logo.png",
+      decimals: 6,
+    },
     terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al: {
       protocol: "STEAK Protocol",
       name: "STEAK Liquid Token",
