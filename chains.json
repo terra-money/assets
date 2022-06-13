@@ -4,7 +4,7 @@
     "chainID": "phoenix-1",
     "lcd": "https://phoenix-lcd.terra.dev",
     "api": "https://phoenix-api.terra.dev",
-    "mantle": "https://phoenix-mantle.terra.dev",
+    "hive": "https://phoenix-hive.terra.dev/graphql",
     "walletconnectID": 1
   },
   "classic": {
@@ -20,7 +20,7 @@
     "chainID": "pisco-1",
     "lcd": "https://pisco-lcd.terra.dev",
     "api": "https://pisco-api.terra.dev",
-    "mantle": "https://pisco-mantle.terra.dev",
+    "hive": "https://pisco-hive.terra.dev/graphql",
     "walletconnectID": 0
   },
   "localterra": {
