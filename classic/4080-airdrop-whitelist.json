@@ -1,1 +1,27 @@
-
+{
+  "terraswap": "terraaddress...",
+  "anchor": "terraaddress...",
+  "risk-harbor": "terraaddress...",
+  "astroport": "terraaddress...",
+  "spectrum-protocol": "terraaddress...",
+  "pylon-protocol": "terraaddress...",
+  "nexus-protocol": "terraaddress...",
+  "loop-finance": "terraaddress...",
+  "aperture-finance": "terraaddress...",
+  "soluna": "terraaddress...",
+  "ink-protocol": "terraaddress...",
+  "apollodao": "terraaddress...",
+  "white-whale": "terraaddress...",
+  "edge-protocol": "terraaddress...",
+  "tfm": "terraaddress...",
+  "kujira": "terraaddress...",
+  "lido": "terraaddress...",
+  "starterra": "terraaddress...",
+  "synapse": "terraaddress...",
+  "loterra": "terraaddress...",
+  "terrafloki": "terraaddress...",
+  "prism-protocol": "terraaddress...",
+  "angel-protocol": "terraaddress...",
+  "stader": "terraaddress...",
+  "moonfarm": "terraaddress..."
+}
