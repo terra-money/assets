@@ -37,6 +37,14 @@ module.exports = {
       icon: "https://app.astroport.fi/tokens/xAstro.png",
       decimals: 6,
     },
+     terra1564y9uxzhast8sk5n47teypy4mxy7fg5vne2msuztsft7qk3pj9sxxuxmc: {
+      protocol: "TerraFloki",
+      symbol: "TFLOKI",
+      name: "TerraFloki Token",
+      token: "terra1564y9uxzhast8sk5n47teypy4mxy7fg5vne2msuztsft7qk3pj9sxxuxmc",
+      icon: "https://terrafloki.io/tf-logo.png",
+      decimals: 6,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
