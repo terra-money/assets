@@ -53,6 +53,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
       decimals: 8,
     },
+    terra1qmnxhecc3vnmhef9q7vap7spx9tgpnw9fqe8ljqfwrlz7rur9y5qu2dlp6: {
+      protocol: "Wormhole",
+      symbol: "wAVAX",
+      name: "AVAX (Portal)",
+      token: "terra1qmnxhecc3vnmhef9q7vap7spx9tgpnw9fqe8ljqfwrlz7rur9y5qu2dlp6",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png",
+      decimals: 8,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
