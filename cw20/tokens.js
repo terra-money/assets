@@ -37,6 +37,14 @@ module.exports = {
       icon: "https://app.astroport.fi/tokens/xAstro.png",
       decimals: 6,
     },
+     terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat: {
+      protocol: "Wormhole",
+      symbol: "wETH",
+      name: "Wrapped Ether (Portal)",
+      token: "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat",
+      icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
+      decimals: 8,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
