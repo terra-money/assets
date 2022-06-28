@@ -163,5 +163,15 @@ module.exports = {
       icon: "https://assets.terra.money/icon/svg/ibc/ATOM.svg",
     },
   },
-  testnet: {},
+  testnet: {
+    "C567713C9D0904098C14BA0FBEB9192C5B68B590757EE6913DC292710C8926E6": {
+      denom: "ibc/C567713C9D0904098C14BA0FBEB9192C5B68B590757EE6913DC292710C8926E6",
+      path: "transfer/channel-6",
+      base_denom: "weth-wei",
+      symbol: "axlWETH",
+      name: "Axelar Wrapped Ethereum",
+      icon: "https://assets.terra.money/icon/svg/ibc/axlETH.svg",
+      decimals: 18,
+    },
+  },
 };
