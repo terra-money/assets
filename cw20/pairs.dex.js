@@ -443,7 +443,7 @@ module.exports = {
     terra1qthlsaqccp8mxr2z4vvkhf5ynqjl86ccxg0pqn: {
       dex: "terraswap",
       type: "xyk",
-      assets: ["terra14s8p2wnvh5vpxn4fgu562m2sm9780pk5gvkf9a", "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8"],
+      assets: ["terra1zjhsuvuy5z7ucvx56facefmlrrgluhun27chlf", "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8"],
     },
   },
   testnet: {},
