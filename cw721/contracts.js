@@ -1,5 +1,22 @@
 module.exports = {
-  mainnet: {},
+  mainnet: {
+    terra1v04p5nzya7727th4eesmyj34sjwtvt78ht7q7uc8xsmxses75x4qhm0kyj: {
+      contract: "terra1v04p5nzya7727th4eesmyj34sjwtvt78ht7q7uc8xsmxses75x4qhm0kyj",
+      name: "Terrapins on Terra",
+      symbol: "PINS",
+      icon: "https://app.terrapins.money/favicon.ico",
+      homepage: "https://www.terrapinsonterra.com",
+      marketplace: [],
+    },
+    terra1ncyaafj4kt5m50tj3pftga2auuq62zzguwlntk5mtl2mdusagpkst9gmgl: {
+      contract: "terra1ncyaafj4kt5m50tj3pftga2auuq62zzguwlntk5mtl2mdusagpkst9gmgl",
+      name: "Terrapin Eggs",
+      symbol: "EGGS",
+      icon: "https://app.terrapins.money/favicon.ico",
+      homepage: "https://www.terrapinsonterra.com",
+      marketplace: [],
+    },
+  },
   classic: {
     terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc: {
       contract: "terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc",
