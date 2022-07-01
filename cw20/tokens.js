@@ -372,17 +372,17 @@ module.exports = {
     },
     terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4: {
       protocol: "LOOP",
-      symbol: "LOOP",
-      name: "LOOP token",
+      symbol: "LOOPC",
+      name: "LOOPC token",
       token: "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4",
-      icon: "https://loop.markets/token/logo2.png",
+      icon: "https://dex.loop.markets/loopc.png",
     },
     terra1jx4lmmke2srcvpjeereetc9hgegp4g5j0p9r2q: {
       protocol: "LOOP",
-      symbol: "LOOPR",
-      name: "LOOPR token",
+      symbol: "LOOPRC",
+      name: "LOOPRC token",
       token: "terra1jx4lmmke2srcvpjeereetc9hgegp4g5j0p9r2q",
-      icon: "https://loop.markets/token/logo3.png",
+      icon: "https://dex.loop.markets/looprc.png",
     },
     terra13xujxcrc9dqft4p9a8ls0w3j0xnzm6y2uvve8n: {
       protocol: "StarTerra",
