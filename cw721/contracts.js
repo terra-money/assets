@@ -1,5 +1,13 @@
 module.exports = {
   mainnet: {
+    terra1sxqeul6tr7902ru8x9tum55a7xgfv6l6z770cnpwya78rngfu8xszad92j: {
+      contract: "terra1sxqeul6tr7902ru8x9tum55a7xgfv6l6z770cnpwya78rngfu8xszad92j",
+      name: "Wicca Badge",
+      symbol: "WB",
+      icon: "https://cloudflare-ipfs.com/ipfs/QmZoJBVHb2cK36SPD61fqTcbv29KptScfsHQj1bGo5Q25F",
+      homepage: "https://www.wicca.money/",
+      marketplace: [],
+    },
     terra1v04p5nzya7727th4eesmyj34sjwtvt78ht7q7uc8xsmxses75x4qhm0kyj: {
       contract: "terra1v04p5nzya7727th4eesmyj34sjwtvt78ht7q7uc8xsmxses75x4qhm0kyj",
       name: "Terrapins on Terra",
