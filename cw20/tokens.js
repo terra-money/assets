@@ -1514,6 +1514,14 @@ module.exports = {
       icon: "https://c2x.world/c2x-station/icon/ILTfancard.png",
       decimals: 0,
     },
+    terra1ekn2a5h298endnvf7sryt3ec8pwraqpphxte0xpuhgdd3ngn3y8qezatcj: {
+      protocol: "Lira",
+      symbol: "LIRA",
+      name: "Lira Token",
+      token: "terra1ekn2a5h298endnvf7sryt3ec8pwraqpphxte0xpuhgdd3ngn3y8qezatcj",
+      icon: "https://lira.financial/images/icons/lira.svg",
+      decimals: 6,
+    },
   },
   testnet: {},
 };
