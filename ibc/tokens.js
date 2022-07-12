@@ -172,6 +172,7 @@ module.exports = {
       name: "Axelar Wrapped Ethereum",
       icon: "https://assets.terra.money/icon/svg/ibc/axlETH.svg",
       decimals: 18,
+      coinGeckoId: "weth"
     },
   },
 };
