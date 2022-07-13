@@ -24,6 +24,18 @@ module.exports = {
       homepage: "https://www.terrapinsonterra.com",
       marketplace: [],
     },
+    terra19xcvyg8ezn8f8t2fpatzfsg9kknnm3c3jhz74n2pawfv5g6kqlvspvvkvp: {
+      contract: "terra19xcvyg8ezn8f8t2fpatzfsg9kknnm3c3jhz74n2pawfv5g6kqlvspvvkvp",
+      protocol: "Terranauts",
+      name: "Terranauts",
+      symbol: "TRNT",
+      icon: "https://i.imgur.com/GEyfHid.png",
+      homepage: "https://terranauts.io",
+      marketplace: [
+        "https://randomearth.io/collections/terra19xcvyg8ezn8f8t2fpatzfsg9kknnm3c3jhz74n2pawfv5g6kqlvspvvkvp",
+        "https://knowhere.art/collection/terra19xcvyg8ezn8f8t2fpatzfsg9kknnm3c3jhz74n2pawfv5g6kqlvspvvkvp",
+      ],
+    },
   },
   classic: {
     terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc: {
