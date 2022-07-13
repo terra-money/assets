@@ -37,6 +37,14 @@ module.exports = {
       icon: "https://app.astroport.fi/tokens/xAstro.png",
       decimals: 6,
     },
+    terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j: {
+      protocol: "ValkyrieProtocol",
+      symbol: "VKR",
+      name: "VKR Token",
+      token: "terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j",
+      icon: "https://app.valkyrieprotocol.com/icon_vkr.png",
+      decimals: 6,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
@@ -470,10 +478,10 @@ module.exports = {
     },
     terra1dy9kmlm4anr92e42mrkjwzyvfqwz66un00rwr5: {
       protocol: "ValkyrieProtocol",
-      symbol: "VKR",
-      name: "VKR Token",
+      symbol: "VKRC",
+      name: "VKRC Token",
       token: "terra1dy9kmlm4anr92e42mrkjwzyvfqwz66un00rwr5",
-      icon: "https://app.valkyrieprotocol.com/icon_vkr.png",
+      icon: "https://classic-app.valkyrieprotocol.com/icon_vkr.png",
     },
     terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03: {
       protocol: "Orion Money",
