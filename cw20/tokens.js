@@ -1522,6 +1522,14 @@ module.exports = {
       icon: "https://c2x.world/c2x-station/icon/ILTfancard.png",
       decimals: 0,
     },
+    terra1yetl2gafkhtanr6utpmxp0zqtkhkc05k4dgjg0zfyf86p9fzw3ssslv0fj: {
+      protocol: "Terra",
+      symbol: "LACO",
+      name: "Local Alentejo Coin",
+      token: "terra1yetl2gafkhtanr6utpmxp0zqtkhkc05k4dgjg0zfyf86p9fzw3ssslv0fj",
+      icon: "https://static.wixstatic.com/media/1e62a0_16800265629b4d968857be056d66ceec~mv2.png/v1/fill/w_100,h_100,fp_0.50_0.50,enc_auto/1e62a0_16800265629b4d968857be056d66ceec~mv2.png",
+      decimals: 0,
+    },    
   },
   testnet: {},
 };
