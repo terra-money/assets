@@ -1,5 +1,12 @@
 module.exports = {
   mainnet: {
+    terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q: {
+      protocol: "Alem.protocol",
+      symbol: "Alem",
+      name: "alentejo.money",
+      token: "terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q",
+      icon: "https://static.wixstatic.com/media/1e62a0_42c272173eb244a893daa63902538ffe~mv2.png/v1/fill/w_560,h_560,fp_0.50_0.50,enc_auto/1e62a0_42c272173eb244a893daa63902538ffe~mv2.png",
+    },
     terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh: {
       protocol: "Stader",
       symbol: "LunaX",
