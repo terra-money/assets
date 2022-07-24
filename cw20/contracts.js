@@ -30,7 +30,7 @@ module.exports = {
       name: "STEAK Liquid Staking Hub",
       icon: "https://liquidstaking.app/steak.png",
     },
-    terra177huv6k3gyqwxcd7n32ts56tvxt68dgll0fn56k56rcvy9zeke9s5gfn3c: {
+    terra1ttspm8jgeylc6us3mlpwpmlwzr3rkesm70vn6zkfr07pz7e3rzkq73ah2j: {
       protocol: "Gidorah",
       name: "Gidorah",
       icon: "https://firebasestorage.googleapis.com/v0/b/wicca-c3bbe.appspot.com/o/app%2Fmainnet%2Ftoken%2FMIRhzK1keYKtJsRYg_oL9.jpeg?alt=media&token=5de0205f-d0f6-4a76-b765-e6dd59d7d47a",
