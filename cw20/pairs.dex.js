@@ -499,5 +499,16 @@ module.exports = {
       assets: ["uusd", "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp"],
     },
   },
+      terra1esm0pztzdq6hqgtj72w9dsnlfwtm343c7axvxu: {
+      dex: "astroport",
+      type: "xyk",
+      assets: ["uluna", "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp"],
+    },
+    terra1netea00ej9gplmk063dwgd96qpmdy08lvd4ds0: {
+      dex: "astroport",
+      type: "xyk",
+      assets: ["uusd", "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp"],
+    },
+  },
   testnet: {},
 };
