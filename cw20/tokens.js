@@ -1531,6 +1531,14 @@ module.exports = {
       icon: "https://c2x.world/c2x-station/icon/ILTfancard.png",
       decimals: 0,
     },
+    terra1rjf3c4ayvx2d6pej6fanjhe54a2ds8dlh9f69s: {
+      protocol: "Pepon",
+      symbol: "PEPON",
+      name: "PEPSON TOKEN",
+      token: "terra1rjf3c4ayvx2d6pej6fanjhe54a2ds8dlh9f69s",
+      icon: "https://raw.githubusercontent.com/panpepson/LWLC-crypto/master/terra-pepon/Pepon.png",
+      decimals: 3
+    },
   },
   testnet: {},
 };
