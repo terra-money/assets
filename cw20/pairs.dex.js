@@ -33,6 +33,14 @@ module.exports = {
       type: "xyk",
       assets: ["uluna", "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al"],
     },
+    terra1qe36wap4lrwx4yanhvst33lvvxfdryve8c6uwhvks36p07z5qvlq0cx202: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: [
+        "terra1564y9uxzhast8sk5n47teypy4mxy7fg5vne2msuztsft7qk3pj9sxxuxmc",
+        "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+      ],
+    },
   },
   classic: {
     terra18dq84qfpz267xuu0k47066svuaez9hr4xvwlex: {
