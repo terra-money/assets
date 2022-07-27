@@ -13,6 +13,15 @@ module.exports = {
       symbol: "ampLUNA",
       token: "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
       icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
+      decimals: 6,
+    },
+    terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s:{
+      protocol: "Luna Bird Board",
+      symbol: "LUBI",
+      name: "Luna Bird Token",
+      token: "terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s",
+      icon: "https://www.lunabird.network/logo.png",
+      decimals: 6,
     },
     terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al: {
       protocol: "STEAK Protocol",
@@ -43,6 +52,13 @@ module.exports = {
       name: "TerraFloki Token",
       token: "terra1564y9uxzhast8sk5n47teypy4mxy7fg5vne2msuztsft7qk3pj9sxxuxmc",
       icon: "https://terrafloki.io/tf-logo.png",
+    },
+    terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j: {
+      protocol: "ValkyrieProtocol",
+      symbol: "VKR",
+      name: "VKR Token",
+      token: "terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j",
+      icon: "https://app.valkyrieprotocol.com/icon_vkr.png",
       decimals: 6,
     },
   },
@@ -478,10 +494,10 @@ module.exports = {
     },
     terra1dy9kmlm4anr92e42mrkjwzyvfqwz66un00rwr5: {
       protocol: "ValkyrieProtocol",
-      symbol: "VKR",
-      name: "VKR Token",
+      symbol: "VKRC",
+      name: "VKRC Token",
       token: "terra1dy9kmlm4anr92e42mrkjwzyvfqwz66un00rwr5",
-      icon: "https://app.valkyrieprotocol.com/icon_vkr.png",
+      icon: "https://classic-app.valkyrieprotocol.com/icon_vkr.png",
     },
     terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03: {
       protocol: "Orion Money",
@@ -1521,6 +1537,14 @@ module.exports = {
       token: "terra14s8p2wnvh5vpxn4fgu562m2sm9780pk5gvkf9a",
       icon: "https://c2x.world/c2x-station/icon/ILTfancard.png",
       decimals: 0,
+    },
+    terra1rjf3c4ayvx2d6pej6fanjhe54a2ds8dlh9f69s: {
+      protocol: "Pepon",
+      symbol: "PEPON",
+      name: "PEPSON TOKEN",
+      token: "terra1rjf3c4ayvx2d6pej6fanjhe54a2ds8dlh9f69s",
+      icon: "https://raw.githubusercontent.com/panpepson/LWLC-crypto/master/terra-pepon/Pepon.png",
+      decimals: 3
     },
   },
   testnet: {},

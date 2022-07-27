@@ -30,6 +30,11 @@ module.exports = {
       name: "STEAK Liquid Staking Hub",
       icon: "https://liquidstaking.app/steak.png",
     },
+    terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s:{
+      protocol: "Luna Bird Board",
+      name: "Luna Bird Token",
+      icon: "https://www.lunabird.network/logo.png",
+    },
   },
   classic: {
     terra1ulgw0td86nvs4wtpsc80thv6xelk76ut7a7apj: {
