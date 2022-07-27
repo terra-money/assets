@@ -1,5 +1,10 @@
 module.exports = {
   mainnet: {
+    terra10xuatumr0g345umf7qtn0svvy83k0wxmdyf698yrs9lkytyd6srs0g2vut: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q", "uluna"],
+    },
     terra1h3wqh8fdsd8rr6rlz3yfp9sm8849wrec8vqsmkwksx0ndkqaxkjqellq28: {
       dex: "terraswap",
       type: "xyk",
