@@ -38,6 +38,48 @@ module.exports = {
       type: "xyk",
       assets: ["uluna", "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al"],
     },
+    terra1cndy6rcqgm45ssj6s9hkmftha89gu06ymecpx09pd4x0zxs4js5smpsvj2: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uluna", "terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2"],
+    },
+    terra160lewlf0ygzvjkjar5n8wxulnh8phsu6vsq4sk8e3ln3pqz58juq22ywwy: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: [
+        "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
+        "terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2",
+      ],
+    },
+    terra12jlsxqs89ytrtpm86mc0ey8yl902zhk2vy7e3h9xzfppk3mdd3qqdj9c5t: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: [
+        "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+        "terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2",
+      ],
+    },
+    terra12t3t0f0ga6hv6cw274mytcwhh9038x448ugthz9j0tkvdnlgnc5qdz2ael: {
+      dex: “astroport”,
+      type: "xyk",
+      assets: ["uluna", "terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2"],
+    },
+    terra1nmrt8ppp7jtm0nmtgxg0qcv9x4ksgvpz20l25w6fyuj28v52v6rshgse5w: {
+      dex: “astroport”,
+      type: "xyk",
+      assets: [
+        "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
+        "terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2",
+      ],
+    },
+    terra1cduckhvafxrr2h49rufmkqgkku92pjnpnevgrcvjzxsqpgmtagcscgl2j6: {
+      dex: “astroport”,
+      type: "xyk",
+      assets: [
+        "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+        "terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2",
+      ],
+    },
     terra1qe36wap4lrwx4yanhvst33lvvxfdryve8c6uwhvks36p07z5qvlq0cx202: {
       dex: "terraswap",
       type: "xyk",
@@ -457,6 +499,27 @@ module.exports = {
       dex: "terraswap",
       type: "xyk",
       assets: ["terra1zjhsuvuy5z7ucvx56facefmlrrgluhun27chlf", "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8"],
+    },
+    terra1kf6ctpmz72mta3h2y68jyg2mlnxktaudsjcxdm: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uluna", "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp"],
+    },
+    terra1yvfnqxcksy6007sp6rfu776chtugm2u7qfhved: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uusd", "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp"],
+    },
+  },
+      terra1esm0pztzdq6hqgtj72w9dsnlfwtm343c7axvxu: {
+      dex: "astroport",
+      type: "xyk",
+      assets: ["uluna", "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp"],
+    },
+    terra1netea00ej9gplmk063dwgd96qpmdy08lvd4ds0: {
+      dex: "astroport",
+      type: "xyk",
+      assets: ["uusd", "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp"],
     },
   },
   testnet: {},

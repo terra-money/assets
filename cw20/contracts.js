@@ -40,6 +40,11 @@ module.exports = {
       name: "Luna Bird Token",
       icon: "https://www.lunabird.network/logo.png",
     },
+    terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2:{
+      protocol: "Lira",
+      name: "Lira Token",
+      icon: "https://lira.financial/images/icons/lira.svg",
+    },
   },
   classic: {
     terra1ulgw0td86nvs4wtpsc80thv6xelk76ut7a7apj: {
@@ -1765,6 +1770,11 @@ module.exports = {
       protocol: "TerrnadoCash",
       name: "Terrnado Vault",
       icon: "https://terrnado.cash/logo.png",
+    },
+    terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp: {
+      protocol: "Lira",
+      name: "Lira Token",
+      icon: "https://lira.financial/images/icons/lira.svg",
     },
   },
   testnet: {},

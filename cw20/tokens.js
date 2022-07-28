@@ -92,6 +92,14 @@ module.exports = {
       icon: "https://app.valkyrieprotocol.com/icon_vkr.png",
       decimals: 6,
     },
+    terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2: {
+      protocol: "Lira",
+      symbol: "LIRA",
+      name: "Lira Token",
+      token: "terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2",
+      icon: "https://lira.financial/images/icons/lira.svg",
+      decimals: 6,
+    },
     terra1ttspm8jgeylc6us3mlpwpmlwzr3rkesm70vn6zkfr07pz7e3rzkq73ah2j: {
       protocol: "Gidorah",
       symbol: "GIDO",
@@ -1576,13 +1584,21 @@ module.exports = {
       icon: "https://c2x.world/c2x-station/icon/ILTfancard.png",
       decimals: 0,
     },
+    terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp: {
+      protocol: "Lira",
+      symbol: "LIRA",
+      name: "Lira Token",
+      token: "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp",
+      icon: "https://lira.financial/images/icons/lira.svg",
+      decimals: 6,
+    },
     terra1rjf3c4ayvx2d6pej6fanjhe54a2ds8dlh9f69s: {
       protocol: "Pepon",
       symbol: "PEPON",
       name: "PEPSON TOKEN",
       token: "terra1rjf3c4ayvx2d6pej6fanjhe54a2ds8dlh9f69s",
       icon: "https://raw.githubusercontent.com/panpepson/LWLC-crypto/master/terra-pepon/Pepon.png",
-      decimals: 3
+      decimals: 3,
     },
   },
   testnet: {},
