@@ -15,6 +15,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
       decimals: 6,
     },
+    terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh: {
+        protocol: "Stader",
+        symbol: "SD",
+        name: "SD Token",
+        token: "terra1l23rtnsp0fcfgs2zlww4gcd8dlznkm580p5yrsangcen9jjjhuqstd2sle",
+        icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png",
+        decimals: 8,
+      },
     terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct: {
       protocol: "Eris Protocol",
       symbol: "ampLUNA",
