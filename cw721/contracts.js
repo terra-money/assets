@@ -36,6 +36,22 @@ module.exports = {
         "https://knowhere.art/collection/terra19xcvyg8ezn8f8t2fpatzfsg9kknnm3c3jhz74n2pawfv5g6kqlvspvvkvp",
       ],
     },
+    terra16ds898j530kn4nnlc7xlj6hcxzqpcxxk4mj8gkcl3vswksu6s3zszs8kp2: {
+      contract: "terra16ds898j530kn4nnlc7xlj6hcxzqpcxxk4mj8gkcl3vswksu6s3zszs8kp2",
+      name: "Galactic Punks",
+      symbol: "GP",
+      icon: "https://randomearth-mirror.s3.us-east-2.amazonaws.com/punk3.jpg",
+      homepage: "https://galacticpunks.io",
+      marketplace: [],
+    },
+    terra1vn0qwkp9l53q73ajsrnexdw97ekzscexh2q5rduk2kajqrvzwtkqj4nc08: {
+      contract: "terra1vn0qwkp9l53q73ajsrnexdw97ekzscexh2q5rduk2kajqrvzwtkqj4nc08",
+      name: "Space Toadz",
+      symbol: "TOAD",
+      icon: "https://randomearth-mirror.s3.us-east-2.amazonaws.com/toadz_icon.png",
+      homepage: "https://spacetoadzterra.com",
+      marketplace: [],
+    },
   },
   classic: {
     terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc: {
