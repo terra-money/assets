@@ -1614,7 +1614,15 @@ module.exports = {
       token: "terra1rjf3c4ayvx2d6pej6fanjhe54a2ds8dlh9f69s",
       icon: "https://raw.githubusercontent.com/panpepson/LWLC-crypto/master/terra-pepon/Pepon.png",
       decimals: 3,
-    }, 
+    },
+    terra102cjx95xvww7cl9l6usxltk75ww3mpxtyw4lpm: {
+      protocol: "Tuna",
+      symbol: "TUNA",
+      name: "Tuna Money",
+      token: "terra102cjx95xvww7cl9l6usxltk75ww3mpxtyw4lpm",
+      icon: "https://tuna.money/content/images/2022/06/icon-2.png",
+      decimals: 6,
+    },
   },
   testnet: {},
 };
