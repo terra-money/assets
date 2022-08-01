@@ -114,6 +114,14 @@ module.exports = {
       token: "terra1xe8umegahlqphtpvjsuwfzfvyjfvag5h8rffsx6ezm0el4xzsf8s7uzezk",
       icon: "https://red.redacted.money/red.svg",
     },
+    terra1l23rtnsp0fcfgs2zlww4gcd8dlznkm580p5yrsangcen9jjjhuqstd2sle: {
+        protocol: "Stader",
+        symbol: "SD",
+        name: "SD Token",
+        token: "terra1l23rtnsp0fcfgs2zlww4gcd8dlznkm580p5yrsangcen9jjjhuqstd2sle",
+        icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png",
+        decimals: 8,
+      },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
@@ -1606,7 +1614,7 @@ module.exports = {
       token: "terra1rjf3c4ayvx2d6pej6fanjhe54a2ds8dlh9f69s",
       icon: "https://raw.githubusercontent.com/panpepson/LWLC-crypto/master/terra-pepon/Pepon.png",
       decimals: 3,
-    },
+    }, 
   },
   testnet: {},
 };
