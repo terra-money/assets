@@ -1599,7 +1599,15 @@ module.exports = {
       token: "terra1rjf3c4ayvx2d6pej6fanjhe54a2ds8dlh9f69s",
       icon: "https://raw.githubusercontent.com/panpepson/LWLC-crypto/master/terra-pepon/Pepon.png",
       decimals: 3,
-    },
+    }, 
+    terra1l23rtnsp0fcfgs2zlww4gcd8dlznkm580p5yrsangcen9jjjhuqstd2sle: {
+        protocol: "Stader",
+        symbol: "SD",
+        name: "SD Token",
+        token: "terra1l23rtnsp0fcfgs2zlww4gcd8dlznkm580p5yrsangcen9jjjhuqstd2sle",
+        icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png",
+        decimals: 8,
+      },
   },
   testnet: {},
 };
