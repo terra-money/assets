@@ -8,6 +8,14 @@ module.exports = {
       homepage: "https://www.wicca.money/",
       marketplace: [],
     },
+    terra1hh9rgaxtmfqfkeqkruckwah6qc4ajlxgnweexyjeh4dsptkfnhmqeelzfl: {
+      contract: "terra1hh9rgaxtmfqfkeqkruckwah6qc4ajlxgnweexyjeh4dsptkfnhmqeelzfl",
+      name: "Redacted RONINs",
+      symbol: "RONIN",
+      icon: "https://uploads-ssl.webflow.com/62b6c05b4cc8682020f10d29/62e92e15cfc25542de7b07a7_ronin-bg.png",
+      homepage: "https://redacted.money",
+      marketplace: [],
+    },
     terra1v04p5nzya7727th4eesmyj34sjwtvt78ht7q7uc8xsmxses75x4qhm0kyj: {
       contract: "terra1v04p5nzya7727th4eesmyj34sjwtvt78ht7q7uc8xsmxses75x4qhm0kyj",
       name: "Terrapins on Terra",
