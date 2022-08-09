@@ -4,6 +4,36 @@ module.exports = {
       dex: "terraswap",
       type: "xyk",
       assets: ["terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k", "uluna"],
+    },    
+    terra1gu75wek7kq8h4ee6eztmfu73nr3esl6al0qjawkhya3g57sz6jvsukpj3z: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg", "terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q"],
+    },    
+    terra1eryp83n366l4583nk8ln5qv7lvdeejzsx7vekf32e6qj33cxwguqns2vxr: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8", "terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q"],
+    },    
+    terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8", "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg"],
+    },    
+    terra1nfv5kddgfj2y77phtu0yumwnw5vz4m8anz2avaw4dpf2w0wlu02s9rkc56: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k", "terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q"],
+    },    
+    terra1wm9dlwgtufjnjzuuee8ftqy3t9vq728vhyxv0tuqgzk7dt3fmwwsecqh8j: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k", "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg"],
+    },    
+    terra1zmv0qqangw0fp78xtzyzksmzl6weev5pm6d6y44k4z4lvszv6gqq04m2l0: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k", "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8"],
     },
     terra17neqggggg4rlwh2ksk0ys8hjtxapfa4n0k5ppclw9arnh3cez93qkh4xyp: {
       dex: "terraswap",
