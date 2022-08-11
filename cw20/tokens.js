@@ -6,6 +6,7 @@ module.exports = {
       name: "dinheiro",
       token: "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
       icon: "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png",
+      decimals: 0,
     },      
     terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8: {
       protocol: "portugal.protocol",
@@ -13,6 +14,7 @@ module.exports = {
       name: "real",
       token: "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8",
       icon: "https://static.wixstatic.com/media/1e62a0_89af25478e5144089de9292b990493e2~mv2.png",
+      decimals: 6,
     },      
     terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg: {
       protocol: "portugal.protocol",
@@ -20,6 +22,7 @@ module.exports = {
       name: "escudo",
       token: "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
       icon: "https://static.wixstatic.com/media/1e62a0_37bd3a14b88646f987919ec4ea30533c~mv2.png",
+      decimals: 6,
     },      
     terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q: {
       protocol: "alentejo.protocol",
@@ -27,6 +30,7 @@ module.exports = {
       name: "alentejo.money",
       token: "terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q",
       icon: "https://static.wixstatic.com/media/1e62a0_42c272173eb244a893daa63902538ffe~mv2.png/v1/fill/w_560,h_560,fp_0.50_0.50,enc_auto/1e62a0_42c272173eb244a893daa63902538ffe~mv2.png",
+      decimals: 6,
     },
     terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh: {
       protocol: "Stader",
