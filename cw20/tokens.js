@@ -1,5 +1,13 @@
 module.exports = {
   mainnet: {
+    terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw: {
+      protocol: "Orne",
+      symbol: "ORNE",
+      name: "Orne Token",
+      token: "terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw",
+      icon: "https://orne.io/img/token_icon.png",
+      decimals: 6,
+    },
     terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k: {
       protocol: "portugal.protocol",
       symbol: "Dinheiros",
