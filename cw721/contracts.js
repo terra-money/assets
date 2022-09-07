@@ -69,6 +69,15 @@ module.exports = {
     },
   },
   classic: {
+    terra1yvsf4qexgs45n7pfw3e0qyfukzvsqc7gstfrwe: {
+      contract: "terra1yvsf4qexgs45n7pfw3e0qyfukzvsqc7gstfrwe",
+      protocol: "Luna Burning Knights",
+      name: "Luna Burning Knights",
+      symbol: "LBK",
+      icon: "https://lunaburningknights.io/icon.png",
+      homepage: "https://lunaburningknights.io/",
+      marketplace: ["https://launchpad.lunapunks.io/market/2/1"],
+    },
     terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc: {
       contract: "terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc",
       protocol: "Derby Stars",
@@ -196,8 +205,8 @@ module.exports = {
       contract: "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv",
       name: "LunaPunks",
       symbol: "LunaPunks",
-      icon: "https://lunapunks.io/hero.jpg",
-      marketplace: ["https://lunapunks.io/market"],
+      icon: "https://classic.lunapunks.io/hero.jpg",
+      marketplace: ["https://classic.lunapunks.io/market"],
     },
     terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh: {
       contract: "terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh",
