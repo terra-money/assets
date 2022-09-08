@@ -67,6 +67,14 @@ module.exports = {
       icon: "https://gateway.pinata.cloud/ipfs/QmSSoD6PTs5LqLJUntdRRZ4mLkvgNszpsmnFLjZYhLuTm4",
       marketplace: ["https://knowhere.art/collections/terra17vysjt8ws64v8w696mavjpqs8mksf8s993qghlust9yey8qcmppqnhgw0e","https://talis.art/collection/62e7f8936f292bb2921775a4"],
     },
+    terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7: {
+      contract: "terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7",
+      name: "Skeleton Punks",
+      symbol: "SKELTONPUNKS",
+      icon: "https://skeletonpunks.club/img/sp_k.png",
+      homepage: "https://skeletonpunks.club/",
+      marketplace: [],
+    },
   },
   classic: {
     terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc: {
