@@ -43,7 +43,7 @@ module.exports = {
     terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh: {
       protocol: "Stader",
       symbol: "LunaX",
-      name: "LunaX Token",
+      name: "Stader LunaX Token",
       token: "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
       icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
       decimals: 6,
@@ -51,6 +51,7 @@ module.exports = {
     terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct: {
       protocol: "Eris Protocol",
       symbol: "ampLUNA",
+      name: "Eris Protocol ampLUNA token",
       token: "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
       icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
       decimals: 6,
@@ -65,7 +66,7 @@ module.exports = {
     },
     terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al: {
       protocol: "STEAK Protocol",
-      name: "STEAK Liquid Token",
+      name: "STEAK Protocol STEAK token",
       symbol: "STEAK",
       token: "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al",
       icon: "https://liquidstaking.app/steak.png",
@@ -120,7 +121,7 @@ module.exports = {
     terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j: {
       protocol: "ValkyrieProtocol",
       symbol: "VKR",
-      name: "VKR Token",
+      name: "Valkyrie Protocol VKR Token",
       token: "terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j",
       icon: "https://app.valkyrieprotocol.com/icon_vkr.png",
       decimals: 6,
@@ -143,7 +144,7 @@ module.exports = {
     terra1xe8umegahlqphtpvjsuwfzfvyjfvag5h8rffsx6ezm0el4xzsf8s7uzezk: {
       protocol: "Redacted.money",
       symbol: "RED",
-      name: "Red",
+      name: "Redacted.Money RED Token",
       token: "terra1xe8umegahlqphtpvjsuwfzfvyjfvag5h8rffsx6ezm0el4xzsf8s7uzezk",
       icon: "https://red.redacted.money/red.svg",
     },
