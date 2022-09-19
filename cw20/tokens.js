@@ -87,10 +87,18 @@ module.exports = {
       icon: "https://app.astroport.fi/tokens/xAstro.png",
       decimals: 6,
     },
+     terra16h7keds26d52xj8rn9jfx6lj2x0ja79lt56yxnmlm4xsttf5mu5smq5f78: {
+      protocol: "Wormhole",
+      symbol: "wLUNC",
+      name: "LUNC (Portal)",
+      token: "terra16h7keds26d52xj8rn9jfx6lj2x0ja79lt56yxnmlm4xsttf5mu5smq5f78",
+      icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W/logo.png",
+      decimals: 6,
+    },
      terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat: {
       protocol: "Wormhole",
       symbol: "wETH",
-      name: "Wrapped Ether (Portal)",
+      name: "Ether (Portal)",
       token: "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
       decimals: 8,
@@ -98,7 +106,7 @@ module.exports = {
     terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg: {
       protocol: "Wormhole",
       symbol: "wSOL",
-      name: "Wrapped SOL",
+      name: "SOL (Portal)",
       token: "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
       decimals: 8,
