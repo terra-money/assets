@@ -47,347 +47,327 @@ module.exports = {
     },
   },
   classic: {
-    terra1ulgw0td86nvs4wtpsc80thv6xelk76ut7a7apj: {
+    terra1jkndu9w5attpz09ut02sgey5dd3e8sq5watzm0: {
       protocol: "Terraswap",
       name: "TokenFactory",
       icon: "https://whitelist.mirror.finance/icon/terraswap.png",
     },
-    terra1amv303y8kzxuegvurh0gug2xe9wkgj65enq2ux: {
+    terra15vuax7dp574agd0p7pqc0t634h29y89t56al0q: {
       protocol: "Terraswap",
       name: "MIR-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/MIR.png",
     },
-    terra17gjf2zehfvnyjtdgua9p9ygquk6gukxe7ucgwh: {
+    terra1ktq0v8ut73k4te6exzfdyxge9uh94fz7rgkuka: {
       protocol: "Terraswap",
       name: "MIR-UST LP",
       icon: "https://whitelist.mirror.finance/icon/MIR.png",
     },
-    terra1774f8rwx76k7ruy0gqnzq25wh7lmd72eg6eqp5: {
+    terra1khjnf8qwlun4k4c2pvn92qw8e77e6ctkpq9n2e: {
       protocol: "Terraswap",
       name: "mAAPL-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/AAPL.png",
     },
-    terra122asauhmv083p02rhgyp7jn7kmjjm4ksexjnks: {
+    terra1z7ura0m4gg6zcp53fw5vx9cjhjsndvvpdy92ge: {
       protocol: "Terraswap",
       name: "mAAPL-UST LP",
       icon: "https://whitelist.mirror.finance/icon/AAPL.png",
     },
-    terra1u56eamzkwzpm696hae4kl92jm6xxztar9uhkea: {
+    terra1nffr0xa02j7hm7ay2x73fxd4y9cfjrxrt5chjl: {
       protocol: "Terraswap",
       name: "mGOOGL-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/GOOGL.png",
     },
-    terra1falkl6jy4087h4z567y2l59defm9acmwcs70ts: {
+    terra13vx5qfefgw9trpzcdgtvp3w63qlknk954tatj6: {
       protocol: "Terraswap",
       name: "mGOOGL-UST LP",
       icon: "https://whitelist.mirror.finance/icon/GOOGL.png",
     },
-    terra1pdxyk2gkykaraynmrgjfq2uu7r9pf5v8x7k4xk: {
+    terra1fts4e488k0u9xc6etggjdqrcnxvmj48vmd23ly: {
       protocol: "Terraswap",
       name: "mTSLA-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/TSLA.png",
     },
-    terra1ygazp9w7tx64rkx5wmevszu38y5cpg6h3fk86e: {
+    terra1tfxtdv9x39m4gecmdg4mpkvxf5tfrslte7ea3s: {
       protocol: "Terraswap",
       name: "mTSLA-UST LP",
       icon: "https://whitelist.mirror.finance/icon/TSLA.png",
     },
-    terra1yppvuda72pvmxd727knemvzsuergtslj486rdq: {
+    terra1khyj5x39ryfn26thsv2l499pz0upgkye277ljf: {
       protocol: "Terraswap",
       name: "mNFLX-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/NFLX.png",
     },
-    terra1mwu3cqzvhygqg7vrsa6kfstgg9d6yzkgs6yy3t: {
+    terra1gqfhyqlqmh09whk47y03a56azp76v5nl2qc3wc: {
       protocol: "Terraswap",
       name: "mNFLX-UST LP",
       icon: "https://whitelist.mirror.finance/icon/NFLX.png",
     },
-    terra1dkc8075nv34k2fu6xn6wcgrqlewup2qtkr4ymu: {
+    terra1n9dgrp7e8fxds75ffflaqfk9f7edeswnd7x2pc: {
       protocol: "Terraswap",
       name: "mQQQ-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/QQQ.png",
     },
-    terra16j09nh806vaql0wujw8ktmvdj7ph8h09ltjs2r: {
+    terra19ynuzuwg9eymlyk745vw8suna2r2f20fu8uc8a: {
       protocol: "Terraswap",
       name: "mQQQ-UST LP",
       icon: "https://whitelist.mirror.finance/icon/QQQ.png",
     },
-    terra1ea9js3y4l7vy0h46k4e5r5ykkk08zc3fx7v4t8: {
+    terra1l94x25cx7xj338vnq53aq26kfey9tg8xxa89kt: {
       protocol: "Terraswap",
       name: "mTWTR-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/TWTR.png",
     },
-    terra1fc5a5gsxatjey9syq93c2n3xq90n06t60nkj6l: {
+    terra1qdzjc0n0ea45slkhmcm9drwzkusgazdc72rule: {
       protocol: "Terraswap",
       name: "mTWTR-UST LP",
       icon: "https://whitelist.mirror.finance/icon/TWTR.png",
     },
-    terra10ypv4vq67ns54t5ur3krkx37th7j58paev0qhd: {
+    terra1f856nukh95naqnewzyjvvm7u22hrg228c9lvn8: {
       protocol: "Terraswap",
       name: "mMSFT-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/MSFT.png",
     },
-    terra14uaqudeylx6tegamqmygh85lfq8qg2jmg7uucc: {
+    terra1r57zvkw0tf8ekz2qukhhzmy8vph2vv803u2376: {
       protocol: "Terraswap",
       name: "mMSFT-UST LP",
       icon: "https://whitelist.mirror.finance/icon/MSFT.png",
     },
-    terra1vkvmvnmex90wanque26mjvay2mdtf0rz57fm6d: {
+    terra1lfxjt85f27fry6szz4x3fm2rhf806m4uj9sxcw: {
       protocol: "Terraswap",
       name: "mAMZN-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/AMZN.png",
     },
-    terra1q7m2qsj3nzlz5ng25z5q5w5qcqldclfe3ljup9: {
+    terra142s89pwnjx54sgk2j9jh6fr69vgaqgrajz79uk: {
       protocol: "Terraswap",
       name: "mAMZN-UST LP",
       icon: "https://whitelist.mirror.finance/icon/AMZN.png",
     },
-    terra1afdz4l9vsqddwmjqxmel99atu4rwscpfjm4yfp: {
+    terra13h83g8cv50e98kk450pkpk76fmjeryd32zvef6: {
       protocol: "Terraswap",
       name: "mBABA-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/BABA.png",
     },
-    terra1stfeev27wdf7er2uja34gsmrv58yv397dlxmyn: {
+    terra1sxu9nuzung9tw2eklqf80tcm3nyct68tvn42lr: {
       protocol: "Terraswap",
       name: "mBABA-UST LP",
       icon: "https://whitelist.mirror.finance/icon/BABA.png",
     },
-    terra1q2cg4sauyedt8syvarc8hcajw6u94ah40yp342: {
-      protocol: "Terraswap",
-      name: "mIAU (Delisted)-UST Pair",
-      icon: "https://whitelist.mirror.finance/icon/IAU.png",
-    },
-    terra1jl4vkz3fllvj6fchnj2trrm9argtqxq6335ews: {
-      protocol: "Terraswap",
-      name: "mIAU (Delisted)-UST LP",
-      icon: "https://whitelist.mirror.finance/icon/IAU.png",
-    },
-    terra15kkctr4eug9txq7v6ks6026yd4zjkrm3mc0nkp: {
+    terra142acj4pyg8tf2y4rcg70r6lw7jr5sg3zdv2gga: {
       protocol: "Terraswap",
       name: "mIAU-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/IAU.png",
     },
-    terra1ndlx5ndkknvmgj6s5ggmdlhjjsz0w6wrnwn5cf: {
+    terra1nem0s83nfmcc4jn5vlwqwrepxv4w7uss278s4m: {
       protocol: "Terraswap",
       name: "mIAU-UST LP",
       icon: "https://whitelist.mirror.finance/icon/IAU.png",
     },
-    terra1f6d9mhrsl5t6yxqnr4rgfusjlt3gfwxdveeyuy: {
+    terra12h3m2vapc3m3fdzzpkhux3wtcycug6gl00rhr2: {
       protocol: "Terraswap",
       name: "mSLV-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/SLV.png",
     },
-    terra178cf7xf4r9d3z03tj3pftewmhx0x2p77s0k6yh: {
+    terra1kstm6e9lue2m8v87tzm96azn9rav4u6a09yc32: {
       protocol: "Terraswap",
       name: "mSLV-UST LP",
       icon: "https://whitelist.mirror.finance/icon/SLV.png",
     },
-    terra1zey9knmvs2frfrjnf4cfv4prc4ts3mrsefstrj: {
+    terra1p26jlj9mtsxrmnv5zm7n0r6zqks4gyt2qd8rvf: {
       protocol: "Terraswap",
       name: "mUSO-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/USO.png",
     },
-    terra1utf3tm35qk6fkft7ltcnscwml737vfz7xghwn5: {
+    terra1pkuczv328lwpxy6w0kw52ke6emjvn93n3njpqh: {
       protocol: "Terraswap",
       name: "mUSO-UST LP",
       icon: "https://whitelist.mirror.finance/icon/USO.png",
     },
-    terra1yngadscckdtd68nzw5r5va36jccjmmasm7klpp: {
-      protocol: "Terraswap",
-      name: "mVIXY (Delisted)-UST Pair",
-      icon: "https://whitelist.mirror.finance/icon/VIXY.png",
-    },
-    terra1cmrl4txa7cwd7cygpp4yzu7xu8g7c772els2y8: {
-      protocol: "Terraswap",
-      name: "mVIXY (Delisted)-UST LP",
-      icon: "https://whitelist.mirror.finance/icon/VIXY.png",
-    },
-    terra1krny2jc0tpkzeqfmswm7ss8smtddxqm3mxxsjm: {
+    terra1e8dxc7saepd8l7cru73eryaakmrk67fc4qgw5j: {
       protocol: "Terraswap",
       name: "mVIXY-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/VIXY.png",
     },
-    terra1ekd58y58vq4gmxlzpc27dwuhw7wmms928ftuep: {
+    terra1sfu56eqhepfk6snvc64srx24s5gecyejag486r: {
       protocol: "Terraswap",
       name: "mVIXY-UST LP",
       icon: "https://whitelist.mirror.finance/icon/VIXY.png",
     },
-    terra1gq7lq389w4dxqtkxj03wp0fvz0cemj0ek5wwmm: {
+    terra1pyx0xvdeqmn8r7ljakjwx6z852zg25kxpesyn0: {
       protocol: "Terraswap",
       name: "mABNB-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/ABNB.png",
     },
-    terra1jmauv302lfvpdfau5nhzy06q0j2f9te4hy2d07: {
+    terra1zl55zufg86ruky5fh6yk70h333rgj3yftyksp6: {
       protocol: "Terraswap",
       name: "mABNB-UST LP",
       icon: "https://whitelist.mirror.finance/icon/ABNB.png",
     },
-    terra1prfcyujt9nsn5kfj5n925sfd737r2n8tk5lmpv: {
+    terra13awymgywq8nth34qgjaa6rm6junfqv3nxaupnw: {
       protocol: "Terraswap",
       name: "mBTC-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/BTC.png",
     },
-    terra1d34edutzwcz6jgecgk26mpyynqh74j3emdsnq5: {
+    terra1aw52tgnmu3dfeguy36vm3we3ju0v6dhnvkj2cg: {
       protocol: "Terraswap",
       name: "mBTC-UST LP",
       icon: "https://whitelist.mirror.finance/icon/BTC.png",
     },
-    terra14fyt2g3umeatsr4j4g2rs8ca0jceu3k0mcs7ry: {
+    terra126fv7f8e3qgpc0g74vnp0gzks57r8z2ec2jh6j: {
       protocol: "Terraswap",
       name: "mETH-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/ETH.png",
     },
-    terra16auz7uhnuxrj2dzrynz2elthx5zpps5gs6tyln: {
+    terra1tlw7qds9n5pmw659488ugteq32ve6m2mdnvc8y: {
       protocol: "Terraswap",
       name: "mETH-UST LP",
       icon: "https://whitelist.mirror.finance/icon/ETH.png",
     },
-    terra1yl2atgxw422qxahm02p364wtgu7gmeya237pcs: {
+    terra10u8rwg2wjj4x2wyyhddjkpkkp8v40thyyg0gwj: {
       protocol: "Terraswap",
       name: "mFB-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/FB.png",
     },
-    terra1jh2dh4g65hptsrwjv53nhsnkwlw8jdrxaxrca0: {
+    terra1ujpn0k55faap5cqav45rcs4qydtyekpqm3jyxh: {
       protocol: "Terraswap",
       name: "mFB-UST LP",
       icon: "https://whitelist.mirror.finance/icon/FB.png",
     },
-    terra108ukjf6ekezuc52t9keernlqxtmzpj4wf7rx0h: {
+    terra13szfqtcjq98yjyalghplmyq0fdlafaga09z40q: {
       protocol: "Terraswap",
       name: "mGS-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/GS.png",
     },
-    terra17smg3rl9vdpawwpe7ex4ea4xm6q038gp2chge5: {
+    terra1egnufc5nzjch6r9nuan4ywc90nmtyr5fqq6cv6: {
       protocol: "Terraswap",
       name: "mGS-UST LP",
       icon: "https://whitelist.mirror.finance/icon/GS.png",
     },
-    terra17eakdtane6d2y7y6v0s79drq7gnhzqan48kxw7: {
+    terra12xus7trxaqjnd30q4z7xzvvwnqar2ne4f7304w: {
       protocol: "Terraswap",
       name: "mGME-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/GME.png",
     },
-    terra1azk43zydh3sdxelg3h4csv4a4uef7fmjy0hu20: {
+    terra1dp5pt02qxmla9a88alp3ljl5m97p5ge690p50h: {
       protocol: "Terraswap",
       name: "mGME-UST LP",
       icon: "https://whitelist.mirror.finance/icon/GME.png",
     },
-    terra1uenpalqlmfaf4efgtqsvzpa3gh898d9h2a232g: {
+    terra1smwa4uj94ecy8qtenezzew0z8mur9vy443pqc5: {
       protocol: "Terraswap",
       name: "mAMC-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/AMC.png",
     },
-    terra1mtvslkm2tgsmh908dsfksnqu7r7lulh24a6knv: {
+    terra1mhr8snhqv5328j4hz9gwhvz77rf2efgtv8xpyh: {
       protocol: "Terraswap",
       name: "mAMC-UST LP",
       icon: "https://whitelist.mirror.finance/icon/AMC.png",
     },
-    terra14hklnm2ssaexjwkcfhyyyzvpmhpwx6x6lpy39s: {
+    terra1rnc5cp7r9nxrskhup9uqs9v0e43hmm6u9xydec: {
       protocol: "Terraswap",
       name: "mSPY-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/SPY.png",
     },
-    terra1jqqegd35rg2gjde54adpj3t6ecu0khfeaarzy9: {
+    terra13p6glny4ltdtrlptq2g9gs3e8m35t55uwgs9ea: {
       protocol: "Terraswap",
       name: "mSPY-UST LP",
       icon: "https://whitelist.mirror.finance/icon/SPY.png",
     },
-    terra1h7t2yq00rxs8a78nyrnhlvp0ewu8vnfnx5efsl: {
+    terra1yn9quy0xsvjenh3l96lc2ff7l0s3r7yk43qn9f: {
       protocol: "Terraswap",
       name: "mCOIN-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/COIN.png",
     },
-    terra1ktckr8v7judrr6wkwv476pwsv8mht0zqzw2t0h: {
+    terra1ttul46957r00dkxuduqcadn5yuhqrspdk7hvga: {
       protocol: "Terraswap",
       name: "mCOIN-UST LP",
       icon: "https://whitelist.mirror.finance/icon/COIN.png",
     },
-    terra1ze5f2lm5clq2cdd9y2ve3lglfrq6ap8cqncld8: {
+    terra1l5xws6n5wyhjr46cxhvnmfdqqck2xd9tyq0ze4: {
       protocol: "Terraswap",
       name: "mGLXY-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/GLXY.png",
     },
-    terra1pjgzke6h5v4nz978z3a92gqajwhn8yyh5kv4zv: {
+    terra19yxmfrdhdgz5xhpcyz0sje40tnxlq2psfpr4gd: {
       protocol: "Terraswap",
       name: "mGLXY-UST LP",
       icon: "https://whitelist.mirror.finance/icon/GLXY.png",
     },
-    terra18cxcwv0theanknfztzww8ft9pzfgkmf2xrqy23: {
+    terra1zpets4h5zyvhln3muemyvk7cwvmwmam4tp8c5w: {
       protocol: "Terraswap",
       name: "mAMD-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/AMD.png",
     },
-    terra1m8mr9u3su46ezxwf7z7xnvm0jsapl2jd8vgefh: {
+    terra109fa5jzs7vvkey8mhuacpns8lczrrucpv30j80: {
       protocol: "Terraswap",
       name: "mAMD-UST LP",
       icon: "https://whitelist.mirror.finance/icon/AMD.png",
     },
-    terra17rvtq0mjagh37kcmm4lmpz95ukxwhcrrltgnvc: {
+    terra1ut8zf8q03vcutkqgfhd8vep4xzkstt4jhap4cc: {
       protocol: "Terraswap",
       name: "mDOT-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/DOT.png",
     },
-    terra1p60datmmf25wgssguv65ltds3z6ea3me74nm2e: {
+    terra14y8396cv7trzufwknxy0jd545jdagx5d0n82ce: {
       protocol: "Terraswap",
       name: "mDOT-UST LP",
       icon: "https://whitelist.mirror.finance/icon/DOT.png",
     },
-    terra1u3pknaazmmudfwxsclcfg3zy74s3zd3anc5m52: {
+    terra10z6670zcw0787a6p5ydxtct5ff37g3tnz2dfaa: {
       protocol: "Terraswap",
       name: "mSQ-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/SQ.png",
     },
-    terra1mv3pgkzs4krcennqj442jscg6jv84cejrs50n2: {
+    terra1yjqnl9em87f77x4l7cj9ush02w9t7p6rvhmrgm: {
       protocol: "Terraswap",
       name: "mSQ-UST LP",
       icon: "https://whitelist.mirror.finance/icon/SQ.png",
     },
-    terra1a5cc08jt5knh0yx64pg6dtym4c4l8t63rhlag3: {
+    terra1cgsuvt2nyxxqc6gfg39q2h99s3877mhyhd29uf: {
       protocol: "Terraswap",
       name: "mARKK-UST Pair",
       icon: "https://whitelist.mirror.finance/icon/ARKK.png",
     },
-    terra1veqh8yc55mhw0ttjr5h6g9a6r9nylmrc0nzhr7: {
+    terra1qzf6d0jp4seajurxtp6gfvr4gc3qe42mj5mzem: {
       protocol: "Terraswap",
       name: "mARKK-UST LP",
       icon: "https://whitelist.mirror.finance/icon/ARKK.png",
     },
-    terra1zw0kfxrxgrs5l087mjm79hcmj3y8z6tljuhpmc: {
+    terra1erfdlgdtt9e05z0j92wkndwav4t75xzyapntkv: {
       protocol: "Terraswap",
       name: "LUNA-KRT Pair",
       icon: "https://assets.terra.money/icon/60/KRT.png",
     },
-    terra12dnl585uxzddjw9hw4ca694f054shgpg93cg90: {
+    terra1mdujhgx37fjg7wrwqj98mkuu6knks7ap934987: {
       protocol: "Terraswap",
       name: "LUNA-KRT LP",
       icon: "https://assets.terra.money/icon/60/KRT.png",
     },
-    terra1sndgzq62wp23mv20ndr4sxg6k8xcsudsy87uph: {
+    terra16pwrn7frj4d8r4dfc3l8y3xkt5uk2505ad7nvm: {
       protocol: "Terraswap",
       name: "LUNA-MNT Pair",
       icon: "https://assets.terra.money/icon/60/MNT.png",
     },
-    terra1xqeym28j9xgv0p93pwwt6qcxf9tdvf9ztfxf0w: {
+    terra1rckmyh59j6lg29432yhy088q3umcd3ssc0pkwf: {
       protocol: "Terraswap",
       name: "LUNA-MNT LP",
       icon: "https://assets.terra.money/icon/60/MNT.png",
     },
-    terra1vs2vuks65rq7xj78mwtvn7vvnm2gn7adjlr002: {
+    terra1gl4v79vhrdzjus9hcs69jsf9n8t7grnuzcv6kv: {
       protocol: "Terraswap",
       name: "LUNA-SDT Pair",
       icon: "https://assets.terra.money/icon/60/SDT.png",
     },
-    terra1mljg7dvzknqh3gc62emagf7hwxxg8efemennp8: {
+    terra18v59jt68wdqv2np80fq3cgwrv3nr0tx6enxl6a: {
       protocol: "Terraswap",
       name: "LUNA-SDT LP",
       icon: "https://assets.terra.money/icon/60/SDT.png",
     },
-    terra1tndcaqxkpc5ce9qee5ggqf430mr2z3pefe5wj6: {
+    terra1l7vy20x940je7lskm6x9s839vjsmekz9k9mv7g: {
       protocol: "Terraswap",
       name: "LUNA-UST Pair",
       icon: "https://assets.terra.money/icon/60/UST.png",
     },
-    terra17dkr9rnmtmu7x4azrpupukvur2crnptyfvsrvr: {
+    terra1urt477n29estvze3nuqp06y3me8u0tfehjc8e6: {
       protocol: "Terraswap",
       name: "LUNA-UST LP",
       icon: "https://assets.terra.money/icon/60/UST.png",
@@ -437,39 +417,39 @@ module.exports = {
       name: "Limit Order",
       icon: "https://whitelist.mirror.finance/icon/MIR.png",
     },
-    terra1gm5p3ner9x9xpwugn9sp6gvhd0lwrtkyrecdn3: {
+    terra15qa20t4hrq27ugcyut363mum72hdlgcqnannm2: {
       protocol: "Terraswap",
       name: "ANC-UST Pair",
       icon: "https://whitelist.anchorprotocol.com/logo/ANC.png",
     },
-    terra1gecs98vcuktyfkrve9czrpgtg0m3aq586x6gzm: {
+    terra1lyzxxc0jppvtnptlcssy32mkwrj40tnjz5r7d3: {
       protocol: "Terraswap",
       name: "ANC-UST LP",
       icon: "https://whitelist.anchorprotocol.com/logo/ANC.png",
     },
-    terra1k30c303e059kqhz705a77kgdhr2ndldfdxjvsr: {
+    terra1j7lnjyupj3v78m2f5n8364y2h0m3pw83sh8tfe: {
       protocol: "Terraswap",
       name: "wsstSOL-UST Pair",
       icon: "https://static.lido.fi/stSOL/stSOL.png",
     },
-    terra17m0ujjyw0na6jmjspl7ykzzuu675c67rl7m9gl: {
+    terra1egjzf8kd4qcrzrv872m6a5r5n9j3w8c526z4p6: {
       protocol: "Terraswap",
       name: "wsstSOL-UST LP",
       icon: "https://static.lido.fi/stSOL/stSOL.png",
     },
-    terra1nuy34nwnsh53ygpc4xprlj263cztw7vc99leh2: {
+    terra18je0chakhsnp8wyur0tyvuygz3c05kna06sdd7: {
       protocol: "Terraswap",
       name: "bLUNA-LUNA LP",
       icon: "https://whitelist.anchorprotocol.com/logo/ANC.png",
     },
     terra1mv3tksqwfextmnejw8s7ada9qu3pwav098qfxu: {
       protocol: "Terraswap",
-      name: "wewstETH-UST Pair",
+      name: "wewstETH-UST Pair (Deprecated)",
       icon: "https://static.lido.fi/wstETH/wstETH.png",
     },
     terra1xgkkmc6luamzndndxtpg0520ajsnzzplcavq76: {
       protocol: "Terraswap",
-      name: "wewstETH-UST LP",
+      name: "wewstETH-UST LP (Deprecated)",
       icon: "https://static.lido.fi/wstETH/wstETH.png",
     },
     terra1mtwph2juhj0rvjz7dy92gvl6xvukaxu8rfv8ts: {
@@ -1337,12 +1317,12 @@ module.exports = {
       name: "Protocol Revenue Pool",
       icon: "https://assets.kujira.app/kuji.png",
     },
-    terra19fjaurx28dq4wgnf9fv3qg0lwldcln3jqafzm6: {
+    terra1zh33l9e6pj385jpum6uyngwhhe62p9gfaph2gl: {
       protocol: "Terraswap",
       name: "PLY-UST Pair",
       icon: "https://playnity.io/uploads/logo/logo100.png",
     },
-    terra1h69kvcmg8jnq7ph2r45k6md4afkl96ugg73amc: {
+    terra1p3twrxme27qrh9sf7day9v9qpn345vvt0p8trk: {
       protocol: "Terraswap",
       name: "PLY-UST LP",
       icon: "https://playnity.io/uploads/logo/logo100.png",
