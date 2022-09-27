@@ -1656,6 +1656,14 @@ module.exports = {
       icon: "https://tuna.money/content/images/2022/06/icon-2.png",
       decimals: 6,
     },
+    terra13j2k5rfkg0qhk58vz63cze0uze4hwswlrfnm0fa4rnyggjyfrcnqcrs5z2: {
+      protocol: "Terra Poker",
+      symbol: "TPT",
+      name: "Terra Poker Token",
+      token: "terra13j2k5rfkg0qhk58vz63cze0uze4hwswlrfnm0fa4rnyggjyfrcnqcrs5z2",
+      icon: "https://terra.poker/ico/ms-icon-310x310.png",
+      decimals: 6,
+    }
   },
   testnet: {},
 };
