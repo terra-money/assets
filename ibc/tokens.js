@@ -144,6 +144,14 @@ module.exports = {
       name: "USK",
       icon: "https://assets.terra.money/icon/svg/ibc/USK.svg",
     },
+    "B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07": {
+      denom: "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
+      path: "transfer/channel-10",
+      base_denom: "ukuji",
+      symbol: "KUJI",
+      name: "Kujira",
+      icon: "https://assets.terra.money/icon/svg/ibc/KUJI.svg",
+    },
   },
   classic: {
     "64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860": {
