@@ -136,6 +136,14 @@ module.exports = {
       name: "Graviton",
       icon: "https://assets.terra.money/icon/svg/ibc/GRAV.svg",
     },
+    "14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110": {
+      denom: "ibc/14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110",
+      path: "transfer/channel-10",
+      base_denom: "factory:kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7:uusk",
+      symbol: "USK",
+      name: "USK",
+      icon: "https://assets.terra.money/icon/svg/ibc/USK.svg",
+    },
     "B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07": {
       denom: "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
       path: "transfer/channel-10",
@@ -143,7 +151,7 @@ module.exports = {
       symbol: "KUJI",
       name: "Kujira",
       icon: "https://assets.terra.money/icon/svg/ibc/KUJI.svg",
-    }
+    },
   },
   classic: {
     "64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860": {
