@@ -82,6 +82,13 @@ module.exports = {
       icon: "https://storage.googleapis.com/public-knowhere/collections/terrabots.jpeg",
       marketplace: ["https://knowhere.art/collections/terra1zcafgvq74ef8zu5mc62njfprsf3cr33xvan7r4nja269t280djrqkyrjsx"],
     },
+    terra1j6l6q3cnwqgpldf2k92mce2cd888wtecz3fun7yffcpghw3wn9qsgl52nv: {
+      contract: "terra1j6l6q3cnwqgpldf2k92mce2cd888wtecz3fun7yffcpghw3wn9qsgl52nv",
+      name: "Doodle Baby Ape",
+      symbol: "DBAPE",
+      icon: "https://storage.googleapis.com/public-knowhere/cover-test/18a5a6d4-a348-46df-a9be-5db5bb4b9afd.png",
+      marketplace: ["https://knowhere.art/collections/terra1j6l6q3cnwqgpldf2k92mce2cd888wtecz3fun7yffcpghw3wn9qsgl52nv"],
+    },
   },
   classic: {
     terra1yvsf4qexgs45n7pfw3e0qyfukzvsqc7gstfrwe: {
