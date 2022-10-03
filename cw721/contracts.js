@@ -67,6 +67,13 @@ module.exports = {
       icon: "https://gateway.pinata.cloud/ipfs/QmSSoD6PTs5LqLJUntdRRZ4mLkvgNszpsmnFLjZYhLuTm4",
       marketplace: ["https://knowhere.art/collections/terra17vysjt8ws64v8w696mavjpqs8mksf8s993qghlust9yey8qcmppqnhgw0e","https://talis.art/collection/62e7f8936f292bb2921775a4"],
     },
+    terra1zcafgvq74ef8zu5mc62njfprsf3cr33xvan7r4nja269t280djrqkyrjsx: {
+      contract: "terra1zcafgvq74ef8zu5mc62njfprsf3cr33xvan7r4nja269t280djrqkyrjsx",
+      name: "TerraBots",
+      symbol: "TB",
+      icon: "https://storage.googleapis.com/public-knowhere/collections/terrabots.jpeg",
+      marketplace: ["https://knowhere.art/collections/terra1zcafgvq74ef8zu5mc62njfprsf3cr33xvan7r4nja269t280djrqkyrjsx"],
+    },
   },
   classic: {
     terra1yvsf4qexgs45n7pfw3e0qyfukzvsqc7gstfrwe: {
