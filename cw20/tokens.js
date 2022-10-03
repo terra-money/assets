@@ -32,6 +32,22 @@ module.exports = {
       icon: "https://static.wixstatic.com/media/1e62a0_37bd3a14b88646f987919ec4ea30533c~mv2.png",
       decimals: 6,
     },      
+    terra13j2k5rfkg0qhk58vz63cze0uze4hwswlrfnm0fa4rnyggjyfrcnqcrs5z2: {
+      protocol: "Terra Poker",
+      symbol: "TPT",
+      name: "Terra Poker Token",
+      token: "terra13j2k5rfkg0qhk58vz63cze0uze4hwswlrfnm0fa4rnyggjyfrcnqcrs5z2",
+      icon: "https://terra.poker/ico/ms-icon-310x310.png",
+      decimals: 6,
+    },
+    terra1e9s5m6vrl9ms75q0862llq2vcsz8r43czm36s6xnn3vh8dfmwe0s3c86e8: {
+      protocol: "Terra Poker",
+      symbol: "xTPT",
+      name: "Terra Poker Governance Token",
+      token: "terra1e9s5m6vrl9ms75q0862llq2vcsz8r43czm36s6xnn3vh8dfmwe0s3c86e8",
+      icon: "https://terra.poker/ico/ms-icon-310x310.png",
+      decimals: 6,
+    },
     terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q: {
       protocol: "alentejo.protocol",
       symbol: "Alem",
