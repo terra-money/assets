@@ -1672,6 +1672,14 @@ module.exports = {
       icon: "https://tuna.money/content/images/2022/06/icon-2.png",
       decimals: 6,
     },
+    terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3: {
+      protocol: "Prism",
+      symbol: "cLUNA",
+      name: "cLUNA",
+      token: "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3",
+      icon: "https://prismprotocol.app/cLuna.svg",
+      decimals: 6
+    }
   },
   testnet: {},
 };
