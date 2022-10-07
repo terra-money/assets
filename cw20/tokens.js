@@ -67,8 +67,9 @@ module.exports = {
     terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct: {
       protocol: "Eris Protocol",
       symbol: "ampLUNA",
+      name: "Amplified LUNA",
       token: "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
-      icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
+      icon: "https://www.erisprotocol.com/assets/ampLuna100.png",
       decimals: 6,
     },
     terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s:{
@@ -1679,7 +1680,15 @@ module.exports = {
       token: "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3",
       icon: "https://prismprotocol.app/cLuna.svg",
       decimals: 6
-    }
+    },
+    terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm: {
+      protocol: "Eris Protocol",
+      symbol: "ampLUNC",
+      name: "Amplified LUNC",
+      token: "terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm",
+      icon: "https://www.erisprotocol.com/assets/ampLunc100.png",
+      decimals: 6,
+    },
   },
   testnet: {},
 };
