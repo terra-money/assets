@@ -1681,5 +1681,14 @@ module.exports = {
       decimals: 6
     }
   },
-  testnet: {},
+  testnet: {
+    terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
+      protocol: "YFD",
+      symbol: "YFD",
+      name: "Y-Foundry DAO",
+      token: "terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9",
+      icon: "https://raw.githubusercontent.com/Y-Foundry-Dao/brand-assets/main/contract/pisco-1/cw20-yfd.svg",
+      decimals: 6
+    }
+  },
 };
