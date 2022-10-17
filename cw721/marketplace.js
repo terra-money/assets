@@ -13,24 +13,4 @@ module.exports = [
     link: "https://talis.art",
     icon: "https://talis.art/icons/talis/logo.svg",
   },
-  {
-    name: "Luart",
-    link: "https://marketplace.luart.io",
-    icon: "https://marketplace.luart.io/images/logo.svg",
-  },
-  {
-    name: "Curio",
-    link: "https://curio.art",
-    icon: "https://www.curio.art/img/logo.svg",
-  },
-  {
-    name: "OnePlanet",
-    link: "https://oneplanetnft.io",
-    icon: "https://www.oneplanetnft.io/logo.svg",
-  },
-  {
-    name: "Messier Art",
-    link: "https://messier.art",
-    icon: "https://assets.messier.art/logo.png",
-  },
 ];
