@@ -1,5 +1,10 @@
 module.exports = {
   mainnet: {
+    terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au: {
+      protocol: "IBC",
+      name: "ICS20 Contract",
+      icon: "https://assets.terra.money/icon/svg/IBC.svg",
+    },
     terra10788fkzah89xrdm27zkj5yvhj9x3494lxawzm5qq3vvxcqz2yzaqyd3enk: {
       protocol: "Eris Protocol",
       name: "Eris Liquid Staking Hub",
