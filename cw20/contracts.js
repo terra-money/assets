@@ -1,13 +1,13 @@
 module.exports = {
   mainnet: {
-    terra12mrnzvhx3rpej6843uge2yyfppfyd3u9c3uq223q8sl48huz9juqffcnh: {
+    terra12mrnzvhx3rpej6843uge2yyfppfyd3u9c3uq223q8sl48huz9juqffcnhp: {
       protocol: "Wormhole",
-      name: "Wormhole Core Bridge",
+      name: "Core Bridge",
       icon: "https://assets.terra.money/bridge/wormhole.png",
     },
     terra153366q50k7t8nn7gec00hg66crnhkdggpgdtaxltaq6xrutkkz3s992fw9: {
       protocol: "Wormhole",
-      name: "Wormhole Token Bridge",
+      name: "Token Bridge",
       icon: "https://assets.terra.money/bridge/wormhole.png",
     },
     terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au: {
@@ -64,12 +64,12 @@ module.exports = {
   classic: {
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
       protocol: "Wormhole",
-      name: "Wormhole Core Bridge",
+      name: "Core Bridge",
       icon: "https://assets.terra.money/bridge/wormhole.png",
     },
     terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf: {
       protocol: "Wormhole",
-      name: "Wormhole Token Bridge",
+      name: "Token Bridge",
       icon: "https://assets.terra.money/bridge/wormhole.png",
     },
     terra1jkndu9w5attpz09ut02sgey5dd3e8sq5watzm0: {
@@ -1785,12 +1785,12 @@ module.exports = {
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
       protocol: "Wormhole",
-      name: "Wormhole Token Bridge",
+      name: "Token Bridge",
       icon: "https://assets.terra.money/bridge/wormhole.png",
     },
     terra19nv3xr5lrmmr7egvrk2kqgw4kcn43xrtd5g0mpgwwvhetusk4k7s66jyv0: {
       protocol: "Wormhole",
-      name: "Wormhole Core Bridge",
+      name: "Core Bridge",
       icon: "https://assets.terra.money/bridge/wormhole.png",
     }
   },
