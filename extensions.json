@@ -26,11 +26,33 @@
     {
       "name": "Leap Wallet",
       "identifier": "leap-wallet",
-      "icon": "http://leapwallet.io/icon.png",
+      "icon": "https://bit.ly/L3APLOGO",
       "urls": [
         {
           "browser": "chrome",
           "url": "https://chrome.google.com/webstore/detail/leap-wallet/aijcbedoijmgnlmjeegjaglmepbmpkpi"
+        }
+      ]
+    },
+    {
+      "name": "Falcon Wallet",
+      "identifier": "falcon-wallet",
+      "icon": "https://api.falconwallet.app/assets/images/falcon-logo.png",
+      "urls": [
+        {
+          "browser": "chrome",
+          "url": "https://chrome.google.com/webstore/detail/falcon-wallet/gkhnjcpkikkkfhhdhhphcbhmkikoicgn"
+        }
+      ]
+    },
+    {
+      "name": "BitKeep Wallet",
+      "identifier": "bitkeep-wallet",
+      "icon": "https://cdn.bitkeep.vip/u_b_6151d430-ae42-11ec-9c39-b7ca284b7fe4.png",
+      "urls": [
+        {
+          "browser": "chrome",
+          "url": "https://chrome.google.com/webstore/detail/bitkeep-bitcoin-crypto-wa/jiidiaalihmmhddjgbnbgdfflelocpak"
         }
       ]
     }
