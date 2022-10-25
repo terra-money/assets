@@ -172,6 +172,14 @@ module.exports = {
         icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png",
         decimals: 8,
       },
+    terra1kl3kqkmfe8cdu42y6gdl0stwuckegvxdm8td7jndtj025zxelp6skktt0t: {
+      protocol: "boneLuna",
+      symbol: "bLuna",
+      name: "boneLuna",
+      token: "terra1kl3kqkmfe8cdu42y6gdl0stwuckegvxdm8td7jndtj025zxelp6skktt0t",
+      icon: "https://i.imgur.com/8CpJdcB.jpeg",
+      decimals: 6
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
@@ -1688,14 +1696,6 @@ module.exports = {
       token: "terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm",
       icon: "https://www.erisprotocol.com/assets/ampLunc100.png",
       decimals: 6,
-    },
-    terra1kl3kqkmfe8cdu42y6gdl0stwuckegvxdm8td7jndtj025zxelp6skktt0t: {
-      protocol: "boneLuna",
-      symbol: "bLuna",
-      name: "boneLuna",
-      token: "terra1kl3kqkmfe8cdu42y6gdl0stwuckegvxdm8td7jndtj025zxelp6skktt0t",
-      icon: "https://i.imgur.com/8CpJdcB.jpeg",
-      decimals: 6
     },
   },
   testnet: {
