@@ -1,5 +1,45 @@
 module.exports = {
   mainnet: {
+    terra1z7705t2p5p6rel93fd7zrsh8a4luxyxz88a4zkmlctwf38yh520qt949n8: {
+      dex: 'phoenix',
+      type: 'xyk',
+      assets: [
+        'uluna',
+        'terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh'
+      ]
+    },
+    terra1gwnwqdwz7taadacdw45q7kwz3q7h0hfrc4f3xpxas4j869tqexxsxze6gz: {
+      dex: 'phoenix',
+      type: 'xyk',
+      assets: [
+        'uluna',
+        'ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF'
+      ]
+    },
+    terra1dm2jkvxqwgnez8llnut46837ky29rvzxy9kl69kqh30r78qdj8rs4rksl8: {
+      dex: 'phoenix',
+      type: 'xyk',
+      assets: [
+        'ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4',
+        'ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF'
+      ]
+    },
+    terra190alph3r79rm2ypefamglwk53ln2qr3ud09sa3mnxexxf0p8xv3qzume3r: {
+      dex: 'phoenix',
+      type: 'xyk',
+      assets: [
+        'uluna',
+        'ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4'
+      ]
+    },
+    terra1728806n8mgr3n25dwhnmlvgvkfqv9pfnjsqtdzqzk8xpr4h4rnnsttthnw: {
+      dex: 'phoenix',
+      type: 'xyk',
+      assets: [
+        'ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4',
+        'terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh'
+      ]
+    },
     terra1w8246pdk9tf9d2dnu4lty5m8v3ptjltrm46vh8kd6yhr8k4ad2yskdqs6x: {
       dex: 'terraswap',
       type: 'xyk',
