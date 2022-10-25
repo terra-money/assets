@@ -786,6 +786,14 @@ module.exports = {
       icon: "https://lunaverse.io/assets/images/logo.png",
       decimals: 6
     },
+    terra1kl3kqkmfe8cdu42y6gdl0stwuckegvxdm8td7jndtj025zxelp6skktt0t: {
+      protocol: "boneLuna",
+      symbol: "bLuna",
+      name: "boneLuna",
+      token: "terra1kl3kqkmfe8cdu42y6gdl0stwuckegvxdm8td7jndtj025zxelp6skktt0t",
+      icon: "https://i.imgur.com/8CpJdcB.jpeg",
+      decimals: 6
+    },
   },
   testnet: {
     terra1fdclww9fazjeu0g60h0ln2j6c50r42uwlm8jcg: {

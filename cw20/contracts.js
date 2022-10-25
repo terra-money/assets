@@ -1369,6 +1369,11 @@ module.exports = {
       name: "Governance",
       icon: "https://assets.atlo.app/images/atlo-logo.png",
     },
+    terra1naxaedvxxxucgcp6ua8faxh45uykp30cz4vplsc0lt58lzxj23jq9k0zuc: {
+      protocol: "boneLuna",
+      name: "boneLuna LSD",
+      icon: "https://i.imgur.com/8CpJdcB.jpeg",
+    },
   },
   testnet: {
     terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf: {
