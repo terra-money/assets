@@ -174,7 +174,7 @@ module.exports = {
       },
     terra1kl3kqkmfe8cdu42y6gdl0stwuckegvxdm8td7jndtj025zxelp6skktt0t: {
       protocol: "boneLuna",
-      symbol: "bLuna",
+      symbol: "bLUNA",
       name: "boneLuna",
       token: "terra1kl3kqkmfe8cdu42y6gdl0stwuckegvxdm8td7jndtj025zxelp6skktt0t",
       icon: "https://i.imgur.com/8CpJdcB.jpeg",
