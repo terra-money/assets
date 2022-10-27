@@ -172,11 +172,11 @@ module.exports = {
         icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png",
         decimals: 8,
       },
-    terra1kl3kqkmfe8cdu42y6gdl0stwuckegvxdm8td7jndtj025zxelp6skktt0t: {
+    terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml: {
       protocol: "boneLuna",
       symbol: "bLUNA",
       name: "boneLuna",
-      token: "terra1kl3kqkmfe8cdu42y6gdl0stwuckegvxdm8td7jndtj025zxelp6skktt0t",
+      token: "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
       icon: "https://i.imgur.com/8CpJdcB.jpeg",
       decimals: 6
     },
