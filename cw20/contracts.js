@@ -1,5 +1,5 @@
 module.exports = {
-  mainnet: {
+  mainnet:{
     terra12mrnzvhx3rpej6843uge2yyfppfyd3u9c3uq223q8sl48huz9juqffcnhp: {
       protocol: "Wormhole",
       name: "Core Bridge",
@@ -1780,6 +1780,11 @@ module.exports = {
       protocol: "Lira",
       name: "Lira Token",
       icon: "https://lira.financial/images/icons/lira.svg",
+    },
+    terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf: {
+      protocol:"INTERCHAIN DAO COIN",
+      name: "IDC",
+      icon: "https://gateway.pinata.cloud/ipfs/Qmd3ussNvHvHhLSqZcZfkT7p6irQ6a2fNSW8jsRPi6uiro",
     },
   },
   testnet: {
