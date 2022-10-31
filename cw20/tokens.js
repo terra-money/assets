@@ -172,6 +172,21 @@ module.exports = {
         icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png",
         decimals: 8,
       },
+    terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml: {
+      protocol: "Backbone Labs",
+      symbol: "bLUNA",
+      name: "boneLuna",
+      token: "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      icon: "https://i.imgur.com/8CpJdcB.jpeg",
+      decimals: 6
+    },
+    terra15sytd365u3nw8xku492cj9nec6pgn9py6w5qka83fd9d26yr8cgsu5apxc: {
+      protocol: "Astroport",
+      name: "bLUNA/LUNA LP Token",
+      token: "terra15sytd365u3nw8xku492cj9nec6pgn9py6w5qka83fd9d26yr8cgsu5apxc",
+      icon: "",
+      decimals: 6
+    }
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
