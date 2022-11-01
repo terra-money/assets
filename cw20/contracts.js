@@ -60,6 +60,11 @@ module.exports = {
       name: "Lira Token",
       icon: "https://lira.financial/images/icons/lira.svg",
     },
+    terra1l2nd99yze5fszmhl5svyh5fky9wm4nz4etlgnztfu4e8809gd52q04n3ea: {
+      protocol: "boneLuna",
+      name: "boneLuna LSD",
+      icon: "https://i.imgur.com/8CpJdcB.jpeg",
+    },
   },
   classic: {
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
