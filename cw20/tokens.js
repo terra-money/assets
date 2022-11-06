@@ -1,5 +1,13 @@
 module.exports = {
   mainnet: {
+    terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj: {
+      protocol: "Optimizer",
+      symbol: "OPZA",
+      name: "Luna optimizer token",
+      token: "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj",
+      icon: "https://assets.terra.money/icon/svg/Luna-mono.svg",
+      decimals: 6,
+    },
     terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw: {
       protocol: "Orne",
       symbol: "ORNE",
@@ -182,6 +190,14 @@ module.exports = {
     },
   },
   classic: {
+    terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4: {
+      protocol: "Optimizer",
+      symbol: "OPZC",
+      name: "Lunc optimizer token",
+      token: "terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4",
+      icon: "https://assets.terra.money/icon/svg/Luna-mono.svg",
+      decimals: 6,
+    },
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
       protocol: "Anchor",
       symbol: "bLuna",
