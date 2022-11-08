@@ -1504,6 +1504,14 @@ module.exports = {
       type: 'xyk',
       assets: ['uluna', 'terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf'],
     },
+    terra1jz5jv3kwnr7mk5yfpp4f2n9yytlywrqpyh6zqr: {
+      dex: 'terraswap',
+      type: 'xyk',
+      assets: [
+        'terra19ya4jpvjvvtggepvmmj6ftmwly3p7way0tt08r', 
+        'terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf',
+      ],
+    },
   },
   testnet: {},
 };
