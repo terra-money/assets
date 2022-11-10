@@ -1,9 +1,18 @@
-module.export = {
+const chains = {
+    // mainnet
+    terra: 'phoenix-1',
+    osmosis: 'osmosis-1',
+    // testnet
+    terraTest: 'pisco-1',
+}
+
+module.exports = {
     uluna: {
         token: 'uluna',
         symbol: 'Luna',
         name: 'Terra Luna',
         icon: 'https://assets.terra.money/icon/svg/Luna.svg',
+        chains: [chains.terra, chains.terraTest],
         decimals: 6,
     },
     uosmo: {
@@ -11,6 +20,7 @@ module.export = {
         symbol: 'Osmo',
         name: 'Osmosis',
         icon: 'https://assets.terra.money/icon/svg/ibc/OSMO.svg',
+        chains: [chains.osmosis],
         decimals: 6,
     },
     // Luna on Osmosis
@@ -19,6 +29,7 @@ module.export = {
         symbol: 'Luna',
         name: 'Terra Luna',
         icon: 'https://assets.terra.money/icon/svg/Luna.svg',
+        chains: [chains.osmosis],
         decimals: 6,
     },
     // Osmo on Terra
@@ -27,6 +38,7 @@ module.export = {
         symbol: 'Osmo',
         name: 'Osmosis',
         icon: 'https://assets.terra.money/icon/svg/ibc/OSMO.svg',
+        chains: [chains.terra],
         decimals: 6,
     }
 }
