@@ -180,6 +180,14 @@ module.exports = {
       icon: "https://i.imgur.com/8CpJdcB.jpeg",
       decimals: 6
     },
+    terra1gutsrmwdls9pva4jv8tghe29qt4rfmhnplx8qvy9h9l5f0y9l0xqestddh: {
+      protocol: "Optimizer Protocol",
+      symbol: "OPZA",
+      name: "Optimizer LUNA",
+      token: "terra1gutsrmwdls9pva4jv8tghe29qt4rfmhnplx8qvy9h9l5f0y9l0xqestddh",
+      icon: "https://assets.terra.money/icon/svg/Luna-mono.svg",
+      decimals: 6,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
@@ -1703,6 +1711,14 @@ module.exports = {
       name: "Amplified LUNC",
       token: "terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm",
       icon: "https://www.erisprotocol.com/assets/ampLunc100.png",
+      decimals: 6,
+    },
+    terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54: {
+      protocol: "Optimizer Protocol",
+      symbol: "OPZC",
+      name: "Optimizer LUNC",
+      token: "terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54",
+      icon: "https://assets.terra.money/icon/svg/Luna-mono.svg",
       decimals: 6,
     },
   },
