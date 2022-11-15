@@ -190,11 +190,11 @@ module.exports = {
     },
   },
   classic: {
-    terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4: {
+    terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54: {
       protocol: "Optimizer",
       symbol: "OPZC",
       name: "Lunc optimizer token",
-      token: "terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4",
+      token: "terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54",
       icon: "https://assets.terra.money/icon/svg/Luna-mono.svg",
       decimals: 6,
     },
