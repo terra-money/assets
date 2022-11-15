@@ -1731,13 +1731,5 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/Y-Foundry-Dao/brand-assets/main/contract/pisco-1/cw20-yfd.svg",
       decimals: 6
     },
-      terra1pzxujt5544y2y3m3v2gfvwng2ez53cat9v80cxvhk9389scxjmnsqkh54t: {
-      protocol: "Terra",
-      symbol: "OPZC",
-      name: "Lunc optimizer token",
-      token: "terra1pzxujt5544y2y3m3v2gfvwng2ez53cat9v80cxvhk9389scxjmnsqkh54t",
-      icon: "https://raw.githubusercontent.com/Y-Foundry-Dao/brand-assets/main/contract/pisco-1/cw20-yfd.svg",
-      decimals: 6
-    }
   },
 };
