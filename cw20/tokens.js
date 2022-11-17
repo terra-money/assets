@@ -184,7 +184,7 @@ module.exports = {
       protocol: "Optimizer Protocol",
       symbol: "OPZA",
       name: "Optimizer LUNA",
-      token: "terra1gutsrmwdls9pva4jv8tghe29qt4rfmhnplx8qvy9h9l5f0y9l0xqestddh",
+      token: "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj",
       icon: "https://assets.terra.money/icon/svg/Luna-mono.svg",
       decimals: 6,
     },
