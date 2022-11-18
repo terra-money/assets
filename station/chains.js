@@ -21,10 +21,10 @@ module.exports = {
     },
     testnet: {
         'pisco-1': {
-            chainID: 'phoenix-1',
-            lcd: 'https://phoenix-lcd.terra.dev',
+            chainID: 'pisco-1',
+            lcd: 'https://pisco-lcd.terra.dev',
             gasAdjustment: 1.75,
-            gasPrices: { uluna: 0.15 },
+            gasPrices: { uluna: 0.015 },
             prefix: 'terra',
             name: 'Terra',
             icon: 'https://assets.terra.money/icon/svg/Terra.svg',
