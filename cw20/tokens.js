@@ -1705,6 +1705,14 @@ module.exports = {
       icon: "https://www.erisprotocol.com/assets/ampLunc100.png",
       decimals: 6,
     },
+    terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc: {
+      protocol: "BAZ",
+      symbol: "BAZ",
+      name: "BAZ",
+      token: "terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc",
+      icon: "https://gateway.pinata.cloud/ipfs/QmaQRA8hzx2F9TPjkP9bmWJn6QRugK5fNfXm1VcRBCz1xW",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
