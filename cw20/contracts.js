@@ -1791,6 +1791,11 @@ module.exports = {
       name: "IDC",
       icon: "https://gateway.pinata.cloud/ipfs/Qmd3ussNvHvHhLSqZcZfkT7p6irQ6a2fNSW8jsRPi6uiro",
     },
+    terra1pkp0pkxp9mtlan7cg0qatu65hmkgyq2342g27g: {
+      protocol:"Lunar Deity",
+      name: "DUST",
+      icon: "https://gateway.pinata.cloud/ipfs/QmQ4gGYkPE6MFGbCpamgdeG1aTeagjhAHcX1eszYzCjzvy",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
