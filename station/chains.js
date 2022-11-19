@@ -8,6 +8,7 @@ module.exports = {
             prefix: 'terra',
             name: 'Terra',
             icon: 'https://assets.terra.money/icon/svg/Terra.svg',
+            // doesn't require IBC channels since it's already on all the other chains
         },
         'osmosis-1': {
             chainID: 'osmosis-1',
@@ -17,6 +18,10 @@ module.exports = {
             prefix: 'osmo',
             name: 'Osmosis',
             icon: 'https://assets.terra.money/icon/svg/ibc/OSMO.svg',
+            ibc: {
+                toTerra: 'channel-251',
+                fromTerra: 'channel-1'
+            }
         },
     },
     testnet: {
