@@ -1791,6 +1791,11 @@ module.exports = {
       name: "IDC",
       icon: "https://gateway.pinata.cloud/ipfs/Qmd3ussNvHvHhLSqZcZfkT7p6irQ6a2fNSW8jsRPi6uiro",
     },
+    terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc: {
+      protocol:"BAZ",
+      name: "BAZ",
+      icon: "https://gateway.pinata.cloud/ipfs/QmaQRA8hzx2F9TPjkP9bmWJn6QRugK5fNfXm1VcRBCz1xW",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
