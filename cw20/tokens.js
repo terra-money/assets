@@ -1,4 +1,4 @@
-³module.exports = {
+module.exports = {
   mainnet: {
     terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw: {
       protocol: "Orne",
