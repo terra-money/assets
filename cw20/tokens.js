@@ -1,4 +1,4 @@
-module.exports = {
+³module.exports = {
   mainnet: {
     terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw: {
       protocol: "Orne",
@@ -1703,6 +1703,14 @@ module.exports = {
       name: "Amplified LUNC",
       token: "terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm",
       icon: "https://www.erisprotocol.com/assets/ampLunc100.png",
+      decimals: 6,
+    },
+    terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgmterra1n2rujfc5lscglry30zaptfgncfc0gq4n8my0gv: {
+      protocol: "ID TOKEN ONE",
+      symbol: "ITO",
+      name: "ID TOKEN ONE",
+      token: "terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgmterra1n2rujfc5lscglry30zaptfgncfc0gq4n8my0gv",
+      icon: "https://www.erisprotocol.com/assets/ampLunc100.pnghttps://gateway.pinata.cloud/ipfs/QmaiMiiUn4w5MxPe6oanzAEx5c3sG2dGD3HgKxUjD1ygK3",
       decimals: 6,
     },
   },
