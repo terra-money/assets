@@ -15,7 +15,7 @@ module.exports = {
       token: "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
       icon: "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png",
       decimals: 0,
-    },      
+    },
     terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8: {
       protocol: "portugal.protocol",
       symbol: "Reis",
@@ -23,7 +23,7 @@ module.exports = {
       token: "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8",
       icon: "https://static.wixstatic.com/media/1e62a0_89af25478e5144089de9292b990493e2~mv2.png",
       decimals: 6,
-    },      
+    },
     terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg: {
       protocol: "portugal.protocol",
       symbol: "Escudos",
@@ -31,7 +31,7 @@ module.exports = {
       token: "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
       icon: "https://static.wixstatic.com/media/1e62a0_37bd3a14b88646f987919ec4ea30533c~mv2.png",
       decimals: 6,
-    },      
+    },
     terra13j2k5rfkg0qhk58vz63cze0uze4hwswlrfnm0fa4rnyggjyfrcnqcrs5z2: {
       protocol: "Terra Poker",
       symbol: "TPT",
@@ -86,7 +86,7 @@ module.exports = {
       symbol: "STEAK",
       token: "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al",
       icon: "https://liquidstaking.app/steak.png",
-    },    
+    },
     terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26: {
       protocol: "Astroport",
       symbol: "ASTRO",
@@ -172,6 +172,14 @@ module.exports = {
         icon: "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png",
         decimals: 8,
       },
+    terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml: {
+      protocol: "boneLuna",
+      symbol: "bLUNA",
+      name: "boneLuna",
+      token: "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+      icon: "https://i.imgur.com/8CpJdcB.jpeg",
+      decimals: 6
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
