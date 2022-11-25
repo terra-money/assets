@@ -1509,12 +1509,12 @@ module.exports = {
       type: 'xyk',
       assets: ['uluna', 'terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc'],
     },
-    terra1ks267e2cr5r3rxsvh728ghg5emz5e7d5kxxks3: {
+    terra1ty0cueh2mahlfmf485v7vdtsn4nugr8uxmnhf6: {
       dex: 'terraswap',
       type: 'xyk',
       assets: ['uusd', 'terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc'],
     },
-    terra1m70c962mz88gesrp2ascej5pr2027vs324vynh: {
+    terra12luj88u2e5qnkw5t7kf7852xhm25jj9uphklaq: {
       dex: 'terraswap',
       type: 'xyk',
       assets: ['uluna', 'terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc'],
