@@ -1791,6 +1791,11 @@ module.exports = {
       name: "IDC",
       icon: "https://gateway.pinata.cloud/ipfs/Qmd3ussNvHvHhLSqZcZfkT7p6irQ6a2fNSW8jsRPi6uiro",
     },
+      terra12l2fukxxu7a3fx7mpxpuxmtat0m9glt6whq389: {
+      protocol:"LBUN",
+      name: "Wrapped LUNC Burn Token",
+      icon: "https://raw.githubusercontent.com/ZuluSpl0it/strata/master/LBUN_512.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
