@@ -6,6 +6,7 @@ module.exports = {
             gasAdjustment: 1.75,
             gasPrices: { uluna: 0.015 },
             prefix: 'terra',
+            baseAsset: 'uluna',
             name: 'Terra',
             icon: 'https://assets.terra.money/icon/svg/Terra.svg',
             // doesn't require IBC channels since it's already on all the other chains
@@ -16,6 +17,7 @@ module.exports = {
             gasAdjustment: 1.75,
             gasPrices: { uosmo: 0.025 },
             prefix: 'osmo',
+            baseAsset: 'uosmo',
             name: 'Osmosis',
             icon: 'https://assets.terra.money/icon/svg/ibc/OSMO.svg',
             ibc: {
@@ -31,6 +33,7 @@ module.exports = {
             gasAdjustment: 1.75,
             gasPrices: { uluna: 0.015 },
             prefix: 'terra',
+            baseAsset: 'uluna',
             name: 'Terra',
             icon: 'https://assets.terra.money/icon/svg/Terra.svg',
         }
