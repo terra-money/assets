@@ -1499,12 +1499,12 @@ module.exports = {
       type: 'xyk',
       assets: ['uusd', 'terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp'],
     },
-    terra1yx5487aewxagnrg8s0s5aar7kzzjyhtr52gtyr: {
+    terra1p5w2ujnmtj70gq80xklylzy40x7epxp9k9hnpt: {
       dex: 'terraswap',
       type: 'xyk',
       assets: ['uusd', 'terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasykspterra1n2rujfc5lscglry30zaptfgncfc0gq4n8my0gv'],
     },
-    terra1dhs8euwxt0hu2vj0cne7v8qnxycsmwef36cshd: {
+    terra1fnlv7s74kma2dcjycv8k7ejy99etajn00h377q: {
       dex: 'terraswap',
       type: 'xyk',
       assets: ['uluna', 'terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasykspterra1n2rujfc5lscglry30zaptfgncfc0gq4n8my0gv'],
