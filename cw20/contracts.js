@@ -1794,7 +1794,7 @@ module.exports = {
     terra1n2rujfc5lscglry30zaptfgncfc0gq4n8my0gv: {
       protocol:"ID TOKEN ONE",
       name: "ITO",
-      icon: "https://gateway.pinata.cloud/ipfs/QmaiMiiUn4w5MxPe6oanzAEx5c3sG2dGD3HgKxUjD1ygK3",
+      icon: "https://gateway.pinata.cloud/ipfs/bafybeiantwnz4yozjp5lnwtyohogj5gjglocgk6swe7pufl7g3fcp5c5jy/ITO.png",
     },
   },
   testnet: {
