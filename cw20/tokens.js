@@ -1705,6 +1705,14 @@ module.exports = {
       icon: "https://www.erisprotocol.com/assets/ampLunc100.png",
       decimals: 6,
     },
+      terra12l2fukxxu7a3fx7mpxpuxmtat0m9glt6whq389: {
+      protocol: "LBUN",
+      symbol: "wLBUN",
+      name: "Wrapped LUNC Burn Token",
+      token: "terra12l2fukxxu7a3fx7mpxpuxmtat0m9glt6whq389",
+      icon: "https://raw.githubusercontent.com/ZuluSpl0it/strata/master/LBUN_512.png",
+      decimals: 8,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
