@@ -1710,7 +1710,7 @@ module.exports = {
       symbol: "BAZ",
       name: "BAZ",
       token: "terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc",
-      icon: "https://gateway.pinata.cloud/ipfs/QmaQRA8hzx2F9TPjkP9bmWJn6QRugK5fNfXm1VcRBCz1xW",
+      icon: "https://gateway.pinata.cloud/ipfs/bafybeih44wtyezikpjenjjfzivhhyonijkoo5qwhssigvxjvn3cskqdlsq/BAZ.png",
       decimals: 6,
     },
   },
