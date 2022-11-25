@@ -1694,7 +1694,7 @@ module.exports = {
       symbol: "IDC",
       name: "INTERCHAIN DAO COIN",
       token: "terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf",
-      icon: "https://gateway.pinata.cloud/ipfs/Qmd3ussNvHvHhLSqZcZfkT7p6irQ6a2fNSW8jsRPi6uiro",
+      icon: "https://gateway.pinata.cloud/ipfs/bafybeifpwyro73qvpsg2xulgqgkvrfbw5jtqxrkzsryq6kl3f4o23ohai4/IDC.png",
       decimals: 6,
     },
     terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm: {
