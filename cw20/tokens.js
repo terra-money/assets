@@ -180,6 +180,14 @@ module.exports = {
       icon: "https://i.imgur.com/8CpJdcB.jpeg",
       decimals: 6
     },
+    terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml: {
+      protocol: "INTERCHAIN DAO COIN",
+      symbol: "IDC",
+      name: "INTERCHAIN DAO COIN",
+      token: "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg",
+      icon: "https://raw.githubusercontent.com/IDC1201/IDC/f22b0f203867414b6473f8e8a935c3edf5524296/ASSET/IDC.png",
+      decimals: 6
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
