@@ -13,7 +13,7 @@ module.exports = {
         },
         'osmosis-1': {
             chainID: 'osmosis-1',
-            lcd: 'https://lcd.osmosis.zone',
+            lcd: 'https://lcd-osmosis.blockapsis.com/',
             gasAdjustment: 1.75,
             gasPrices: { uosmo: 0.025 },
             prefix: 'osmo',
