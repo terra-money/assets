@@ -91,6 +91,22 @@ module.exports = {
     },
   },
   classic: {
+    terra17kapqtpk5ajuwsu4jekhp47xlf39ajg8a00s7n: {
+      contract: "terra17kapqtpk5ajuwsu4jekhp47xlf39ajg8a00s7n",
+      name: "MetaGloria Cacti",
+      symbol: "CACTI",
+      icon: "https://miata.io/assets/img/collection_4.jpg",
+      homepage: "https://www.metagloria.io/",
+      marketplace: ["https://miata.io/creators/1/collection/4"],
+    },
+    terra1z9j74q7d4e4p54mdfr3vjr9j4reg0pusakzzur: {
+      contract: "terra1z9j74q7d4e4p54mdfr3vjr9j4reg0pusakzzur",
+      name: "MetaGloria Muji",
+      symbol: "MUJI",
+      icon: "https://miata.io/assets/img/collection_1.jpg",
+      homepage: "https://www.metagloria.io/",
+      marketplace: ["https://miata.io/creators/1/collection/1"],
+    },
     terra1yvsf4qexgs45n7pfw3e0qyfukzvsqc7gstfrwe: {
       contract: "terra1yvsf4qexgs45n7pfw3e0qyfukzvsqc7gstfrwe",
       protocol: "Luna Burning Knights",
