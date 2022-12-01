@@ -1504,10 +1504,10 @@ module.exports = {
       type: 'xyk',
       assets: ['uusd', 'terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp'],
     },
-    terra1lj3z3hfc2hms3r2yc3q4r5w83m2zwktpkuvmmq: {
+    terra1l3gn79zdchj977p5cg9etzv97cnmcp2yze4ulz: {
       dex: 'terraswap',
       type: 'xyk',
-      assets: ['uluna', 'terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4'],
+      assets: ['uluna', 'terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54'],
     },
   },
   testnet: {},
