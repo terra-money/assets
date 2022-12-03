@@ -180,7 +180,7 @@ module.exports = {
       icon: "https://i.imgur.com/8CpJdcB.jpeg",
       decimals: 6
     },
-    terra1gutsrmwdls9pva4jv8tghe29qt4rfmhnplx8qvy9h9l5f0y9l0xqestddh: {
+    terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj: {
       protocol: "Optimizer Protocol",
       symbol: "OPZA",
       name: "Optimizer LUNA",
