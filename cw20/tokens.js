@@ -183,7 +183,7 @@ module.exports = {
     terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj: {
       protocol: "Optimizer Protocol",
       symbol: "OPZA",
-      name: "Optimizer LUNA",
+      name: "Luna optimizer token",
       token: "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj",
       icon: "https://assets.terra.money/icon/svg/Luna-mono.svg",
       decimals: 6,
@@ -1716,7 +1716,7 @@ module.exports = {
     terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54: {
       protocol: "Optimizer Protocol",
       symbol: "OPZC",
-      name: "Optimizer LUNC",
+      name: "Lunc optimizer token",
       token: "terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54",
       icon: "https://assets.terra.money/icon/svg/Luna-mono.svg",
       decimals: 6,
