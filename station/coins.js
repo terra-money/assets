@@ -4,6 +4,7 @@ const chains = {
     osmosis: 'osmosis-1',
     // testnet
     terraTest: 'pisco-1',
+    marsTest: 'ares-1'
 }
 
 module.exports = {
@@ -184,5 +185,29 @@ module.exports = {
         icon: "https://assets.terra.money/icon/svg/ibc/axlWBTC.svg",
         chains: [chains.terra],
         decimals: 8,
+    },
+    "umars": {
+        token: "umars",
+        symbol: "Mars",
+        name: "Mars",
+        icon: "https://marsprotocol.io/MARSTokenMini.svg",
+        chains: [chains.marsTest],
+        decimals: 8,
+    },
+    "ibc/268BAF98AA5EEB84194F1391009644F6B0AB19C0964C49847C30C8C05E1F38D0": {
+        token: "umars",
+        symbol: "Mars",
+        name: "Mars",
+        icon: "https://marsprotocol.io/MARSTokenMini.svg",
+        chains: [chains.terraTest],
+        decimals: 8,
+    },
+    "ibc/265435C653FE85CD659E88CD51D4A735BDD4D3804871400378A488C71D68C72B": {
+        token: "uluna",
+        symbol: "Luna",
+        name: "Terra Luna",
+        icon: "https://assets.terra.money/icon/svg/Luna.svg",
+        chains: [chains.marsTest],
+        decimals: 6,
     },
 }
