@@ -211,7 +211,7 @@ module.exports = {
         chains: [chains.marsTest],
         decimals: 6,
     },
-    'ufeath': {
+    'stake': {
         token: 'ufeath',
         symbol: 'Feath',
         name: 'Feather',
