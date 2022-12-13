@@ -1710,7 +1710,7 @@ module.exports = {
       symbol: "JEFE",
       name: "JEFE TOKEN",
       token: "terra10xp0alk5jh0sksynx7vt9jkelgdxdfzs4979tk",
-      icon: "hhttps://s2.coinmarketcap.com/static/img/coins/64x64/16800.png",
+      icon: "https://s2.coinmarketcap.com/static/img/coins/64x64/16800.png",
       decimals: 8,
     },
   },
