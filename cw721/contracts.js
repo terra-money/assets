@@ -91,6 +91,15 @@ module.exports = {
     },
   },
   classic: {
+    terra1sc8tz0delrw32f58nhaxqj4k2gar9thnhlwpzx: {
+      contract: "terra1sc8tz0delrw32f58nhaxqj4k2gar9thnhlwpzx",
+      protocol: "LUNCPenguins",
+      name: "LUNCPenguins",
+      symbol: "LUNCP",
+      icon: "https://miata.io/assets/img/collection_7.jpg",
+      homepage: "https://luncpenguins.com/",
+      marketplace: ["https://miata.io/creators/2/collection/7"],
+    },
     terra17kapqtpk5ajuwsu4jekhp47xlf39ajg8a00s7n: {
       contract: "terra17kapqtpk5ajuwsu4jekhp47xlf39ajg8a00s7n",
       name: "MetaGloria Cacti",

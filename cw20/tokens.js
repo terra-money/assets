@@ -180,6 +180,14 @@ module.exports = {
       icon: "https://i.imgur.com/8CpJdcB.jpeg",
       decimals: 6
     },
+    terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml: {
+      protocol: "INTERCHAIN DAO COIN",
+      symbol: "IDC",
+      name: "INTERCHAIN DAO COIN",
+      token: "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg",
+      icon: "https://raw.githubusercontent.com/IDC1201/IDC/f22b0f203867414b6473f8e8a935c3edf5524296/ASSET/IDC.png",
+      decimals: 6
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
@@ -1694,7 +1702,7 @@ module.exports = {
       symbol: "IDC",
       name: "INTERCHAIN DAO COIN",
       token: "terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf",
-      icon: "https://gateway.pinata.cloud/ipfs/Qmd3ussNvHvHhLSqZcZfkT7p6irQ6a2fNSW8jsRPi6uiro",
+      icon: "https://gateway.pinata.cloud/ipfs/bafybeifpwyro73qvpsg2xulgqgkvrfbw5jtqxrkzsryq6kl3f4o23ohai4/IDC.png",
       decimals: 6,
     },
     terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm: {
@@ -1704,6 +1712,14 @@ module.exports = {
       token: "terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm",
       icon: "https://www.erisprotocol.com/assets/ampLunc100.png",
       decimals: 6,
+    },
+      terra10xp0alk5jh0sksynx7vt9jkelgdxdfzs4979tk: {
+      protocol: "Wormhole",
+      symbol: "JEFE",
+      name: "JEFE TOKEN",
+      token: "terra10xp0alk5jh0sksynx7vt9jkelgdxdfzs4979tk",
+      icon: "https://s2.coinmarketcap.com/static/img/coins/64x64/16800.png",
+      decimals: 8,
     },
   },
   testnet: {

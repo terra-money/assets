@@ -65,6 +65,11 @@ module.exports = {
       name: "boneLuna LSD",
       icon: "https://i.imgur.com/8CpJdcB.jpeg",
     },
+    terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg: {
+      protocol: "INTERCHAIN DAO COIN",
+      name: "IDC",
+      icon: "https://raw.githubusercontent.com/IDC1201/IDC/f22b0f203867414b6473f8e8a935c3edf5524296/ASSET/IDC.png",
+    },
   },
   classic: {
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
@@ -1789,7 +1794,7 @@ module.exports = {
     terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf: {
       protocol:"INTERCHAIN DAO COIN",
       name: "IDC",
-      icon: "https://gateway.pinata.cloud/ipfs/Qmd3ussNvHvHhLSqZcZfkT7p6irQ6a2fNSW8jsRPi6uiro",
+      icon: "https://gateway.pinata.cloud/ipfs/bafybeifpwyro73qvpsg2xulgqgkvrfbw5jtqxrkzsryq6kl3f4o23ohai4/IDC.png",
     },
   },
   testnet: {
