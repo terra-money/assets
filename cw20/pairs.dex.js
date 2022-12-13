@@ -1044,6 +1044,16 @@ module.exports = {
       type: 'xyk',
       assets: ['terra175232yuat84jr5yx74mtz243egyyp904l9n69fvdzzkplhru5juqlv8ah6', 'uluna'],
     },
+    terra16gcy7pzae346t67rv3wlcfexp5alx5jht35rcgzvgharyakzdldsupr4aq: {
+      dex: 'astroport',
+      type: 'xyk',
+      assets: ['terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg', 'uluna'],
+    },
+    terra13ce384pm3paufw9t3k4cdyqlutqrn09tve5sl5su5tuksqfyyxnq73ftyt: {
+      dex: 'terraswap',
+      type: 'xyk',
+      assets: ['terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg', 'uluna'],
+    },
   },
   classic: {
     terra18dq84qfpz267xuu0k47066svuaez9hr4xvwlex: {
