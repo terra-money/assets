@@ -1509,6 +1509,19 @@ module.exports = {
       type: 'xyk',
       assets: ['uusd', 'terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp'],
     },
+    terra1z5smlreum7ve2nslpfw8aef48f296avw6t9cra: {
+      dex: 'terraswap',
+      type: 'xyk',
+      assets: ['uluna', 'terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf'],
+    },
+    terra1jz5jv3kwnr7mk5yfpp4f2n9yytlywrqpyh6zqr: {
+      dex: 'terraswap',
+      type: 'xyk',
+      assets: [
+        'terra19ya4jpvjvvtggepvmmj6ftmwly3p7way0tt08r', 
+        'terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf',
+      ],
+    },
   },
   testnet: {},
 };
