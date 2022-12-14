@@ -1796,6 +1796,11 @@ module.exports = {
       name: "IDC",
       icon: "https://gateway.pinata.cloud/ipfs/bafybeifpwyro73qvpsg2xulgqgkvrfbw5jtqxrkzsryq6kl3f4o23ohai4/IDC.png",
     },
+    terra1n2rujfc5lscglry30zaptfgncfc0gq4n8my0gv: {
+      protocol:"ID TOKEN ONE",
+      name: "ITO",
+      icon: "https://raw.githubusercontent.com/IDTOKENONE/ITO-asset/main/ITOpng/ITO.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
