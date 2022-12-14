@@ -91,6 +91,15 @@ module.exports = {
     },
   },
   classic: {
+    terra1sc8tz0delrw32f58nhaxqj4k2gar9thnhlwpzx: {
+      contract: "terra1sc8tz0delrw32f58nhaxqj4k2gar9thnhlwpzx",
+      protocol: "LUNCPenguins",
+      name: "LUNCPenguins",
+      symbol: "LUNCP",
+      icon: "https://miata.io/assets/img/collection_7.jpg",
+      homepage: "https://luncpenguins.com/",
+      marketplace: ["https://miata.io/creators/2/collection/7"],
+    },
     terra1yvsf4qexgs45n7pfw3e0qyfukzvsqc7gstfrwe: {
       contract: "terra1yvsf4qexgs45n7pfw3e0qyfukzvsqc7gstfrwe",
       protocol: "Luna Burning Knights",
