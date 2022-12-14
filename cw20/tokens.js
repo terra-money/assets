@@ -1721,6 +1721,14 @@ module.exports = {
       icon: "https://s2.coinmarketcap.com/static/img/coins/64x64/16800.png",
       decimals: 8,
     },
+    terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgmterra1n2rujfc5lscglry30zaptfgncfc0gq4n8my0gv: {
+      protocol: "ID TOKEN ONE",
+      symbol: "ITO",
+      name: "ID TOKEN ONE",
+      token: "terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgmterra1n2rujfc5lscglry30zaptfgncfc0gq4n8my0gv",
+      icon: "https://raw.githubusercontent.com/IDTOKENONE/ITO-asset/main/ITOpng/ITO.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
