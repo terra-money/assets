@@ -1713,6 +1713,14 @@ module.exports = {
       icon: "https://www.erisprotocol.com/assets/ampLunc100.png",
       decimals: 6,
     },
+      terra10xp0alk5jh0sksynx7vt9jkelgdxdfzs4979tk: {
+      protocol: "Wormhole",
+      symbol: "JEFE",
+      name: "JEFE TOKEN",
+      token: "terra10xp0alk5jh0sksynx7vt9jkelgdxdfzs4979tk",
+      icon: "https://s2.coinmarketcap.com/static/img/coins/64x64/16800.png",
+      decimals: 8,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {

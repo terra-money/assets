@@ -13,7 +13,7 @@ module.exports = {
         },
         'osmosis-1': {
             chainID: 'osmosis-1',
-            lcd: 'https://lcd-osmosis.blockapsis.com/',
+            lcd: 'https://osmosis.feather.network',
             gasAdjustment: 1.75,
             gasPrices: { uosmo: 0.025 },
             prefix: 'osmo',
@@ -50,6 +50,16 @@ module.exports = {
                 toTerra: 'channel-1',
                 fromTerra: 'channel-66'
             }
+        },
+        'feath-1': {
+            chainID: 'feath-1',
+            lcd: 'https://b854b4ab09a35575934ded7ebe73e8bbf97b8169.lcd.feather.network',
+            gasAdjustment: 1.75,
+            gasPrices: { stake: 0.0 },
+            prefix: 'feath',
+            baseAsset: 'stake',
+            name: 'Feather',
+            icon: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/microsoft/319/feather_1fab6.png',
         },
     }
 }

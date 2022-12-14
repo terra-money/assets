@@ -4,7 +4,8 @@ const chains = {
     osmosis: 'osmosis-1',
     // testnet
     terraTest: 'pisco-1',
-    marsTest: 'ares-1'
+    marsTest: 'ares-1',
+    featherTest: 'feath-1'
 }
 
 module.exports = {
@@ -208,6 +209,14 @@ module.exports = {
         name: 'Terra Luna',
         icon: 'https://assets.terra.money/icon/svg/Luna.svg',
         chains: [chains.marsTest],
+        decimals: 6,
+    },
+    'stake': {
+        token: 'ufeath',
+        symbol: 'Feath',
+        name: 'Feather',
+        icon: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/microsoft/319/feather_1fab6.png',
+        chains: [chains.featherTest],
         decimals: 6,
     },
 }
