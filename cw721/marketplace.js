@@ -13,4 +13,9 @@ module.exports = [
     link: "https://talis.art",
     icon: "https://talis.art/icons/talis/logo.svg",
   },
+  {
+    name: "Miata",
+    link: "https://miata.io",
+    icon: "https://miata.io/logo192.png",
+  },
 ];
