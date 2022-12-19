@@ -63,7 +63,7 @@ module.exports = {
     terra1l2nd99yze5fszmhl5svyh5fky9wm4nz4etlgnztfu4e8809gd52q04n3ea: {
       protocol: "boneLuna",
       name: "boneLuna LSD",
-      icon: "https://i.imgur.com/8CpJdcB.jpeg",
+      icon: "https://gravedigger.backbonelabs.io/boneluna.png",
     },
     terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg: {
       protocol: "INTERCHAIN DAO COIN",
