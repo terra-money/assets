@@ -74,7 +74,7 @@ module.exports = {
             gasPrices: { stake: 0.015 },
             stake: 0.015,
             icon: 'https://purepng.com/public/uploads/large/candle-s9b.png',
-            lcd: 'http://3.73.32.56:1317',
+            lcd: 'https://candle-lcd.candeago.dev',
             name: 'Candled Testnet',
             prefix: 'candle'
         },
