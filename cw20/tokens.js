@@ -188,6 +188,22 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/IDC1201/IDC/f22b0f203867414b6473f8e8a935c3edf5524296/ASSET/IDC.png",
       decimals: 6
     },
+    terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp: {
+      protocol: "Tuna Money",
+      symbol: "TUNA",
+      name: "Tuna Token",
+      token: "terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp",
+      icon: "https://s3.ap-southeast-2.wasabisys.com/tuna/tunatoken.png",
+      decimals: 6
+    },
+      terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp: {
+      protocol: "Brand Governance Network",
+      symbol: "BGT",
+      name: "Brand Governance Token",
+      token: "terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp",
+      icon: "https://s3.ap-southeast-2.wasabisys.com/bgt/bgtoken.png",
+      decimals: 6
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
