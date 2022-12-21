@@ -180,7 +180,7 @@ module.exports = {
       icon: "https://i.imgur.com/8CpJdcB.jpeg",
       decimals: 6
     },
-    terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml: {
+    terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg: {
       protocol: "INTERCHAIN DAO COIN",
       symbol: "IDC",
       name: "INTERCHAIN DAO COIN",
