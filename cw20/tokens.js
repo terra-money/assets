@@ -1721,6 +1721,14 @@ module.exports = {
       icon: "https://s2.coinmarketcap.com/static/img/coins/64x64/16800.png",
       decimals: 8,
     },
+    terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc: {
+      protocol: "BAZ",
+      symbol: "BAZ",
+      name: "BAZ",
+      token: "terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc",
+      icon: "https://raw.githubusercontent.com/BAZustc/BAZ-CORE/main/BAZ.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
