@@ -100,14 +100,30 @@ module.exports = {
       homepage: "https://luncpenguins.com/",
       marketplace: ["https://miata.io/creators/2/collection/7"],
     },
-    terra1yvsf4qexgs45n7pfw3e0qyfukzvsqc7gstfrwe: {
-      contract: "terra1yvsf4qexgs45n7pfw3e0qyfukzvsqc7gstfrwe",
+    terra17kapqtpk5ajuwsu4jekhp47xlf39ajg8a00s7n: {
+      contract: "terra17kapqtpk5ajuwsu4jekhp47xlf39ajg8a00s7n",
+      name: "MetaGloria Cacti",
+      symbol: "CACTI",
+      icon: "https://miata.io/assets/img/collection_4.jpg",
+      homepage: "https://www.metagloria.io/",
+      marketplace: ["https://miata.io/creators/1/collection/4"],
+    },
+    terra1z9j74q7d4e4p54mdfr3vjr9j4reg0pusakzzur: {
+      contract: "terra1z9j74q7d4e4p54mdfr3vjr9j4reg0pusakzzur",
+      name: "MetaGloria Muji",
+      symbol: "MUJI",
+      icon: "https://miata.io/assets/img/collection_1.jpg",
+      homepage: "https://www.metagloria.io/",
+      marketplace: ["https://miata.io/creators/1/collection/1"],
+    },
+    terra1ll0mu0uceu63q67ek2puu2t7q7tgc4crk7purq: {
+      contract: "terra1ll0mu0uceu63q67ek2puu2t7q7tgc4crk7purq",
       protocol: "Luna Burning Knights",
       name: "Luna Burning Knights",
       symbol: "LBK",
       icon: "https://lunaburningknights.io/icon.png",
       homepage: "https://lunaburningknights.io/",
-      marketplace: ["https://launchpad.lunapunks.io/market/2/1"],
+      marketplace: ["https://miata.io/creators/4/collection/9"],
     },
     terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc: {
       contract: "terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc",
