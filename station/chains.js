@@ -40,6 +40,21 @@ module.exports = {
             name: 'Terra',
             icon: 'https://assets.terra.money/icon/svg/Terra.svg',
         },
+        'ares-1': {
+            chainID: 'ares-1',
+            lcd: 'https://testnet-rest.marsprotocol.io',
+            gasAdjustment: 1.75,
+            gasPrices: { umars: 0.0 },
+            prefix: 'mars',
+            coinType: '118',
+            baseAsset: 'umars',
+            name: 'Mars',
+            icon: 'https://marsprotocol.io/mars_logo_colored.svg',
+            ibc: {
+                toTerra: 'channel-1',
+                fromTerra: 'channel-66'
+            }
+        },
         'feath-1': {
             chainID: 'feath-1',
             lcd: 'https://b854b4ab09a35575934ded7ebe73e8bbf97b8169.lcd.feather.network',
