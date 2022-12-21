@@ -177,7 +177,7 @@ module.exports = {
       symbol: "bLUNA",
       name: "boneLuna",
       token: "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-      icon: "https://i.imgur.com/8CpJdcB.jpeg",
+      icon: "https://gravedigger.backbonelabs.io/boneluna.png",
       decimals: 6
     },
     terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg: {
