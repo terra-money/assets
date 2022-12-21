@@ -60,7 +60,7 @@ module.exports = {
             stake: 0.015,
             icon: 'https://purepng.com/public/uploads/large/candle-s9b.png',
             lcd: 'https://candle-lcd.candeago.dev',
-            name: 'Candled Testnet',
+            name: 'Candled',
             prefix: 'candle'
         },
         'uni-5': {
@@ -72,7 +72,7 @@ module.exports = {
             ujunox: 0.015,
             icon: 'https://user-images.githubusercontent.com/545047/184516834-4b8190b0-0721-4778-b4fb-fa19ed3f9279.svg',
             lcd: 'https://juno-testnet-api.polkachu.com',
-            name: 'Juno Testnet',
+            name: 'Juno',
             prefix: 'juno'
         },
     }
