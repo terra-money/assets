@@ -70,6 +70,11 @@ module.exports = {
       name: "IDC",
       icon: "https://raw.githubusercontent.com/IDC1201/IDC/f22b0f203867414b6473f8e8a935c3edf5524296/ASSET/IDC.png",
     },
+    terra1tmehj9z2yemgc8zvn6gv4c6zxd67zaw8aejl75hz5sn4tjpycpjsqrgq58: {
+      protocol: "SANTERRA",
+      name: "Santerra prefund",
+      icon: "https://santerra.app/sant_logo.svg",
+    },
   },
   classic: {
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
