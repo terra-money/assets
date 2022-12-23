@@ -32,6 +32,14 @@ module.exports = {
         'ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4'
       ]
     },
+    terra1yx28vf8z0ph94h6mwxurfjuqzqcc6chzpd85ls8uvr0ajpkdvzhqrmp2sv: {
+      dex: 'astroport',
+      type: 'xyk',
+      assets: [
+        'uluna',
+        'terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz'
+      ]
+    },
     terra1728806n8mgr3n25dwhnmlvgvkfqv9pfnjsqtdzqzk8xpr4h4rnnsttthnw: {
       dex: 'phoenix',
       type: 'xyk',
