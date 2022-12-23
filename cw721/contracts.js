@@ -67,6 +67,22 @@ module.exports = {
       icon: "https://gateway.pinata.cloud/ipfs/QmSSoD6PTs5LqLJUntdRRZ4mLkvgNszpsmnFLjZYhLuTm4",
       marketplace: ["https://knowhere.art/collections/terra17vysjt8ws64v8w696mavjpqs8mksf8s993qghlust9yey8qcmppqnhgw0e","https://talis.art/collection/62e7f8936f292bb2921775a4"],
     },
+    terra19j7859076jveetfhdskc6hwjnr7cpt2t78llp8nz9qnaqtgvj8ns0qgp9j: {
+      contract: "terra19j7859076jveetfhdskc6hwjnr7cpt2t78llp8nz9qnaqtgvj8ns0qgp9j",
+      name: "Depeg Nation",
+      symbol: "DPEG",
+      icon: "https://storage.googleapis.com/public-knowhere/cover-test/440ae4ef-66ff-4d56-ab18-1bcc7c90dfe4.png",
+      homepage: "https://www.depeg.io/",
+      marketplace: [],
+    },
+    terra1kad44vp08yqcz9ec366krj89yvsvs6nmauvhqu6sl93jjw5ugw2qd3xdnw: {
+      contract: "terra1kad44vp08yqcz9ec366krj89yvsvs6nmauvhqu6sl93jjw5ugw2qd3xdnw",
+      name: "Depeg Nation:Tales of dUST",
+      symbol: "DPEGC",
+      icon: "https://storage.googleapis.com/public-knowhere/cover-test/fb8c5862-7e7f-4c91-ab46-c36f9cc08d08.png",
+      homepage: "https://www.depeg.io/",
+      marketplace: [],
+    },
     terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7: {
       contract: "terra1x7rf4nquswmmrjtzlxg6dk3d70ef69prth2q7vk3v9vdprepdh0sjxrvl7",
       name: "Skeleton Punks",
