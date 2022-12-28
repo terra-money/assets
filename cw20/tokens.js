@@ -204,6 +204,78 @@ module.exports = {
       icon: "https://s3.ap-southeast-2.wasabisys.com/bgt/bgtoken.png",
       decimals: 6
     },
+    terra144mkz6p3mmnuqaenu73pg4jwayr3m28xzhaxedlfwfnyke45w6yqvf9ed6: {
+      protocol: "Spectrum",
+      symbol: "clpAstroUsdc",
+      name: "Spectrum Astroport ASTRO-axlUSDC LP cToken",
+      token: "terra144mkz6p3mmnuqaenu73pg4jwayr3m28xzhaxedlfwfnyke45w6yqvf9ed6",
+      icon: "https://terra.spec.finance/assets/SPEC_cToken.png",
+      decimals: 6
+    },
+    terra1ufpsjrvj5fkvdedx2ttslnrc2wxvrftf4zcsvu778cufvlh4m9dsmgcf6f: {
+      protocol: "Spectrum",
+      symbol: "clpUsdcUsdt",
+      name: "Spectrum Astroport axlUSDC-axlUSDT LP cToken",
+      token: "terra1ufpsjrvj5fkvdedx2ttslnrc2wxvrftf4zcsvu778cufvlh4m9dsmgcf6f",
+      icon: "https://terra.spec.finance/assets/SPEC_cToken.png",
+      decimals: 6
+    },
+    terra1erm54gtdtfqv2s4c7ple3kmret7eecuj02nk5w8h08jjnenjffzsynsp0u: {
+      protocol: "Spectrum",
+      symbol: "clpUsdcLuna",
+      name: "Spectrum Astroport axlUSDC-LUNA LP cToken",
+      token: "terra1erm54gtdtfqv2s4c7ple3kmret7eecuj02nk5w8h08jjnenjffzsynsp0u",
+      icon: "https://terra.spec.finance/assets/SPEC_cToken.png",
+      decimals: 6
+    },
+    terra1qczgczguzmxpsqfwlcaqm5hpy3jrkgrkkkcdxhd4uf28t8l8j6qsgtd863: {
+      protocol: "Spectrum",
+      symbol: "clpLunaX",
+      name: "Spectrum Astroport LunaX-LUNA LP cToken",
+      token: "terra1qczgczguzmxpsqfwlcaqm5hpy3jrkgrkkkcdxhd4uf28t8l8j6qsgtd863",
+      icon: "https://terra.spec.finance/assets/SPEC_cToken.png",
+      decimals: 6
+    },
+    terra1ha4yvzqnq4mpu205wcd430m6m7wjklpquwn87dq89g9zersuvryses7rua: {
+      protocol: "Spectrum",
+      symbol: "clpVkrUsdc",
+      name: "Spectrum Astroport VKR-axlUSDC LP cToken",
+      token: "terra1ha4yvzqnq4mpu205wcd430m6m7wjklpquwn87dq89g9zersuvryses7rua",
+      icon: "https://terra.spec.finance/assets/SPEC_cToken.png",
+      decimals: 6
+    },
+    terra1udwqynsmrme00ksrakkyerrfjdkw9p05557yrrw6ca6x94uuj2zs0vpqt2: {
+      protocol: "Spectrum",
+      symbol: "clpTptLuna",
+      name: "Spectrum Astroport TPT-LUNA LP cToken",
+      token: "terra1udwqynsmrme00ksrakkyerrfjdkw9p05557yrrw6ca6x94uuj2zs0vpqt2",
+      icon: "https://terra.spec.finance/assets/SPEC_cToken.png",
+      decimals: 6
+    },
+    terra1gxqzjk4pkyzpnxnrz7h486vntvv4lmaukcs24v9gcsmcm4tyre7qytcm5e: {
+      protocol: "Spectrum",
+      symbol: "clpAmpLuna",
+      name: "Spectrum Astroport ampLUNA-LUNA LP cToken",
+      token: "terra1gxqzjk4pkyzpnxnrz7h486vntvv4lmaukcs24v9gcsmcm4tyre7qytcm5e",
+      icon: "https://terra.spec.finance/assets/SPEC_cToken.png",
+      decimals: 6
+    },
+    terra1w6l7kjc6wu7an37wnnehcfc3tpksw9tde9u67743ew0caly0hdasv0ws79: {
+      protocol: "Spectrum",
+      symbol: "clpbLuna",
+      name: "Spectrum Astroport bLUNA-LUNA LP cToken",
+      token: "terra1w6l7kjc6wu7an37wnnehcfc3tpksw9tde9u67743ew0caly0hdasv0ws79",
+      icon: "https://terra.spec.finance/assets/SPEC_cToken.png",
+      decimals: 6
+    },
+    terra1j9ggd8wf73ggsfet99wnjvn06f3l9w9lsf50uac43h6vclysfc9sp0nyfh: {
+      protocol: "Spectrum",
+      symbol: "clpRedLuna",
+      name: "Spectrum Astroport RED-LUNA LP cToken",
+      token: "terra1j9ggd8wf73ggsfet99wnjvn06f3l9w9lsf50uac43h6vclysfc9sp0nyfh",
+      icon: "https://terra.spec.finance/assets/SPEC_cToken.png",
+      decimals: 6
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
