@@ -65,6 +65,11 @@ module.exports = {
       name: "boneLuna LSD",
       icon: "https://gravedigger.backbonelabs.io/boneluna.png",
     },
+    terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz: {
+      protocol: "Depegged UST",
+      name: "Depegged UST",
+      icon: "https://gateway.pinata.cloud/ipfs/QmTEo7AmbgygF2mek89MHBJ1wPrB23TA811VeXCdcXW5pf",
+    },
     terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg: {
       protocol: "INTERCHAIN DAO COIN",
       name: "IDC",

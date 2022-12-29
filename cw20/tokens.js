@@ -180,6 +180,14 @@ module.exports = {
       icon: "https://gravedigger.backbonelabs.io/boneluna.png",
       decimals: 6
     },
+    terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz: {
+      protocol: "Depeg Nation",
+      symbol: "dUST",
+      name: "Depegged UST",
+      token: "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz",
+      icon: "https://gateway.pinata.cloud/ipfs/QmTEo7AmbgygF2mek89MHBJ1wPrB23TA811VeXCdcXW5pf",
+      decimals: 6
+    },
     terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg: {
       protocol: "INTERCHAIN DAO COIN",
       symbol: "IDC",
