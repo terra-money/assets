@@ -204,6 +204,14 @@ module.exports = {
       icon: "https://s3.ap-southeast-2.wasabisys.com/bgt/bgtoken.png",
       decimals: 6
     },
+    terra1q8kfp0v9rhef0d3u44ds9shwvwcusjheh8nhye3n7gwjd95ze96sehyp6w: {
+      protocol: "Santerra",
+      symbol: "SANT",
+      name: "SANTERRA SANT Token",
+      token: "terra1q8kfp0v9rhef0d3u44ds9shwvwcusjheh8nhye3n7gwjd95ze96sehyp6w",
+      icon: "https://santerra.app/sant_logo.svg",
+      decimals: 6
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
