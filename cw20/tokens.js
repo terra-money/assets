@@ -1761,6 +1761,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/BAZustc/BAZ-CORE/main/BAZ.png",
       decimals: 6,
     },
+    terra1pkp0pkxp9mtlan7cg0qatu65hmkgyq2342g27g: {
+      protocol: "Lunar Deity",
+      symbol: "DUST",
+      name: "Moon Dust",
+      token: "terra1pkp0pkxp9mtlan7cg0qatu65hmkgyq2342g27g",
+      icon: "https://gateway.pinata.cloud/ipfs/QmQ4gGYkPE6MFGbCpamgdeG1aTeagjhAHcX1eszYzCjzvy",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
