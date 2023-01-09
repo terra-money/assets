@@ -1769,6 +1769,14 @@ module.exports = {
       icon: "https://gateway.pinata.cloud/ipfs/QmQ4gGYkPE6MFGbCpamgdeG1aTeagjhAHcX1eszYzCjzvy",
       decimals: 6,
     },
+     terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54: {
+      protocol: "Optimizer Protocol",
+      symbol: "OPZC",
+      name: "Lunc optimizer token",
+      token: "terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54",
+      icon: "https://assets.terra.money/icon/opz/OPZ.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
