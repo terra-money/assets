@@ -88,7 +88,11 @@ module.exports = {
             icon: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/handshake_1f91d.png',
             lcd: 'http://ec2-3-75-187-158.eu-central-1.compute.amazonaws.com:1317',
             name: 'Alliance Testnet',
-            prefix: 'alliance'
+            prefix: 'alliance',
+            ibc: {
+                toTerra: 'channel-1',
+                fromTerra: 'channel-169'
+            }
         },
         'uni-5': {
             baseAsset: 'ujunox',
