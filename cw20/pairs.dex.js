@@ -1570,6 +1570,21 @@ module.exports = {
       type: 'xyk',
       assets: ['terra1pkp0pkxp9mtlan7cg0qatu65hmkgyq2342g27g', 'uluna'],
     },
+    terra12gkp648mkgj6esr5y6dwc2q4mftnfzk2pudka8: {
+      dex: 'terraswap',
+      type: 'xyk',
+      assets: ['terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm', 'uluna'],
+    },
+    terra1q3pem26pyxq7qggmxkh5egd4km0a7l0gxe84wk: {
+      dex: 'terraswap',
+      type: 'xyk',
+      assets: ['terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm', 'uusd'],
+    },
+    terra132qwlqxffksjfg6ntzp4m5786lrlmgrufzx5c6: {
+      dex: 'astroport',
+      type: 'xyk',
+      assets: ['terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm', 'uluna'],
+    },
   },
   testnet: {},
 };
