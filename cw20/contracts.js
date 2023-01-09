@@ -63,7 +63,22 @@ module.exports = {
     terra1l2nd99yze5fszmhl5svyh5fky9wm4nz4etlgnztfu4e8809gd52q04n3ea: {
       protocol: "boneLuna",
       name: "boneLuna LSD",
-      icon: "https://i.imgur.com/8CpJdcB.jpeg",
+      icon: "https://gravedigger.backbonelabs.io/boneluna.png",
+    },
+    terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz: {
+      protocol: "Depegged UST",
+      name: "Depegged UST",
+      icon: "https://gateway.pinata.cloud/ipfs/QmTEo7AmbgygF2mek89MHBJ1wPrB23TA811VeXCdcXW5pf",
+    },
+    terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg: {
+      protocol: "INTERCHAIN DAO COIN",
+      name: "IDC",
+      icon: "https://raw.githubusercontent.com/IDC1201/IDC/f22b0f203867414b6473f8e8a935c3edf5524296/ASSET/IDC.png",
+    },
+    terra1tmehj9z2yemgc8zvn6gv4c6zxd67zaw8aejl75hz5sn4tjpycpjsqrgq58: {
+      protocol: "SANTERRA",
+      name: "Santerra prefund",
+      icon: "https://santerra.app/sant_logo.svg",
     },
   },
   classic: {
@@ -1789,7 +1804,12 @@ module.exports = {
     terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf: {
       protocol:"INTERCHAIN DAO COIN",
       name: "IDC",
-      icon: "https://gateway.pinata.cloud/ipfs/Qmd3ussNvHvHhLSqZcZfkT7p6irQ6a2fNSW8jsRPi6uiro",
+      icon: "https://gateway.pinata.cloud/ipfs/bafybeifpwyro73qvpsg2xulgqgkvrfbw5jtqxrkzsryq6kl3f4o23ohai4/IDC.png",
+    },
+    terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc: {
+      protocol:"BAZ",
+      name: "BAZ",
+      icon: "https://raw.githubusercontent.com/BAZustc/BAZ-CORE/main/BAZ.png",
     },
   },
   testnet: {
