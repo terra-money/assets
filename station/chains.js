@@ -46,7 +46,7 @@ module.exports = {
             gasAdjustment: 1.75,
             gasPrices: { umars: 0.0 },
             prefix: 'mars',
-            coinType: '118',
+            coinType: '330',
             baseAsset: 'umars',
             name: 'Mars',
             icon: 'https://marsprotocol.io/mars_logo_colored.svg',
