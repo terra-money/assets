@@ -78,6 +78,18 @@ module.exports = {
             name: 'Candled',
             prefix: 'candle'
         },
+        'alliance-testnet-1': {
+            baseAsset: 'stake',
+            chainID: 'alliance-testnet-1',
+            coinType: '118',
+            gasAdjustment: 1.75,
+            gasPrices: { stake: 0.015 },
+            stake: 0.015,
+            icon: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/handshake_1f91d.png',
+            lcd: 'http://ec2-3-75-187-158.eu-central-1.compute.amazonaws.com:1317',
+            name: 'Alliance Testnet',
+            prefix: 'alliance'
+        },
         'uni-5': {
             baseAsset: 'ujunox',
             chainID: 'uni-5',
