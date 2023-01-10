@@ -111,7 +111,7 @@ module.exports = {
         'columbus-5': {
             chainID: 'columbus-5',
             lcd: 'https://columbus-lcd.terra.dev',
-            gasAdjustment: 1.75,
+            gasAdjustment: 3,
             gasPrices: {
                 uluna: 5.665,
                 uusd: 0.15
