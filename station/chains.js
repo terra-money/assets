@@ -106,5 +106,18 @@ module.exports = {
             name: 'Juno',
             prefix: 'juno'
         },
+    },
+    classic: {
+        'columbus-5': {
+            chainID: 'columbus-5',
+            lcd: 'https://columbus-lcd.terra.dev',
+            gasAdjustment: 1.75,
+            gasPrices: { uluna: 0.015 },
+            prefix: 'terra',
+            coinType: '330',
+            baseAsset: 'uluna',
+            name: 'Classic',
+            icon: 'https://assets.terra.money/icon/svg/TerraClassic.svg',
+        },
     }
 }
