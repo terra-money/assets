@@ -5,7 +5,9 @@ const chains = {
     // testnet
     terraTest: 'pisco-1',
     marsTest: 'ares-1',
-    featherTest: 'feath-1'
+    featherTest: 'feath-1',
+    // classic
+    classic: 'columbus-5'
 }
 
 module.exports = {
@@ -14,7 +16,7 @@ module.exports = {
         symbol: 'Luna',
         name: 'Terra Luna',
         icon: 'https://assets.terra.money/icon/svg/Luna.svg',
-        chains: [chains.terra, chains.terraTest],
+        chains: [chains.terra, chains.terraTest, chains.classic],
         decimals: 6,
     },
     uosmo: {
