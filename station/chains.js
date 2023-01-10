@@ -121,6 +121,8 @@ module.exports = {
             baseAsset: 'uluna',
             name: 'Classic',
             icon: 'https://assets.terra.money/icon/svg/TerraClassic.svg',
+            isClassic: true,
+
         },
     }
 }
