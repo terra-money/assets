@@ -19,4 +19,6 @@ module.exports = {
     'dai-wei': 'dai',
     'weth-wei': 'ethereum',
     'wbtc-satoshi': 'bitcoin',
+    'uusd:classic': 'terrausd',
+    'uluna:classic': 'terra-luna',
 }
