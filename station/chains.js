@@ -112,7 +112,10 @@ module.exports = {
             chainID: 'columbus-5',
             lcd: 'https://terra-classic-lcd.publicnode.com',
             gasAdjustment: 1.75,
-            gasPrices: { uluna: 0.015 },
+            gasPrices: {
+                uluna: 5.665,
+                uusd: 0.15
+            },
             prefix: 'terra',
             coinType: '330',
             baseAsset: 'uluna',
