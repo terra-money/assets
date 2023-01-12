@@ -1030,7 +1030,7 @@ module.exports = {
       symbol: "PRISM",
       name: "Prism Protocol Token",
       token: "terra1dh9478k2qvqhqeajhn75a2a7dsnf74y5ukregw",
-      icon: "https://prismprotocol.app/prism.png",
+      icon: "https://home.prismprotocol.app/prism.png",
       decimals: 6,
     },
     terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq: {
@@ -1062,7 +1062,7 @@ module.exports = {
       symbol: "xPRISM",
       name: "Prism Governance Token",
       token: "terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz",
-      icon: "https://prismprotocol.app/xprism.png",
+      icon: "https://home.prismprotocol.app/xprism.png",
       decimals: 6,
     },
     terra13fs83g5atgjwuh7c5ydzh6n7gecel6xyhhy2t5: {
@@ -1726,7 +1726,7 @@ module.exports = {
       symbol: "cLUNA",
       name: "cLUNA",
       token: "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3",
-      icon: "https://prismprotocol.app/cLuna.svg",
+      icon: "https://home.prismprotocol.app/cluna.png",
       decimals: 6
     },
     terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf: {
