@@ -14,7 +14,7 @@ module.exports = {
         },
         'osmosis-1': {
             chainID: 'osmosis-1',
-            lcd: 'https://osmosis.feather.network',
+            lcd: 'https://lcd-osmosis.keplr.app',
             gasAdjustment: 1.75,
             gasPrices: { uosmo: 0.025 },
             prefix: 'osmo',
@@ -105,6 +105,24 @@ module.exports = {
             lcd: 'https://juno-testnet-api.polkachu.com',
             name: 'Juno',
             prefix: 'juno'
+        },
+    },
+    classic: {
+        'columbus-5': {
+            chainID: 'columbus-5',
+            lcd: 'https://columbus-lcd.terra.dev',
+            gasAdjustment: 3,
+            gasPrices: {
+                uluna: 5.665,
+                uusd: 0.15
+            },
+            prefix: 'terra',
+            coinType: '330',
+            baseAsset: 'uluna',
+            name: 'Classic',
+            icon: 'https://assets.terra.money/icon/svg/TerraClassic.svg',
+            isClassic: true,
+
         },
     }
 }
