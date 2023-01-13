@@ -78,6 +78,18 @@ module.exports = {
             name: 'Candled',
             prefix: 'candle'
         },
+        'harkonnen-1': {
+            baseAsset: 'uhar',
+            chainID: 'harkonnen-1',
+            coinType: '118',
+            gasAdjustment: 1.75,
+            gasPrices: { stake: 0.015 },
+            stake: 0.015,
+            icon: 'https://cdn-icons-png.flaticon.com/512/825/825590.png',
+            lcd: 'http://ec2-3-70-72-206.eu-central-1.compute.amazonaws.com:1317',
+            name: 'Harkonnen Testnet',
+            prefix: 'harkonnen'
+        },
         'alliance-testnet-1': {
             baseAsset: 'stake',
             chainID: 'alliance-testnet-1',
