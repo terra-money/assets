@@ -10,6 +10,8 @@ module.exports = {
     ugraviton: 'graviton',
     ukuji: 'kujira',
     ucre: 'crescent-network',
+    swth: 'switcheo',
+    uhuahua: 'chihuahua-token',
     'factory:kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7:uusk': 'usk',
     'frax-wei': 'frax',
     'uni-wei': 'uniswap',
