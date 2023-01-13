@@ -66,18 +66,6 @@ module.exports = {
             name: 'Feather',
             icon: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/microsoft/319/feather_1fab6.png',
         },
-        'candled-testnet-1': {
-            baseAsset: 'stake',
-            chainID: 'candled-testnet-1',
-            coinType: '118',
-            gasAdjustment: 1.75,
-            gasPrices: { stake: 0.015 },
-            stake: 0.015,
-            icon: 'https://purepng.com/public/uploads/large/candle-s9b.png',
-            lcd: 'https://candle-lcd.candeago.dev',
-            name: 'Candled',
-            prefix: 'candle'
-        },
         'harkonnen-1': {
             baseAsset: 'uhar',
             chainID: 'harkonnen-1',
