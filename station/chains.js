@@ -73,7 +73,7 @@ module.exports = {
             gasAdjustment: 1.75,
             gasPrices: { uhar: 0.015 },
             icon: 'https://cdn-icons-png.flaticon.com/512/825/825590.png',
-            lcd: 'http://ec2-3-70-72-206.eu-central-1.compute.amazonaws.com:1317',
+            lcd: 'https://harkonnen-lcd.candeago.dev',
             name: 'Harkonnen Testnet',
             prefix: 'harkonnen'
         },
