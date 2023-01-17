@@ -198,5 +198,32 @@ module.exports = {
       decimals: 18,
       coinGeckoId: "weth"
     },
+    "35D289C06D2391C7D7C1A84AC7C73B2A04F69203D7316876A5EC9D8C2952E17C": {
+      denom: "ibc/35D289C06D2391C7D7C1A84AC7C73B2A04F69203D7316876A5EC9D8C2952E17C",
+      path: "transfer/channel-4",
+      base_denom: "cw20:terra1ksym7nysy9kx4aq0r7u3nflzxcly9l7gn285vzx9yn0xz3zyd7psd66swt",
+      symbol: "fOSMO",
+      name: "faux OSMOSIS Token",
+      icon: "https://station-assets.terra.money/img/coins/Osmo.svg",
+      decimals: 6
+    },
+    "C02E95358F7A86EBB8CFDA9661FA2819AF548F637886987B8722F43925F1FC64": {
+      denom: "ibc/C02E95358F7A86EBB8CFDA9661FA2819AF548F637886987B8722F43925F1FC64",
+      path: "transfer/channel-4",
+      base_denom: "cw20:terra1qtwuc8atnycww2wz7cu7lh8qd2l50cnhgj3rsvxn72ge0qrxa3es5j6u3c",
+      symbol: "fATOM",
+      name: "faux ATOM Token",
+      icon: "https://station-assets.terra.money/img/coins/fAtom.png",
+      decimals: 6
+    },
+    "C02E95358F7A86EBB8CFDA9661FA2819AF548F637886987B8722F43925F1FC64": {
+      denom: "ibc/C02E95358F7A86EBB8CFDA9661FA2819AF548F637886987B8722F43925F1FC64",
+      path: "transfer/channel-4",
+      base_denom: "cw20:terra1du2jfq23hlr8pgevz8cfl0cgu5shqcm5j84zxtpr09qp6psw4lxqhk7505",
+      symbol: "fJUNO",
+      name: "faux JUNO Token",
+      icon: "https://station-assets.terra.money/img/coins/fJuno.png",
+      decimals: 6
+    },
   },
 };
