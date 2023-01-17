@@ -198,6 +198,8 @@ module.exports = {
       decimals: 18,
       coinGeckoId: "weth"
     },
+  },
+  ordos: {
     "35D289C06D2391C7D7C1A84AC7C73B2A04F69203D7316876A5EC9D8C2952E17C": {
       denom: "ibc/35D289C06D2391C7D7C1A84AC7C73B2A04F69203D7316876A5EC9D8C2952E17C",
       path: "transfer/channel-4",
@@ -225,5 +227,5 @@ module.exports = {
       icon: "https://station-assets.terra.money/img/coins/fJuno.png",
       decimals: 6
     },
-  },
+  }
 };
