@@ -216,8 +216,8 @@ module.exports = {
       icon: "https://station-assets.terra.money/img/coins/fAtom.png",
       decimals: 6
     },
-    "C02E95358F7A86EBB8CFDA9661FA2819AF548F637886987B8722F43925F1FC64": {
-      denom: "ibc/C02E95358F7A86EBB8CFDA9661FA2819AF548F637886987B8722F43925F1FC64",
+    "D914F9AA87A8AD0FFD1FFC1B050024BDCA43CE726455B9B788C9D5DEDC00876D": {
+      denom: "ibc/D914F9AA87A8AD0FFD1FFC1B050024BDCA43CE726455B9B788C9D5DEDC00876D",
       path: "transfer/channel-4",
       base_denom: "cw20:terra1du2jfq23hlr8pgevz8cfl0cgu5shqcm5j84zxtpr09qp6psw4lxqhk7505",
       symbol: "fJUNO",
