@@ -220,6 +220,14 @@ module.exports = {
       icon: "https://santerra.app/sant_logo.svg",
       decimals: 6
     },
+    terra1gwz4m0q6vq6nyunt88vlsf5u3ve0fv3qc40q0mdky58s4fjy4fcsqpkman: {
+      protocol: "Talis Protocol",
+      symbol: "TALIS",
+      name: "TALIS Token",
+      token: "terra1gwz4m0q6vq6nyunt88vlsf5u3ve0fv3qc40q0mdky58s4fjy4fcsqpkman",
+      icon: "https://gateway.pinata.cloud/ipfs/QmXama3Nj45sHFw5o43fDGuSmYLUirPtHTt9Jyi6RNKZmz",
+      decimals: 6
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
