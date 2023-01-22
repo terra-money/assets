@@ -220,6 +220,14 @@ module.exports = {
       icon: "https://santerra.app/sant_logo.svg",
       decimals: 6
     },
+     terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
+      protocol: "LBUNswap",
+      symbol: "LBUN",
+      name: "LUNC Burn Token",
+      token: "terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4",
+      icon: "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
+      decimals: 6
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
