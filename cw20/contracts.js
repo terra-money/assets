@@ -80,7 +80,7 @@ module.exports = {
       name: "Santerra prefund",
       icon: "https://santerra.app/sant_logo.svg",
     },
-    terra1tmehj9z2yemgc8zvn6gv4c6zxd67zaw8aejl75hz5sn4tjpycpjsqrgq58: {
+    terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
       protocol: "LBUNswap",
       name: "LUNC Burn Token",
       icon: "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
