@@ -819,7 +819,7 @@ module.exports = {
     },
     terra1mr9xlwydgg0lfxvy68ylxuchzy6jdn706vwu8c: {
       protocol: "Spectrum",
-      name: "Spec Astroport SAYVE-UST Farm",
+      name: "Spec Astroport SAYVEC-UST Farm",
       icon: "https://terra.spec.finance/assets/SPEC.png",
     },
     terra19dfth8559etgnqmnu9nwd87pjqsuufswwclcav: {
@@ -1683,17 +1683,17 @@ module.exports = {
     },
     terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
       protocol: "Sayve Protocol",
-      name: "SAYVE Token",
+      name: "SAYVEC Token",
       icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
     },
     terra1k8lvj3w7dxzd6zlyptcj086gfwms422xkqjmzx: {
       protocol: "Sayve Protocol",
-      name: "SAYVE-UST Pair",
+      name: "SAYVEC-UST Pair",
       icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
     },
     terra1drradty46zqun4624p8a3sp9h5jfg9phwlgnm2: {
       protocol: "Sayve Protocol",
-      name: "SAYVE-UST LP Token",
+      name: "SAYVEC-UST LP Token",
       icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
     },
     terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6: {

@@ -1250,8 +1250,8 @@ module.exports = {
     },
     terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
       protocol: "Sayve",
-      symbol: "SAYVE",
-      name: "Sayve Token",
+      symbol: "SAYVEC",
+      name: "Sayve Classic Token",
       token: "terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr",
       icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
       decimals: 6,
