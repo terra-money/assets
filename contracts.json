@@ -1,10 +1,13 @@
 {
-  "mainnet": {},
+  "mainnet": {
+    "lns": "terra16a6qkmxpqzeyez8gh3w7qhrk7x3xe3arlv9nwfg944y8vzg9smrqntark3"
+  },
   "classic": {
     "assertLimitOrder": "terra1vs9jr7pxuqwct3j29lez3pfetuu8xmq7tk3lzk",
     "routeswap": "terra19qx5xe6q9ll4w0890ux7lv2p4mf3csd4qvt3ex",
     "tnsRegistry": "terra19gqw63xnt9237d2s8cdrzstn98g98y7hkl80gs",
-    "tnsReverseRecord": "terra13efj2whf6rm7yedc2v7rnz0e6ltzytyhydy98a"
+    "tnsReverseRecord": "terra13efj2whf6rm7yedc2v7rnz0e6ltzytyhydy98a",
+    "lns": "terra1c26skq575mejc6p5jamag3lfcxrnny80jpte76"
   },
   "testnet": {}
 }
