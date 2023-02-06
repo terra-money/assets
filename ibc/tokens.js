@@ -1,5 +1,21 @@
 module.exports = {
   mainnet: {
+    "0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528": {
+      denom: "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528",
+      path: "transfer/channel-46",
+      base_denom: "ustrd",
+      symbol: "STRD",
+      name: "Stride",
+      icon: "https://assets.terra.money/icon/svg/ibc/STRD.svg",
+    },
+    "08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431": {
+      denom: "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
+      path: "transfer/channel-46",
+      base_denom: "stuluna",
+      symbol: "stLUNA",
+      name: "Stride LUNA",
+      icon: "https://assets.terra.money/icon/svg/ibc/stLUNA.svg",
+    },
     "2E435CEEEBA18CCB2719E0182BC5D142A364D6CCE9957DE6E1AC4D62127D2913": {
       denom: "ibc/2E435CEEEBA18CCB2719E0182BC5D142A364D6CCE9957DE6E1AC4D62127D2913",
       path: "transfer/channel-6",
