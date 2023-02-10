@@ -1786,6 +1786,14 @@ module.exports = {
       token: "terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s",
       icon: "https://raw.githubusercontent.com/Y-Foundry-Dao/brand-assets/main/contract/pisco-1/cw20-yfd.svg",
       decimals: 6
+    },
+    terra1kye343r8hl7wm6f3uzynyyzl2zmcm2sqmvvzwzj7et2j5jj7rjkqa2ue88: {
+      protocol: "ERIS Protocol",
+      symbol: "ampLUNA-T",
+      name: "Amplified LUNA Testnet",
+      token: "terra1kye343r8hl7wm6f3uzynyyzl2zmcm2sqmvvzwzj7et2j5jj7rjkqa2ue88",
+      icon: "https://www.erisprotocol.com/assets/ampLuna100.png",
+      decimals: 6,
     }
   },
 };
