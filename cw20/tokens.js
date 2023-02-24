@@ -676,8 +676,8 @@ module.exports = {
     },
     terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz: {
       protocol: "White Whale",
-      symbol: "WHALE",
-      name: "Whale Token",
+      symbol: "WHALEC",
+      name: "Whale Classic Token",
       token: "terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz",
       icon: "https://www.whitewhale.money/tokenlogo.png",
       decimals: 6,
