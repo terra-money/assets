@@ -1,5 +1,10 @@
 module.exports = [
   {
+    name: "LunaPunks",
+    link: "https://lunapunks.io",
+    icon: "https://lunapunks.io/hero.jpg",
+  },
+  {
     name: "Random Earth",
     link: "https://randomearth.io",
   },

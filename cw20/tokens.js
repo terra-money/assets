@@ -1801,6 +1801,14 @@ module.exports = {
       icon: "https://assets.terra.money/icon/opz/OPZ.png",
       decimals: 6,
     },
+    terra1g9carn4sdnlv2uw2u4uelqpf8lun9zwymhuf70: {
+      protocol: "LunaPunks",
+      symbol: "LPRT",
+      name: "LunaPunks Remint Token",
+      token: "terra1g9carn4sdnlv2uw2u4uelqpf8lun9zwymhuf70",
+      icon: "https://ipfs.lunapunks.io/ipfs/QmQmSwJEgPAWQNPR9S6cLc3cSKT3k16e44ZC7bUxuD7ERd",
+      decimals: 0,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
