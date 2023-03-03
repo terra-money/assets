@@ -236,6 +236,14 @@ module.exports = {
       icon: "https://santerra.app/sant_logo.svg",
       decimals: 6
     },
+    terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj: {
+      protocol: "Optimizer Protocol",
+      symbol: "OPZA",
+      name: "Luna optimizer token",
+      token: "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj",
+      icon: "https://avatars.githubusercontent.com/u/111164738?s=400&u=970d83fe90b55d4ca45e798fe0bc387d4ec5cbd5&v=4",
+      decimals: 6,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
