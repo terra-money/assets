@@ -197,7 +197,7 @@ module.exports = {
         chains: [chains.marsTest],
         decimals: 6,
     },
-    'ibc/268BAF98AA5EEB84194F1391009644F6B0AB19C0964C49847C30C8C05E1F38D0': {
+    'ibc/A91A7FDF128104F0A49B96E9EC8D8D739F878796B33104F70478CDE60B6401D5': {
         token: 'umars',
         symbol: 'Mars',
         name: 'Mars',
@@ -205,7 +205,7 @@ module.exports = {
         chains: [chains.terraTest],
         decimals: 6,
     },
-    'ibc/265435C653FE85CD659E88CD51D4A735BDD4D3804871400378A488C71D68C72B': {
+    'ibc/4627AD2524E3E0523047E35BB76CC90E37D9D57ACF14F0FCBCEB2480705F3CB8': {
         token: 'uluna',
         symbol: 'Luna',
         name: 'Terra Luna',

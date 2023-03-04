@@ -1,5 +1,21 @@
 module.exports = {
   mainnet: {
+    terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst: {
+      protocol: "Capapult",
+      symbol: "SOLID",
+      name: "Solid",
+      token: "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
+      icon: "https://assets.capapult.finance/icon/Solid.svg",
+      decimals: 6,
+    },
+    terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar: {
+      protocol: "Capapult",
+      symbol: "CAPA",
+      name: "Capapult",
+      token: "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+      icon: "https://assets.capapult.finance/icon/Capa.svg",
+      decimals: 6,
+    },
     terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw: {
       protocol: "Orne",
       symbol: "ORNE",
@@ -219,6 +235,14 @@ module.exports = {
       token: "terra1q8kfp0v9rhef0d3u44ds9shwvwcusjheh8nhye3n7gwjd95ze96sehyp6w",
       icon: "https://santerra.app/sant_logo.svg",
       decimals: 6
+    },
+    terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj: {
+      protocol: "Optimizer Protocol",
+      symbol: "OPZA",
+      name: "Luna optimizer token",
+      token: "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj",
+      icon: "https://avatars.githubusercontent.com/u/111164738?s=400&u=970d83fe90b55d4ca45e798fe0bc387d4ec5cbd5&v=4",
+      decimals: 6,
     },
   },
   classic: {
@@ -676,8 +700,8 @@ module.exports = {
     },
     terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz: {
       protocol: "White Whale",
-      symbol: "WHALE",
-      name: "Whale Token",
+      symbol: "WHALEC",
+      name: "Whale Classic Token",
       token: "terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz",
       icon: "https://www.whitewhale.money/tokenlogo.png",
       decimals: 6,
@@ -1777,6 +1801,14 @@ module.exports = {
       icon: "https://assets.terra.money/icon/opz/OPZ.png",
       decimals: 6,
     },
+    terra1g9carn4sdnlv2uw2u4uelqpf8lun9zwymhuf70: {
+      protocol: "LunaPunks",
+      symbol: "LPRT",
+      name: "LunaPunks Remint Token",
+      token: "terra1g9carn4sdnlv2uw2u4uelqpf8lun9zwymhuf70",
+      icon: "https://ipfs.lunapunks.io/ipfs/QmQmSwJEgPAWQNPR9S6cLc3cSKT3k16e44ZC7bUxuD7ERd",
+      decimals: 0,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
@@ -1786,6 +1818,14 @@ module.exports = {
       token: "terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s",
       icon: "https://raw.githubusercontent.com/Y-Foundry-Dao/brand-assets/main/contract/pisco-1/cw20-yfd.svg",
       decimals: 6
+    },
+    terra1xgvp6p0qml53reqdyxgcl8ttl0pkh0n2mtx2n7tzfahn6e0vca7s0g7sg6: {
+      protocol: "ERIS Protocol",
+      symbol: "ampLUNA-T",
+      name: "Amplified LUNA Testnet",
+      token: "terra1xgvp6p0qml53reqdyxgcl8ttl0pkh0n2mtx2n7tzfahn6e0vca7s0g7sg6",
+      icon: "https://www.erisprotocol.com/assets/ampLuna100.png",
+      decimals: 6,
     }
   },
 };
