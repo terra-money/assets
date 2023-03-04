@@ -202,6 +202,14 @@ module.exports = {
       name: "Cosmos",
       icon: "https://assets.terra.money/icon/svg/ibc/ATOM.svg",
     },
+    FA7775734CC73176B7425910DE001A1D2AD9B6D9E93129A5D0750EAD13E4E63A: {
+      denom: "ibc/FA7775734CC73176B7425910DE001A1D2AD9B6D9E93129A5D0750EAD13E4E63A",
+      path: "transfer/channel-1",
+      base_denom: "uusdc-os",
+      symbol: "axlUSDC-OS",
+      name: "Osmosis Axelar USD Coin",
+      icon: "https://assets.terra.money/icon/svg/ibc/axlUSDC.svg",
+    },
   },
   testnet: {
     "C567713C9D0904098C14BA0FBEB9192C5B68B590757EE6913DC292710C8926E6": {
