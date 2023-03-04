@@ -244,6 +244,22 @@ module.exports = {
       icon: "https://avatars.githubusercontent.com/u/111164738?s=400&u=970d83fe90b55d4ca45e798fe0bc387d4ec5cbd5&v=4",
       decimals: 6,
     },
+    terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3: {
+      protocol: "Sayve",
+      symbol: "SAYVE",
+      name: "Sayve Token",
+      token: "terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3",
+      icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
+      decimals: 6,
+    },
+    terra16zc783wt2w5lvlt9u4as977lt39c3se427akkenrzyax5vtde70qa89ukv: {
+      protocol: "Sayve",
+      symbol: "xSAYVE",
+      name: "Staked Sayve Token",
+      token: "terra16zc783wt2w5lvlt9u4as977lt39c3se427akkenrzyax5vtde70qa89ukv",
+      icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/xsayve-logo.png",
+      decimals: 6,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
@@ -1258,8 +1274,8 @@ module.exports = {
     },
     terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
       protocol: "Sayve",
-      symbol: "SAYVE",
-      name: "Sayve Token",
+      symbol: "SAYVEC",
+      name: "Sayve Classic Token",
       token: "terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr",
       icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
       decimals: 6,
