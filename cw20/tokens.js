@@ -1825,6 +1825,14 @@ module.exports = {
       icon: "https://ipfs.lunapunks.io/ipfs/QmQmSwJEgPAWQNPR9S6cLc3cSKT3k16e44ZC7bUxuD7ERd",
       decimals: 0,
     },
+      terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4: {
+      protocol: "Optimizer Protocol",
+      symbol: "OPZC",
+      name: "Lunc optimizer token",
+      token: "terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4",
+      icon: "https://assets.terra.money/icon/opz/OPZC.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
