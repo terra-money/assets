@@ -202,6 +202,14 @@ module.exports = {
       name: "Cosmos",
       icon: "https://assets.terra.money/icon/svg/ibc/ATOM.svg",
     },
+    "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
+      denom: "ibc/73A56F04D27FC4CCF6F75C7516A9698B7411E1CE763E240C8A29A50404F86B53",
+      path: "transfer/channel-64",
+      base_denom: "wusdc-gb",
+      symbol: "gbUSDC",
+      name: "Gravity Bridge Wrapped USDC",
+      icon: "https://assets.terra.money/icon/svg/ibc/axlUSDC.svg",
+    },
   },
   testnet: {
     "C567713C9D0904098C14BA0FBEB9192C5B68B590757EE6913DC292710C8926E6": {
