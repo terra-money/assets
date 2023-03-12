@@ -1833,6 +1833,14 @@ module.exports = {
       icon: "https://assets.terra.money/icon/opz/OPZC.png",
       decimals: 6,
     },
+    terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr: {
+      protocol: "Sonikchain",
+      symbol: "SON",
+      name: "Sonic Token",
+      token: "terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr",
+      icon: "https://swap.sonikchain.com/sonic32.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
