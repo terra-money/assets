@@ -1816,6 +1816,11 @@ module.exports = {
       name: "BAZ",
       icon: "https://raw.githubusercontent.com/BAZustc/BAZ-CORE/main/BAZ.png",
     },
+    terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr: {
+      protocol: "Sonikchain",
+      name: "SON",
+      icon: "https://swap.sonikchain.com/sonic32.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
