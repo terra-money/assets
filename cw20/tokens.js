@@ -143,6 +143,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png",
       decimals: 8,
     },
+    terra1rwg5kt6kcyxtz69acjgpeut7dgr4y3r7tvntdxqt03dvpqktrfxq4jrvpq: {
+      protocol: "Wormhole",
+      symbol: "UST",
+      name: "UST (Portal)",
+      token: "terra1rwg5kt6kcyxtz69acjgpeut7dgr4y3r7tvntdxqt03dvpqktrfxq4jrvpq",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UST_wh.png",
+      decimals: 6,
+    },
      terra1564y9uxzhast8sk5n47teypy4mxy7fg5vne2msuztsft7qk3pj9sxxuxmc: {
       protocol: "TerraFloki",
       symbol: "TFLOKI",
