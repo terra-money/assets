@@ -1857,6 +1857,14 @@ module.exports = {
       icon: "https://swap.sonikchain.com/sonic32.png",
       decimals: 6,
     },
+    terra1lx6w28yvma0y8hll0svg687ft694yrgax5k276: {
+      protocol: "Terraport",
+      symbol: "TERRA",
+      name: "Terraport",
+      token: "terra1lx6w28yvma0y8hll0svg687ft694yrgax5k276",
+      icon: "https://i.ibb.co/GtmvHT4/logo.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
