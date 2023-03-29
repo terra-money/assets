@@ -151,6 +151,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UST_wh.png",
       decimals: 6,
     },
+    terra16h7keds26d52xj8rn9jfx6lj2x0ja79lt56yxnmlm4xsttf5mu5smq5f78: {
+      protocol: "Wormhole",
+      symbol: "LUNC",
+      name: "LUNC (Portal)",
+      token: "terra16h7keds26d52xj8rn9jfx6lj2x0ja79lt56yxnmlm4xsttf5mu5smq5f78",
+      icon: "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUNA_wh.png",
+      decimals: 6,
+    },
      terra1564y9uxzhast8sk5n47teypy4mxy7fg5vne2msuztsft7qk3pj9sxxuxmc: {
       protocol: "TerraFloki",
       symbol: "TFLOKI",
