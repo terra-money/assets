@@ -1,5 +1,11 @@
 {
-  "mainnet": {},
+  "mainnet": {
+    "terra1kgqwwdyg0sq05tjl34qh48ewu6ln3q0ds63hl87tjdrp80e5s0yqt6rp48": {
+      "url": "https://www.erisprotocol.com",
+      "types": ["/cosmos.authz.v1beta1.GenericAuthorization"],
+      "msgs": ["/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward", "/cosmwasm.wasm.v1.MsgExecuteContract"]
+    }
+  },
   "classic": {
     "terra10perwarjzn47xqdfla43j2kdfr90sy5lmc0uwc": {
       "url": "https://terra-bot.b42.tech",
@@ -7,6 +13,11 @@
     }
   },
   "testnet": {
+    "terra1f7lzek24y0mje9fk5ale29mqt82nt6hfl3t48834kfcpg0h99phqfz7w84": {
+      "url": "https://www.erisprotocol.com",
+      "types": ["/cosmos.authz.v1beta1.GenericAuthorization"],
+      "msgs": ["/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward", "/cosmwasm.wasm.v1.MsgExecuteContract"]
+    },
     "terra1l05d3ql49rfl6re3vjw4ak7lrprtldlcywsz4l": {
       "url": "https://terra-bot.b42.tech",
       "types": ["msgauth/GenericAuthorization"]
