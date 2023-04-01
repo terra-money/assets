@@ -1821,6 +1821,11 @@ module.exports = {
       name: "SON",
       icon: "https://swap.sonikchain.com/sonic32.png",
     },
+    terra1lx6w28yvma0y8hll0svg687ft694yrgax5k276: {
+      protocol: "Terraport",
+      name: "Terraport",
+      icon: "https://i.ibb.co/GtmvHT4/logo.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
