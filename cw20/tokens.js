@@ -276,6 +276,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
       decimals: 6,
     },
+    terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv: {
+      protocol: "Lion DAO",
+      symbol: "ROAR",
+      name: "Lion DAO",
+      token: "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
+      icon: "https://app.astroport.fi/tokens/roar.png",
+      decimals: 6,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
