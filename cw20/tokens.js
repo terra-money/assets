@@ -292,6 +292,14 @@ module.exports = {
       icon: "https://app.astroport.fi/tokens/roar.png",
       decimals: 6,
     },
+   terra18ha3r45syfpp46qg85p9wqxy6p0nj82rlxt7c74qkdr0yzcjut9sw7gerz: {
+      protocol: "TRUMP DAO",
+      symbol: "TRUMP",
+      name: "TRUMP",
+      token: "terra18ha3r45syfpp46qg85p9wqxy6p0nj82rlxt7c74qkdr0yzcjut9sw7gerz",
+      icon: "https://raw.githubusercontent.com/trumpdao/public/main/data/trump_logo.png",
+      decimals: 6,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
