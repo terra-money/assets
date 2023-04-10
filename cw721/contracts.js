@@ -1,5 +1,13 @@
 module.exports = {
   mainnet: {
+    terra1ntnkf7k3twr4j7j2h6y4k95rz0nfhcx9e3e0ke957vjvpzwynd6qas43zl: {
+      contract: "terra1ntnkf7k3twr4j7j2h6y4k95rz0nfhcx9e3e0ke957vjvpzwynd6qas43zl",
+      name: "LunaPunks",
+      symbol: "LunaPunks",
+      icon: "https://lunapunks.io/hero.jpg",
+      homepage: "https://lunapunks.io",
+      marketplace: ["https://lunapunks.io/market"],
+    },
     terra1sxqeul6tr7902ru8x9tum55a7xgfv6l6z770cnpwya78rngfu8xszad92j: {
       contract: "terra1sxqeul6tr7902ru8x9tum55a7xgfv6l6z770cnpwya78rngfu8xszad92j",
       name: "Wicca Badge",
@@ -268,8 +276,9 @@ module.exports = {
       contract: "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv",
       name: "LunaPunks",
       symbol: "LunaPunks",
-      icon: "https://classic.lunapunks.io/hero.jpg",
-      marketplace: ["https://classic.lunapunks.io/market"],
+      icon: "https://lunapunks.io/hero.jpg",
+      homepage: "https://lunapunks.io",
+      marketplace: ["https://lunapunks.io/market"],
     },
     terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh: {
       contract: "terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh",

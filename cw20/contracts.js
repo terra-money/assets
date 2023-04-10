@@ -80,6 +80,11 @@ module.exports = {
       name: "Santerra prefund",
       icon: "https://santerra.app/sant_logo.svg",
     },
+    terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
+      protocol: "LBUNswap",
+      name: "LUNC Burn Token",
+      icon: "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
+    },  
   },
   classic: {
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
@@ -1049,7 +1054,7 @@ module.exports = {
     },
     terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz: {
       protocol: "White Whale",
-      name: "WHALE",
+      name: "WHALEC",
       icon: "https://www.whitewhale.money/tokenlogo.png",
     },
     terra1w0p5zre38ecdy3ez8efd5h9fvgum5s206xknrg: {
@@ -1683,17 +1688,17 @@ module.exports = {
     },
     terra14v9wrjs55qsn9lkvylsqela3w2ytwxzkycqzcr: {
       protocol: "Sayve Protocol",
-      name: "SAYVE Token",
+      name: "SAYVEC Token",
       icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
     },
     terra1k8lvj3w7dxzd6zlyptcj086gfwms422xkqjmzx: {
       protocol: "Sayve Protocol",
-      name: "SAYVE-UST Pair",
+      name: "SAYVEC-UST Pair",
       icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
     },
     terra1drradty46zqun4624p8a3sp9h5jfg9phwlgnm2: {
       protocol: "Sayve Protocol",
-      name: "SAYVE-UST LP Token",
+      name: "SAYVEC-UST LP Token",
       icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
     },
     terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6: {
@@ -1810,6 +1815,16 @@ module.exports = {
       protocol:"BAZ",
       name: "BAZ",
       icon: "https://raw.githubusercontent.com/BAZustc/BAZ-CORE/main/BAZ.png",
+    },
+    terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr: {
+      protocol: "Sonikchain",
+      name: "SON",
+      icon: "https://swap.sonikchain.com/sonic32.png",
+    },
+    terra1lx6w28yvma0y8hll0svg687ft694yrgax5k276: {
+      protocol: "Terraport",
+      name: "Terraport",
+      icon: "https://i.ibb.co/GtmvHT4/logo.png",
     },
   },
   testnet: {

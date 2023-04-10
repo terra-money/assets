@@ -2,13 +2,13 @@
   "$schema": "https://assets.terra.money/schemas/web-extension-list.json",
   "whitelist": [
     {
-      "name": "Terra Station",
+      "name": "Station Wallet",
       "identifier": "station",
       "icon": "https://assets.terra.money/icon/station-extension/icon.png",
       "urls": [
         {
           "browser": "chrome",
-          "url": "https://chrome.google.com/webstore/detail/terra-station/aiifbnbfobpmeekipheeijimdpnlpgpp"
+          "url": "https://chrome.google.com/webstore/detail/station-wallet/aiifbnbfobpmeekipheeijimdpnlpgpp"
         }
       ]
     },
