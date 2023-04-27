@@ -252,6 +252,14 @@ module.exports = {
       icon: "https://santerra.app/sant_logo.svg",
       decimals: 6
     },
+    terra1gwz4m0q6vq6nyunt88vlsf5u3ve0fv3qc40q0mdky58s4fjy4fcsqpkman: {
+      protocol: "Talis Protocol",
+      symbol: "TALIS",
+      name: "TALIS Token",
+      token: "terra1gwz4m0q6vq6nyunt88vlsf5u3ve0fv3qc40q0mdky58s4fjy4fcsqpkman",
+      icon: "https://gateway.pinata.cloud/ipfs/QmXama3Nj45sHFw5o43fDGuSmYLUirPtHTt9Jyi6RNKZmz",
+      decimals: 6
+    },
     terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj: {
       protocol: "Optimizer Protocol",
       symbol: "OPZA",
@@ -282,6 +290,30 @@ module.exports = {
       name: "LUNC Burn Token",
       token: "terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4",
       icon: "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
+      decimals: 6,
+    },
+    terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv: {
+      protocol: "Lion DAO",
+      symbol: "ROAR",
+      name: "Lion DAO",
+      token: "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
+      icon: "https://app.astroport.fi/tokens/roar.png",
+      decimals: 6,
+    },
+     terra18ha3r45syfpp46qg85p9wqxy6p0nj82rlxt7c74qkdr0yzcjut9sw7gerz: {
+      protocol: "TRUMP DAO",
+      symbol: "TRUMP",
+      name: "TRUMP",
+      token: "terra18ha3r45syfpp46qg85p9wqxy6p0nj82rlxt7c74qkdr0yzcjut9sw7gerz",
+      icon: "https://raw.githubusercontent.com/trumpdao/public/main/data/trump_logo.png",
+      decimals: 6,
+    },
+      terra1rc6ssp5rym7a0hg29xpj4cc9e67tl56kg5jyzgl9qrhfxxc2ugvsnrkala: {
+      protocol: "Sailing The Seas DAO",
+      symbol: "SEAS",
+      name: "SEAS",
+      token: "terra1rc6ssp5rym7a0hg29xpj4cc9e67tl56kg5jyzgl9qrhfxxc2ugvsnrkala",
+      icon: "https://raw.githubusercontent.com/SailingTheSeasDAO/web-assets/main/SEAS.png",
       decimals: 6,
     },
   },
@@ -1875,7 +1907,7 @@ module.exports = {
     },
   },
   testnet: {
-    terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
+    terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
       protocol: "YFD",
       symbol: "YFD",
       name: "Y-Foundry DAO",
