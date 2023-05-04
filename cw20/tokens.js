@@ -316,6 +316,13 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/SailingTheSeasDAO/web-assets/main/SEAS.png",
       decimals: 6,
     },
+    terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t: {
+      protocol: "Lion Cub DAO",
+      symbol: "CUB",
+      name: "Lion CUB",
+      token: "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t",
+      icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/Screenshot%202023-04-10%20115645.png",
+      decimals: 6,
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
