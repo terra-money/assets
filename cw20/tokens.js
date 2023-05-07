@@ -1914,7 +1914,7 @@ module.exports = {
     },
   },
   testnet: {
-    terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
+    terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
       protocol: "YFD",
       symbol: "YFD",
       name: "Y-Foundry DAO",
