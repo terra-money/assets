@@ -1912,6 +1912,14 @@ module.exports = {
       icon: "https://i.ibb.co/GtmvHT4/logo.png",
       decimals: 6,
     },
+    terra17elux0e7pwa0l4yws6yar3xj9kaalzal90yp22: {
+      protocol: "DFLunc Protocol",
+      symbol: "DFC",
+      name: "DFC Token",
+      token: "terra17elux0e7pwa0l4yws6yar3xj9kaalzal90yp22",
+      icon: "https://i.ibb.co/C9bnNdr/favicon.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
