@@ -11,6 +11,17 @@
           "url": "https://chrome.google.com/webstore/detail/station-wallet/aiifbnbfobpmeekipheeijimdpnlpgpp"
         }
       ]
+    },
+    {
+      "name": "XDEFI Wallet",
+      "identifier": "xdefi-wallet",
+      "icon": "https://xdefi-prod-common-ui.s3.eu-west-1.amazonaws.com/logo.svg",
+      "urls": [
+        {
+          "browser": "chrome",
+          "url": "https://chrome.google.com/webstore/detail/xdefi-wallet/hmeobnfnfcmdkdcmlblgagmfpfboieaf"
+        }
+      ]
     }
   ]
 }
