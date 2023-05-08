@@ -1615,6 +1615,14 @@ module.exports = {
       type: 'xyk',
       assets: ['terra17elux0e7pwa0l4yws6yar3xj9kaalzal90yp22', 'uluna'],
     },
+    terra1aq4hck58s9zst2jwdd0mj4jhxkkn335afpv5yn: {
+      dex: 'astroport',
+      type: 'xyk',
+      assets: [
+        'terra17elux0e7pwa0l4yws6yar3xj9kaalzal90yp22', 
+        'terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm',
+      ],
+    },    
   },
   testnet: {},
 };
