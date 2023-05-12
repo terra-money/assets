@@ -327,7 +327,7 @@ module.exports = {
       terra17r9jrknn2m0a8nuymhdpzhcnjz3c8veqszf6ajs7rkjz8zr3jtgqplhw2u: {
       protocol: "Rebase DAO",
       symbol: "BASE",
-      name: "BASE",
+      name: "Rebase DAO",
       token: "terra17r9jrknn2m0a8nuymhdpzhcnjz3c8veqszf6ajs7rkjz8zr3jtgqplhw2u",
       icon: "https://raw.githubusercontent.com/RebaseDAO/web-assets/main/RebaseDAO.png",
       decimals: 6,
