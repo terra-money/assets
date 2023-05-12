@@ -324,6 +324,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/Screenshot%202023-04-10%20115645.png",
       decimals: 6,
     },
+    terra16a9ylm639l8ehh89ny2k97w9lgkn7txrt8ukq3y8l4e9d6u7hrwslyw9xz: {
+      protocol: "Terra Pepe",
+      symbol: "PEPE",
+      name: "Terra Pepe",
+      token: "terra16a9ylm639l8ehh89ny2k97w9lgkn7txrt8ukq3y8l4e9d6u7hrwslyw9xz",
+      icon: "https://raw.githubusercontent.com/trumpdao/public/main/data/pepe_logo.jpeg",
+      decimals: 6,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
