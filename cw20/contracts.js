@@ -89,7 +89,12 @@ module.exports = {
       protocol: "LBUNswap",
       name: "LUNC Burn Token",
       icon: "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
-    },  
+    },
+    terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
+      protocol: "Rebase DAO",
+      name: "Rebase DAO",
+      icon: "https://raw.githubusercontent.com/RebaseDAO/web-assets/main/RebaseDAO.png",
+    },
   },
   classic: {
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
