@@ -316,12 +316,20 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/SailingTheSeasDAO/web-assets/main/SEAS.png",
       decimals: 6,
     },
-    terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t: {
+      terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t: {
       protocol: "Lion Cub DAO",
       symbol: "CUB",
       name: "Lion CUB",
       token: "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t",
       icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/Screenshot%202023-04-10%20115645.png",
+      decimals: 6,
+    },
+      terra17r9jrknn2m0a8nuymhdpzhcnjz3c8veqszf6ajs7rkjz8zr3jtgqplhw2u: {
+      protocol: "Rebase DAO",
+      symbol: "BASE",
+      name: "BASE",
+      token: "terra17r9jrknn2m0a8nuymhdpzhcnjz3c8veqszf6ajs7rkjz8zr3jtgqplhw2u",
+      icon: "https://raw.githubusercontent.com/RebaseDAO/web-assets/main/RebaseDAO.png",
       decimals: 6,
     },
   },
