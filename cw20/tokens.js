@@ -285,7 +285,7 @@ module.exports = {
       decimals: 6,
     },
      terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
-      protocol: "LBUNswap",
+      protocol: "LBUNProject",
       symbol: "LBUN",
       name: "LUNC Burn Token",
       token: "terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4",
@@ -1911,6 +1911,14 @@ module.exports = {
       name: "Terraport",
       token: "terra1lx6w28yvma0y8hll0svg687ft694yrgax5k276",
       icon: "https://i.ibb.co/GtmvHT4/logo.png",
+      decimals: 6,
+    },
+      terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m: {
+      protocol: "LBUNProject",
+      symbol: "BASE",
+      name: "Burn and Stake Enterprise Token",
+      token: "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
+      icon: "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/main/src/images/Token/LBUNC_256.png",
       decimals: 6,
     },
   },
