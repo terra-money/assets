@@ -284,7 +284,7 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/xsayve-logo.png",
       decimals: 6,
     },
-     terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
+    terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
       protocol: "LBUNProject",
       symbol: "LBUN",
       name: "LUNC Burn Token",
@@ -1913,7 +1913,7 @@ module.exports = {
       icon: "https://i.ibb.co/GtmvHT4/logo.png",
       decimals: 6,
     },
-      terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m: {
+    terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m: {
       protocol: "LBUNProject",
       symbol: "BASE",
       name: "Burn and Stake Enterprise Token",
