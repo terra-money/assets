@@ -210,7 +210,7 @@ module.exports = {
       name: "boneLuna",
       token: "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
       icon: "https://gravedigger.backbonelabs.io/boneluna.png",
-      decimals: 6
+      decimals: 6,
     },
     terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz: {
       protocol: "Depeg Nation",
@@ -218,7 +218,7 @@ module.exports = {
       name: "Depegged UST",
       token: "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz",
       icon: "https://gateway.pinata.cloud/ipfs/QmTEo7AmbgygF2mek89MHBJ1wPrB23TA811VeXCdcXW5pf",
-      decimals: 6
+      decimals: 6,
     },
     terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg: {
       protocol: "INTERCHAIN DAO COIN",
@@ -226,7 +226,7 @@ module.exports = {
       name: "INTERCHAIN DAO COIN",
       token: "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg",
       icon: "https://raw.githubusercontent.com/IDC1201/IDC/f22b0f203867414b6473f8e8a935c3edf5524296/ASSET/IDC.png",
-      decimals: 6
+      decimals: 6,
     },
     terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp: {
       protocol: "Tuna Money",
@@ -234,7 +234,7 @@ module.exports = {
       name: "Tuna Token",
       token: "terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp",
       icon: "https://s3.ap-southeast-2.wasabisys.com/tuna/tunatoken.png",
-      decimals: 6
+      decimals: 6,
     },
     terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp: {
       protocol: "Brand Governance Network",
@@ -242,7 +242,7 @@ module.exports = {
       name: "Brand Governance Token",
       token: "terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp",
       icon: "https://s3.ap-southeast-2.wasabisys.com/bgt/bgtoken.png",
-      decimals: 6
+      decimals: 6,
     },
     terra1q8kfp0v9rhef0d3u44ds9shwvwcusjheh8nhye3n7gwjd95ze96sehyp6w: {
       protocol: "Santerra",
@@ -250,7 +250,7 @@ module.exports = {
       name: "SANTERRA SANT Token",
       token: "terra1q8kfp0v9rhef0d3u44ds9shwvwcusjheh8nhye3n7gwjd95ze96sehyp6w",
       icon: "https://santerra.app/sant_logo.svg",
-      decimals: 6
+      decimals: 6,
     },
     terra1gwz4m0q6vq6nyunt88vlsf5u3ve0fv3qc40q0mdky58s4fjy4fcsqpkman: {
       protocol: "Talis Protocol",
@@ -258,7 +258,7 @@ module.exports = {
       name: "TALIS Token",
       token: "terra1gwz4m0q6vq6nyunt88vlsf5u3ve0fv3qc40q0mdky58s4fjy4fcsqpkman",
       icon: "https://gateway.pinata.cloud/ipfs/QmXama3Nj45sHFw5o43fDGuSmYLUirPtHTt9Jyi6RNKZmz",
-      decimals: 6
+      decimals: 6,
     },
     terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj: {
       protocol: "Optimizer Protocol",
@@ -324,101 +324,101 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/Screenshot%202023-04-10%20115645.png",
       decimals: 6,
     },
-    "terra1f777yyatjjf4uyc43kq8kqz05z2g7xzytkyvgst3cr6lwrpzg67q4yrj8f": {
+    terra1f777yyatjjf4uyc43kq8kqz05z2g7xzytkyvgst3cr6lwrpzg67q4yrj8f: {
       protocol: "Terra MHN",
       symbol: "MHN",
       name: "MHN private money",
       token: "terra1f777yyatjjf4uyc43kq8kqz05z2g7xzytkyvgst3cr6lwrpzg67q4yrj8f",
       icon: "https://static.opz.life/icons/MHN.png",
-      decimals: 6
+      decimals: 6,
     },
-    "terra1ywyvm0pqjfxrt3ucf45rl7cxga72rjx9nw6f39p7c0f8qukfwk9s33xy4z": {
+    terra1ywyvm0pqjfxrt3ucf45rl7cxga72rjx9nw6f39p7c0f8qukfwk9s33xy4z: {
       protocol: "Terra NGX",
       symbol: "NGX",
       name: "NGX private money",
       token: "terra1ywyvm0pqjfxrt3ucf45rl7cxga72rjx9nw6f39p7c0f8qukfwk9s33xy4z",
       icon: "https://static.opz.life/icons/NGX.png",
-      decimals: 6
+      decimals: 6,
     },
-    "terra12jtz69v84yqjrlhy9vg32ckxndvqfry5kglsd86y9er2nupy990q2vytg5": {
+    terra12jtz69v84yqjrlhy9vg32ckxndvqfry5kglsd86y9er2nupy990q2vytg5: {
       protocol: "Terra NHM",
       symbol: "NHM",
       name: "NHM private money",
       token: "terra12jtz69v84yqjrlhy9vg32ckxndvqfry5kglsd86y9er2nupy990q2vytg5",
       icon: "https://static.opz.life/icons/NHM.png",
-      decimals: 6
+      decimals: 6,
     },
-    "terra1y2c7ezyv6t59z49jrykmh4carmx3sy26t90hh5zjzxy0urspl88sd4hve0": {
+    terra1y2c7ezyv6t59z49jrykmh4carmx3sy26t90hh5zjzxy0urspl88sd4hve0: {
       protocol: "Terra NIQ",
       symbol: "NIQ",
       name: "NIQ private money",
       token: "terra1y2c7ezyv6t59z49jrykmh4carmx3sy26t90hh5zjzxy0urspl88sd4hve0",
       icon: "https://static.opz.life/icons/NIQ.png",
-      decimals: 6
+      decimals: 6,
     },
-    "terra1h35lj3kw44grdtqjw969cp5kz3eh4kmruqwvay8j4gmuyhkyc3hsvuy7eu": {
+    terra1h35lj3kw44grdtqjw969cp5kz3eh4kmruqwvay8j4gmuyhkyc3hsvuy7eu: {
       protocol: "Terra MGJ",
       symbol: "MGJ",
       name: "MGJ private money",
       token: "terra1h35lj3kw44grdtqjw969cp5kz3eh4kmruqwvay8j4gmuyhkyc3hsvuy7eu",
       icon: "https://static.opz.life/icons/MGJ.png",
-      decimals: 6
+      decimals: 6,
     },
-    "terra1atdjzu6ee6ukyyps0s7vufsz9j6dlw00lhcax6geddrxcyl54v8qras2f5": {
+    terra1atdjzu6ee6ukyyps0s7vufsz9j6dlw00lhcax6geddrxcyl54v8qras2f5: {
       protocol: "Terra MGZ",
       symbol: "MGZ",
       name: "MGZ private money",
       token: "terra1atdjzu6ee6ukyyps0s7vufsz9j6dlw00lhcax6geddrxcyl54v8qras2f5",
       icon: "https://static.opz.life/icons/MGZ.png",
-      decimals: 6
+      decimals: 6,
     },
-    "terra13lyzasysm32z904mxvkpx3mtpunqk4cm7mfxkzs24vrzw5zah60s03zrkj": {
+    terra13lyzasysm32z904mxvkpx3mtpunqk4cm7mfxkzs24vrzw5zah60s03zrkj: {
       protocol: "Terra MFV",
       symbol: "MFV",
       name: "MFV private money",
       token: "terra13lyzasysm32z904mxvkpx3mtpunqk4cm7mfxkzs24vrzw5zah60s03zrkj",
       icon: "https://static.opz.life/icons/MFV.png",
-      decimals: 6
+      decimals: 6,
     },
-    "terra1l3rs9uc3hmc98drp9hs5mfak3c22c5csv46qfvkt65v7a6lsrynqrljv29": {
+    terra1l3rs9uc3hmc98drp9hs5mfak3c22c5csv46qfvkt65v7a6lsrynqrljv29: {
       protocol: "Terra MGY",
       symbol: "MGY",
       name: "MGY private money",
       token: "terra1l3rs9uc3hmc98drp9hs5mfak3c22c5csv46qfvkt65v7a6lsrynqrljv29",
       icon: "https://static.opz.life/icons/MGY.png",
-      decimals: 6
+      decimals: 6,
     },
-    "terra145lh0ke0njls4q2qqqdaf3nu44sd0ycv3eq43kr0sm8uvtcqjlpscr2yd0": {
+    terra145lh0ke0njls4q2qqqdaf3nu44sd0ycv3eq43kr0sm8uvtcqjlpscr2yd0: {
       protocol: "Terra NGI",
       symbol: "NGI",
       name: "NGI private money",
       token: "terra145lh0ke0njls4q2qqqdaf3nu44sd0ycv3eq43kr0sm8uvtcqjlpscr2yd0",
       icon: "https://static.opz.life/icons/NGI.png",
-      decimals: 6
+      decimals: 6,
     },
-    "terra1mgvdfqpzl7yufh23jshu3dksrcvhaa57n2sl3xxds39hpldl3rwqd2g7r9": {
+    terra1mgvdfqpzl7yufh23jshu3dksrcvhaa57n2sl3xxds39hpldl3rwqd2g7r9: {
       protocol: "Terra NIB",
       symbol: "NIB",
       name: "NIB private money",
       token: "terra1mgvdfqpzl7yufh23jshu3dksrcvhaa57n2sl3xxds39hpldl3rwqd2g7r9",
       icon: "https://static.opz.life/icons/NIB.png",
-      decimals: 6
+      decimals: 6,
     },
-    "terra189qv5dhpd5s7e0l5n5j0c4mejcef5l9tygq4patzg74yx0xlfkqqef58hl": {
+    terra189qv5dhpd5s7e0l5n5j0c4mejcef5l9tygq4patzg74yx0xlfkqqef58hl: {
       protocol: "Terra MGK",
       symbol: "MGK",
       name: "MGK private money",
       token: "terra189qv5dhpd5s7e0l5n5j0c4mejcef5l9tygq4patzg74yx0xlfkqqef58hl",
       icon: "https://static.opz.life/icons/MGK.png",
-      decimals: 6
+      decimals: 6,
     },
-    "terra1hfdtedtnpff6q6wg4sqek0kccqu5yrvtyyqweqzrsajh85w0lq0qgj0dz5": {
+    terra1hfdtedtnpff6q6wg4sqek0kccqu5yrvtyyqweqzrsajh85w0lq0qgj0dz5: {
       protocol: "Terra MHO",
       symbol: "MHO",
       name: "MHO private money",
       token: "terra1hfdtedtnpff6q6wg4sqek0kccqu5yrvtyyqweqzrsajh85w0lq0qgj0dz5",
       icon: "https://static.opz.life/icons/MHO.png",
-      decimals: 6
+      decimals: 6,
     },
   },
   classic: {
@@ -1927,7 +1927,7 @@ module.exports = {
       name: "cLUNA",
       token: "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3",
       icon: "https://home.prismprotocol.app/cluna.png",
-      decimals: 6
+      decimals: 6,
     },
     terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf: {
       protocol: "INTERCHAIN DAO COIN",
@@ -2017,7 +2017,7 @@ module.exports = {
       name: "Y-Foundry DAO",
       token: "terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s",
       icon: "https://raw.githubusercontent.com/Y-Foundry-Dao/brand-assets/main/contract/pisco-1/cw20-yfd.svg",
-      decimals: 6
+      decimals: 6,
     },
     terra1xgvp6p0qml53reqdyxgcl8ttl0pkh0n2mtx2n7tzfahn6e0vca7s0g7sg6: {
       protocol: "ERIS Protocol",
@@ -2026,6 +2026,6 @@ module.exports = {
       token: "terra1xgvp6p0qml53reqdyxgcl8ttl0pkh0n2mtx2n7tzfahn6e0vca7s0g7sg6",
       icon: "https://www.erisprotocol.com/assets/ampLuna100.png",
       decimals: 6,
-    }
+    },
   },
 };
