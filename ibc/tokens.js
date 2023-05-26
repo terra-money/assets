@@ -210,6 +210,14 @@ module.exports = {
       name: "Gravity Bridge Wrapped USDC",
       icon: "https://assets.terra.money/icon/svg/ibc/axlUSDC.svg",
     },
+    E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D: {
+      denom: "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
+      path: "transfer/channel-19",
+      base_denom: "uusdc",
+      symbol: "axlUSDC",
+      name: "Axelar USD Coin",
+      icon: "https://assets.terra.money/icon/svg/ibc/axlUSDC.svg",
+    },
   },
   testnet: {
     "C567713C9D0904098C14BA0FBEB9192C5B68B590757EE6913DC292710C8926E6": {
