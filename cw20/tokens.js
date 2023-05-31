@@ -1913,6 +1913,14 @@ module.exports = {
       icon: "https://i.ibb.co/GtmvHT4/logo.png",
       decimals: 6,
     },
+    terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8: {
+      protocol: "DoKwon",
+      symbol: "DKW",
+      name: "DoKwon",
+      token: "terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8",
+      icon: "https://raw.githubusercontent.com/reglisosa/public/main/data/dokwon.png",
+      decimals: 2,
+    },
   },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
