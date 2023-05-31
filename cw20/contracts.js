@@ -89,6 +89,26 @@ module.exports = {
       protocol: "LBUNswap",
       name: "LUNC Burn Token",
       icon: "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
+    },
+      terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3: {
+      protocol: "NICO",
+      name: "NICO Token",
+      icon: "https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png",
+    },
+    terra1cr32pfjwtl7vhy30xjgnsapxld6kujp3l6gdc4njl759kl3vp80snrlpfs: {
+      protocol: "NICO-ASTROPORT-PAIR",
+      name: "NICO-LUNA PAIR",
+      icon: "https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png",
+    },
+    terra1vmaggjxf4u3ft5upz3e9wuwu9msl34szuept4mpjwtnud4l65eaqvxyh5u: {
+      protocol: "NICO-ENTERPRISE",
+      name: "NICO-VAULT",
+      icon: "https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png",
+    },
+    terra1s5zft8tgddtpgqhlauyl5lt2vre9euu4exg37rkug2dv4l7leygqsvj79g: {
+      protocol: "NICO-ENTERPRISE",
+      name: "NICO-DISTRIBUTOR",
+      icon: "https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png",
     },  
   },
   classic: {
