@@ -323,6 +323,14 @@ module.exports = {
       token: "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t",
       icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/Screenshot%202023-04-10%20115645.png",
       decimals: 6,
+      },
+    terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3: {
+      protocol: "NICO Money",
+      symbol: "NICO",
+      name: "NICO Token",
+      token: "terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3",
+      icon: "https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png",
+      decimals: 18,
     },
   },
   classic: {
