@@ -1937,7 +1937,7 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/reglisosa/public/main/data/dokwon.png",
       decimals: 2,
     },
-    terra17elux0e7pwa0l4yws6yar3xj9kaalzal90yp22: {
+    terra1r9laq5788d36gxmf8jkayln3g5szg4ql0nmccs: {
       protocol: "DFLunc Protocol",
       symbol: "DFC",
       name: "DFC Token",
