@@ -1610,6 +1610,16 @@ module.exports = {
       type: 'xyk',
       assets: ['terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm', 'uluna'],
     },
+    terra1eczml9lewhneu2u3lhpsczy7vz5sa4gsj73ffc: {
+      dex: 'astroport',
+      type: 'xyk',
+      assets: ['terra1r9laq5788d36gxmf8jkayln3g5szg4ql0nmccs', 'uusd'],
+    },
+    terra1rthrpq4zgw2yqswxyezwsntlwgrwu8lll2vu03: {
+      dex: 'astroport',
+      type: 'xyk',
+      assets: ['terra1r9laq5788d36gxmf8jkayln3g5szg4ql0nmccs', 'uluna'],
+    },
   },
   testnet: {},
 };
