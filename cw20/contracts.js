@@ -67,9 +67,15 @@ module.exports = {
     },
     terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t: {
       protocol: "Lion Cub DAO",
-      name: "CUB",
+      name: "Lion Cub DAO",
       icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/Screenshot%202023-04-10%20115645.png",
      },
+    
+    terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584: {
+      protocol: "BLUE CUB DAO",
+      name: "BLUE CUB DAO",
+      icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/blue.png",
+    },
     terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz: {
       protocol: "Depegged UST",
       name: "Depegged UST",
