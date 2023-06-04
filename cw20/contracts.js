@@ -70,6 +70,11 @@ module.exports = {
       name: "CUB",
       icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/Screenshot%202023-04-10%20115645.png",
      },
+    terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584: {
+      protocol: "BLUE CUB DAO",
+      name: "BLUE",
+      icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/blue.png",
+     },
     terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz: {
       protocol: "Depegged UST",
       name: "Depegged UST",
