@@ -327,7 +327,7 @@ module.exports = {
     terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584: {
       protocol: "BLUE CUB DAO",
       symbol: "BLUE",
-      name: "BLUE CUB DAO",
+      name: "BLUE",
       token: "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584",
       icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/blue.png",
       decimals: 6,
