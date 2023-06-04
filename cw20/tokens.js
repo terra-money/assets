@@ -324,6 +324,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/Screenshot%202023-04-10%20115645.png",
       decimals: 6,
       },
+    terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584: {
+      protocol: "BLUE CUB DAO",
+      symbol: "BLUE",
+      name: "BLUE CUB DAO",
+      token: "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584",
+      icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/blue.png",
+      decimals: 6,
+    },
     terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3: {
       protocol: "NICO Money",
       symbol: "NICO",
