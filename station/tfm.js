@@ -52,6 +52,8 @@ module.exports = {
 	// terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw: "terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw", // ORNE
 	// terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp: "terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp", // BGT
 	// terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh: "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh", // LunaX
+	// terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t: "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t", // CUB
+	// terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584: "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584", // BLUE
 	// terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: "terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp", // bLuna
 	// terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76: "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76", // ANC
 	// terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu: "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu", // aUST
