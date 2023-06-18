@@ -1087,6 +1087,11 @@ module.exports = {
       type: 'xyk',
       assets: ['uluna', 'terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584'],
      },
+    terra16qcehytmwcgqaxynsxs6apl744yfqng0m0ph2x27g8gvhgzjyrnsyejndn: {
+      dex: 'astroport',
+      type: 'xyk',
+      assets: ['terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t', 'uluna'],
+     },
     terra1cr32pfjwtl7vhy30xjgnsapxld6kujp3l6gdc4njl759kl3vp80snrlpfs: {
       dex: 'astroport',
       type: 'xyk',
