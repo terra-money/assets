@@ -348,6 +348,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/trumpdao/public/main/data/pepe_logo.jpeg",
       decimals: 6,
     },
+    terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv: {
+      protocol: "GEM DAO",
+      symbol: "GEM",
+      name: "GEM DAO",
+      token: "terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv",
+      icon: "https://raw.githubusercontent.com/terragem/gem/main/gem2.png",
+      decimals: 6,
+    },
   },
   classic: {
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
