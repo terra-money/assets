@@ -92,7 +92,7 @@ module.exports = {
       icon: "https://santerra.app/sant_logo.svg",
     },
     terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4: {
-      protocol: "LBUNswap",
+      protocol: "LBUNProject",
       name: "LUNC Burn Token",
       icon: "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
     },
@@ -1861,6 +1861,11 @@ module.exports = {
       protocol: "Terraport",
       name: "Terraport",
       icon: "https://i.ibb.co/GtmvHT4/logo.png",
+    },
+    terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m: {
+      protocol: "LBUNProject",
+      name: "Burn and Stake Enterprise Token",
+      icon: "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/main/src/images/Token/LBUNC_256.png",
     },
   },
   testnet: {
