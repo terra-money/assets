@@ -192,6 +192,14 @@ module.exports = {
       name: "MNTA",
       icon: "https://assets.terra.money/icon/svg/ibc/MNTA.svg",
     },
+    "36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB": {
+      denom: "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB",
+      path: "transfer/channel-86",
+      base_denom: "uwhale",
+      symbol: "WHALE",
+      name: "White Whale",
+      icon: "https://assets.terra.money/icon/svg/ibc/WHALE.svg",
+    },
     "517E13F14A1245D4DE8CF467ADD4DA0058974CDCC880FA6AE536DBCA1D16D84E": {
       denom: "ibc/517E13F14A1245D4DE8CF467ADD4DA0058974CDCC880FA6AE536DBCA1D16D84E",
       path: "transfer/channel-86",
