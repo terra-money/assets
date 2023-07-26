@@ -1599,11 +1599,16 @@ module.exports = {
       dex: 'terraswap',
       type: 'xyk',
       assets: ['terra1pkp0pkxp9mtlan7cg0qatu65hmkgyq2342g27g', 'uluna'],
-    },
+    }, 
     terra12gkp648mkgj6esr5y6dwc2q4mftnfzk2pudka8: {
       dex: 'terraswap',
       type: 'xyk',
       assets: ['terra1wvk6r3pmj0835udwns4r5e0twsclvcyuq9ucgm', 'uluna'],
+    },
+    terra12emygawy3gru28fdev7j4ghx5z05m7eeu7nq0r6exd098egzfdjqmcvscn: {
+      dex: 'terraswap',
+      type: 'xyk',
+      assets: ['terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf', 'uluna'],
     },
     terra1q3pem26pyxq7qggmxkh5egd4km0a7l0gxe84wk: {
       dex: 'terraswap',
