@@ -148,6 +148,15 @@ module.exports = {
       icon: "https://lunaburningknights.io/icon.png",
       homepage: "https://lunaburningknights.io/",
       marketplace: ["https://miata.io/creators/4/collection/9"],
+    }, 
+    terra1cftxatw43hlxkhe7szfu0562q20j6pwsg9736k: {
+      contract: "terra1cftxatw43hlxkhe7szfu0562q20j6pwsg9736k",
+      protocol: "Kandis Protocol",
+      name: "Tori Tori no Mi",
+      symbol: "Tori Tori no Mi",
+      icon: "https://miata.io/assets/preview/d/13/d138a2a418e00c12c982ac9b6aeecb2c9b1137472bf3f34775a6d229102ece7d.jpg",
+      homepage: "https://www.kandisprotocol.com/",
+      marketplace: ["https://miata.io/creators/5/collection/16"],
     },
     terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc: {
       contract: "terra1ca9peph7c20eqr9cns2vhn6sp6cp7vv4jnzjrc",
