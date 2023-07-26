@@ -265,7 +265,7 @@ module.exports = {
       symbol: "OPZA",
       name: "Luna optimizer token",
       token: "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj",
-      icon: "https://avatars.githubusercontent.com/u/111164738?s=400&u=970d83fe90b55d4ca45e798fe0bc387d4ec5cbd5&v=4",
+      icon: "https://static.opz.life/icons/OPZ.png",
       decimals: 6,
     },
     terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3: {
@@ -1910,7 +1910,7 @@ module.exports = {
       symbol: "OPZC",
       name: "Lunc optimizer token",
       token: "terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54",
-      icon: "https://assets.terra.money/icon/opz/OPZ.png",
+      icon: "https://static.opz.life/icons/OPZ.png",
       decimals: 6,
     },
     terra1g9carn4sdnlv2uw2u4uelqpf8lun9zwymhuf70: {
