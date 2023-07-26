@@ -1599,7 +1599,7 @@ module.exports = {
       dex: 'terraswap',
       type: 'xyk',
       assets: ['terra1pkp0pkxp9mtlan7cg0qatu65hmkgyq2342g27g', 'uluna'],
-    }, 
+    },
     terra12gkp648mkgj6esr5y6dwc2q4mftnfzk2pudka8: {
       dex: 'terraswap',
       type: 'xyk',
