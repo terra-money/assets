@@ -121,7 +121,11 @@ module.exports = {
       name: "GEM DAO",
       icon: "https://raw.githubusercontent.com/terragem/gem/main/gem2.png",
     },
-  },
+    terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf: {
+      protocol: "KANDIS LIQUIDITY TOKEN",
+      name: "KLT",
+      icon: "https://i.ibb.co/GC2qYmj/Logo.png",
+    },
   classic: {
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
       protocol: "Wormhole",
