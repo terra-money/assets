@@ -115,6 +115,11 @@ module.exports = {
       protocol: "NICO-ENTERPRISE",
       name: "NICO-DISTRIBUTOR",
       icon: "https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png",
+      },
+    terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn: {
+      protocol: "xxx",
+      name: "TheOnlyOne",
+      icon: "https://i.imgur.com/tVzAnyP.png",
     },
     terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv: {
       protocol: "GEM DAO",
