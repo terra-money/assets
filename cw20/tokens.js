@@ -21,7 +21,7 @@ module.exports = {
       symbol: "xxx",
       name: "TheOnlyOne",
       token: "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn",
-      icon: "https://i.imgur.com/tVzAnyP.png",
+      icon: "https://i.imgur.com/Pz24fY5.png",
       decimals: 10,
     },
     terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw: {
