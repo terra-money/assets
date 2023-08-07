@@ -119,7 +119,7 @@ module.exports = {
     terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn: {
       protocol: "xxx",
       name: "TheOnlyOne",
-      icon: "https://i.imgur.com/tVzAnyP.png",
+      icon: "https://i.imgur.com/Pz24fY5.png",
     },
     terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv: {
       protocol: "GEM DAO",
