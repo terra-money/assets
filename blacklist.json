@@ -546,5 +546,11 @@
   "atomweb.at",
   "terraweb0.at",
   "terra.money",
-  "station.terra.money"
+  "assets.terra.money",
+  "docs.terra.money",
+  "station.terra.money",
+  "bridge.terra.money",
+  "agora.terra.money",
+  "station-assets.terra.money",
+  "setup-station.terra.money"
 ]
