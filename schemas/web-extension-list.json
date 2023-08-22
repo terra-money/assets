@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "https://assets.terra.money/schemas/web-extension-list.json#",
+  "id": "https://assets.terra.dev/schemas/web-extension-list.json#",
   "description": "The extension list for use in wallet-provider",
   "type": "object",
   "properties": {
