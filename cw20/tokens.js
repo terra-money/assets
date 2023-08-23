@@ -1,5 +1,13 @@
 module.exports = {
   mainnet: {
+    terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn: {
+      protocol: "TheOnlyOne DAO",
+      symbol: "xxx",
+      name: "xxx",
+      token: "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn",
+      icon: "https://assets.terra.dev/icon/svg/xxx3.png",
+      decimals: 10,
+    },
     terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst: {
       protocol: "Capapult",
       symbol: "SOLID",
@@ -1926,7 +1934,7 @@ module.exports = {
       symbol: "OPZC",
       name: "Lunc optimizer token",
       token: "terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4",
-      icon: "https://assets.terra.money/icon/opz/OPZC.png",
+      icon: "https://assets.terra.dev/icon/opz/OPZC.png",
       decimals: 6,
     },
     terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr: {
