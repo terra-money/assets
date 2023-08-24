@@ -1961,6 +1961,38 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/reglisosa/public/main/data/dokwon.png",
       decimals: 2,
     },
+    terra1e6snk4pn5y5t4c3qpy6y6aumhlqagzp9dem96zkg92dm4r57lm4s343nnd: {
+      protocol: "LUNCPenguins",
+      symbol: "SGEM",
+      name: "Sapphire Gem",
+      token: "terra1e6snk4pn5y5t4c3qpy6y6aumhlqagzp9dem96zkg92dm4r57lm4s343nnd",
+      icon: "https://hccfactory.com/assets/img/gems/SGEM.png",
+      decimals: 6,
+    },
+    terra13lzs83suwmsznu0h62gc5urarmeal7k6ys2vypszjku20s54g2lqkwrhkl: {
+      protocol: "LUNCPenguins",
+      symbol: "RGEM",
+      name: "Ruby Gem",
+      token: "terra13lzs83suwmsznu0h62gc5urarmeal7k6ys2vypszjku20s54g2lqkwrhkl",
+      icon: "https://hccfactory.com/assets/img/gems/RGEM.png",
+      decimals: 6,
+    },
+    terra1ef5kyrf8f65lz2wwuhmxz6hph7ag5pm7xypyvccaezusf38az3tquc0ysg: {
+      protocol: "LUNCPenguins",
+      symbol: "EGEM",
+      name: "Emerald Gem",
+      token: "terra1ef5kyrf8f65lz2wwuhmxz6hph7ag5pm7xypyvccaezusf38az3tquc0ysg",
+      icon: "https://hccfactory.com/assets/img/gems/EGEM.png",
+      decimals: 6,
+    },
+    terra18jrgexnn35dxa8nrpmuatkxknmjs330gp6txavrp3fxzz6muztqqec60hf: {
+      protocol: "LUNCPenguins",
+      symbol: "DGEM",
+      name: "Diamond Gem",
+      token: "terra18jrgexnn35dxa8nrpmuatkxknmjs330gp6txavrp3fxzz6muztqqec60hf",
+      icon: "https://hccfactory.com/assets/img/gems/DGEM.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
