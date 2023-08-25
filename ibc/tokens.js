@@ -7,6 +7,7 @@ module.exports = {
       symbol: "STRD",
       name: "Stride",
       icon: "https://assets.terra.dev/icon/svg/ibc/STRD.svg",
+      decimals: 6,
     },
     "08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431": {
       denom: "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
@@ -15,6 +16,7 @@ module.exports = {
       symbol: "stLUNA",
       name: "Stride LUNA",
       icon: "https://assets.terra.dev/icon/svg/ibc/stLUNA.svg",
+      decimals: 6,
     },
     "FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228": {
       denom: "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228",
@@ -23,6 +25,7 @@ module.exports = {
       symbol: "stATOM",
       name: "Stride ATOM",
       icon: "https://assets.terra.dev/icon/svg/ibc/stATOM.svg",
+      decimals: 6,
     },
     "2E435CEEEBA18CCB2719E0182BC5D142A364D6CCE9957DE6E1AC4D62127D2913": {
       denom: "ibc/2E435CEEEBA18CCB2719E0182BC5D142A364D6CCE9957DE6E1AC4D62127D2913",
@@ -85,6 +88,7 @@ module.exports = {
       symbol: "CRE",
       name: "Crescent Network",
       icon: "https://assets.terra.dev/icon/svg/ibc/CRE.svg",
+      decimals: 6,
     },
     BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674: {
       denom: "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
@@ -102,6 +106,7 @@ module.exports = {
       symbol: "axlUSDC",
       name: "Axelar USD Coin",
       icon: "https://assets.terra.dev/icon/svg/ibc/axlUSDC.svg",
+      decimals: 6,
     },
     CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF: {
       denom: "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
@@ -110,6 +115,7 @@ module.exports = {
       symbol: "axlUSDT",
       name: "Axelar USD Tether",
       icon: "https://assets.terra.dev/icon/svg/ibc/axlUSDT.svg",
+      decimals: 6,
     },
     "05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD": {
       denom: "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
@@ -127,6 +133,7 @@ module.exports = {
       symbol: "OSMO",
       name: "Osmosis",
       icon: "https://assets.terra.dev/icon/svg/ibc/OSMO.svg",
+      decimals: 6,
     },
     "4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04": {
       denom: "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
@@ -135,6 +142,7 @@ module.exports = {
       symbol: "JUNO",
       name: "Juno",
       icon: "https://assets.terra.dev/icon/svg/ibc/JUNO.svg",
+      decimals: 6,
     },
     "10BD6ED30BA132AB96F146D71A23B46B2FC19E7D79F52707DC91F2F3A45040AD": {
       denom: "ibc/10BD6ED30BA132AB96F146D71A23B46B2FC19E7D79F52707DC91F2F3A45040AD",
@@ -143,6 +151,7 @@ module.exports = {
       symbol: "SCRT",
       name: "Secret",
       icon: "https://assets.terra.dev/icon/svg/ibc/SCRT.svg",
+      decimals: 6,
     },
     "27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2": {
       denom: "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
@@ -151,6 +160,7 @@ module.exports = {
       symbol: "ATOM",
       name: "Cosmos",
       icon: "https://assets.terra.dev/icon/svg/ibc/ATOM.svg",
+      decimals: 6,
     },
     "64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860": {
       denom: "ibc/64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860",
@@ -159,6 +169,7 @@ module.exports = {
       symbol: "GRAV",
       name: "Graviton",
       icon: "https://assets.terra.dev/icon/svg/ibc/GRAV.svg",
+      decimals: 6,
     },
     "14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110": {
       denom: "ibc/14ACCAD1750327C74BB35978AD0C3E97B184DAB9F0BF4BD876FBD1F782B57110",
@@ -167,6 +178,7 @@ module.exports = {
       symbol: "USK",
       name: "USK",
       icon: "https://assets.terra.dev/icon/svg/ibc/USK.svg",
+      decimals: 6,
     },
     "B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07": {
       denom: "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
@@ -175,6 +187,7 @@ module.exports = {
       symbol: "KUJI",
       name: "Kujira",
       icon: "https://assets.terra.dev/icon/svg/ibc/KUJI.svg",
+      decimals: 6,
     },
     "792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B": {
       denom: "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
@@ -183,6 +196,7 @@ module.exports = {
       symbol: "SWTH",
       name: "Carbon",
       icon: "https://assets.terra.dev/icon/svg/ibc/SWTH.svg",
+      decimals: 8,
     },
     "96B471382D2B1A9C712C9225754E3D1C58F94463905C2CE6B59297C5597C2E46": {
       denom: "ibc/96B471382D2B1A9C712C9225754E3D1C58F94463905C2CE6B59297C5597C2E46",
@@ -191,6 +205,7 @@ module.exports = {
       symbol: "MNTA",
       name: "MNTA",
       icon: "https://assets.terra.dev/icon/svg/ibc/MNTA.svg",
+      decimals: 6,
     },
     "36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB": {
       denom: "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB",
@@ -199,6 +214,7 @@ module.exports = {
       symbol: "WHALE",
       name: "White Whale",
       icon: "https://assets.terra.dev/icon/svg/ibc/WHALE.svg",
+      decimals: 6,
     },
     "517E13F14A1245D4DE8CF467ADD4DA0058974CDCC880FA6AE536DBCA1D16D84E": {
       denom: "ibc/517E13F14A1245D4DE8CF467ADD4DA0058974CDCC880FA6AE536DBCA1D16D84E",
@@ -207,6 +223,7 @@ module.exports = {
       symbol: "bWHALE",
       name: "boneWHALE",
       icon: "https://assets.terra.dev/icon/svg/ibc/bWHALE.svg",
+      decimals: 6,
     },
     "B3F639855EE7478750CC8F82072307ED6E131A8EFF20345E1D136B50C4E5EC36": {
       denom: "ibc/B3F639855EE7478750CC8F82072307ED6E131A8EFF20345E1D136B50C4E5EC36",
@@ -215,6 +232,7 @@ module.exports = {
       symbol: "ampWHALE",
       name: "ampWHALE",
       icon: "https://assets.terra.dev/icon/svg/ibc/ampWHALE.svg",
+      decimals: 6,
     },
     "2F991B31CE426BCA00C5270F33AF520C2ACC73690541DBC84CBF68431D54DF04": {
       denom: "ibc/2F991B31CE426BCA00C5270F33AF520C2ACC73690541DBC84CBF68431D54DF04",
@@ -223,6 +241,7 @@ module.exports = {
       symbol: "ampKUJI",
       name: "ampKUJI",
       icon: "https://assets.terra.dev/icon/svg/ibc/ampKUJI.svg",
+      decimals: 6,
     },
   },
   classic: {
