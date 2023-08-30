@@ -1,5 +1,13 @@
 module.exports = {
   mainnet: {
+    terra1aecddsx0lvmylpzgq9le8uw4apnplhswp44vznecll6ccu044gnqsgcsga: {
+      protocol: "Phoenix DAO",
+      symbol: "FIRE",
+      name: "Phoenix DAO Token",
+      token: "terra1aecddsx0lvmylpzgq9le8uw4apnplhswp44vznecll6ccu044gnqsgcsga",
+      icon: "https://assets.terra.dev/icon/svg/FIRE.png",
+      decimals: 6,
+    },
     terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn: {
       protocol: "TheOnlyOne DAO",
       symbol: "xxx",
