@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "https://assets.terra.money/schemas/web-extension-test-config.json#",
+  "id": "https://assets.terra.dev/schemas/web-extension-test-config.json#",
   "type": "object",
   "properties": {
     "cw20Tokens": {

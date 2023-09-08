@@ -1,10 +1,10 @@
 {
-  "$schema": "https://assets.terra.money/schemas/web-extension-list.json",
+  "$schema": "https://assets.terra.dev/schemas/web-extension-list.json",
   "whitelist": [
     {
       "name": "Station Wallet",
       "identifier": "station",
-      "icon": "https://assets.terra.money/icon/station-extension/icon.png",
+      "icon": "https://assets.terra.dev/icon/station-extension/icon.png",
       "urls": [
         {
           "browser": "chrome",

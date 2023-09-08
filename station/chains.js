@@ -9,7 +9,7 @@ module.exports = {
             coinType: '330',
             baseAsset: 'uluna',
             name: 'Terra',
-            icon: 'https://assets.terra.money/icon/svg/Terra.svg',
+            icon: 'https://assets.terra.dev/icon/svg/Terra.svg',
             // doesn't require IBC channels since it's already on all the other chains
         },
         'osmosis-1': {
@@ -21,7 +21,7 @@ module.exports = {
             coinType: '118',
             baseAsset: 'uosmo',
             name: 'Osmosis',
-            icon: 'https://assets.terra.money/icon/svg/ibc/OSMO.svg',
+            icon: 'https://assets.terra.dev/icon/svg/ibc/OSMO.svg',
             ibc: {
                 toTerra: 'channel-251',
                 fromTerra: 'channel-1'
@@ -38,7 +38,7 @@ module.exports = {
             coinType: '330',
             baseAsset: 'uluna',
             name: 'Terra',
-            icon: 'https://assets.terra.money/icon/svg/Terra.svg',
+            icon: 'https://assets.terra.dev/icon/svg/Terra.svg',
         },
         'ares-1': {
             chainID: 'ares-1',
@@ -119,7 +119,7 @@ module.exports = {
             coinType: '330',
             baseAsset: 'uluna',
             name: 'Classic',
-            icon: 'https://assets.terra.money/icon/svg/TerraClassic.svg',
+            icon: 'https://assets.terra.dev/icon/svg/TerraClassic.svg',
             isClassic: true,
 
         },

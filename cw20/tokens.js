@@ -1,5 +1,21 @@
 module.exports = {
   mainnet: {
+    terra1aecddsx0lvmylpzgq9le8uw4apnplhswp44vznecll6ccu044gnqsgcsga: {
+      protocol: "Phoenix DAO",
+      symbol: "FIRE",
+      name: "Phoenix DAO Token",
+      token: "terra1aecddsx0lvmylpzgq9le8uw4apnplhswp44vznecll6ccu044gnqsgcsga",
+      icon: "https://assets.terra.dev/icon/svg/FIRE.png",
+      decimals: 6,
+    },
+    terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn: {
+      protocol: "TheOnlyOne DAO",
+      symbol: "xxx",
+      name: "xxx",
+      token: "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn",
+      icon: "https://assets.terra.dev/icon/svg/xxx3.png",
+      decimals: 10,
+    },
     terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst: {
       protocol: "Capapult",
       symbol: "SOLID",
@@ -346,6 +362,14 @@ module.exports = {
       name: "Terra Pepe",
       token: "terra16a9ylm639l8ehh89ny2k97w9lgkn7txrt8ukq3y8l4e9d6u7hrwslyw9xz",
       icon: "https://raw.githubusercontent.com/trumpdao/public/main/data/pepe_logo.jpeg",
+      decimals: 6,
+    },
+    terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv: {
+      protocol: "GEM DAO",
+      symbol: "GEM",
+      name: "GEM DAO",
+      token: "terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv",
+      icon: "https://raw.githubusercontent.com/terragem/gem/main/gem2.png",
       decimals: 6,
     },
   },
@@ -1902,7 +1926,7 @@ module.exports = {
       symbol: "OPZC",
       name: "Lunc optimizer token",
       token: "terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54",
-      icon: "https://assets.terra.money/icon/opz/OPZ.png",
+      icon: "https://assets.terra.dev/icon/opz/OPZ.png",
       decimals: 6,
     },
     terra1g9carn4sdnlv2uw2u4uelqpf8lun9zwymhuf70: {
@@ -1918,7 +1942,7 @@ module.exports = {
       symbol: "OPZC",
       name: "Lunc optimizer token",
       token: "terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4",
-      icon: "https://assets.terra.money/icon/opz/OPZC.png",
+      icon: "https://assets.terra.dev/icon/opz/OPZC.png",
       decimals: 6,
     },
     terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr: {
