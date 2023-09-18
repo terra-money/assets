@@ -243,6 +243,24 @@ module.exports = {
       icon: "https://assets.terra.dev/icon/svg/ibc/ampKUJI.svg",
       decimals: 6,
     },
+    "22E17DE64D0DDACF542E250F411705ED89D544549DE7B9DCE6B7148E369BD256": {
+      denom: "ibc/22E17DE64D0DDACF542E250F411705ED89D544549DE7B9DCE6B7148E369BD256",
+      path: "transfer/channel-208",
+      base_denom: "inj",
+      symbol: "INJ",
+      name: "Injective",
+      icon: "https://assets.terra.dev/icon/svg/ibc/INJ.svg",
+      decimals: 18,
+    },
+    "7B7831150D7A8FF2A198DF4F8BD246F1BEA8E94B9ECD3EF7F8B6497B66BB206C": {
+      denom: "ibc/7B7831150D7A8FF2A198DF4F8BD246F1BEA8E94B9ECD3EF7F8B6497B66BB206C",
+      path: "transfer/channel-10",
+      base_denom: "untrn",
+      symbol: "NTRN",
+      name: "Neutron",
+      icon: "https://assets.terra.dev/icon/svg/ibc/NTRN.svg",
+      decimals: 6,
+    },
   },
   classic: {
     "64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860": {
