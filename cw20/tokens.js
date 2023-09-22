@@ -1,11 +1,19 @@
 module.exports = {
   mainnet: {
+    terra1aecddsx0lvmylpzgq9le8uw4apnplhswp44vznecll6ccu044gnqsgcsga: {
+      protocol: "Phoenix DAO",
+      symbol: "FIRE",
+      name: "Phoenix DAO Token",
+      token: "terra1aecddsx0lvmylpzgq9le8uw4apnplhswp44vznecll6ccu044gnqsgcsga",
+      icon: "https://assets.terra.dev/icon/svg/FIRE.png",
+      decimals: 6,
+    },
     terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn: {
       protocol: "TheOnlyOne DAO",
       symbol: "xxx",
       name: "xxx",
       token: "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn",
-      icon: "https://assets.terra.money/icon/svg/xxx3.png",
+      icon: "https://assets.terra.dev/icon/svg/xxx3.png",
       decimals: 10,
     },
     terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst: {
@@ -1918,7 +1926,7 @@ module.exports = {
       symbol: "OPZC",
       name: "Lunc optimizer token",
       token: "terra1kqf8ua7al5tdnkz95ue4zkuv4gcu52pt63ya54",
-      icon: "https://assets.terra.money/icon/opz/OPZ.png",
+      icon: "https://assets.terra.dev/icon/opz/OPZ.png",
       decimals: 6,
     },
     terra1g9carn4sdnlv2uw2u4uelqpf8lun9zwymhuf70: {
@@ -1934,7 +1942,7 @@ module.exports = {
       symbol: "OPZC",
       name: "Lunc optimizer token",
       token: "terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4",
-      icon: "https://assets.terra.money/icon/opz/OPZC.png",
+      icon: "https://assets.terra.dev/icon/opz/OPZC.png",
       decimals: 6,
     },
     terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr: {
@@ -1991,6 +1999,12 @@ module.exports = {
       name: "Diamond Gem",
       token: "terra18jrgexnn35dxa8nrpmuatkxknmjs330gp6txavrp3fxzz6muztqqec60hf",
       icon: "https://hccfactory.com/assets/img/gems/DGEM.png",
+    terra1r9laq5788d36gxmf8jkayln3g5szg4ql0nmccs: {
+      protocol: "DFLunc Protocol",
+      symbol: "DFC",
+      name: "DFC Token",
+      token: "terra1r9laq5788d36gxmf8jkayln3g5szg4ql0nmccs",
+      icon: "https://i.ibb.co/C9bnNdr/favicon.png",
       decimals: 6,
     },
   },
