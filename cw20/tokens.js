@@ -1969,6 +1969,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/reglisosa/public/main/data/dokwon.png",
       decimals: 2,
     },
+    terra1r9laq5788d36gxmf8jkayln3g5szg4ql0nmccs: {
+      protocol: "DFLunc Protocol",
+      symbol: "DFC",
+      name: "DFC Token",
+      token: "terra1r9laq5788d36gxmf8jkayln3g5szg4ql0nmccs",
+      icon: "https://i.ibb.co/C9bnNdr/favicon.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
