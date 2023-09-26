@@ -1998,7 +1998,8 @@ module.exports = {
       symbol: "DGEM",
       name: "Diamond Gem",
       token: "terra18jrgexnn35dxa8nrpmuatkxknmjs330gp6txavrp3fxzz6muztqqec60hf",
-      icon: "https://hccfactory.com/assets/img/gems/DGEM.png",
+      icon: "https://hccfactory.com/assets/img/gems/DGEM.png"
+    },
     terra1r9laq5788d36gxmf8jkayln3g5szg4ql0nmccs: {
       protocol: "DFLunc Protocol",
       symbol: "DFC",
