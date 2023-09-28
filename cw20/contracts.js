@@ -1862,6 +1862,16 @@ module.exports = {
       name: "Terraport",
       icon: "https://i.ibb.co/GtmvHT4/logo.png",
     },
+    terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m: {
+      protocol: "LBUNProject",
+      name: "Burn and Stake Enterprise Token",
+      icon: "https://raw.githubusercontent.com/lbunproject/BASE_whitepaper_classic/main/thumbnails/LBUNC_256.png",
+    },
+    terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh: {
+      protocol: "GAME Protocol",
+      name: "GAME Token",
+      icon: "https://raw.githubusercontent.com/GAMEProtocal/GAME/446f1cbd56e76041d29d7651569d4b1ee6f910dd/icon/GAME_icon_128.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {

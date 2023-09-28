@@ -2016,6 +2016,22 @@ module.exports = {
       icon: "https://i.ibb.co/C9bnNdr/favicon.png",
       decimals: 6,
     },
+    terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m: {
+      protocol: "LBUNProject",
+      symbol: "BASE",
+      name: "Burn and Stake Enterprise Token",
+      token: "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
+      icon: "https://raw.githubusercontent.com/lbunproject/BASE_whitepaper_classic/main/thumbnails/LBUNC_256.png",
+      decimals: 6,
+    },
+    terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh: {
+      protocol: "GAME Protocol",
+      symbol: "GAME",
+      name: "GAME Token",
+      token: "terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh",
+      icon: "https://raw.githubusercontent.com/GAMEProtocal/GAME/446f1cbd56e76041d29d7651569d4b1ee6f910dd/icon/GAME_icon_128.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
