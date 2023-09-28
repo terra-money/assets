@@ -374,6 +374,14 @@ module.exports = {
     },
   },
   classic: {
+    terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c: {
+      protocol: "LUNC Warriors NFT",
+      symbol: "LUNW",
+      name: "LUNC Warriors Token",
+      token: "terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c",
+      icon: "https://raw.githubusercontent.com/LUNC-Warriors-NFT/cw20-token-assets/main/logo.png",
+      decimals: 6,
+    },
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
       protocol: "Anchor",
       symbol: "bLuna",
