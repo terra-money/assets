@@ -2032,6 +2032,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/GAMEProtocal/GAME/446f1cbd56e76041d29d7651569d4b1ee6f910dd/icon/GAME_icon_128.png",
       decimals: 6,
     },
+    terra12f3f5fzfzxckc0qlv3rmwwkjfhzevpwmx77345n0zuu2678vxf0sm6vvcw: {
+      protocol: "Garuda Universe",
+      symbol: "GRDX",
+      name: "GarudaX Token",
+      token: "terra12f3f5fzfzxckc0qlv3rmwwkjfhzevpwmx77345n0zuu2678vxf0sm6vvcw",
+      icon: "https://i.ibb.co/jkwPpnS/zz1.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
