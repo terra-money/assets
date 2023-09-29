@@ -1872,6 +1872,11 @@ module.exports = {
       name: "GAME Token",
       icon: "https://raw.githubusercontent.com/GAMEProtocal/GAME/446f1cbd56e76041d29d7651569d4b1ee6f910dd/icon/GAME_icon_128.png",
     },
+    terra12f3f5fzfzxckc0qlv3rmwwkjfhzevpwmx77345n0zuu2678vxf0sm6vvcw: {
+      protocol: "Garuda Universe",
+      name: "GarudaX Token",
+      icon: "https://i.ibb.co/jkwPpnS/zz1.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
