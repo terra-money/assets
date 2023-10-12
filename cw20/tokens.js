@@ -41,7 +41,7 @@ module.exports = {
       decimals: 6,
     },
     terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k: {
-      protocol: "portugal.protocol",
+      protocol: "dioalma.protocol",
       symbol: "Dinheiros",
       name: "dinheiro",
       token: "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
@@ -49,7 +49,7 @@ module.exports = {
       decimals: 0,
     },
     terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8: {
-      protocol: "portugal.protocol",
+      protocol: "dioalma.protocol",
       symbol: "Reis",
       name: "real",
       token: "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8",
@@ -57,7 +57,7 @@ module.exports = {
       decimals: 6,
     },
     terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg: {
-      protocol: "portugal.protocol",
+      protocol: "dioalma.protocol",
       symbol: "Escudos",
       name: "escudo",
       token: "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
@@ -81,7 +81,7 @@ module.exports = {
       decimals: 6,
     },
     terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q: {
-      protocol: "alentejo.protocol",
+      protocol: "dioalma.protocol",
       symbol: "Alem",
       name: "alentejo.money",
       token: "terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q",
