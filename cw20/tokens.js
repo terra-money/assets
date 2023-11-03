@@ -2040,6 +2040,14 @@ module.exports = {
       icon: "https://i.ibb.co/jkwPpnS/zz1.png",
       decimals: 6,
     },
+    terra1f7ekmqgzvd0myju7z922ecg4camkq27j77yvlut0jfvrqakm0ersjftceh: {
+      protocol: "OSMIO Rewards",
+      symbol: "OSMIO",
+      name: "OSMIO Rewards",
+      token: "terra1f7ekmqgzvd0myju7z922ecg4camkq27j77yvlut0jfvrqakm0ersjftceh",
+      icon: "https://ibb.co/MVqwGd9",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
