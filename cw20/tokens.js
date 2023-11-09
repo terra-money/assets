@@ -377,7 +377,7 @@ module.exports = {
       symbol: "BITZ",
       name: "Bitz DAO Token",
       token: "terra18vp5s0r7keezm35hdxsgw8zgfnyn8wejdkk893ag2kqncgpqxhjqwjpc0v",
-      icon: "https://assets.terra.dev/icon/svg/BitzDAO.png",
+      icon: "https://assets.terra.dev/icon/svg/BitzDAO_Token.png",
       decimals: 6,
     },
   },
