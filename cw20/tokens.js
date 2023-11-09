@@ -372,6 +372,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/terragem/gem/main/gem2.png",
       decimals: 6,
     },
+    terra18vp5s0r7keezm35hdxsgw8zgfnyn8wejdkk893ag2kqncgpqxhjqwjpc0v: {
+      protocol: "Bitz DAO",
+      symbol: "BITZ",
+      name: "Bitz DAO Token",
+      token: "terra18vp5s0r7keezm35hdxsgw8zgfnyn8wejdkk893ag2kqncgpqxhjqwjpc0v",
+      icon: "https://assets.terra.dev/icon/svg/BitzDAO.png",
+      decimals: 6,
+    },
   },
   classic: {
     terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c: {
