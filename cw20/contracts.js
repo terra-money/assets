@@ -76,6 +76,11 @@ module.exports = {
       name: "BLUE CUB DAO",
       icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/blue.png",
     },
+    terra1sqkdmckn2h4xh50rwem707yl3utrwmp9drte9dzg8ufny3yatceq3tu4gt: {
+      protocol: "DIAMOND HANDS DAO",
+      name: "HANDS",
+      icon: "https://github.com/sk3ngy/Terra-Money-assets/blob/445630d7c8b02397d05ddd922eb2d799856fb173/icon/svg/Diamond%20Hands.PNG",
+     },
     terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz: {
       protocol: "Depegged UST",
       name: "Depegged UST",
