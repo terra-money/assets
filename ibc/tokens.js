@@ -261,6 +261,15 @@ module.exports = {
       icon: "https://assets.terra.dev/icon/svg/ibc/NTRN.svg",
       decimals: 6,
     },
+     "A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C": {
+      denom: "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
+      path: "transfer/channel-229",
+      base_denom: "untrn",
+      symbol: "wstETH",
+      name: "wstETH",
+      icon: "https://assets.terra.dev/icon/svg/ibc/wstETH.svg",
+      decimals: 18,
+    },
   },
   classic: {
     "64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860": {
