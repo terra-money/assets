@@ -146,7 +146,7 @@ module.exports = {
     terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg: {
       protocol: "Wormhole",
       symbol: "wSOL",
-      name: "Wrapped SOL",
+      name: "Solana (Portal)",
       token: "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
       decimals: 8,
