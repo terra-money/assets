@@ -261,6 +261,24 @@ module.exports = {
       icon: "https://assets.terra.dev/icon/svg/ibc/NTRN.svg",
       decimals: 6,
     },
+    "EF21BC562B7EB4D22BBF467D011E3118B7E3AD6D095000A672A9FCECA5ABCF15": {
+      denom: "ibc/EF21BC562B7EB4D22BBF467D011E3118B7E3AD6D095000A672A9FCECA5ABCF15",
+      path: "transfer/channel-6",
+      base_denom: "mkr-wei",
+      symbol: "axlMKR",
+      name: "Axelar Wrapped Maker",
+      icon: "https://assets.terra.dev/icon/svg/ibc/MKR.svg",
+      decimals: 6,
+    },
+    "0A31B4B46B4C5F10ED3EF4BFBD1453CE96A270D168FC672436ABCA2DB4CC1401": {
+      denom: "ibc/0A31B4B46B4C5F10ED3EF4BFBD1453CE96A270D168FC672436ABCA2DB4CC1401",
+      path: "transfer/channel-6",
+      base_denom: "mkr-wei",
+      symbol: "axlARB",
+      name: "Axelar Wrapped Arbitrum",
+      icon: "https://assets.terra.dev/icon/svg/ibc/ARB.svg",
+      decimals: 6,
+    },
   },
   classic: {
     "64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860": {
