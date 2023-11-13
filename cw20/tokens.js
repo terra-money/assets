@@ -401,7 +401,7 @@ module.exports = {
       symbol: "BNB",
       name: "Binance Coin (Portal)",
       token: "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
-      icon: "https://assets.terra.dev/icon/svg/wBNB.svg",
+      icon: "https://assets.terra.dev/icon/svg/wBNB.png",
       decimals: 8,
     }
   },
