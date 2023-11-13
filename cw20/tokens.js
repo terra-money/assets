@@ -396,6 +396,14 @@ module.exports = {
       icon: "https://assets.terra.dev/icon/svg/DOGE.svg",
       decimals: 8,
     },
+    terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388: {
+      protocol: "Wormhole",
+      symbol: "BNB",
+      name: "Binance Coin (Portal)",
+      token: "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
+      icon: "https://assets.terra.dev/icon/svg/wBNB.svg",
+      decimals: 8,
+    }
   },
   classic: {
     terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c: {
