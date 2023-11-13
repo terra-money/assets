@@ -380,6 +380,22 @@ module.exports = {
       icon: "https://assets.terra.dev/icon/svg/BitzDAO_Token.png",
       decimals: 6,
     },
+    terra1vkf48nr8z84xkg6535qqx9pw0se9hjha9dallv2xpfngn776ksyq0gr7e2: {
+      protocol: "Wormhole",
+      symbol: "TON",
+      name: "Toncoin (Portal)",
+      token: "terra1vkf48nr8z84xkg6535qqx9pw0se9hjha9dallv2xpfngn776ksyq0gr7e2",
+      icon: "https://ton.org/download/ton_symbol.svg",
+      decimals: 8,
+    },
+    terra1z2cn5r7p7sezmq5ttwrutvqnczqa9244syd4w2uu2tvjarv68dqqlwx48v: {
+      protocol: "Wormhole",
+      symbol: "DOGE",
+      name: "Dogecoin (Portal)",
+      token: "terra1z2cn5r7p7sezmq5ttwrutvqnczqa9244syd4w2uu2tvjarv68dqqlwx48v",
+      icon: "https://assets.terra.dev/icon/svg/DOGE.svg",
+      decimals: 8,
+    },
   },
   classic: {
     terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c: {
