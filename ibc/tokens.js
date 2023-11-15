@@ -254,7 +254,7 @@ module.exports = {
     },
     "7B7831150D7A8FF2A198DF4F8BD246F1BEA8E94B9ECD3EF7F8B6497B66BB206C": {
       denom: "ibc/7B7831150D7A8FF2A198DF4F8BD246F1BEA8E94B9ECD3EF7F8B6497B66BB206C",
-      path: "transfer/channel-10",
+      path: "transfer/channel-229",
       base_denom: "untrn",
       symbol: "NTRN",
       name: "Neutron",
@@ -290,7 +290,7 @@ module.exports = {
     },
     "A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C": {
       denom: "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
-      path: "transfer/channel-10",
+      path: "transfer/channel-229",
       base_denom: "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
       symbol: "wstETH",
       name: "Wrapped Lido Staked Ether",
