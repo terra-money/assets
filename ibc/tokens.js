@@ -279,6 +279,15 @@ module.exports = {
       icon: "https://assets.terra.dev/icon/svg/ibc/ARB.svg",
       decimals: 18,
     },
+    "57C5ECAE3AAA7382AC93CFE971CA2F9B669323FDF5A5A138B535E4F9EAD185BD": {
+      denom: "ibc/57C5ECAE3AAA7382AC93CFE971CA2F9B669323FDF5A5A138B535E4F9EAD185BD",
+      path: "transfer/channel-6",
+      base_denom: "wsteth-wei",
+      symbol: "axlwstETH",
+      name: "Axelar Wrapped Lido Staked Ether",
+      icon: "https://assets.terra.dev/icon/svg/ibc/wstETH.svg",
+      decimals: 18,
+    },
   },
   classic: {
     "64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860": {
