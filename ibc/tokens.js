@@ -288,6 +288,15 @@ module.exports = {
       icon: "https://assets.terra.dev/icon/svg/ibc/wstETH.svg",
       decimals: 18,
     },
+    "A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C": {
+      denom: "ibc/A356EC90DC3AE43D485514DA7260EDC7ABB5CFAA0654CE2524C739392975AD3C",
+      path: "transfer/channel-10",
+      base_denom: "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
+      symbol: "wstETH",
+      name: "Wrapped Lido Staked Ether",
+      icon: "https://assets.terra.dev/icon/svg/ibc/wstETH.svg",
+      decimals: 18,
+    }
   },
   classic: {
     "64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860": {
