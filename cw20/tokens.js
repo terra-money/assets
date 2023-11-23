@@ -2075,7 +2075,7 @@ module.exports = {
     terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00: {
       protocol: "Terra Tritium",
       symbol: "TRIT",
-      name: "Tritium Token",
+      name: "Terra Tritium Token",
       token: "terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00",
       icon: "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
       decimals: 6,
