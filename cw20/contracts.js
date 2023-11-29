@@ -1857,10 +1857,30 @@ module.exports = {
       name: "SON",
       icon: "https://swap.sonikchain.com/sonic32.png",
     },
-    terra1lx6w28yvma0y8hll0svg687ft694yrgax5k276: {
+    terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp: {
       protocol: "Terraport",
       name: "Terraport",
       icon: "https://i.ibb.co/GtmvHT4/logo.png",
+    },
+    terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m: {
+      protocol: "LBUNProject",
+      name: "Burn and Stake Enterprise Token",
+      icon: "https://raw.githubusercontent.com/lbunproject/BASE_whitepaper_classic/main/thumbnails/LBUNC_256.png",
+    },
+    terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh: {
+      protocol: "GAME Protocol",
+      name: "GAME Token",
+      icon: "https://raw.githubusercontent.com/GAMEProtocal/GAME/446f1cbd56e76041d29d7651569d4b1ee6f910dd/icon/GAME_icon_128.png",
+    },
+    terra12f3f5fzfzxckc0qlv3rmwwkjfhzevpwmx77345n0zuu2678vxf0sm6vvcw: {
+      protocol: "Garuda Universe",
+      name: "GarudaX Token",
+      icon: "https://i.ibb.co/jkwPpnS/zz1.png",
+    },
+    terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00: {
+      protocol: "Terra Tritium",
+      name: "Terra Tritium Token",
+      icon: "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
     },
   },
   testnet: {
