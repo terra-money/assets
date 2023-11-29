@@ -398,7 +398,7 @@ module.exports = {
       base_denom: "bnb-wei",
       symbol: "BNB",
       name: "Axelar BNB",
-      icon: "https://assets.terra.dev/icon/svg/ibc/BNB.svg",
+      icon: "https://assets.terra.dev/icon/thorswap/BNB.svg",
       decimals: 18,
     },
   },
