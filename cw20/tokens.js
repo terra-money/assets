@@ -1999,6 +1999,8 @@ module.exports = {
       name: "Diamond Gem",
       token: "terra18jrgexnn35dxa8nrpmuatkxknmjs330gp6txavrp3fxzz6muztqqec60hf",
       icon: "https://hccfactory.com/assets/img/gems/DGEM.png",
+      decimals: 6,
+    },
     terra1r9laq5788d36gxmf8jkayln3g5szg4ql0nmccs: {
       protocol: "DFLunc Protocol",
       symbol: "DFC",
@@ -2007,6 +2009,14 @@ module.exports = {
       icon: "https://i.ibb.co/C9bnNdr/favicon.png",
       decimals: 6,
     },
+    terra107s9c27aj08rgcwwuxmyzapz66xu9u7c66urypy9v8mzurqh87pst4yv8t: {
+      protocol: "LunaBurningKnights",
+      symbol: "KNGT",
+      name: "Knights Gaming Token",
+      token: "terra107s9c27aj08rgcwwuxmyzapz66xu9u7c66urypy9v8mzurqh87pst4yv8t",
+      icon: "https://lunaburningknights.io/kngt-logo.png",
+      decimals: 6,
+    }
   },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
