@@ -1877,6 +1877,11 @@ module.exports = {
       name: "GarudaX Token",
       icon: "https://i.ibb.co/jkwPpnS/zz1.png",
     },
+    terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00: {
+      protocol: "Terra Tritium",
+      name: "Terra Tritium Token",
+      icon: "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {

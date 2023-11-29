@@ -146,7 +146,7 @@ module.exports = {
     terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg: {
       protocol: "Wormhole",
       symbol: "wSOL",
-      name: "Wrapped SOL",
+      name: "Solana (Portal)",
       token: "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
       icon: "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
       decimals: 8,
@@ -380,6 +380,30 @@ module.exports = {
       icon: "https://assets.terra.dev/icon/svg/BitzDAO_Token.png",
       decimals: 6,
     },
+    terra1vkf48nr8z84xkg6535qqx9pw0se9hjha9dallv2xpfngn776ksyq0gr7e2: {
+      protocol: "Wormhole",
+      symbol: "TON",
+      name: "Toncoin (Portal)",
+      token: "terra1vkf48nr8z84xkg6535qqx9pw0se9hjha9dallv2xpfngn776ksyq0gr7e2",
+      icon: "https://ton.org/download/ton_symbol.svg",
+      decimals: 8,
+    },
+    terra1z2cn5r7p7sezmq5ttwrutvqnczqa9244syd4w2uu2tvjarv68dqqlwx48v: {
+      protocol: "Wormhole",
+      symbol: "DOGE",
+      name: "Dogecoin (Portal)",
+      token: "terra1z2cn5r7p7sezmq5ttwrutvqnczqa9244syd4w2uu2tvjarv68dqqlwx48v",
+      icon: "https://assets.terra.dev/icon/svg/DOGE.svg",
+      decimals: 8,
+    },
+    terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388: {
+      protocol: "Wormhole",
+      symbol: "BNB",
+      name: "Binance Coin (Portal)",
+      token: "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
+      icon: "https://assets.terra.dev/icon/svg/wBNB.png",
+      decimals: 8,
+    }
   },
   classic: {
     terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c: {
@@ -2046,6 +2070,14 @@ module.exports = {
       name: "GarudaX Token",
       token: "terra12f3f5fzfzxckc0qlv3rmwwkjfhzevpwmx77345n0zuu2678vxf0sm6vvcw",
       icon: "https://i.ibb.co/jkwPpnS/zz1.png",
+      decimals: 6,
+    },
+    terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00: {
+      protocol: "Terra Tritium",
+      symbol: "TRIT",
+      name: "Terra Tritium Token",
+      token: "terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00",
+      icon: "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
       decimals: 6,
     },
   },
