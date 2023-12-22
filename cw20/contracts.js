@@ -121,6 +121,16 @@ module.exports = {
       name: "GEM DAO",
       icon: "https://raw.githubusercontent.com/terragem/gem/main/gem2.png",
     },
+    terra1cl273523kmr2uwjhhznq54je69mted2u3ljffm8kp2ap4z3drdksftwqun: {
+      protocol: "DROGO",
+      name: "DROGO",
+      icon: "https://i.imgur.com/nNecbjP.png",
+    },
+    terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn: {
+      protocol: "xxx",
+      name: "xxx",
+      icon: "https://i.imgur.com/Pz24fY5.png",
+    },
   },
   classic: {
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
