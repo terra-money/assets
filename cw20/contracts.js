@@ -123,7 +123,7 @@ module.exports = {
     },
     terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s: {
       protocol: "ITO DAO",
-      name: "ITO",
+      name: "Staked Ito",
       icon: "https://raw.githubusercontent.com/ITO1201/ITO/main/data/I.png",
     },
   },
