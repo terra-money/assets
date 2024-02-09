@@ -296,6 +296,14 @@ module.exports = {
       name: "Wrapped Lido Staked Ether",
       icon: "https://assets.terra.dev/icon/svg/ibc/wstETH.svg",
       decimals: 18,
+    },
+    285542A3C81252D7A2D9D79D8182E440309DEE320BE8E5269E1E7268D94D6CDF: {
+      denom: "ibc/285542A3C81252D7A2D9D79D8182E440309DEE320BE8E5269E1E7268D94D6CDF",
+      path: "transfer/channel-271",
+      base_denom: "ufury",
+      symbol: "FURY",
+      name: "Furya",
+      icon: "https://assets.terra.dev/icon/svg/ibc/FURY.svg",
     }
   },
   classic: {
