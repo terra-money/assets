@@ -6,3 +6,7 @@ cw721/*.json
 ibc/*.json
 
 yarn.lock
+
+.DS_Store
+icon/.DS_Store
+icon/svg/.DS_Store
