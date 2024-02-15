@@ -32,6 +32,22 @@ module.exports = {
       icon: "https://assets.capapult.finance/icon/Capa.svg",
       decimals: 6,
     },
+    terra1cl273523kmr2uwjhhznq54je69mted2u3ljffm8kp2ap4z3drdksftwqun: {
+      protocol: "DROGO",
+      symbol: "DROGO",
+      name: "DROGO",
+      token: "terra1cl273523kmr2uwjhhznq54je69mted2u3ljffm8kp2ap4z3drdksftwqun",
+      icon: "https://i.imgur.com/nNecbjP.png",
+      decimals: 6,
+    },
+    terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn: {
+      protocol: "xxx",
+      symbol: "xxx",
+      name: "xxx",
+      token: "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn",
+      icon: "https://i.imgur.com/Pz24fY5.png",
+      decimals: 10,
+    },
     terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw: {
       protocol: "Orne",
       symbol: "ORNE",
