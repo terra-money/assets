@@ -296,6 +296,15 @@ module.exports = {
       name: "Wrapped Lido Staked Ether",
       icon: "https://assets.terra.dev/icon/svg/ibc/wstETH.svg",
       decimals: 18,
+    },
+    "E83DFA7C774804925765C4EFCBFAF2088AFE8B41302AB66000CA6234BD5976E4": {
+      denom: "ibc/E83DFA7C774804925765C4EFCBFAF2088AFE8B41302AB66000CA6234BD5976E4",
+      path: "transfer/channel-351",
+      base_denom: "uandr",
+      symbol: "ANDR",
+      name: "Andromeda",
+      icon: "https://assets.terra.dev/icon/svg/ibc/ANDR.svg",
+      decimals: 6,
     }
   },
   classic: {

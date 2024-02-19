@@ -1,8 +1,0 @@
-node_modules/
-
-# Don't include json files that get built on deploy.
-cw20/*.json
-cw721/*.json
-ibc/*.json
-
-yarn.lock
