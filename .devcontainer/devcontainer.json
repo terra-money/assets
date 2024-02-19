@@ -1,0 +1,5 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }"ghcr.io/nordcominc/devcontainer-features/android-sdk:1": {}
+}"ghcr.io/devcontainers-contrib/features/auditjs:1": {}
