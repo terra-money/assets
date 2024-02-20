@@ -2088,7 +2088,15 @@ module.exports = {
       token: "terra107s9c27aj08rgcwwuxmyzapz66xu9u7c66urypy9v8mzurqh87pst4yv8t",
       icon: "https://lunaburningknights.io/kngt-logo.png",
       decimals: 6,
-    }
+    },
+   terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq: {
+      protocol: "Bitmos",
+      symbol: "BMOS",
+      name: "Bitmos",
+      token: "terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq",
+      icon: "https://raw.githubusercontent.com/bitmos-io/astroport-token-lists/main/img/bitmos.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
