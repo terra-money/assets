@@ -1865,7 +1865,7 @@ module.exports = {
     terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m: {
       protocol: "LBUNProject",
       name: "Burn and Stake Enterprise Token",
-      icon: "https://raw.githubusercontent.com/lbunproject/BASE_whitepaper_classic/main/thumbnails/LBUNC_256.png",
+      icon: "https://i.ibb.co/Tk1BH6h/LBUNC-256.png",
     },
     terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh: {
       protocol: "GAME Protocol",
@@ -1881,6 +1881,11 @@ module.exports = {
       protocol: "Terra Tritium",
       name: "Terra Tritium Token",
       icon: "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
+    },
+    terra10fusc7487y4ju2v5uavkauf3jdpxx9h8sc7wsqdqg4rne8t4qyrq8385q6: {
+      protocol: "LBUNProject",
+      name: "LUNC (CW20)",
+      icon: "https://i.ibb.co/KsxHYW2/cw-LUNC-128.png",
     },
   },
   testnet: {

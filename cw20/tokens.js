@@ -2054,7 +2054,7 @@ module.exports = {
       symbol: "BASE",
       name: "Burn and Stake Enterprise Token",
       token: "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
-      icon: "https://raw.githubusercontent.com/lbunproject/BASE_whitepaper_classic/main/thumbnails/LBUNC_256.png",
+      icon: "https://i.ibb.co/Tk1BH6h/LBUNC-256.png",
       decimals: 6,
     },
     terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh: {
@@ -2088,7 +2088,15 @@ module.exports = {
       token: "terra107s9c27aj08rgcwwuxmyzapz66xu9u7c66urypy9v8mzurqh87pst4yv8t",
       icon: "https://lunaburningknights.io/kngt-logo.png",
       decimals: 6,
-    }
+    },
+    terra10fusc7487y4ju2v5uavkauf3jdpxx9h8sc7wsqdqg4rne8t4qyrq8385q6: {
+      protocol: "LBUNProject",
+      symbol: "cwLUNC",
+      name: "LUNC (CW20)",
+      token: "terra10fusc7487y4ju2v5uavkauf3jdpxx9h8sc7wsqdqg4rne8t4qyrq8385q6",
+      icon: "https://i.ibb.co/KsxHYW2/cw-LUNC-128.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
