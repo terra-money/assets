@@ -2116,3 +2116,5 @@ terra18n0kf0xurd4pwfrf363zz5s7yr2dnrsgk42az66ek8mn9q2t7slqyqllvr: {
       icon: "https://i.postimg.cc/Fz4zjgdN/20240223-200323.png",
       decimals: 8,
     },
+   };
+  
