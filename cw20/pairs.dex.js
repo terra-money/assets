@@ -1097,6 +1097,16 @@ module.exports = {
       type: 'xyk',
       assets: ['terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3', 'uluna'],
     },
+    terra1etafgl0xun96jm3wnwvvtmmkh6hxunzwnq3v950ea5jflywwrj4srxx409: {
+      dex: 'astroport',
+      type: 'xyk',
+      assets: ['terra13s5pxw5j2p4ssvzwvxd8l7h30vke8vjgtng75vqgv6p9vddfk3hskfka0l', 'ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4'],
+    },
+    terra1ps9fnt07wesrnzknmu8x5tun75w4rjqy4xjaud28tjg4dg7859yscj34k4: {
+      dex: 'astroport',
+      type: 'xyk',
+      assets: ['terra13s5pxw5j2p4ssvzwvxd8l7h30vke8vjgtng75vqgv6p9vddfk3hskfka0l', 'ibc/terra1q328gl40az3cf9x67cgudn8e8w2az9vsmhtkwsgdu7a43rhy5caqc82yr5'],
+    },
   },
   classic: {
     terra17yjncjupvk0kmpmhe6gnwny70z4zjkrn4600lpsaz7v0menddggscsvwxm: {

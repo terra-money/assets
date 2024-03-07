@@ -403,6 +403,22 @@ module.exports = {
       token: "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
       icon: "https://assets.terra.dev/icon/svg/wBNB.png",
       decimals: 8,
+    },
+    terra13s5pxw5j2p4ssvzwvxd8l7h30vke8vjgtng75vqgv6p9vddfk3hskfka0l: {
+      protocol: "SEUL DAO",
+      symbol: "SEUL",
+      name: "SEUL",
+      token: "terra13s5pxw5j2p4ssvzwvxd8l7h30vke8vjgtng75vqgv6p9vddfk3hskfka0l",
+      icon: "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/seul.png",
+      decimals: 6,
+    },
+    terra1q328gl40az3cf9x67cgudn8e8w2az9vsmhtkwsgdu7a43rhy5caqc82yr5: {
+      protocol: "SEUL DAO",
+      symbol: "xSEUL",
+      name: "xSEUL",
+      token: "terra1q328gl40az3cf9x67cgudn8e8w2az9vsmhtkwsgdu7a43rhy5caqc82yr5",
+      icon: "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/xseul.png",
+      decimals: 6,
     }
   },
   classic: {

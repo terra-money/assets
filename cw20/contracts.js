@@ -121,6 +121,16 @@ module.exports = {
       name: "GEM DAO",
       icon: "https://raw.githubusercontent.com/terragem/gem/main/gem2.png",
     },
+    terra13s5pxw5j2p4ssvzwvxd8l7h30vke8vjgtng75vqgv6p9vddfk3hskfka0l: {
+      protocol: "SEUL DAO",
+      name: "SEUL",
+      icon: "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/seul.png",
+    },
+    terra1q328gl40az3cf9x67cgudn8e8w2az9vsmhtkwsgdu7a43rhy5caqc82yr5: {
+      protocol: "SEUL DAO",
+      name: "xSEUL",
+      icon: "https://raw.githubusercontent.com/DAOSEUL/Seuldata/main/xseul.png",
+    },
   },
   classic: {
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
