@@ -414,6 +414,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/LUNC-Warriors-NFT/cw20-token-assets/main/logo.png",
       decimals: 6,
     },
+    terra15gjgmln8xj72rf69tx2zlrtcjzzvkcrdvrvfnmxja6kacz07pg0ssflecz: {
+      protocol: "Terra Farming",
+      symbol: "FOOD",
+      name: "FOOD Token",
+      token: "terra15gjgmln8xj72rf69tx2zlrtcjzzvkcrdvrvfnmxja6kacz07pg0ssflecz",
+      icon: "https://raw.githubusercontent.com/TerraFarming/cw20-assets/main/food_logo.png",
+      decimals: 6,
+    },
     terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: {
       protocol: "Anchor",
       symbol: "bLuna",
