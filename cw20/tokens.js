@@ -406,6 +406,14 @@ module.exports = {
     }
   },
   classic: {
+    terra1jx9vy3egyzdhl5yj8994hv928ef70gzk9cj8htq9wc5wxl36rvfqqn4vu2: {
+      protocol: "LUNC Warriors NFT",
+      symbol: "LWM",
+      name: "LUNC Warriors Meme Token",
+      token: "terra1jx9vy3egyzdhl5yj8994hv928ef70gzk9cj8htq9wc5wxl36rvfqqn4vu2",
+      icon: "https://raw.githubusercontent.com/LUNC-Warriors-NFT/cw20-token-assets/main/lwm_small.png",
+      decimals: 6,
+    },
     terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c: {
       protocol: "LUNC Warriors NFT",
       symbol: "LUNW",
