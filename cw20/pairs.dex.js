@@ -1645,6 +1645,14 @@ module.exports = {
       type: 'xyk',
       assets: ['terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh', 'uluna'],
     },
+     terra1er4zgsgv6uj5gqw8y3630pyfar4ctgmetv34ak90n0adqcpv0gwsxlj37l: {
+      dex: 'phoenix',
+      type: 'xyk',
+      assets: [
+        'ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4',
+        'terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq'
+      ]
+    }
   },
   testnet: {},
 };
