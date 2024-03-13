@@ -419,7 +419,15 @@ module.exports = {
       token: "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
       icon: "https://assets.terra.dev/icon/svg/wBNB.png",
       decimals: 8,
-    }
+    },
+    terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s: {
+      protocol: "ITO DAO",
+      symbol: "ITO",
+      name: "Staked Ito",
+      token: "terra1c77xqv746m7ghxayrge79dxr4kcezev8g6cnrfled4f3n4ufj0vs5gz28s",
+      icon: "https://raw.githubusercontent.com/ITO1201/ITO/main/data/I.png",
+      decimals: 6,
+    },
   },
   classic: {
     terra1jx9vy3egyzdhl5yj8994hv928ef70gzk9cj8htq9wc5wxl36rvfqqn4vu2: {
