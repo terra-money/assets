@@ -2114,6 +2114,14 @@ module.exports = {
       decimals: 6,
     }
   },
+  terra18n0kf0xurd4pwfrf363zz5s7yr2dnrsgk42az66ek8mn9q2t7slqyqllvr: {
+      protocol: "Wormhole",
+      symbol: "LSPHERE",
+      name: "Lunasphere (Portal)",
+      token: "terra18n0kf0xurd4pwfrf363zz5s7yr2dnrsgk42az66ek8mn9q2t7slqyqllvr",
+      icon: "https://i.postimg.cc/Fz4zjgdN/20240223-200323.png",
+      decimals: 8,
+    },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
       protocol: "YFD",
