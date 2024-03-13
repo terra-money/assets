@@ -1,6 +1,14 @@
 module.exports = {
   mainnet: {
     terra1aecddsx0lvmylpzgq9le8uw4apnplhswp44vznecll6ccu044gnqsgcsga: {
+      protocol: "Ado",
+      symbol: "ADO",
+      name: "Ado",
+      token: "terra1w8xk6rtu40st6lvl3yv7ynw5urm2n686u9cchvrzltmnktzwdesqcwy0nu",
+      icon: "https://raw.githubusercontent.com/ADO12ADO/ADO/main/asset/ADO.png",
+      decimals: 6,
+    },
+    terra1aecddsx0lvmylpzgq9le8uw4apnplhswp44vznecll6ccu044gnqsgcsga: {
       protocol: "Phoenix DAO",
       symbol: "FIRE",
       name: "Phoenix DAO Token",
