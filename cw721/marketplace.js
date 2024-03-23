@@ -23,4 +23,9 @@ module.exports = [
     link: "https://miata.io",
     icon: "https://miata.io/logo192.png",
   },
+  {
+    name: "BigBangX",
+    link: "https://bigbangx.io/",
+    icon: "https://bigbangx.io/favicon.ico"
+  },
 ];
