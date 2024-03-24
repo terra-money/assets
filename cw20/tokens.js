@@ -56,6 +56,14 @@ module.exports = {
       icon: "https://i.ibb.co/Y3dYskS/dioalma-circle-purple.png",
       decimals: 6,
     },
+    terra1ysd87nayjuelxj4wvp4wnp9as0mwszzkje6a9z6f3xx2903ghnsq4hm50y: {
+      protocol: "dioalma.protocol",
+      symbol: "ARK",
+      name: "arika",
+      token: "terra1ysd87nayjuelxj4wvp4wnp9as0mwszzkje6a9z6f3xx2903ghnsq4hm50y",
+      icon: "https://i.ibb.co/FhJm0MK/arika.png",
+      decimals: 6,
+    },
     terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k: {
       protocol: "dioalma.protocol",
       symbol: "Dinheiros",
