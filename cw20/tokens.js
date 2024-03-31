@@ -2146,6 +2146,14 @@ module.exports = {
       icon: "https://i.postimg.cc/Fz4zjgdN/20240223-200323.png",
       decimals: 8,
     },
+  terra1eh8eq60cjy997w5dc3a6exfzanlaurupav8klx7m9u9ddfgh25mqjwl5vj: {
+      protocol: "Steady Lads",
+      symbol: "LADS",
+      name: "Steady Lads",
+      token: "terra1eh8eq60cjy997w5dc3a6exfzanlaurupav8klx7m9u9ddfgh25mqjwl5vj",
+      icon: "https://assets.terra.dev/icon/svg/LADS.png",
+      decimals: 8,
+    },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
       protocol: "YFD",
