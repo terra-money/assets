@@ -10,7 +10,7 @@
   "classic": {
     "name": "classic",
     "chainID": "columbus-5",
-    "lcd": "https://lcd-terraclassic.tfl.foundation",
+    "lcd": "https://terra-classic-lcd.publicnode.com",
     "api": "https://terra-classic-public-api.publicnode.com",
     "mantle": "https://columbus-mantle.terra.dev",
     "walletconnectID": 2
