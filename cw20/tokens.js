@@ -2154,6 +2154,22 @@ module.exports = {
       icon: "https://assets.terra.dev/icon/svg/LADS.png",
       decimals: 8,
     },
+      terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882: {
+      protocol: "CatWifHat Ecosystem",
+      name: "Cat Wif Hat",
+      symbol: "CatWifHat",
+      token: "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
+      icon: "https://ibb.co/CPYx1M2",
+      decimal: 6,
+    },
+      terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs: {
+      protocol: "CatWifHat Ecosystem",
+      name: "Catnip",
+      symbol: "CNip",
+      token: "terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs",
+      icon: "https://ibb.co/jTRbrDq",
+      decimal: 6,
+    },
   testnet: {
     terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s: {
       protocol: "YFD",
