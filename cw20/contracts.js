@@ -1887,6 +1887,15 @@ module.exports = {
       name: "Terra Tritium Token",
       icon: "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
     },
+      terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs: {
+      protocol: "CatWifHat Ecosystem",
+      name: "Catnip",
+      icon: "https://ibb.co/jTRbrDq",
+    },
+    terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882: {
+      protocol: "CatWifHat Ecosystem",
+      name: "Cat Wif Hat",
+      icon: "https://ibb.co/CPYx1M2",
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
