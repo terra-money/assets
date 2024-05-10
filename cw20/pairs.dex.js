@@ -1658,6 +1658,10 @@ module.exports = {
       type: "xyk",
       assets: ["uluna", "terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00"],
     },
+      terra18f60c3xr8f4cq0u7m70gr6k8845rs4yagdtj80j8e9cyxmj7uj6shxl2e5: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs", "uluna"],
   },
   testnet: {},
 };
