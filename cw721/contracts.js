@@ -851,7 +851,7 @@ module.exports = {
       contract: "terra14rguk9lxd93lf233e7v4ukcqesc0738nu8a62e99pxrz9kn5y79qge7dv3",
       name: "Cats Wif Hats Collection 1",
       symbol: "CWHC1",
-      icon: "https://ibb.co/sj2znzv",
+      icon: "https://i.ibb.co/LS8HmHz/Stoned-Cat-1-2.jpg",
       homepage: "https://bigbangx.io/",
       marketplace: ["https://bigbangx.io/collection/lunc-cats-wif-hats-collection-1"],
     },
