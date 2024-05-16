@@ -48,6 +48,14 @@ module.exports = {
       icon: "https://orne.io/img/token_icon.png",
       decimals: 6,
     },
+    terra1ysd87nayjuelxj4wvp4wnp9as0mwszzkje6a9z6f3xx2903ghnsq4hm50y: {
+      protocol: "dioalma.protocol",
+      symbol: "ARK",
+      name: "arika",
+      token: "terra1ysd87nayjuelxj4wvp4wnp9as0mwszzkje6a9z6f3xx2903ghnsq4hm50y",
+      icon: "https://i.ibb.co/FhJm0MK/arika.png",
+      decimals: 6,
+    },
     terra1en42e2vsvtdsvrcqg5s5e5e4djejjaed6fxmvtpweg3tu33h6k5qkg9c40: {
       protocol: "dioalma.protocol",
       symbol: "AMG",
