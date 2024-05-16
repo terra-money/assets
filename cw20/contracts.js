@@ -1,5 +1,5 @@
 module.exports = {
-  mainnet:{
+  mainnet: {
     terra12mrnzvhx3rpej6843uge2yyfppfyd3u9c3uq223q8sl48huz9juqffcnhp: {
       protocol: "Wormhole",
       name: "Core Bridge",
@@ -50,12 +50,12 @@ module.exports = {
       name: "Gidorah",
       icon: "https://firebasestorage.googleapis.com/v0/b/wicca-c3bbe.appspot.com/o/app%2Fmainnet%2Ftoken%2FMIRhzK1keYKtJsRYg_oL9.jpeg?alt=media&token=5de0205f-d0f6-4a76-b765-e6dd59d7d47a",
     },
-    terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s:{
+    terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s: {
       protocol: "Luna Bird Board",
       name: "Luna Bird Token",
       icon: "https://www.lunabird.network/logo.png",
     },
-    terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2:{
+    terra1ee4g63c3sus9hnyyp3p2u3tulzdv5ag68l55q8ej64y4qpwswvus5mtag2: {
       protocol: "Lira",
       name: "Lira Token",
       icon: "https://lira.financial/images/icons/lira.svg",
@@ -69,8 +69,8 @@ module.exports = {
       protocol: "Lion Cub DAO",
       name: "Lion Cub DAO",
       icon: "https://raw.githubusercontent.com/lioncubdao/logo/main/Screenshot%202023-04-10%20115645.png",
-     },
-    
+    },
+
     terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584: {
       protocol: "BLUE CUB DAO",
       name: "BLUE CUB DAO",
@@ -96,7 +96,7 @@ module.exports = {
       name: "LUNC Burn Token",
       icon: "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
     },
-      terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3: {
+    terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3: {
       protocol: "NICO",
       name: "NICO Token",
       icon: "https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png",
@@ -1848,12 +1848,12 @@ module.exports = {
       icon: "https://lira.financial/images/icons/lira.svg",
     },
     terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf: {
-      protocol:"INTERCHAIN DAO COIN",
+      protocol: "INTERCHAIN DAO COIN",
       name: "IDC",
       icon: "https://gateway.pinata.cloud/ipfs/bafybeifpwyro73qvpsg2xulgqgkvrfbw5jtqxrkzsryq6kl3f4o23ohai4/IDC.png",
     },
     terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc: {
-      protocol:"BAZ",
+      protocol: "BAZ",
       name: "BAZ",
       icon: "https://raw.githubusercontent.com/BAZustc/BAZ-CORE/main/BAZ.png",
     },
@@ -1887,7 +1887,7 @@ module.exports = {
       name: "Terra Tritium Token",
       icon: "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
     },
-      terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs: {
+    terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs: {
       protocol: "CatWifHat Ecosystem",
       name: "Catnip",
       icon: "https://i.ibb.co/Cz2mHQ4/catnip-token.png",
@@ -1896,6 +1896,7 @@ module.exports = {
       protocol: "CatWifHat Ecosystem",
       name: "Cat Wif Hat",
       icon: "https://i.ibb.co/Drv3V8p/Lion-Cat-5.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
@@ -1907,6 +1908,6 @@ module.exports = {
       protocol: "Wormhole",
       name: "Core Bridge",
       icon: "https://assets.terra.dev/bridge/wormhole.png",
-    }
+    },
   },
 };
