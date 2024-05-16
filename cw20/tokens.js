@@ -2167,7 +2167,7 @@ module.exports = {
       name: "Cat Wif Hat",
       symbol: "CatWifHat",
       token: "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
-      icon: "https://ibb.co/CPYx1M2",
+      icon: "https://i.ibb.co/Drv3V8p/Lion-Cat-5.png",
       decimal: 6,
     },
       terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs: {
@@ -2175,7 +2175,7 @@ module.exports = {
       name: "Catnip",
       symbol: "CNip",
       token: "terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs",
-      icon: "https://ibb.co/jTRbrDq",
+      icon: "https://i.ibb.co/Cz2mHQ4/catnip-token.png",
       decimal: 6,
     },
   testnet: {
