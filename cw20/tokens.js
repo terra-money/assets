@@ -2185,7 +2185,7 @@ module.exports = {
       name: "Y-Foundry DAO",
       token: "terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s",
       icon: "https://raw.githubusercontent.com/Y-Foundry-Dao/brand-assets/main/contract/pisco-1/cw20-yfd.svg",
-      decimals: 6
+      decimals: 6,
     },
     terra1xgvp6p0qml53reqdyxgcl8ttl0pkh0n2mtx2n7tzfahn6e0vca7s0g7sg6: {
       protocol: "ERIS Protocol",
@@ -2193,6 +2193,22 @@ module.exports = {
       name: "Amplified LUNA Testnet",
       token: "terra1xgvp6p0qml53reqdyxgcl8ttl0pkh0n2mtx2n7tzfahn6e0vca7s0g7sg6",
       icon: "https://www.erisprotocol.com/assets/ampLuna100.png",
+      decimals: 6,
+    }, 
+    terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9: {
+      protocol: "FROGZTRIK ECOSYSTEM",
+      symbol: "FROG",
+      name: "Frogztrik NFT Token",
+      token: "terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9",
+      icon: "https:assets.terra.dev/icon/svg/FROG.png",
+      decimals: 6,
+    },
+    terra19gzvkw5hft3ulp8n6ws3p9yradhc802axqal59lzxau6rqxktj9q0dwf9c: {
+      protocol: "FROGZTRIK ECOSYSTEM",
+      symbol: "TADF",
+      name: "Tadpole Frogztrik Token",
+      token: "terra19gzvkw5hft3ulp8n6ws3p9yradhc802axqal59lzxau6rqxktj9q0dwf9c",
+      icon: "https:assets.terra.dev/icon/svg/tadf.png",
       decimals: 6,
     }
   },
