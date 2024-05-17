@@ -346,7 +346,7 @@ module.exports = {
       base_denom: "wusdc-gb",
       symbol: "gbUSDC",
       name: "Gravity Bridge Wrapped USDC",
-      icon: "https://assets.terra.dev/icon/svg/ibc/axlUSDC.svg",
+      icon: "https://assets.terra.dev/icon/svg/ibc/gUSDC.svg",
     },
     E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D: {
       denom: "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
@@ -409,6 +409,24 @@ module.exports = {
       name: "Axelar BNB",
       icon: "https://assets.terra.dev/icon/thorswap/BNB.svg",
       decimals: 18,
+    },
+    "2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB": {
+      denom: "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB",
+      path: "transfer/channel-253",
+      base_denom: "uusdc",
+      symbol: "USDC",
+      name: "USD Coin",
+      icon: "https://assets.terra.dev/icon/svg/ibc/USDC.svg",
+      decimals: 6,
+    },
+    "9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5": {
+      denom: "ibc/9B19062D46CAB50361CE9B0A3E6D0A7A53AC9E7CB361F32A73CC733144A9A9E5",
+      path: "transfer/channel-272",
+      base_denom: "erc20/tether/usdt",
+      symbol: "USDT",
+      name: "Tether USD",
+      icon: "https://assets.terra.dev/icon/svg/ibc/USDT.svg",
+      decimals: 6,
     },
   },
   
