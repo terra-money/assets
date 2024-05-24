@@ -2211,5 +2211,13 @@ module.exports = {
       icon: "https:assets.terra.dev/icon/svg/tadf.png",
       decimals: 6,
     },
+     terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2: {
+      protocol: "Vegas Dao Coin",
+      symbol: "VEGAS",
+      name: "Vegas Dao",
+      token: "terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2",
+      icon: "https://ibb.co/1LJDWQP",
+      decimals: 6,
+    },
   },
 };
