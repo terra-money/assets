@@ -1897,6 +1897,11 @@ module.exports = {
       name: "Cat Wif Hat",
       icon: "https://i.ibb.co/Drv3V8p/Lion-Cat-5.png",
     },
+    terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2: {
+      protocol: "Vegas Dao Coin",
+      name: "VEGAS",
+      icon: "https://ibb.co/1LJDWQP",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
