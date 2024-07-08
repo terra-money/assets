@@ -1087,6 +1087,11 @@ module.exports = {
     },
   },
   classic: {
+    terra1dyhyvp6qrdkt3pmx8ttny6rjzjh2485czxtpg704q7js2rk8esjqplgs7w: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs", "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882"],
+    },
     terra17yjncjupvk0kmpmhe6gnwny70z4zjkrn4600lpsaz7v0menddggscsvwxm: {
       dex: "terraswap",
       type: "xyk",
