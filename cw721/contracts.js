@@ -847,13 +847,13 @@ module.exports = {
       homepage: "https://www.artsyapes.com/",
       marketplace: ["https://marketplace.luart.io/collections/terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8"],
     },
-      terra14rguk9lxd93lf233e7v4ukcqesc0738nu8a62e99pxrz9kn5y79qge7dv3: {
-      contract: "terra14rguk9lxd93lf233e7v4ukcqesc0738nu8a62e99pxrz9kn5y79qge7dv3",
+      terra13c6r0mml6cv05ujh8yn7a6zx4tmg5zm4fc3vzun0l3pw2yz09qaq9jwfsj: {
+      contract: "terra13c6r0mml6cv05ujh8yn7a6zx4tmg5zm4fc3vzun0l3pw2yz09qaq9jwfsj",
       name: "Cats Wif Hats Collection 1",
       symbol: "CWHC1",
       icon: "https://i.ibb.co/LS8HmHz/Stoned-Cat-1-2.jpg",
       homepage: "https://bigbangx.io/",
-      marketplace: ["https://bigbangx.io/collection/lunc-cats-wif-hats-collection-1"],
+      marketplace: ["https://bigbangx.io/collection/lunc-cats-wif-hats-collection-1-e5azw"],
     },
   },
   testnet: {},
