@@ -49,6 +49,14 @@ module.exports = {
         "terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q",
       ],
     },
+    terra1z8r4k8r9xad049hctzcss2nek8cdugkxxmgg2q59g7dluf0qh7hsfmgfnk: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: [
+        "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
+        "terra1vj68f2ntauaj5dfvy5z4tq4we3hsyg363k63js5sae2t7th9aacqan89sr",
+      ],
+    },
     terra1eryp83n366l4583nk8ln5qv7lvdeejzsx7vekf32e6qj33cxwguqns2vxr: {
       dex: "terraswap",
       type: "xyk",
