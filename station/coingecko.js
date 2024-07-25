@@ -9,6 +9,7 @@ module.exports = {
     uatom: 'cosmos',
     ugraviton: 'graviton',
     ukuji: 'kujira',
+    ufury: 'fanfury',
     ucre: 'crescent-network',
     swth: 'switcheo',
     uhuahua: 'chihuahua-token',

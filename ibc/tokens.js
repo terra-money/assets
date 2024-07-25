@@ -261,6 +261,15 @@ module.exports = {
       icon: "https://assets.terra.dev/icon/svg/ibc/NTRN.svg",
       decimals: 6,
     },
+    "717ED17364D7D0C9F9049F1F38DCCB6C35AE67EB8199E490A4D6046B64F1B52D": {
+      denom: "ibc/717ED17364D7D0C9F9049F1F38DCCB6C35AE67EB8199E490A4D6046B64F1B52D",
+      path: "transfer/channel-495",
+      base_denom: "ufury",
+      symbol: "FURY",
+      name: "FURY",
+      icon: "https://assets.terra.dev/icon/svg/ibc/FURY.svg",
+      decimals: 6,
+    },
     "EF21BC562B7EB4D22BBF467D011E3118B7E3AD6D095000A672A9FCECA5ABCF15": {
       denom: "ibc/EF21BC562B7EB4D22BBF467D011E3118B7E3AD6D095000A672A9FCECA5ABCF15",
       path: "transfer/channel-6",
