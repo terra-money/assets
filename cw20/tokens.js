@@ -64,6 +64,14 @@ module.exports = {
       icon: "https://i.ibb.co/Y3dYskS/dioalma-circle-purple.png",
       decimals: 6,
     },
+    terra1vj68f2ntauaj5dfvy5z4tq4we3hsyg363k63js5sae2t7th9aacqan89sr: {
+      protocol: "dioalma.protocol",
+      symbol: "DANU",
+      name: "danu",
+      token: "terra1vj68f2ntauaj5dfvy5z4tq4we3hsyg363k63js5sae2t7th9aacqan89sr",
+      icon: "https://i.ibb.co/xSDv1cQ/danu-circle.png",
+      decimals: 6,
+    },
     terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k: {
       protocol: "dioalma.protocol",
       symbol: "Dinheiros",
