@@ -77,7 +77,7 @@ module.exports = {
       symbol: "Alem",
       name: "alentejo.money",
       token: "terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q",
-      icon: "https://i.ibb.co/Hr9mJGw/Alem.png",
+      icon: "https://i.ibb.co/TtVf1sS/Alem.png",
       decimals: 6,
     },
     terra1ysd87nayjuelxj4wvp4wnp9as0mwszzkje6a9z6f3xx2903ghnsq4hm50y: {
@@ -85,7 +85,7 @@ module.exports = {
       symbol: "ARK",
       name: "arika",
       token: "terra1ysd87nayjuelxj4wvp4wnp9as0mwszzkje6a9z6f3xx2903ghnsq4hm50y",
-      icon: "https://i.ibb.co/FhJm0MK/arika.png",
+      icon: "https://i.ibb.co/G7NpzBx/arika.png",
       decimals: 6,
     },
     terra1en42e2vsvtdsvrcqg5s5e5e4djejjaed6fxmvtpweg3tu33h6k5qkg9c40: {
@@ -93,7 +93,7 @@ module.exports = {
       symbol: "AMG",
       name: "almagem",
       token: "terra1en42e2vsvtdsvrcqg5s5e5e4djejjaed6fxmvtpweg3tu33h6k5qkg9c40",
-      icon: "https://i.ibb.co/Y3dYskS/dioalma-circle-purple.png",
+      icon: "https://i.ibb.co/2NFsLrS/almagem.png",
       decimals: 6,
     },
     terra1vj68f2ntauaj5dfvy5z4tq4we3hsyg363k63js5sae2t7th9aacqan89sr: {
@@ -101,7 +101,7 @@ module.exports = {
       symbol: "DANU",
       name: "danu",
       token: "terra1vj68f2ntauaj5dfvy5z4tq4we3hsyg363k63js5sae2t7th9aacqan89sr",
-      icon: "https://i.ibb.co/JvF4m4M/danu.png",
+      icon: "https://i.ibb.co/MVz5qvw/danu.png",
       decimals: 6,
     },
     terra1swzpenwh39f8aa7qht34r05f8ew6k2vehvqt2aw4fjy0fgghhheqs9l6h7: {
@@ -109,7 +109,7 @@ module.exports = {
       symbol: "TRS",
       name: "torus",
       token: "terra1swzpenwh39f8aa7qht34r05f8ew6k2vehvqt2aw4fjy0fgghhheqs9l6h7",
-      icon: "https://i.ibb.co/Rhd8C9N/trs.png",
+      icon: "https://i.ibb.co/7nLn0Gs/trs.png",
       decimals: 6,
     },
     terra1mqs6mdx0ak7qvjzs6efhg65g4j5pzwpdkcgdsv5tpekln3qhggrq3qzvdp: {
@@ -117,7 +117,7 @@ module.exports = {
       symbol: "PLASMA",
       name: "plasma",
       token: "terra1mqs6mdx0ak7qvjzs6efhg65g4j5pzwpdkcgdsv5tpekln3qhggrq3qzvdp",
-      icon: "https://i.ibb.co/Cw92h5N/plasma.png",
+      icon: "https://i.ibb.co/pbBbQD2/plasma.png",
       decimals: 6,
     },
     terra1xfkkgwxychgrnq0vcp82u32mecrzj8s64s03cxtmf46k6j2n2wssc7rzjf: {
@@ -125,7 +125,7 @@ module.exports = {
       symbol: "DMT",
       name: "dmt",
       token: "terra1xfkkgwxychgrnq0vcp82u32mecrzj8s64s03cxtmf46k6j2n2wssc7rzjf",
-      icon: "https://i.ibb.co/xj6sfY3/dmt.png",
+      icon: "https://i.ibb.co/4Mjz83Y/dmt.png",
       decimals: 6,
     },
     terra13j2k5rfkg0qhk58vz63cze0uze4hwswlrfnm0fa4rnyggjyfrcnqcrs5z2: {
