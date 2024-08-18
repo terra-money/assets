@@ -53,7 +53,7 @@ module.exports = {
       symbol: "Dinheiros",
       name: "dinheiro",
       token: "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
-      icon: "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png",
+      icon: "https://i.ibb.co/k6WkMhZ/Dinheiros.png",
       decimals: 0,
     },
     terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8: {
@@ -61,7 +61,7 @@ module.exports = {
       symbol: "Reis",
       name: "real",
       token: "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8",
-      icon: "https://static.wixstatic.com/media/1e62a0_89af25478e5144089de9292b990493e2~mv2.png",
+      icon: "https://i.ibb.co/t8FNvSV/Reis.png",
       decimals: 6,
     },
     terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg: {
@@ -69,7 +69,7 @@ module.exports = {
       symbol: "Escudos",
       name: "escudo",
       token: "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
-      icon: "https://static.wixstatic.com/media/1e62a0_37bd3a14b88646f987919ec4ea30533c~mv2.png",
+      icon: "https://i.ibb.co/mSfc6b9/Escudos.png",
       decimals: 6,
     },
     terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q: {
