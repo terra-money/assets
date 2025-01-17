@@ -2211,5 +2211,13 @@ module.exports = {
       icon: "https:assets.terra.dev/icon/svg/tadf.png",
       decimals: 6,
     },
+    terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz: {
+      protocol: "ALPHA LUNC UNIVERSE",
+      symbol: "ALPHA",
+      name: "ALPHA",
+      token: "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+      icon: "https://i.ibb.co/3ytCxdy/alpha-130-min.png",
+      decimals: 6,
+    },
   },
 };
