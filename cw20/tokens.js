@@ -2211,5 +2211,21 @@ module.exports = {
       icon: "https:assets.terra.dev/icon/svg/tadf.png",
       decimals: 6,
     },
+     terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2: {
+      protocol: "vegas",
+      symbol: "Vegas",
+      name: "vegas protocol",
+      token: "terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2",
+      icon: "https://ibb.co/PvbyBCxL",
+      decimals: 6,
+    },
+     terra1v0z94pr8ynzq8zmuyv3j0eraqjs4m5zpm4ptgru459y5fye2at7q0e4jtd: {
+      protocol: "selenium.finance",
+      symbol: "sele",
+      name: "selenium protocol",
+      token: "terra1v0z94pr8ynzq8zmuyv3j0eraqjs4m5zpm4ptgru459y5fye2at7q0e4jtd",
+      icon: "https://ibb.co/mx7RcV3",
+      decimals: 6,
+    },
   },
 };
