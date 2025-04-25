@@ -1087,6 +1087,16 @@ module.exports = {
     },
   },
   classic: {
+    terra1t6y72szcu0u8qfepc49rl5hcfemdds69mkakldudrme2q2crnhmqyuffcd: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uluna", "terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2"],
+    },
+    terra1dv0lt0myfg782n8xkpyszul2y80qfyesvaqzf85ryz009jjulhlqqsh070: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uluna", "terra1v0z94pr8ynzq8zmuyv3j0eraqjs4m5zpm4ptgru459y5fye2at7q0e4jtd"],
+    },
     terra17yjncjupvk0kmpmhe6gnwny70z4zjkrn4600lpsaz7v0menddggscsvwxm: {
       dex: "terraswap",
       type: "xyk",
