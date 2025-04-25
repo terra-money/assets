@@ -2216,7 +2216,7 @@ module.exports = {
       symbol: "Vegas",
       name: "vegas protocol",
       token: "terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2",
-      icon: "https://ibb.co/PvbyBCxL",
+      icon: "https://i.ibb.co/hxGPBXrY/vegalogo.jpg",
       decimals: 6,
     },
      terra1v0z94pr8ynzq8zmuyv3j0eraqjs4m5zpm4ptgru459y5fye2at7q0e4jtd: {
@@ -2224,7 +2224,7 @@ module.exports = {
       symbol: "sele",
       name: "selenium protocol",
       token: "terra1v0z94pr8ynzq8zmuyv3j0eraqjs4m5zpm4ptgru459y5fye2at7q0e4jtd",
-      icon: "https://ibb.co/mx7RcV3",
+      icon: "https://i.ibb.co/zWVfLFx3/Tqyj-N0s-Z-400x400.jpg",
       decimals: 6,
     },
   },
