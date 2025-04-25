@@ -1897,6 +1897,11 @@ module.exports = {
       name: "Cat Wif Hat",
       icon: "https://i.ibb.co/Drv3V8p/Lion-Cat-5.png",
     },
+    terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz: {
+      protocol: "ALPHA LUNC UNIVERSE",
+      name: "ALPHA",
+      icon: "https://i.ibb.co/3ytCxdy/alpha-130-min.png",
+    }
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
