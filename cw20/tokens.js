@@ -2216,7 +2216,8 @@ module.exports = {
       symbol: "ALPHA",
       name: "ALPHA",
       token: "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
-      icon: "https://i.ibb.co/3ytCxdy/alpha-130-min.png",
+      icon: "https://i.ibb.co/3ytCxdy/alpha-130-min.png"
+    },
      terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2: {
       protocol: "vegas",
       symbol: "Vegas",
