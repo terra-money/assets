@@ -1659,7 +1659,17 @@ module.exports = {
       dex: "terraswap",
       type: "xyk",
       assets: ["terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz", "uusd"],
-    }
+    },
+    terra1ht0fuwnurs5afln8u36nkjsdy4zcmuv3hnre54rgy2lf9286fxtqsaf4yu: {
+      dex: "terraport",
+      type: "xyk",
+      assets: ["terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt", "uluna"],
+    },
+     terra1a63458gqlpsj5pza0csr09230cljc74acygxhf04lys05nryepeqv67uzp: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt", "uluna"],
+    },
   },
   testnet: {},
 };
