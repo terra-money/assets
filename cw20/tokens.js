@@ -2233,5 +2233,13 @@ module.exports = {
       icon: "https://i.ibb.co/zWVfLFx3/Tqyj-N0s-Z-400x400.jpg",
       decimals: 6,
     },
+    terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt: {
+      protocol: "FRG UNIVERSE",
+      symbol: "FRG",
+      name: "FRG UNIVERSE",
+      token: "terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt",
+      icon: "https://i.ibb.co.com/Kx6hv5jc/FRG-LOGO.jpg",
+      decimals: 6,
+    },
   },
 };
