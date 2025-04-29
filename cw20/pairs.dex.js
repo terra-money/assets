@@ -1659,6 +1659,11 @@ module.exports = {
       dex: "terraswap",
       type: "xyk",
       assets: ["terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz", "uusd"],
+    },
+        terra1tafq7l35cjapjk0j70468nfmztm36k73hr3wenrjam7wpk6l6nnqryq4de: {
+      dex: "terraport",
+      type: "xyk",
+      assets: ["terra1v0z94pr8ynzq8zmuyv3j0eraqjs4m5zpm4ptgru459y5fye2at7q0e4jtd", "uluna"],
     }
   },
   testnet: {},
