@@ -1901,6 +1901,16 @@ module.exports = {
       protocol: "ALPHA LUNC UNIVERSE",
       name: "ALPHA",
       icon: "https://i.ibb.co/3ytCxdy/alpha-130-min.png",
+    },
+    terra1v0z94pr8ynzq8zmuyv3j0eraqjs4m5zpm4ptgru459y5fye2at7q0e4jtd: {
+      protocol: "Selenium",
+      name: "SELE",
+      icon: "https://i.ibb.co/zWVfLFx3/Tqyj-N0s-Z-400x400.jpg",
+    },
+    terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2: {
+      protocol: "Vegas Protocol",
+      name: "Vegas",
+      icon: "https://i.ibb.co/hxGPBXrY/vegalogo.jpg",
     }
   },
   testnet: {
