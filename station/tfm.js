@@ -57,5 +57,7 @@ module.exports = {
 	// terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp: "terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp", // bLuna
 	// terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76: "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76", // ANC
 	// terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu: "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu", // aUST
+        // terra1sqkdmckn2h4xh50rwem707yl3utrwmp9drte9dzg8ufny3yatceq3tu4gt: "terra1sqkdmckn2h4xh50rwem707yl3utrwmp9drte9dzg8ufny3yatceq3tu4gt", // HANDS
+
 
 }
