@@ -1914,5 +1914,10 @@ module.exports = {
       name: "Core Bridge",
       icon: "https://assets.terra.dev/bridge/wormhole.png",
     },
+    terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt: {
+      protocol: "FRG UNIVERSE",
+      name: "FRG",
+      icon: "https://i.ibb.co.com/Kx6hv5jc/FRG-LOGO.jpg",
+    },
   },
 };
