@@ -1894,7 +1894,7 @@ module.exports = {
     },
     terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882: {
       protocol: "CatWifHat Ecosystem",
-      name: "Cat Wif Hat",
+      name: "CatWifHat",
       icon: "https://i.ibb.co/Drv3V8p/Lion-Cat-5.png",
     },
     terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz: {
