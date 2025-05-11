@@ -2243,5 +2243,13 @@ module.exports = {
       icon: "https://i.ibb.co.com/Kx6hv5jc/FRG-LOGO.jpg",
       decimals: 6,
     },
+    terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt: {
+      protocol: "CLASSIC BEAN",
+      symbol: "COFFEE",
+      name: "COFFEE TOKEN",
+      token: "terra19eytmx0yd3m5udlv7rh6u429g6ddjm2cndwv5cxndcymrztx4krqz9p4t6",
+      icon: "https://i.ibb.co/Z63cbqDM/Garuda-67.png",
+      decimals: 6,
+    },
   },
 };
