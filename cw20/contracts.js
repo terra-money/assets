@@ -1929,5 +1929,10 @@ module.exports = {
       name: "FRG",
       icon: "https://i.ibb.co.com/Kx6hv5jc/FRG-LOGO.jpg",
     },
+    terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt: {
+      protocol: "CLASSIC BEAN",
+      name: "COFFEE",
+      icon: "https://i.ibb.co/Z63cbqDM/Garuda-67.png",
+    },
   },
 };
