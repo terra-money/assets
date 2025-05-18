@@ -410,6 +410,15 @@ module.exports = {
       icon: "https://assets.terra.dev/icon/thorswap/BNB.svg",
       decimals: 18,
     },
+    "0BB9D8513E8E8E9AE6A9D211D9136E6DA42288DDE6CFAA453A150A4566054DC5": {
+      denom: "ibc/0BB9D8513E8E8E9AE6A9D211D9136E6DA42288DDE6CFAA453A150A4566054DC5",
+      path: "transfer/channel-19",
+      base_denom: "uusdc",
+      symbol: "USDC",
+      name: "Noble USDC",
+      icon: "https://assets.terra.dev/svg/ibc/noble-usdc.svg",
+      decimals: 6,
+    },
   },
   
   testnet: {
