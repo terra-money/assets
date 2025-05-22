@@ -16,6 +16,14 @@ module.exports = {
       icon: "https://assets.terra.dev/icon/svg/FIRE.png",
       decimals: 6,
     },
+    terra1sqkdmckn2h4xh50rwem707yl3utrwmp9drte9dzg8ufny3yatceq3tu4gt: {
+      protocol: "DIAMOND HANDS DAO",
+      symbol: "HANDS",
+      name: "HANDS",
+      token: "terra1sqkdmckn2h4xh50rwem707yl3utrwmp9drte9dzg8ufny3yatceq3tu4gt",
+      icon: "https://github.com/sk3ngy/Terra-Money-assets/blob/445630d7c8b02397d05ddd922eb2d799856fb173/icon/svg/Diamond%20Hands.PNG",
+      decimals: 6,
+    },
     terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn: {
       protocol: "TheOnlyOne DAO",
       symbol: "xxx",
