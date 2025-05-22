@@ -89,6 +89,54 @@ module.exports = {
         "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8",
       ],
     },
+    terra14etv2zm8p0d88qzaz7xkplgf8h8gf7pa5jfym7p2q6p5q7hufjgqc8j7v7: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: [
+        "terra1en42e2vsvtdsvrcqg5s5e5e4djejjaed6fxmvtpweg3tu33h6k5qkg9c40",
+        "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
+      ],
+    },
+    terra1vs6ywu3h37353a0mtjdjsv4w4cv3ejzlhplj8qdd5suhqrhdwn4qafymj3: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: [
+        "terra1ysd87nayjuelxj4wvp4wnp9as0mwszzkje6a9z6f3xx2903ghnsq4hm50y",
+        "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
+      ],
+    },
+    terra1z8r4k8r9xad049hctzcss2nek8cdugkxxmgg2q59g7dluf0qh7hsfmgfnk: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: [
+        "terra1vj68f2ntauaj5dfvy5z4tq4we3hsyg363k63js5sae2t7th9aacqan89sr",
+        "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
+      ],
+    },
+    terra1tn0mt9fy32p6z6xu52j5vm5wxh3aetc5nw242unrlymxtrr28qlssw092z: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: [
+        "terra1swzpenwh39f8aa7qht34r05f8ew6k2vehvqt2aw4fjy0fgghhheqs9l6h7",
+        "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
+      ],
+    },
+    terra1pz24phpymvca78rxg4zwmdx8rsatnveyklk4mdccukvw7wegjfjsjjh07z: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: [
+        "terra1xfkkgwxychgrnq0vcp82u32mecrzj8s64s03cxtmf46k6j2n2wssc7rzjf",
+        "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
+      ],
+    },
+    terra1qzu6nc3qq5c7ev4skn4tx8zxv3gjylkvrawpdn8zjpwr6pzslmjs07uf04: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: [
+        "terra1mqs6mdx0ak7qvjzs6efhg65g4j5pzwpdkcgdsv5tpekln3qhggrq3qzvdp",
+        "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
+      ],
+    },
     terra17neqggggg4rlwh2ksk0ys8hjtxapfa4n0k5ppclw9arnh3cez93qkh4xyp: {
       dex: "terraswap",
       type: "xyk",
