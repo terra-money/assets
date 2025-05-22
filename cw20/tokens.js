@@ -436,6 +436,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/ITO1201/ITO/main/data/I.png",
       decimals: 6,
     },
+    terra1jtrptenty4zxpvlupvpe43fk3xdzm4s4d4n7yfzdkn667xvw8nhsxlmnq3: {
+      protocol: "Winnie the Pooh",
+      symbol: "HOONEY",
+      name: "Winnie the Pooh",
+      token: "terra1jtrptenty4zxpvlupvpe43fk3xdzm4s4d4n7yfzdkn667xvw8nhsxlmnq3",
+      icon: "https://github.com/hooneymeme/astroport-token-lists/blob/47044577eadfa4830deccfd32ff0f8744887822b/img/hooney.png?raw=true",
+      decimals: 6,
+    },
   },
   classic: {
     terra1jx9vy3egyzdhl5yj8994hv928ef70gzk9cj8htq9wc5wxl36rvfqqn4vu2: {
