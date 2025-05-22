@@ -2240,7 +2240,7 @@ module.exports = {
       symbol: "FRG",
       name: "FRG UNIVERSE",
       token: "terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt",
-      icon: "https://i.ibb.co.com/Kx6hv5jc/FRG-LOGO.jpg",
+      icon: "https://i.ibb.co/Kx6hv5jc/FRG-LOGO.jpg",
       decimals: 6,
     },
   },
