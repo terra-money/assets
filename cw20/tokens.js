@@ -2163,8 +2163,8 @@ module.exports = {
     },
     terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882: {
       protocol: "CatWifHat Ecosystem",
-      name: "Cat Wif Hat",
-      symbol: "CatWifHat",
+      name: "CatWifHat",
+      symbol: "CWH",
       token: "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
       icon: "https://i.ibb.co/Drv3V8p/Lion-Cat-5.png",
       decimal: 6,
@@ -2172,7 +2172,7 @@ module.exports = {
     terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs: {
       protocol: "CatWifHat Ecosystem",
       name: "Catnip",
-      symbol: "CNip",
+      symbol: "Catnip",
       token: "terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs",
       icon: "https://i.ibb.co/Cz2mHQ4/catnip-token.png",
       decimal: 6,
