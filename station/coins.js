@@ -108,6 +108,15 @@ module.exports = {
         chains: [chains.terra],
         decimals: 6,
     },
+    // FURY on Terra
+    'ibc/717ED17364D7D0C9F9049F1F38DCCB6C35AE67EB8199E490A4D6046B64F1B52D': {
+        token: 'ufury',
+        symbol: 'FURY',
+        name: 'Furya',
+        icon: 'https://assets.terra.dev/icon/svg/ibc/FURY.svg',
+        chains: [chains.terra],
+        decimals: 6,
+    },
     // axelar tokens on Terra
     'ibc/2E435CEEEBA18CCB2719E0182BC5D142A364D6CCE9957DE6E1AC4D62127D2913': {
         token: 'frax-wei',
