@@ -2243,5 +2243,13 @@ module.exports = {
       icon: "https://i.ibb.co.com/Kx6hv5jc/FRG-LOGO.jpg",
       decimals: 6,
     },
+    terra17hnu4prwa3varxrws0sy9hffkmqv8tfmfpldg4e9fq58flrmuz2qlhymr5: {
+      protocol: "Greenfriendly",
+      symbol: "GFT",
+      name: "Greenfriendly Token",
+      token: "terra17hnu4prwa3varxrws0sy9hffkmqv8tfmfpldg4e9fq58flrmuz2qlhymr5",
+      icon: "https://i.ibb.co/Y4x2PYdd/greenfriendlylabs.png",
+      decimals: 6,
+    },
   },
 };
